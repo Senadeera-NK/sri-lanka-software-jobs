@@ -19,6 +19,16 @@
 3. **Automation:** Runs every 24 hours via **GitHub Actions**.
 4. **Storage:** Updates this `README.md` and a `jobs.json` file automatically.
 
+<details>
+<summary><b>📂 View Project Structure</b></summary>
+
+```text
+src/main/java/lk/jobs/
+├── engine/           # Logic for sorting, cleaning, and README updates
+├── model/            # Data models (Job Record)
+├── scrapers/         # Individual site scrapers (Strategy Pattern)
+└── utils/            # JSON and Date parsing utilities
+
 ## 🚀 Usage
 If you want to run the scraper locally:
 1. Clone the repo.

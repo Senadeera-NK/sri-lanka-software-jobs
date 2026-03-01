@@ -40,5 +40,5 @@ Contributions are what make the open-source community such an amazing place to l
 Any contributions you make are **greatly appreciated**.
 
 * **Found a bug?** Open an [Issue](https://github.com/Senadeera-NK/sl-software-engineering-jobs/issues).
-* **Want to add a new site?** Check out our [Contributing Guidelines](CONTRIBUTING.md).
+* **Want to add a new site?** Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how to implement a new scraper.
 * **Missing a job?** Feel free to submit a Pull Request to manually update the table!

@@ -4,10 +4,12 @@
 [![Daily Update](https://github.com/Senadeera-NK/sl-software-engineering-jobs/actions/workflows/scrape.yml/badge.svg)](https://github.com/Senadeera-NK/sl-software-engineering-jobs/actions)
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 2, 2026 | **Total Jobs Found:** 3
+> 🟢 **Last Updated:** March 2, 2026 | **Total Jobs Found:** 5
 
 | Title | Company | Level |  Source | Posted | Link |
 | :--- | :--- | :--- |  :--- | :--- | :--- |
+| Senior Technical Writer | VitalHub Innovations Lab | Senior | ITPro.lk | 14 hours ago | [View](https://itpro.lk/job/13178/senior-technical-writer-at-vitalhub-innovations-lab/) |
+| Technical Sales Professional | Pinnacle Distribution Lanka (Pvt) Ltd | Junior/SE | ITPro.lk | 14 hours ago | [View](https://itpro.lk/job/13170/technical-sales-professional-at-pinnacle-distribution-lanka-pvt-ltd/) |
 | Software Engineering Intern (Non-paid) | Panhinda Solutions | Intern | ITPro.lk | 14 hours ago | [View](https://itpro.lk/job/13174/software-engineering-intern-nonpaid-at-panhinda-solutions/) |
 | QA Engineer (Manual + Automation) | Pasovit Technologies Private Limited | Junior/SE | ITPro.lk | 14 hours ago | [View](https://itpro.lk/job/13173/qa-engineer-manual-automation-at-pasovit-technologies-private-limited/) |
 | Senior QA Engineer | BISTEC Global | Senior | ITPro.lk | 14 hours ago | [View](https://itpro.lk/job/13172/senior-qa-engineer-at-bistec-global/) |

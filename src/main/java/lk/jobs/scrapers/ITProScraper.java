@@ -27,7 +27,7 @@ public class ITProScraper implements JobScraper {
         List<Job> jobs = new ArrayList<>();
         try(HttpClient client = HttpClient.newHttpClient()){
             HttpRequest request = HttpRequest.newBuilder()
-                    .uri(URI.create(apiUrl + "?action=getJobs&response=json&count=50"))
+                    .uri(URI.create(apiUrl + "?action=getJobs&response=json&count=500&category=21"))
                     .header("Accept","application/json")
                     .build();
 
@@ -54,8 +54,8 @@ public class ITProScraper implements JobScraper {
                     String jobUrl = "https://itpro.lk/job/" + id + "/" + slug + "/";
 
                     // Fixed the date logic
-                    String rawDate = node.has("posted_date")
-                            ? node.path("posted_date").asText()
+                    String rawDate = node.has("created_on")
+                            ? node.path("created_on").asText()
                             : LocalDate.now().toString();
 
                     String level = determineLevel(title);

@@ -61,7 +61,7 @@ src/main/java/lk/jobs/
 ├── model/            # Data models (Job Record)
 ├── scrapers/         # Individual site scrapers
 └── utils/            # JSON and Date parsing utilities
-
+```
 ## 🚀 Usage
 If you want to run the scraper locally:
 1. Clone the repo.

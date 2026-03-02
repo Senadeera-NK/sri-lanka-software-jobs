@@ -14,7 +14,7 @@
 ## 🛠️ How it Works
 1. **Engine:** A Java 21 console application using **Jsoup**.
 2. **Sources:** Scrapes `TopJobs.lk`, `ITPro.lk`, and `Rooster.jobs`.
-3. **Automation:** Runs every 24 hours via **GitHub Actions**.
+3. **Automation:** Runs every 12 hours via **GitHub Actions**.
 4. **Storage:** Updates this `README.md` and a `jobs.json` file automatically.
 
 <details>
@@ -31,7 +31,7 @@ src/main/java/lk/jobs/
 If you want to run the scraper locally:
 1. Clone the repo.
 2. Ensure you have **JDK 21** and **Maven** installed.
-3. Run: `mvn clean install` then `mvn exec:java -Dexec.mainClass="lk.jobs.ScraperEngine"`
+3. Run: mvn clean compile exec:java -Dexec.mainClass="lk.jobs.engine.ScraperManager"
 
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.

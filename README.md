@@ -7,11 +7,9 @@
 ## 📊 Current Job Openings
 > 🟢 **Last Updated:** March 1, 2026 | **Total Jobs Found:** 42
 
-| Title | Company | Type | Posted | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| Intern Software Engineer | WSO2 | Internship | 1d ago | [View](https://example.com) |
-| Associate SE (Java) | LSEG | Full-time | Today | [View](https://example.com) |
-| Junior QA Engineer | Sysco LABS | Full-time | 2d ago | [View](https://example.com) |
+| Title | Company | Level | Exp | Source | Posted | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+... data ...
 
 ## 🛠️ How it Works
 1. **Engine:** A Java 21 console application using **Jsoup**.

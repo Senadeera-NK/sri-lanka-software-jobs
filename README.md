@@ -63,6 +63,7 @@ src/main/java/lk/jobs/
 └── utils/            # JSON and Date parsing utilities
 ```
 </details>
+
 ## 🚀 Usage
 If you want to run the scraper locally:
 1. Clone the repo.

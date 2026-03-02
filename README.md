@@ -1,4 +1,4 @@
-# 🇱🇰 sl-software-engineering-jobs
+# 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker
 🚀 Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
 
 

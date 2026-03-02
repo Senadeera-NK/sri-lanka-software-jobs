@@ -21,7 +21,7 @@ jobs:
           cache: 'maven'
 
       - name: Build and Run Scraper
-        run: mvn clean compile exec:java -Dexec.mainClass="lk.job.engine.ScraperManager"
+        run: mvn clean compile exec:java -Dexec.mainClass="lk.jobs.engine.ScraperManager"
 
       - name: Commit and Push Changes
         run: |

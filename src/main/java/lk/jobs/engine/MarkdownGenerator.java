@@ -54,21 +54,24 @@ public class MarkdownGenerator {
 
     private String generateTable(List<Job> jobs) {
         StringBuilder sb = new StringBuilder();
-        sb.append("| Title | Company | Level  | Posted | Link |\n");
+        sb.append("| Title | Company | Level  | Posted | Source |\n");
         sb.append("| :--- | :--- | :--- | :--- | :--- |\n");
 
         for (Job job : jobs) {
             String relativeDate = TimeUtils.getRelativeTime(job.datePosted());
             String nonBreakingDate = relativeDate.replace(" ", "&nbsp;");
+            String linkedTitle = String.format("[%s (%s)](%s)",
+                    job.title(),
+                    job.source(),
+                    job.link());
 
             String lintText = job.source();
-            sb.append(String.format("| %s | %s | %s | %s | [%s](%s) |\n",
-                    job.title(),
+            sb.append(String.format("| %s | %s | %s | %s | %s |\n",
+                    linkedTitle,
                     job.company(),
                     job.level(),
                     nonBreakingDate,
-                    lintText,
-                    job.link()
+                    job.source()
             ));
         }
         return sb.toString();

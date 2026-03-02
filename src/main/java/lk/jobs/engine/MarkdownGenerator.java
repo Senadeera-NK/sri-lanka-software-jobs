@@ -9,6 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -28,8 +29,10 @@ public class MarkdownGenerator {
             String content = Files.readString(path, StandardCharsets.UTF_8);
 
             String newTable = generateTable(jobs);
-            String timestamp = LocalDate.now().format(DateTimeFormatter.ofPattern("MMMM d, yyyy"));
-            String metaInfo = "> 🟢 **Last Updated:** " + timestamp + " | **Total Jobs Found:** " + jobs.size() + "\n\n";
+            LocalDateTime now = LocalDateTime.now();
+            String absoluteTime = now.format(DateTimeFormatter.ofPattern("MMMM d,h:mm a"));
+            String relativeTime = TimeUtils.getRelativeTime(now);
+            String metaInfo = "> 🟢 **Last Updated:** " + absoluteTime + " ("+relativeTime+") "+" | **Total Jobs Found:** " + jobs.size() + "\n\n";
 
             // 2. Prepare the replacement block
             String replacementBlock = START_MARKER + "\n" + metaInfo + newTable + "\n" + END_MARKER;
@@ -41,10 +44,10 @@ public class MarkdownGenerator {
             String updatedContent = content.replaceFirst(patternString, Matcher.quoteReplacement(replacementBlock));
 
             Files.writeString(path, updatedContent, StandardCharsets.UTF_8);
-            System.out.println("📝 README.md updated successfully!");
+            System.out.println("README.md updated successfully!");
 
         } catch (IOException e) {
-            System.err.println("❌ Error updating README: " + e.getMessage());
+            System.err.println("Error updating README: " + e.getMessage());
             e.printStackTrace();
         }
     }

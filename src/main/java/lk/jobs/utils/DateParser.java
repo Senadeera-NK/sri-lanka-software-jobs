@@ -9,55 +9,51 @@ import java.util.regex.Pattern;
 
 public class DateParser {
     public static LocalDateTime parseDate(String dateStr) {
-        if (dateStr == null || dateStr.isEmpty()) {
-            return LocalDate.now().atStartOfDay();
-        }
-
+        if (dateStr == null || dateStr.isEmpty()) return LocalDateTime.now();
         String input = dateStr.toLowerCase().trim();
+        System.out.println("input:"+input);
         LocalDateTime now = LocalDateTime.now();
 
-        //handle hours ago
-        Pattern hourPattern = Pattern.compile("(\\d+)\\s+hours?\\s+ago");
-        Matcher hourMatcher = hourPattern.matcher(input);
-        if(hourMatcher.find()){
-            return now.minusHours(Integer.parseInt(hourMatcher.group(1)));
+        // 1. Check if it's already an ISO string (from our JSON)
+        if (input.contains("t") && input.length() > 10) {
+            try { return LocalDateTime.parse(dateStr); } catch (Exception e) {}
         }
-        // 1. Handle "Today" or "Just now"
-        if (input.contains("today") || input.contains("now")) {
-            return now;
-        }
-
-        // 2. Handle "Yesterday"
-        if (input.contains("yesterday")) {
-            return now.minusDays(1);
-        }
-
-        // 3. Handle relative "X days ago" or "X weeks ago"
-        // Regex looks for a number followed by 'day' or 'week'
-        Pattern relativePattern = Pattern.compile("(\\d+)\\s+(minute|hour|day|week|month)s?\\s+ago");
-        Matcher matcher = relativePattern.matcher(input);
-
-        if (matcher.find()) {
-            int amount = Integer.parseInt(matcher.group(1));
-            String unit = matcher.group(2);
-
+        // 2. Handle relative strings (X days ago)
+        Pattern p = Pattern.compile("(\\d+)\\s+(minute|hour|day|week|month)s?\\s+ago");
+        Matcher m = p.matcher(input);
+        if (m.find()) {
+            int amt = Integer.parseInt(m.group(1));
+            String unit = m.group(2);
             return switch (unit) {
-                case "day" -> now.minusDays(amount);
-                case "week" -> now.minusWeeks(amount);
-                case "month" -> now.minusMonths(amount);
+                case "minute" -> now.minusMinutes(amt);
+                case "hour" -> now.minusHours(amt);
+                case "day" -> now.minusDays(amt).withHour(12).withMinute(0);
+                case "week" -> now.minusWeeks(amt).withHour(12).withMinute(0);
                 default -> now;
             };
         }
 
-        // 4. Fallback to Absolute Date Formats
-        // In DateParser.java fallback (Step 4)
+        // 3. Handle Absolute Dates (e.g., "28 Feb 2026" or "02 Mar 2026")
         try {
-            DateTimeFormatter itproFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
-            return LocalDateTime.parse(dateStr, itproFormatter);
+            // Common format for ITPro and others
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.ENGLISH);
+            LocalDate parsedDate = LocalDate.parse(dateStr, formatter);
+
+            // If it's today, return now to keep the "mins ago" fresh
+            if (parsedDate.equals(LocalDate.now())) {
+                return now;
+            }
+            // Otherwise return Noon on that day for a clean "X days ago" display
+            return parsedDate.atTime(12, 0);
         } catch (Exception e) {
-            // If it's just a date without time
-            try { return LocalDate.parse(dateStr).atStartOfDay(); }
-            catch (Exception e2) { return now; }
+            // Last resort: standard ISO date yyyy-MM-dd
+            try {
+                return LocalDate.parse(dateStr).atTime(12, 0);
+            } catch (Exception e2) {
+                System.err.println("⚠️ Could not parse date: [" + dateStr + "]. Defaulting to now.");
+                return now;
+            }
         }
+
     }
 }

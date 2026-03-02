@@ -14,9 +14,7 @@ public record Job (
         LocalDate scrapedDate //today's date(when the bot found it)
 ){
     public String id(){
-        String raw = company+"-"+title+"-"+source+"-"+datePosted;
-        return raw.toLowerCase().
-                replace(" ","-")
+        return (company + title + source).toLowerCase()
                 .replaceAll("[^a-z0-9]", "");
     }
 }

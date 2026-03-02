@@ -25,55 +25,71 @@ public class ITProScraper implements JobScraper {
     @Override
     public List<Job> scrape() {
         List<Job> jobs = new ArrayList<>();
-        try(HttpClient client = HttpClient.newHttpClient()){
-            HttpRequest request = HttpRequest.newBuilder()
-                    .uri(URI.create(apiUrl + "?action=getJobs&response=json&count=500&category=21"))
-                    .header("Accept","application/json")
-                    .build();
+        int[] techCategoryIds = {21, 35, 38, 39, 42};
+        int daysBehind = 15;
 
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-            JsonNode root = mapper.readTree(response.body());
+        for (int catId : techCategoryIds) {
+            try {
+                String finalUrl = apiUrl.trim() + "?action=getJobs&category=" + catId +
+                        "&days_behind=" + daysBehind + "&random=0&type=0&response=json";
 
-            // Check if root is an array before looping
-            if (root.isArray()) {
-                for(JsonNode node : root){
-                    //System.out.println("JSON Node: " + node.toString());
-                    // .path() is safer than .get()
-                    String id = node.path("id").asText();
-                    String title = node.path("title").asText("Unknown Title");
-                    String company = node.path("company").asText("Unknown Company");
+                java.net.URL url = new java.net.URL(finalUrl);
+                java.net.HttpURLConnection conn = (java.net.HttpURLConnection) url.openConnection();
 
-                    // 1. Create a URL-friendly slug (lowercase, replace spaces/special chars with hyphens)
-                    // We combine title + " at " + company to match ITPro's format
-                    String combined = title + " at " + company;
-                    String slug = combined.toLowerCase()
-                            .replaceAll("[^a-z0-9\\s]", "") // Remove special characters
-                            .replaceAll("\\s+", "-");        // Replace spaces with hyphens
+                // Set headers manually to mimic a high-authority browser request
+                conn.setRequestMethod("GET");
+                conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36");
+                conn.setRequestProperty("Accept", "application/json, text/javascript, */*; q=0.01");
+                conn.setRequestProperty("Referer", "https://itpro.lk/");
+                conn.setRequestProperty("X-Requested-With", "XMLHttpRequest");
 
-                    // 2. Construct the full URL
-                    String jobUrl = "https://itpro.lk/job/" + id + "/" + slug + "/";
-
-                    // Fixed the date logic
-                    String rawDate = node.has("created_on")
-                            ? node.path("created_on").asText()
-                            : LocalDate.now().toString();
-
-                    String level = determineLevel(title);
-
-                    jobs.add(new Job(
-                            title,
-                            company,
-                            level,
-                            getSourceName(),
-                            jobUrl,
-                            DateParser.parseDate(rawDate),
-                            LocalDate.now()
-                    ));
+                java.io.BufferedReader in = new java.io.BufferedReader(new java.io.InputStreamReader(conn.getInputStream()));
+                StringBuilder content = new StringBuilder();
+                String inputLine;
+                while ((inputLine = in.readLine()) != null) {
+                    content.append(inputLine);
                 }
+                in.close();
+
+                String rawBody = content.toString().trim();
+
+                // DETOX: Extract the JSON array inside var jobs = [...]
+                String jsonOnly = rawBody;
+                if (jsonOnly.contains("[")) {
+                    jsonOnly = jsonOnly.substring(jsonOnly.indexOf("["), jsonOnly.lastIndexOf("]") + 1);
+                }
+
+                if (jsonOnly.startsWith("<")) {
+                    System.err.println("Cat " + catId + " still blocked by HTML documentation.");
+                    continue;
+                }
+
+                JsonNode root = mapper.readTree(jsonOnly);
+                if (root.isArray()) {
+                    for (JsonNode node : root) {
+                        String title = node.path("title").asText();
+                        String company = node.path("company").asText();
+                        String id = node.path("id").asText();
+                        String createdOn = node.path("created_on").asText();
+                        System.out.println("create on:"+createdOn);
+
+                        String slug = (title + " at " + company).toLowerCase()
+                                .replaceAll("[^a-z0-9\\s]", "")
+                                .replaceAll("\\s+", "-");
+                        String jobUrl = "https://itpro.lk/job/" + id + "/" + slug + "/";
+
+                        jobs.add(new Job(
+                                title, company, determineLevel(title),
+                                getSourceName(), jobUrl,
+                                DateParser.parseDate(createdOn),
+                                LocalDate.now()
+                        ));
+                    }
+                    System.out.println("Cat " + catId + " Success: Found " + root.size() + " jobs.");
+                }
+            } catch (Exception e) {
+                System.err.println("Error on Cat " + catId + ": " + e.getMessage());
             }
-        } catch(Exception e) {
-            // This will now give us more detail if it fails
-            e.printStackTrace();
         }
         return jobs;
     }

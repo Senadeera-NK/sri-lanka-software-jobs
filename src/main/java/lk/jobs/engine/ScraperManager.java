@@ -29,19 +29,24 @@ public class ScraperManager {
             System.out.println("🔍 Scraping: " + scraper.getSourceName());
             allNewJobs.addAll(scraper.scrape());
         }
+        //loading hsitory data from json
+        List<Job> existingHistory = jsonStore.load();
+
+        //combining all into one master list
+        List<Job> masterList = new ArrayList<>(existingHistory);
+        masterList.addAll(allNewJobs);
 
         // 3. Clean the NEW data first
-        List<Job> cleanedNewJobs = dataCleaner.clean(allNewJobs);
+        List<Job> finalCleanedList = dataCleaner.clean(masterList);
 
         // 4. Merge the CLEANED data with the existing store
-        System.out.println("💾 Merging and saving " + cleanedNewJobs.size() + " new jobs...");
-        jsonStore.saveAndMerge(cleanedNewJobs);
+        System.out.println("Merging and saving " + finalCleanedList.size() + " update jobs to history..");
+        jsonStore.save(finalCleanedList);
 
         // 5. Update the README using the FULL list from the store (Old + New)
-        List<Job> finalJobHistory = jsonStore.load();
-        new MarkdownGenerator().update(finalJobHistory);
+        new MarkdownGenerator().update(finalCleanedList);
 
-        System.out.println("✅ Process completed successfully.");
+        System.out.println("Process completed successfully.");
     }
 
     public static void main(String[] args) {

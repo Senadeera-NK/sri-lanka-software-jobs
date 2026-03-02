@@ -59,13 +59,14 @@ public class MarkdownGenerator {
 
         for (Job job : jobs) {
             String relativeDate = TimeUtils.getRelativeTime(job.datePosted());
+            String nonBreakingDate = relativeDate.replace(" ", "&nbsp;");
 
             String lintText = job.source();
             sb.append(String.format("| %s | %s | %s | %s | [%s](%s) |\n",
                     job.title(),
                     job.company(),
                     job.level(),
-                    relativeDate,
+                    nonBreakingDate,
                     lintText,
                     job.link()
             ));

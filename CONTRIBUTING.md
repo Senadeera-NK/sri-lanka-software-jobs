@@ -12,7 +12,7 @@ To keep the project maintainable, please follow our package structure:
 ### 🛠️ Adding a New Scraper
 1.  Check if the site has a public API (like ITPro.lk). If so, use `java.net.http.HttpClient`.
 2.  If no API exists, use **Jsoup** to parse the HTML.
-3.  **Frequency:** Set a `Thread.sleep(2000)` between requests to avoid IP blocks.
+3.  **Frequency:**  Set a `Thread.sleep(2000)` between requests to avoid IP blocks.
 4.  **Keyword Filter:** Ensure your scraper only collects Software Engineering, QA, and Data-related roles.
 
 ### 🧪 Technical Requirements

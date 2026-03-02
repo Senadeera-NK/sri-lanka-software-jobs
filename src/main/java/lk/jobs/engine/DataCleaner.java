@@ -28,7 +28,7 @@ public class DataCleaner {
                 .collect(Collectors.toMap(
                         Job::id,
                         job -> job,
-                        (existing, replacement) -> existing, // Keep the first one found
+                        (existing, replacement) -> replacement, // Keep the first one found
                         LinkedHashMap::new
                 ))
                 .values()

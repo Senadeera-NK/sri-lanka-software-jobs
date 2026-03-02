@@ -1,6 +1,8 @@
 package lk.jobs.engine;
 
 import lk.jobs.model.Job;
+import lk.jobs.utils.TimeUtils;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -16,8 +18,9 @@ public class MarkdownGenerator {
 
     private static final String README_PATH = "README.md";
     // 1. Give these actual values!
-    private static final String START_MARKER = "";
-    private static final String END_MARKER = "";
+    // Use the exact text from your README headers
+    private static final String START_MARKER = "## 📊 Current Job Openings";
+    private static final String END_MARKER = "## 🛠️ How it Works";
 
     public void update(List<Job> jobs) {
         try {
@@ -48,13 +51,14 @@ public class MarkdownGenerator {
 
     private String generateTable(List<Job> jobs) {
         StringBuilder sb = new StringBuilder();
-        sb.append("| Title | Company | Level | Exp | Source | Posted | Link |\n");
-        sb.append("| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n");
+        sb.append("| Title | Company | Level |  Source | Posted | Link |\n");
+        sb.append("| :--- | :--- | :--- |  :--- | :--- | :--- |\n");
 
         for (Job job : jobs) {
-            sb.append(String.format("| %s | %s | %s | %s | %s | %s | [View](%s) |\n",
-                    job.title(), job.company(), job.level(), job.experience(),
-                    job.source(), job.datePosted(), job.link()
+            String relativeDate = TimeUtils.getRelativeTime(job.datePosted());
+            sb.append(String.format("| %s | %s | %s | %s | %s | [View](%s) |\n",
+                    job.title(), job.company(), job.level(),
+                    job.source(), relativeDate, job.link()
             ));
         }
         return sb.toString();

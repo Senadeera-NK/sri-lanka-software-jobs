@@ -24,7 +24,7 @@ public class JsonStore {
 
         //filter and sort (newest first)
         List<Job> finalJobs = allJobsMap.values().stream()
-                .filter(j->j.datePosted().isAfter(LocalDate.now().minusDays(14)))
+                .filter(j->j.datePosted().isAfter(LocalDate.now().minusDays(14).atStartOfDay()))
                 .sorted(Comparator.comparing(Job::datePosted).reversed())
                 .collect(Collectors.toList());
 

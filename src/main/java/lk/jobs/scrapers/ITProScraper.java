@@ -37,10 +37,21 @@ public class ITProScraper implements JobScraper {
             // Check if root is an array before looping
             if (root.isArray()) {
                 for(JsonNode node : root){
+                    //System.out.println("JSON Node: " + node.toString());
                     // .path() is safer than .get()
+                    String id = node.path("id").asText();
                     String title = node.path("title").asText("Unknown Title");
                     String company = node.path("company").asText("Unknown Company");
-                    String jobUrl = node.path("url").asText("#");
+
+                    // 1. Create a URL-friendly slug (lowercase, replace spaces/special chars with hyphens)
+                    // We combine title + " at " + company to match ITPro's format
+                    String combined = title + " at " + company;
+                    String slug = combined.toLowerCase()
+                            .replaceAll("[^a-z0-9\\s]", "") // Remove special characters
+                            .replaceAll("\\s+", "-");        // Replace spaces with hyphens
+
+                    // 2. Construct the full URL
+                    String jobUrl = "https://itpro.lk/job/" + id + "/" + slug + "/";
 
                     // Fixed the date logic
                     String rawDate = node.has("posted_date")
@@ -48,13 +59,11 @@ public class ITProScraper implements JobScraper {
                             : LocalDate.now().toString();
 
                     String level = determineLevel(title);
-                    String exp = node.path("experience").asText("Not specified");
 
                     jobs.add(new Job(
                             title,
                             company,
                             level,
-                            exp,
                             getSourceName(),
                             jobUrl,
                             DateParser.parseDate(rawDate),

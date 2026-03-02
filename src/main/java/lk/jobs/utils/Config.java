@@ -36,4 +36,14 @@ public class Config {
         if(value==null || value.isEmpty())return List.of();
         return Arrays.asList(value.split(","));
     }
+
+    //Optional
+    // Add these to Config.java for convenience
+    public static List<String> getTechKeywords() {
+        return getList("tech.keywords");
+    }
+
+    public static List<String> getJobRoleKeywords() {
+        return getList("techjobs.keywords");
+    }
 }

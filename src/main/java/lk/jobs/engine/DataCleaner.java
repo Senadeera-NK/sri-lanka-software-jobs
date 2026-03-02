@@ -11,7 +11,7 @@ public class DataCleaner {
     public List<Job> clean(List<Job> allJobs) {
         if (allJobs == null || allJobs.isEmpty()) return new ArrayList<>();
 
-        int maxDays = Integer.parseInt(Config.get("max.days.old", "14"));
+        int maxDays = Integer.parseInt(Config.get("max.days.old"));
         LocalDate cutoffDate = LocalDate.now().minusDays(maxDays);
 
         // Get keywords once before the stream starts for better performance

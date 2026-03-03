@@ -5,7 +5,7 @@ Thank you for helping centralize the Sri Lankan tech market! 🇱🇰
 ### 🏗️ Project Architecture
 To keep the project maintainable, please follow our package structure:
 
-* **`lk.jobs.scrapers`**: Create a new class here for every new site. It *must* implement the `JobScraper` interface.
+* **`lk.jobs.scrapers`**: Create  a new class here for every new site. It *must* implement the `JobScraper` interface.
 * **`lk.jobs.model`**: Contains the `Job` record. Do not modify this without an issue discussion.
 * **`lk.jobs.engine`**: The core logic that merges and sorts data.
 

@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Senadeera-NK"
+          git config --global user.email "nanduniofficial@gmail.com"
           git add README.md jobs.json
           # Only commit if there are changes to avoid workflow errors
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update jobs: $(date)" && git push)

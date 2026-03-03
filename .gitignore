@@ -1,0 +1,17 @@
+# IntelliJ IDEA internal files (You have this visible currently!)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled Java files (You have target/classes visible currently!)
+target/
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local configuration (If you ever add an api-key or local config)
+config.properties
+.env

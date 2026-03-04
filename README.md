@@ -3,13 +3,14 @@
 
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 4,6:05 AM (Just now)  | **Total Jobs Found:** 41
+> 🟢 **Last Updated:** March 4,11:51 AM (Just now)  | **Total Jobs Found:** 41
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Junior Web & UI Designer](https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/) | Inubzee | Junior/SE | Just&nbsp;now | ITPro.lk |
 | [Mid-Level Software Engineer](https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/) | ARTecX Solutions | Junior/SE | Just&nbsp;now | ITPro.lk |
-| [Backend Developer Intern](https://itpro.lk/job/13181/backend-developer-intern-at-ranga-technologies-pinegen-ai/) | Ranga Technologies (PineGen AI) | Intern | 18&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software QA Engineer](https://itpro.lk/job/13188/software-qa-engineer-at-serveme-pvt-ltd/) | ServeME Pvt Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Backend Developer Intern](https://itpro.lk/job/13181/backend-developer-intern-at-ranga-technologies-pinegen-ai/) | Ranga Technologies (PineGen AI) | Intern | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software QA Engineer](https://itpro.lk/job/13188/software-qa-engineer-at-serveme-pvt-ltd/) | ServeME Pvt Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Software Engineering Intern (Non-paid)](https://itpro.lk/job/13174/software-engineering-intern-nonpaid-at-panhinda-solutions/) | Panhinda Solutions | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Full Stack Engineer (React/Next/Node/Python)](https://itpro.lk/job/13165/senior-full-stack-engineer-reactnextnodepython-at-wisdom-recruitments/) | Wisdom RecruitmentS | Senior | 4&nbsp;days&nbsp;ago | ITPro.lk |
 | [Junior Web Executive](https://itpro.lk/job/13168/junior-web-executive-at-olanka-travels/) | Olanka Travels | Junior/SE | 4&nbsp;days&nbsp;ago | ITPro.lk |
@@ -47,7 +48,6 @@
 | [Senior Developer](https://itpro.lk/job/13061/senior-developer-at-localcom/) | LocalCom | Senior | 14&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineering Interns](https://itpro.lk/job/13055/software-engineering-interns-at-bitmo-solutions/) | Bitmo Solutions | Intern | 14&nbsp;days&nbsp;ago | ITPro.lk |
 | [Office Admin & Website Development Intern](https://itpro.lk/job/13062/office-admin-website-development-intern-at-ep-academy/) | EP Academy | Intern | 14&nbsp;days&nbsp;ago | ITPro.lk |
-| [Junior Web & UI Designer](https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/) | Inubzee | Junior/SE | 14&nbsp;days&nbsp;ago | ITPro.lk |
 
 ## 🛠️ How it Works
 1. **Engine:** A Java 21 console application using **Jsoup**.

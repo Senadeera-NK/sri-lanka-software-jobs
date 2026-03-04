@@ -1,10 +1,18 @@
 [ {
+  "title" : "Junior Web & UI Designer",
+  "company" : "Inubzee",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/",
+  "datePosted" : [ 2026, 3, 4, 11, 51, 45, 916255394 ],
+  "scrapedDate" : [ 2026, 3, 4 ]
+}, {
   "title" : "Mid-Level Software Engineer",
   "company" : "ARTecX Solutions",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/",
-  "datePosted" : [ 2026, 3, 4, 6, 5, 12, 554929964 ],
+  "datePosted" : [ 2026, 3, 4, 11, 51, 44, 837322611 ],
   "scrapedDate" : [ 2026, 3, 4 ]
 }, {
   "title" : "Backend Developer Intern",
@@ -316,14 +324,6 @@
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13062/office-admin-website-development-intern-at-ep-academy/",
-  "datePosted" : [ 2026, 2, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 4 ]
-}, {
-  "title" : "Junior Web & UI Designer",
-  "company" : "Inubzee",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/",
   "datePosted" : [ 2026, 2, 18, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 4 ]
 } ]

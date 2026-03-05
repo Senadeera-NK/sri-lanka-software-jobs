@@ -3,13 +3,13 @@
 
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 5,6:07 AM (Just now)  | **Total Jobs Found:** 36
+> 🟢 **Last Updated:** March 5,11:54 AM (Just now)  | **Total Jobs Found:** 36
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Junior Web & UI Designer](https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/) | Inubzee | Junior/SE | 18&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Mid-Level Software Engineer](https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/) | ARTecX Solutions | Junior/SE | 18&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Full-Stack Engineer (React + NestJS)](https://itpro.lk/job/13192/fullstack-engineer-react-nestjs-at-mo-marketplace/) | MO Marketplace | Junior/SE | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Junior Web & UI Designer](https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/) | Inubzee | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Mid-Level Software Engineer](https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/) | ARTecX Solutions | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full-Stack Engineer (React + NestJS)](https://itpro.lk/job/13192/fullstack-engineer-react-nestjs-at-mo-marketplace/) | MO Marketplace | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Backend Developer Intern](https://itpro.lk/job/13181/backend-developer-intern-at-ranga-technologies-pinegen-ai/) | Ranga Technologies (PineGen AI) | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software QA Engineer](https://itpro.lk/job/13188/software-qa-engineer-at-serveme-pvt-ltd/) | ServeME Pvt Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineering Intern (Non-paid)](https://itpro.lk/job/13174/software-engineering-intern-nonpaid-at-panhinda-solutions/) | Panhinda Solutions | Intern | 4&nbsp;days&nbsp;ago | ITPro.lk |

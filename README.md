@@ -48,7 +48,7 @@
 
 ## 🛠️ How it Works
 1. **Engine:** A Java 21 console application using **Jsoup**.
-2. **Sources:** Scrapes `TopJobs.lk`, `ITPro.lk`, and `Rooster.jobs`.
+2. **Sources:** Currently scraping `ITPro.lk`. Support for `TopJobs` and `Rooster.jobs` is under development (Contributors welcome!)
 3. **Automation:** Runs every 12 hours via **GitHub Actions**.
 4. **Storage:** Updates this `README.md` and a `jobs.json` file automatically.
 

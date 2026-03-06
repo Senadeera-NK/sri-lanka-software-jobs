@@ -3,13 +3,15 @@
 
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 6,6:05 AM (Just now)  | **Total Jobs Found:** 35
+> 🟢 **Last Updated:** March 6,11:50 AM (Just now)  | **Total Jobs Found:** 38
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [WordPress Developer / Website Product Owner](https://itpro.lk/job/13207/wordpress-developer-website-product-owner-at-outerspace-digital/) | Outerspace Digital | Junior/SE | Just&nbsp;now | ITPro.lk |
 | [Intern Software Engineer](https://itpro.lk/job/13199/intern-software-engineer-at-muve-mobility/) | Muve Mobility | Intern | Just&nbsp;now | ITPro.lk |
 | [Associate Software Engineer](https://itpro.lk/job/13200/associate-software-engineer-at-muve-mobility/) | Muve Mobility | Associate | Just&nbsp;now | ITPro.lk |
 | [DevOps Engineer](https://itpro.lk/job/12136/devops-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Junior/SE | Just&nbsp;now | ITPro.lk |
+| [Software Engineer](https://itpro.lk/job/13203/software-engineer-at-expergen/) | Expergen | Junior/SE | Just&nbsp;now | ITPro.lk |
 | [Junior Web & UI Designer](https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/) | Inubzee | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Mid-Level Software Engineer](https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/) | ARTecX Solutions | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Full-Stack Engineer (React + NestJS)](https://itpro.lk/job/13192/fullstack-engineer-react-nestjs-at-mo-marketplace/) | MO Marketplace | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -32,6 +34,7 @@
 | [Senior Software Engineer - .Net](https://itpro.lk/job/13123/senior-software-engineer-net-at-tecciance/) | tecciance | Senior | 10&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer - .Net](https://itpro.lk/job/13122/software-engineer-net-at-tecciance/) | tecciance | Junior/SE | 10&nbsp;days&nbsp;ago | ITPro.lk |
 | [Associate Backend Developer](https://itpro.lk/job/13117/associate-backend-developer-at-outerspace-tech/) | Outerspace Tech | Associate | 10&nbsp;days&nbsp;ago | ITPro.lk |
+| [Associate Backend Developer](https://itpro.lk/job/13117/associate-backend-developer-at-outerspace-digital/) | Outerspace Digital | Associate | 10&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer – Java (Spring Boot)](https://itpro.lk/job/13111/senior-software-engineer-java-spring-boot-at-tecciance/) | tecciance | Senior | 11&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer – Java (Spring Boot)](https://itpro.lk/job/13110/software-engineer-java-spring-boot-at-tecciance/) | tecciance | Junior/SE | 11&nbsp;days&nbsp;ago | ITPro.lk |
 | [Associate Software Engineer - Business Automation](https://itpro.lk/job/13107/associate-software-engineer-business-automation-at-orysys/) | Orysys | Associate | 11&nbsp;days&nbsp;ago | ITPro.lk |

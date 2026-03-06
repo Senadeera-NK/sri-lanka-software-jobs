@@ -1,10 +1,18 @@
 [ {
+  "title" : "WordPress Developer / Website Product Owner",
+  "company" : "Outerspace Digital",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13207/wordpress-developer-website-product-owner-at-outerspace-digital/",
+  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 912803818 ],
+  "scrapedDate" : [ 2026, 3, 6 ]
+}, {
   "title" : "Intern Software Engineer",
   "company" : "Muve Mobility",
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13199/intern-software-engineer-at-muve-mobility/",
-  "datePosted" : [ 2026, 3, 6, 6, 5, 29, 224584069 ],
+  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157987714 ],
   "scrapedDate" : [ 2026, 3, 6 ]
 }, {
   "title" : "Associate Software Engineer",
@@ -12,7 +20,7 @@
   "level" : "Associate",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13200/associate-software-engineer-at-muve-mobility/",
-  "datePosted" : [ 2026, 3, 6, 6, 5, 29, 223949314 ],
+  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157742625 ],
   "scrapedDate" : [ 2026, 3, 6 ]
 }, {
   "title" : "DevOps Engineer",
@@ -20,7 +28,15 @@
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/12136/devops-engineer-at-rightmo-web-solution/",
-  "datePosted" : [ 2026, 3, 6, 6, 5, 29, 194198678 ],
+  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157288876 ],
+  "scrapedDate" : [ 2026, 3, 6 ]
+}, {
+  "title" : "Software Engineer",
+  "company" : "Expergen",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13203/software-engineer-at-expergen/",
+  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157007359 ],
   "scrapedDate" : [ 2026, 3, 6 ]
 }, {
   "title" : "Junior Web & UI Designer",
@@ -196,6 +212,14 @@
   "level" : "Associate",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13117/associate-backend-developer-at-outerspace-tech/",
+  "datePosted" : [ 2026, 2, 24, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 6 ]
+}, {
+  "title" : "Associate Backend Developer",
+  "company" : "Outerspace Digital",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13117/associate-backend-developer-at-outerspace-digital/",
   "datePosted" : [ 2026, 2, 24, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 6 ]
 }, {

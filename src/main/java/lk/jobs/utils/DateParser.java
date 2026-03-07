@@ -46,8 +46,17 @@ public class DateParser {
             try{
                 return LocalDateTime.parse(dateStr, mySqlformatter);
             }catch(Exception e){
-                System.err.println("failed to parse dateTime:"+ e);
+                System.out.println("failed to parse dateTime:"+ e);
             }
+
+            // 2. TopJobs Format: "Sat Mar 07 2026"
+            try {
+                DateTimeFormatter topJobsFormatter = DateTimeFormatter.ofPattern("EEE MMM d yyyy", Locale.ENGLISH);
+                LocalDate parsedDate = LocalDate.parse(dateStr.trim(), topJobsFormatter);
+                return handleLocalDate(parsedDate, slZone);
+            } catch (Exception e) {}
+
+
             // fallback - date only
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.ENGLISH);
             LocalDate parsedDate = LocalDate.parse(dateStr, formatter);
@@ -69,5 +78,12 @@ public class DateParser {
             }
         }
 
+    }
+    private static LocalDateTime handleLocalDate(LocalDate parsedDate, ZoneId slZone) {
+        LocalDate today = LocalDate.now(slZone);
+        if (parsedDate.equals(today)) {
+            return parsedDate.atStartOfDay();
+        }
+        return parsedDate.atTime(12, 0);
     }
 }

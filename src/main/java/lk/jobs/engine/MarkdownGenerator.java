@@ -63,8 +63,16 @@ public class MarkdownGenerator {
         for (Job job : jobs) {
             String relativeDate = TimeUtils.getRelativeTime(job.datePosted());
             String nonBreakingDate = relativeDate.replace(" ", "&nbsp;");
+
+            //safe title = not to break the table
+            String safeTitle = job.title().replace("|","\\|");
+            //truncating the title
+            if(safeTitle.length()>70){
+                safeTitle = safeTitle.substring(0,60)+"...";
+            }
+
             String linkedTitle = String.format("[%s](%s)",
-                    job.title(),
+                    safeTitle,
                     job.link());
 
             String lintText = job.source();

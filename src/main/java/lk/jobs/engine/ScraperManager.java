@@ -5,7 +5,7 @@ import lk.jobs.scrapers.ITProScraper;
 import lk.jobs.scrapers.JobScraper;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
-
+import lk.jobs.scrapers.TopJobsScraper;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,6 +22,8 @@ public class ScraperManager {
         String itProURL = Config.get("itpro.api.url");
         scrapers.add(new ITProScraper(itProURL));
 
+        scrapers.add(new lk.jobs.scrapers.TopJobsScraper());
+
         List<Job> allNewJobs = new ArrayList<>();
 
         // Execute all scrapers
@@ -29,7 +31,7 @@ public class ScraperManager {
             System.out.println("🔍 Scraping: " + scraper.getSourceName());
             allNewJobs.addAll(scraper.scrape());
         }
-        //loading hsitory data from json
+        //loading history data from json
         List<Job> existingHistory = jsonStore.load();
 
         //combining all into one master list

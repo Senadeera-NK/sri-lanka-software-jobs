@@ -10,6 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -29,7 +30,9 @@ public class MarkdownGenerator {
             String content = Files.readString(path, StandardCharsets.UTF_8);
 
             String newTable = generateTable(jobs);
-            LocalDateTime now = LocalDateTime.now();
+            //getting the sri lankan zone
+            ZoneId slZone = ZoneId.of("Asia/Colombo");
+            LocalDateTime now = LocalDateTime.now(slZone);
             String absoluteTime = now.format(DateTimeFormatter.ofPattern("MMMM d,h:mm a"));
             String relativeTime = TimeUtils.getRelativeTime(now);
             String metaInfo = "> 🟢 **Last Updated:** " + absoluteTime + " ("+relativeTime+") "+" | **Total Jobs Found:** " + jobs.size() + "\n\n";

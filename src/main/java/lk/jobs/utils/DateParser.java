@@ -2,6 +2,7 @@ package lk.jobs.utils;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.regex.Matcher;
@@ -12,7 +13,10 @@ public class DateParser {
         if (dateStr == null || dateStr.isEmpty()) return LocalDateTime.now();
         String input = dateStr.toLowerCase().trim();
         System.out.println("input:"+input);
-        LocalDateTime now = LocalDateTime.now();
+
+        //for the sri lankan time zone
+        ZoneId slZone = ZoneId.of("Asia/Colombo");
+        LocalDateTime now = LocalDateTime.now(slZone);
 
         // 1. Check if it's already an ISO string (from our JSON)
         if (input.contains("t") && input.length() > 10) {

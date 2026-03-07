@@ -72,9 +72,9 @@ public class MarkdownGenerator {
                         .toList();
 
         //sections
-        appendSections(sb, "Internships & Trainees", interns);
-        appendSections(sb, "Associates & Junior/SE Roles", interns);
-        appendSections(sb, "Senior & Lead Roles", interns);
+        appendSections(sb, "🎓 Internships & Trainees", interns);
+        appendSections(sb, "💻 Associate & Junior/SE Roles", juniors);
+        appendSections(sb, "🚀 Senior & Lead Roles", seniors);
 
 
         return sb.toString();

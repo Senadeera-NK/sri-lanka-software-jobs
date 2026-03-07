@@ -14,10 +14,10 @@ public class TimeUtils {
         //get the actual current time in Sri Lanka
         ZonedDateTime now = ZonedDateTime.now(SL_ZONE);
 
-        long seconds = ChronoUnit.SECONDS.between(dateTime, now);
-        long minutes = ChronoUnit.MINUTES.between(dateTime, now);
-        long hours = ChronoUnit.HOURS.between(dateTime, now);
-        long days = ChronoUnit.DAYS.between(dateTime.toLocalDate(), now.toLocalDate());
+        long seconds = ChronoUnit.SECONDS.between(jobTime, now);
+        long minutes = ChronoUnit.MINUTES.between(jobTime, now);
+        long hours = ChronoUnit.HOURS.between(jobTime, now);
+        long days = ChronoUnit.DAYS.between(jobTime.toLocalDate(), now.toLocalDate());
 
         //(due to slight clock drift = mins<60 ->min 0
         if(seconds<60){

@@ -10,19 +10,22 @@ import java.util.regex.Pattern;
 
 public class DateParser {
     public static LocalDateTime parseDate(String dateStr) {
-        if (dateStr == null || dateStr.isEmpty()) return LocalDateTime.now();
-        String input = dateStr.toLowerCase().trim();
-        System.out.println("input:"+input);
-
         //for the sri lankan time zone
         ZoneId slZone = ZoneId.of("Asia/Colombo");
         LocalDateTime now = LocalDateTime.now(slZone);
 
+        if (dateStr == null || dateStr.isEmpty()) return now;
+
+        String input = dateStr.toLowerCase().trim();
+        System.out.println("input:"+input);
+
         // 1. Check if it's already an ISO string (from our JSON)
         if (input.contains("t") && input.length() > 10) {
-            try { return LocalDateTime.parse(dateStr); } catch (Exception e) {}
+            try { return LocalDateTime.parse(dateStr); } catch (Exception e) {
+                System.out.println("Error:parsing ISO: "+e);
+            }
         }
-        // 2. Handle relative strings (X days ago)
+        // Handle relative strings (X days ago)
         Pattern p = Pattern.compile("(\\d+)\\s+(minute|hour|day|week|month)s?\\s+ago");
         Matcher m = p.matcher(input);
         if (m.find()) {
@@ -37,15 +40,22 @@ public class DateParser {
             };
         }
 
-        // 3. Handle Absolute Dates (e.g., "28 Feb 2026" or "02 Mar 2026")
+        // Handle Absolute Dates (e.g., "28 Feb 2026" or "02 Mar 2026")
         try {
-            // Common format for ITPro and others
+            DateTimeFormatter mySqlformatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+            try{
+                return LocalDateTime.parse(dateStr, mySqlformatter);
+            }catch(Exception e){
+                System.err.println("failed to parse dateTime:"+ e);
+            }
+            // fallback - date only
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.ENGLISH);
             LocalDate parsedDate = LocalDate.parse(dateStr, formatter);
+            LocalDate today = LocalDate.now(slZone);
 
             // If it's today, return now to keep the "mins ago" fresh
-            if (parsedDate.equals(LocalDate.now())) {
-                return now;
+            if (parsedDate.equals(today)) {
+                return parsedDate.atStartOfDay();
             }
             // Otherwise return Noon on that day for a clean "X days ago" display
             return parsedDate.atTime(12, 0);
@@ -54,7 +64,7 @@ public class DateParser {
             try {
                 return LocalDate.parse(dateStr).atTime(12, 0);
             } catch (Exception e2) {
-                System.err.println("⚠️ Could not parse date: [" + dateStr + "]. Defaulting to now.");
+                System.err.println("Could not parse date: [" + dateStr + "]. Defaulting to now.");
                 return now;
             }
         }

@@ -70,9 +70,11 @@ public class ITProScraper implements JobScraper {
                         String title = node.path("title").asText();
                         String company = node.path("company").asText();
                         String id = node.path("id").asText();
-                        String createdOn = node.path("created_on").asText();
-                        System.out.println("create on:"+createdOn);
-
+                        String createdOn = node.path("mysql_date").asText();
+//                        System.out.println("create on:"+createdOn);
+//                        if (node.has("created_on")) {
+//                            System.out.println("FULL NODE DEBUG: " + node.toString());
+//                        }
                         String slug = (title + " at " + company).toLowerCase()
                                 .replaceAll("[^a-z0-9\\s]", "")
                                 .replaceAll("\\s+", "-");

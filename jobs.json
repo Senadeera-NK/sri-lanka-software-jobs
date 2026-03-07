@@ -1,67 +1,91 @@
 [ {
+  "title" : "DevOps Intern",
+  "company" : "Perpova Developers",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13213/devops-intern-at-perpova-developers/",
+  "datePosted" : [ 2026, 3, 7, 20, 40, 33 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Software Engineer Intern",
+  "company" : "Sisenco Digital",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13211/software-engineer-intern-at-sisenco-digital/",
+  "datePosted" : [ 2026, 3, 7, 14, 7, 52 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
   "title" : "WordPress Developer / Website Product Owner",
   "company" : "Outerspace Digital",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13207/wordpress-developer-website-product-owner-at-outerspace-digital/",
-  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 912803818 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Intern Software Engineer",
-  "company" : "Muve Mobility",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13199/intern-software-engineer-at-muve-mobility/",
-  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157987714 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Associate Software Engineer",
-  "company" : "Muve Mobility",
-  "level" : "Associate",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13200/associate-software-engineer-at-muve-mobility/",
-  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157742625 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "DevOps Engineer",
-  "company" : "Rightmo Web Solution",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/12136/devops-engineer-at-rightmo-web-solution/",
-  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157288876 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 3, 6, 15, 41, 41 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Software Engineer",
   "company" : "Expergen",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13203/software-engineer-at-expergen/",
-  "datePosted" : [ 2026, 3, 6, 11, 50, 48, 157007359 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 3, 6, 11, 21, 11 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
-  "title" : "Junior Web & UI Designer",
-  "company" : "Inubzee",
+  "title" : "DevOps Engineer",
+  "company" : "Rightmo Web Solution",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/",
-  "datePosted" : [ 2026, 3, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "link" : "https://itpro.lk/job/12136/devops-engineer-at-rightmo-web-solution/",
+  "datePosted" : [ 2026, 3, 6, 11, 4, 13 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
-  "title" : "Mid-Level Software Engineer",
-  "company" : "ARTecX Solutions",
-  "level" : "Junior/SE",
+  "title" : "Associate Software Engineer",
+  "company" : "Muve Mobility",
+  "level" : "Associate",
   "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/",
-  "datePosted" : [ 2026, 3, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "link" : "https://itpro.lk/job/13200/associate-software-engineer-at-muve-mobility/",
+  "datePosted" : [ 2026, 3, 6, 1, 55, 27 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Intern Software Engineer",
+  "company" : "Muve Mobility",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13199/intern-software-engineer-at-muve-mobility/",
+  "datePosted" : [ 2026, 3, 6, 1, 53, 8 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Full-Stack Engineer (React + NestJS)",
   "company" : "MO Marketplace",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13192/fullstack-engineer-react-nestjs-at-mo-marketplace/",
-  "datePosted" : [ 2026, 3, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 3, 4, 18, 55, 20 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Junior Web & UI Designer",
+  "company" : "Inubzee",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13068/junior-web-ui-designer-at-inubzee/",
+  "datePosted" : [ 2026, 3, 4, 11, 50, 32 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Mid-Level Software Engineer",
+  "company" : "ARTecX Solutions",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13191/midlevel-software-engineer-at-artecx-solutions/",
+  "datePosted" : [ 2026, 3, 4, 11, 29, 24 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Software QA Engineer",
+  "company" : "ServeME Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13188/software-qa-engineer-at-serveme-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 3, 21, 34, 16 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Backend Developer Intern",
   "company" : "Ranga Technologies (PineGen AI)",
@@ -71,141 +95,133 @@
   "datePosted" : [ 2026, 3, 3, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 4 ]
 }, {
-  "title" : "Software QA Engineer",
-  "company" : "ServeME Pvt Ltd",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13188/software-qa-engineer-at-serveme-pvt-ltd/",
-  "datePosted" : [ 2026, 3, 3, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
   "title" : "Software Engineering Intern (Non-paid)",
   "company" : "Panhinda Solutions",
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13174/software-engineering-intern-nonpaid-at-panhinda-solutions/",
-  "datePosted" : [ 2026, 3, 1, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Senior Full Stack Engineer (React/Next/Node/Python)",
-  "company" : "Wisdom RecruitmentS",
-  "level" : "Senior",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13165/senior-full-stack-engineer-reactnextnodepython-at-wisdom-recruitments/",
-  "datePosted" : [ 2026, 2, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 3, 1, 13, 2, 41 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Junior Web Executive",
   "company" : "Olanka Travels",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13168/junior-web-executive-at-olanka-travels/",
-  "datePosted" : [ 2026, 2, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 28, 17, 15, 8 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Web Executive",
   "company" : "Olanka Travels",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13167/senior-web-executive-at-olanka-travels/",
-  "datePosted" : [ 2026, 2, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 28, 17, 10, 20 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Senior Full Stack Engineer (React/Next/Node/Python)",
+  "company" : "Wisdom RecruitmentS",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13165/senior-full-stack-engineer-reactnextnodepython-at-wisdom-recruitments/",
+  "datePosted" : [ 2026, 2, 28, 14, 7, 51 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Software Engineer - Full Stack",
   "company" : "Veracity Digital",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13162/senior-software-engineer-full-stack-at-veracity-digital/",
-  "datePosted" : [ 2026, 2, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 27, 18, 2, 36 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Trainee Software Engineer / Intern",
   "company" : "DigitalBee Labs",
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13156/trainee-software-engineer-intern-at-digitalbee-labs/",
-  "datePosted" : [ 2026, 2, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Associate Software Engineer",
-  "company" : "H One Private Limited",
-  "level" : "Associate",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13136/associate-software-engineer-at-h-one-private-limited/",
-  "datePosted" : [ 2026, 2, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Graduate Trainee - Full Stack Developer",
-  "company" : "CIMA",
-  "level" : "Associate",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13059/graduate-trainee-full-stack-developer-at-cima/",
-  "datePosted" : [ 2026, 2, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 27, 16, 58, 3 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Software Quality Assurance - Intern",
   "company" : "Qdesk AI Pvt Ltd",
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13139/software-quality-assurance-intern-at-qdesk-ai-pvt-ltd/",
-  "datePosted" : [ 2026, 2, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 25, 14, 22, 59 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Associate Software Engineer",
+  "company" : "H One Private Limited",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13136/associate-software-engineer-at-h-one-private-limited/",
+  "datePosted" : [ 2026, 2, 25, 9, 31, 25 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
+}, {
+  "title" : "Graduate Trainee - Full Stack Developer",
+  "company" : "CIMA",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13059/graduate-trainee-full-stack-developer-at-cima/",
+  "datePosted" : [ 2026, 2, 25, 8, 52, 47 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Full-Stack Engineer (React / Next.js / NestJS)",
   "company" : "Clowzd",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13133/fullstack-engineer-react-nextjs-nestjs-at-clowzd/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 20, 21, 34 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Backend Engineer (NestJS / Node.js)",
   "company" : "Clowzd",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13132/backend-engineer-nestjs-nodejs-at-clowzd/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 20, 19, 47 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Frontend Engineer (React / Next.js)",
   "company" : "Clowzd",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13131/frontend-engineer-react-nextjs-at-clowzd/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 20, 18, 14 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Software Engineer - Node/React/Angular",
   "company" : "tecciance",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13125/senior-software-engineer-nodereactangular-at-tecciance/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 14, 3, 5 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Software Engineer - Node/React/Angular",
   "company" : "tecciance",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13124/software-engineer-nodereactangular-at-tecciance/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 14, 0, 48 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Software Engineer - .Net",
   "company" : "tecciance",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13123/senior-software-engineer-net-at-tecciance/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 13, 58, 26 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Software Engineer - .Net",
   "company" : "tecciance",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13122/software-engineer-net-at-tecciance/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 13, 54, 4 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Associate Backend Developer",
   "company" : "Outerspace Tech",
@@ -220,56 +236,56 @@
   "level" : "Associate",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13117/associate-backend-developer-at-outerspace-digital/",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 24, 10, 33, 33 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Software Engineer – Java (Spring Boot)",
   "company" : "tecciance",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13111/senior-software-engineer-java-spring-boot-at-tecciance/",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 23, 17, 35, 50 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Software Engineer – Java (Spring Boot)",
   "company" : "tecciance",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13110/software-engineer-java-spring-boot-at-tecciance/",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 23, 17, 30, 1 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Associate Software Engineer - Business Automation",
   "company" : "Orysys",
   "level" : "Associate",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13107/associate-software-engineer-business-automation-at-orysys/",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 23, 12, 22, 3 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Software Engineer (Java)",
   "company" : "Digiratina Technology Solutions",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/12946/senior-software-engineer-java-at-digiratina-technology-solutions/",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 23, 3, 23, 50 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Senior Java Developer",
   "company" : "BISTEC Global",
   "level" : "Senior",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/12868/senior-java-developer-at-bistec-global/",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 23, 3, 9, 30 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Application Engineer (Mobile & Web)",
   "company" : "Rise Tech Village",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13099/application-engineer-mobile-web-at-rise-tech-village/",
-  "datePosted" : [ 2026, 2, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 22, 11, 12, 3 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 }, {
   "title" : "Associate Software Engineer",
   "company" : "TS Technologies (Pvt) Ltd",
@@ -284,22 +300,6 @@
   "level" : "Intern",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13092/internship-full-stack-developer-at-itx-digital-services-pvt-ltd/",
-  "datePosted" : [ 2026, 2, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Senior/Software Engineer",
-  "company" : "PacificKode",
-  "level" : "Senior",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13088/seniorsoftware-engineer-at-pacifickode/",
-  "datePosted" : [ 2026, 2, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
-}, {
-  "title" : "Software Engineer - React Native",
-  "company" : "PacificKode",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13087/software-engineer-react-native-at-pacifickode/",
-  "datePosted" : [ 2026, 2, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 6 ]
+  "datePosted" : [ 2026, 2, 21, 10, 17, 15 ],
+  "scrapedDate" : [ 2026, 3, 7 ]
 } ]

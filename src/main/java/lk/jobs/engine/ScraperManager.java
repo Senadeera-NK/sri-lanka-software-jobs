@@ -22,7 +22,8 @@ public class ScraperManager {
         String itProURL = Config.get("itpro.api.url");
         scrapers.add(new ITProScraper(itProURL));
 
-        scrapers.add(new lk.jobs.scrapers.TopJobsScraper());
+        String TopjobsURL = Config.get("topjobs.url");
+        scrapers.add(new TopJobsScraper(TopjobsURL));
 
         List<Job> allNewJobs = new ArrayList<>();
 

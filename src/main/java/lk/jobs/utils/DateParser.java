@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
 import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -42,6 +43,7 @@ public class DateParser {
 
         // Handle Absolute Dates (e.g., "28 Feb 2026" or "02 Mar 2026")
         try {
+            //for ITPro.lk
             DateTimeFormatter mySqlformatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
             try{
                 return LocalDateTime.parse(dateStr, mySqlformatter);
@@ -50,12 +52,28 @@ public class DateParser {
             }
 
             // 2. TopJobs Format: "Sat Mar 07 2026"
-            try {
-                DateTimeFormatter topJobsFormatter = DateTimeFormatter.ofPattern("EEE MMM d yyyy", Locale.ENGLISH);
-                LocalDate parsedDate = LocalDate.parse(dateStr.trim(), topJobsFormatter);
-                return handleLocalDate(parsedDate, slZone);
-            } catch (Exception e) {}
 
+                DateTimeFormatter topJobsFormatter = new DateTimeFormatterBuilder()
+                        .parseCaseInsensitive()
+                        .appendPattern("EEE MMM dd yyyy")
+                        .toFormatter(Locale.ENGLISH);
+
+                DateTimeFormatter generalFormatter = new DateTimeFormatterBuilder()
+                        .parseCaseInsensitive()
+                        .appendPattern("d MMM yyyy")
+                        .toFormatter(Locale.ENGLISH);
+
+                try{
+                    if(input.split(" ").length==4){
+                        LocalDate parsedDate = LocalDate.parse(input, topJobsFormatter);
+                        return handleLocalDate(parsedDate,slZone);
+                    }
+                    //07 mar 2026
+                    LocalDate parsedGeneralDate = LocalDate.parse(input, generalFormatter);
+                    return handleLocalDate(parsedGeneralDate, slZone);
+                }catch (Exception e){
+
+                }
 
             // fallback - date only
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.ENGLISH);

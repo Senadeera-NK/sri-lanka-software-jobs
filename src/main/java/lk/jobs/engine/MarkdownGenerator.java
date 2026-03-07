@@ -57,10 +57,37 @@ public class MarkdownGenerator {
 
     private String generateTable(List<Job> jobs) {
         StringBuilder sb = new StringBuilder();
+
+        // seperate job categories
+        List<Job> interns = jobs.stream()
+                        .filter(j->j.level().equalsIgnoreCase("Intern"))
+                        .toList();
+
+        List<Job> juniors = jobs.stream()
+                        .filter(j->j.level().equalsIgnoreCase("Junior/SE") || j.level().equalsIgnoreCase("Associate"))
+                        .toList();
+
+        List<Job> seniors = jobs.stream()
+                        .filter(j->j.level().equalsIgnoreCase("Senior"))
+                        .toList();
+
+        //sections
+        appendSections(sb, "Internships & Trainees", interns);
+        appendSections(sb, "Associates & Junior/SE Roles", interns);
+        appendSections(sb, "Senior & Lead Roles", interns);
+
+
+        return sb.toString();
+    }
+
+    private void appendSections(StringBuilder sb, String title, List<Job> sectionJobs) {
+        if(sectionJobs.isEmpty())return;
+
+        sb.append("### ").append(title).append("  (").append(sectionJobs.size()).append(")\n\n");
         sb.append("| Title | Company | Level  | Posted | Source |\n");
         sb.append("| :--- | :--- | :--- | :--- | :--- |\n");
 
-        for (Job job : jobs) {
+        for (Job job : sectionJobs) {
             String relativeDate = TimeUtils.getRelativeTime(job.datePosted());
             String nonBreakingDate = relativeDate.replace(" ", "&nbsp;");
 
@@ -84,6 +111,8 @@ public class MarkdownGenerator {
                     job.source()
             ));
         }
-        return sb.toString();
+        //separator between tables
+        sb.append("\n---\n\n");
     }
+
 }

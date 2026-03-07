@@ -14,15 +14,17 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class TopJobsScraper implements JobScraper {
+    private final String apiUrl;
 
-    // The Software Dev & QA category URL
-    private static final String TARGET_URL = "https://www.topjobs.lk/applicant/vacancybyfunctionalarea.jsp?FA=SDQ&jst=OPEN";
+    public TopJobsScraper(String apiUrl){
+        this.apiUrl = apiUrl;
+    }
 
     @Override
     public List<Job> scrape() {
         List<Job> jobs = new ArrayList<>();
         try {
-            Document doc = Jsoup.connect(TARGET_URL)
+            Document doc = Jsoup.connect(apiUrl)
                     .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
                     .get();
 

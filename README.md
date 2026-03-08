@@ -161,7 +161,6 @@ graph TD
     JsonStore <--> Json
     ScraperManager -- "Refreshes" --> Markdown
     Markdown -- "Updates" --> README[(README.md)]
-    ```
 </details>
 
 <details>

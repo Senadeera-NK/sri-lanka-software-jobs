@@ -127,6 +127,44 @@
 4. **Storage:** Updates this `README.md` and a `jobs.json` file automatically.
 
 <details>
+<summary><b>📐 View High-Level Architecture Diagram</b></summary>
+```mermaid
+graph TD
+    subgraph Engine ["1. Orchestration (lk.jobs.engine)"]
+        ScraperManager["ScraperManager.java<br/>(Main Entry Point)"]
+        Cleaner["DataCleaner.java<br/>(Filters & Deduplicates)"]
+        Markdown["MarkdownGenerator.java<br/>(Updates README.md)"]
+    end
+
+    subgraph Scrapers ["2. External Interactions"]
+        Config("Config.properties<br/>(URLs & Keywords)")
+        ITPro("ITProScraper.java<br/>(JSON API)")
+        TopJobs("TopJobsScraper.java<br/>(Jsoup HTML)")
+        DParser("DateParser.java<br/>(Normalizes Dates)")
+    end
+
+    subgraph Storage ["3. Storage"]
+        Json("jobs.json<br/>(Master Store)")
+        JsonStore("JsonStore.java<br/>(Read/Write)")
+    end
+
+    subgraph Infrastructure ["0. Automation"]
+        WF("workflow.yml<br/>(GitHub Actions)")
+    end
+
+    WF -- "Triggers" --> ScraperManager
+    ScraperManager -. "Queries" .-> Config
+    ScraperManager -- "Executes" --> ITPro
+    ScraperManager -- "Executes" --> TopJobs
+    ITPro & TopJobs --> DParser
+    ScraperManager -- "Syncs" --> JsonStore
+    JsonStore <--> Json
+    ScraperManager -- "Refreshes" --> Markdown
+    Markdown -- "Updates" --> README[(README.md)]
+    ```
+</details>
+
+<details>
 <summary><b>📂 View Project Structure</b></summary>
 
 ```text

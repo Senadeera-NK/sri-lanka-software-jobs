@@ -128,6 +128,7 @@
 
 <details>
 <summary><b>📐 View High-Level Architecture Diagram</b></summary>
+    
 ```mermaid
 graph TD
     subgraph Engine ["1. Orchestration (lk.jobs.engine)"]
@@ -161,6 +162,8 @@ graph TD
     JsonStore <--> Json
     ScraperManager -- "Refreshes" --> Markdown
     Markdown -- "Updates" --> README[(README.md)]
+```
+
 </details>
 
 <details>

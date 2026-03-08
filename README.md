@@ -133,19 +133,58 @@
 graph TD
     %% Main Orchestration Class
     subgraph Engine ["1. Orchestration (lk.jobs.engine)"]
-        ScraperManager[("ScraperManager.java
-        - Main Entry Point -")]
-        
-        Cleaner("DataCleaner.java
-        (Filters & Deduplicates)")
-        
-        Markdown("MarkdownGenerator.java
-…
+        ScraperManager["ScraperManager.java<br/>(Main Entry Point)"]
+        Cleaner("DataCleaner.java<br/>(Filters & Deduplicates)")
+        Markdown("MarkdownGenerator.java<br/>(Updates README.md)")
+    end
+
+    %% External Interactions / Data Sources
+    subgraph Scrapers ["2. External Interactions"]
+        Config("Config.properties<br/>(lk.jobs.utils.Config)")
+        ITPro("ITProScraper.java<br/>(JSON API)")
+        TopJobs("TopJobsScraper.java<br/>(Jsoup HTML)")
+        DParser("DateParser.java<br/>(Normalizes Dates)")
+    end
+
+    %% Data Flow & Persistence
+    subgraph Storage ["3. Storage"]
+        Json("jobs.json<br/>(Master Store)")
+        JsonStore("JsonStore.java<br/>(Read/Write)")
+        JobModel["Job.record"]
+    end
+
+    %% Workflow Orchestration
+    subgraph Infrastructure ["0. Infrastructure"]
+        WF("workflow.yml<br/>(GitHub Actions)")
+    end
+
+    %% Connective Flow
+    WF -- "Triggers" --> ScraperManager
+    ScraperManager -. "Queries" .-> Config
+    ITPro -. "URL" .-> Config
+    TopJobs -. "URL" .-> Config
+    
+    ScraperManager -- "Runs" --> ITPro
+    ScraperManager -- "Runs" --> TopJobs
+    
+    ITPro --> DParser
+    TopJobs --> DParser
+    DParser -- "Creates" --> JobModel
+    
+    ITPro -- "List&lt;Job&gt;" --> ScraperManager
+    TopJobs -- "List&lt;Job&gt;" --> ScraperManager
+
     ScraperManager -- "Load/Save" --> JsonStore
     JsonStore <--> Json
     
     ScraperManager -- "Update" --> Markdown
     Markdown -- "Writes" --> README[(README.md)]
+
+    %% Styling
+    classDef engine fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef storage fill:#bbf,stroke:#333,stroke-width:2px;
+    class ScraperManager,Cleaner,Markdown engine;
+    class Json,JsonStore,JobModel storage;
 ```
 
 </details>

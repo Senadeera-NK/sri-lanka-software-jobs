@@ -179,6 +179,7 @@ graph TD
     
     ScraperManager -- "Update" --> Markdown
     Markdown -- "Writes" --> README[(README.md)]
+```
 
 </details>
 

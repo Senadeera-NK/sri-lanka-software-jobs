@@ -180,13 +180,6 @@ graph TD
     ScraperManager -- "Update" --> Markdown
     Markdown -- "Writes" --> README[(README.md)]
 
-    %% Styling
-    classDef engine fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef storage fill:#bbf,stroke:#333,stroke-width:2px;
-    class ScraperManager,Cleaner,Markdown engine;
-    class Json,JsonStore,JobModel storage;
-```
-
 </details>
 
 <details>

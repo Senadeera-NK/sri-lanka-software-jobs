@@ -64,9 +64,11 @@ public class TelegramNotifier {
 
             for (Job job : batch) {
                 String safeTitle = job.title().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;");
-                sb.append(String.format("📍 <a href=\"%s\">%s</a>\n", job.link(), safeTitle));
-                // Add company name for better context in Telegram
-                sb.append("🏢 <i>").append(job.company()).append("</i>\n\n");
+                String safeCompany = job.company().replace("&", "&amp;");
+
+                // Format: Title first (Bold/Link), then Company (Small/Italic) on the same line or right below
+                sb.append(String.format("🔹 <a href=\"%s\"><b>%s</b></a>\n", job.link(), safeTitle));
+                sb.append("   └ <i>").append(safeCompany).append("</i>\n\n");
             }
 
             sendToTelegram(sb.toString());

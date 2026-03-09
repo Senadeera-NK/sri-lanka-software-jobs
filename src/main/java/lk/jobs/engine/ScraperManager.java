@@ -72,14 +72,18 @@ public class ScraperManager {
     }
 
     public static void main(String[] args) {
-        new ScraperManager().run();
-        // Load .env file into the system environment
-        Dotenv dotenv = Dotenv.configure().load();
-        dotenv.entries().forEach(entry ->
-                System.setProperty(entry.getKey(), entry.getValue())
-        );
+        // 1. LOAD THE ENV FIRST
+        try {
+            Dotenv dotenv = Dotenv.configure().load();
+            dotenv.entries().forEach(entry ->
+                    System.setProperty(entry.getKey(), entry.getValue())
+            );
+            System.out.println("✅ Environment variables loaded.");
+        } catch (Exception e) {
+            System.err.println("⚠️ Could not find .env file, falling back to System Env.");
+        }
 
-        System.out.println("Starting Job Scraper Engine...");
-        // ... rest of your code
+        // 2. NOW RUN THE SCRAPER
+        new ScraperManager().run();
     }
 }

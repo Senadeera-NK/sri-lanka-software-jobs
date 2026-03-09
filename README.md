@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![Telegram](https://img.shields.io/badge/JOIN_TELEGRAM_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourChannel)
+# 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![Telegram](https://img.shields.io/badge/JOIN_TELEGRAM_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SL_Software_Jobs)
 🚀 Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
 
 > [!TIP]

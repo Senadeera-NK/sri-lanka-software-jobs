@@ -30,33 +30,47 @@ public class TelegramNotifier {
             return;
         }
 
+        // 1. Group jobs by level (matching your README logic)
+        List<Job> interns = newJobs.stream().filter(j -> "Intern".equalsIgnoreCase(j.level())).toList();
+        List<Job> associates = newJobs.stream().filter(j -> "Junior/SE".equalsIgnoreCase(j.level()) || "Associate".equalsIgnoreCase(j.level())).toList();
+        List<Job> seniors = newJobs.stream().filter(j -> "Senior".equalsIgnoreCase(j.level())).toList();
+
         String slTime = ZonedDateTime.now(ZoneId.of("Asia/Colombo"))
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm a"));
 
-        // Chunking logic: Send messages in batches of 15 jobs
+        // 2. Send categorized messages
+        sendCategoryBatch("🎓 <b>Internships & Trainees</b>", interns, slTime);
+        sendCategoryBatch("💻 <b>Associate & Junior Roles</b>", associates, slTime);
+        sendCategoryBatch("🚀 <b>Senior & Lead Roles</b>", seniors, slTime);
+
+        // 3. Final Footer
+        sendToTelegram("📊 <b>Check the Full Dashboard:</b>\n" +
+                "<a href=\"https://github.com/Senadeera-NK/sri-lanka-software-jobs\">GitHub Tracker</a>");
+    }
+
+    //categorizing messages
+    private void sendCategoryBatch(String header, List<Job> jobs, String time) {
+        if (jobs.isEmpty()) return;
+
+        // Chunking within the category if there are more than 15
         int batchSize = 15;
-        for (int i = 0; i < newJobs.size(); i += batchSize) {
-            int end = Math.min(i + batchSize, newJobs.size());
-            List<Job> batch = newJobs.subList(i, end);
+        for (int i = 0; i < jobs.size(); i += batchSize) {
+            int end = Math.min(i + batchSize, jobs.size());
+            List<Job> batch = jobs.subList(i, end);
 
             StringBuilder sb = new StringBuilder();
-            sb.append(String.format("<b>🔥 New Jobs Found! (%d/%d)</b>\n", (i / batchSize) + 1, (newJobs.size() / batchSize) + 1));
-            sb.append("<i>" + slTime + "</i>\n\n");
+            sb.append(header).append("\n");
+            sb.append("<i>").append(time).append("</i>\n\n");
 
             for (Job job : batch) {
-                // Clean the title for HTML safety
                 String safeTitle = job.title().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;");
-                sb.append(String.format("📍 <a href=\"%s\">%s</a>\n\n", job.link(), safeTitle));
-            }
-
-            if (end == newJobs.size()) {
-                sb.append("📊 <b>Full Dashboard:</b> <a href=\"https://github.com/Senadeera-NK/sri-lanka-software-jobs\">Click Here</a>");
+                sb.append(String.format("📍 <a href=\"%s\">%s</a>\n", job.link(), safeTitle));
+                // Add company name for better context in Telegram
+                sb.append("🏢 <i>").append(job.company()).append("</i>\n\n");
             }
 
             sendToTelegram(sb.toString());
-
-            // Brief sleep to avoid hitting Telegram's rate limit (30 msgs/sec)
-            try { Thread.sleep(500); } catch (InterruptedException ignored) {}
+            try { Thread.sleep(800); } catch (InterruptedException ignored) {}
         }
     }
 

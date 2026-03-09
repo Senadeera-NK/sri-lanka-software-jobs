@@ -5,15 +5,15 @@
 > **Help keep this project alive!** If this tool helped you find a lead today, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It’s how I measure the impact on our dev community! 🇱🇰
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 9,6:31 PM (Just now)  | **Total Jobs Found:** 114
+> 🟢 **Last Updated:** March 9,5:09 PM (Just now)  | **Total Jobs Found:** 112
 
 ### 🎓 Internships & Trainees  (17)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Web Development Intern](https://itpro.lk/job/13226/web-development-intern-at-koncepthive/) | Koncepthive | Intern | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer \| Fullstack & Mobile Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477275&ec=DEFZZZ) | FinzLabs | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Intern AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477273&ec=DEFZZZ) | FinzLabs | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Development Intern](https://itpro.lk/job/13226/web-development-intern-at-koncepthive/) | Koncepthive | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer \| Fullstack & Mobile Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477275&ec=DEFZZZ) | FinzLabs | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477273&ec=DEFZZZ) | FinzLabs | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer Intern](https://itpro.lk/job/13215/software-engineer-intern-at-perpova-developers/) | Perpova Developers | Intern | Yesterday | ITPro.lk |
 | [DevOps Intern](https://itpro.lk/job/13213/devops-intern-at-perpova-developers/) | Perpova Developers | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/13211/software-engineer-intern-at-sisenco-digital/) | Sisenco Digital | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -31,19 +31,17 @@
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (63)
+### 💻 Associate & Junior/SE Roles  (61)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Web Developer](https://itpro.lk/job/13241/associate-web-developer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Web Designer](https://itpro.lk/job/13240/web-designer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Web Content Assistant](https://itpro.lk/job/13220/web-content-assistant-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 8&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Audio Visual Technician / AV Programmer / Mobile Technician (Qatar)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473056&ec=DEFZZZ) | WorkNet Global (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Mid-Level Backend Developer (Python)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477264&ec=DEFZZZ) | Seren IT Services | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477256&ec=DEFZZZ) | Seren IT Services | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Content Assistant](https://itpro.lk/job/13220/web-content-assistant-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Audio Visual Technician / AV Programmer / Mobile Technician (Qatar)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473056&ec=DEFZZZ) | WorkNet Global (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Mid-Level Backend Developer (Python)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477264&ec=DEFZZZ) | Seren IT Services | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477256&ec=DEFZZZ) | Seren IT Services | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer (Angular / C# .NET Core)](https://itpro.lk/job/12777/software-engineer-angular-c-net-core-at-enhanzer/) | Enhanzer | Junior/SE | Yesterday | ITPro.lk |
 | [AUTOMATION SOLUTIONS DEVELOPER (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001477195&ec=0000000023) | Maritime Placements (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [WordPress Developer / Website Product Owner](https://itpro.lk/job/13207/wordpress-developer-website-product-owner-at-outerspace-digital/) | Outerspace Digital | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -105,7 +103,7 @@
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer](https://itpro.lk/job/13216/senior-software-engineer-at-bistec-global/) | BISTEC Global | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476485&ec=DEFZZZ) | A K H IT Solutions (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer -  JAVA Development (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001476456&ec=0000000654) | George Bernard (Pvt) Ltd | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |

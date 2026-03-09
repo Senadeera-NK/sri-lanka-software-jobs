@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![GitHub Repo stars](https://img.shields.io/github/stars/Senadeera-NK/sri-lanka-software-jobs?style=social)](https://github.com/Senadeera-NK/sri-lanka-software-jobs/stargazers) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL_NAME)
+# 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL_NAME)
 🚀 Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
 
 > [!TIP]

@@ -8,14 +8,15 @@
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 9,7:49 PM (Just now)  | **Total Jobs Found:** 119
+> 🟢 **Last Updated:** March 9,11:07 PM (Just now)  | **Total Jobs Found:** 120
 
-### 🎓 Internships & Trainees  (20)
+### 🎓 Internships & Trainees  (21)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Web Development Intern](https://itpro.lk/job/13226/web-development-intern-at-koncepthive/) | Koncepthive | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer \| Fullstack & Mobile Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477275&ec=DEFZZZ) | FinzLabs | Intern | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Internship Full Stack Developer Trainee](https://itpro.lk/job/13245/internship-full-stack-developer-trainee-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | 59&nbsp;mins&nbsp;ago | ITPro.lk |
+| [Web Development Intern](https://itpro.lk/job/13226/web-development-intern-at-koncepthive/) | Koncepthive | Intern | 10&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer \| Fullstack & Mobile Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477275&ec=DEFZZZ) | FinzLabs | Intern | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer Intern](https://itpro.lk/job/13215/software-engineer-intern-at-perpova-developers/) | Perpova Developers | Intern | Yesterday | ITPro.lk |
 | [QA Engineer Intern](https://itpro.lk/job/13214/qa-engineer-intern-at-perpova-developers/) | Perpova Developers | Intern | Yesterday | ITPro.lk |
 | [DevOps Intern](https://itpro.lk/job/13213/devops-intern-at-perpova-developers/) | Perpova Developers | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -41,15 +42,15 @@
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Web Developer](https://itpro.lk/job/13241/associate-web-developer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Quality Assurance Engineers](https://itpro.lk/job/13233/associate-quality-assurance-engineers-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Engineer](https://itpro.lk/job/13224/quality-engineer-at-predictiv-ai/) | Predictiv AI | Junior/SE | 8&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Mid-Level Backend Developer (Python)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477264&ec=DEFZZZ) | Seren IT Services | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477256&ec=DEFZZZ) | Seren IT Services | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001473839&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Web Developer](https://itpro.lk/job/13241/associate-web-developer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Quality Assurance Engineers](https://itpro.lk/job/13233/associate-quality-assurance-engineers-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Engineer](https://itpro.lk/job/13224/quality-engineer-at-predictiv-ai/) | Predictiv AI | Junior/SE | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Mid-Level Backend Developer (Python)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477264&ec=DEFZZZ) | Seren IT Services | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477256&ec=DEFZZZ) | Seren IT Services | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001473839&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer (Angular / C# .NET Core)](https://itpro.lk/job/12777/software-engineer-angular-c-net-core-at-enhanzer/) | Enhanzer | Junior/SE | Yesterday | ITPro.lk |
 | [AUTOMATION SOLUTIONS DEVELOPER (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001477195&ec=0000000023) | Maritime Placements (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Cloud Solutions Architect](https://itpro.lk/job/13205/cloud-solutions-architect-at-tech-pacific-solutions/) | Tech Pacific Solutions | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -109,8 +110,8 @@
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior QA Engineer (Manual & Automation)](https://itpro.lk/job/13221/senior-qa-engineer-manual-automation-at-orysys/) | Orysys | Senior | 8&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior QA Engineer (Manual & Automation)](https://itpro.lk/job/13221/senior-qa-engineer-manual-automation-at-orysys/) | Orysys | Senior | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer](https://itpro.lk/job/13216/senior-software-engineer-at-bistec-global/) | BISTEC Global | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476485&ec=DEFZZZ) | A K H IT Solutions (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior QA Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001441300&ec=0000000555) | Sumathi Group | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |

@@ -1,5 +1,6 @@
 package lk.jobs.engine;
 
+import io.github.cdimascio.dotenv.Dotenv;
 import lk.jobs.model.Job;
 import lk.jobs.scrapers.ITProScraper;
 import lk.jobs.scrapers.JobScraper;
@@ -34,9 +35,19 @@ public class ScraperManager {
 
         // Execute all scrapers
         for (JobScraper scraper : scrapers) {
-            System.out.println("Scraping: " + scraper.getSourceName());
-            allNewJobs.addAll(scraper.scrape());
+            try{
+                System.out.println("Scraping: " + scraper.getSourceName());
+                List<Job> scrapped = scraper.scrape();
+                System.out.println("Found"+scrapped.size()+" jobs from "+scraper.getSourceName());
+                allNewJobs.addAll(scrapped);
+            }catch(Exception e){
+                System.err.println("CRITICAL ERROR on "+scraper.getSourceName()+": "+e.getMessage());
+            }
+
         }
+
+
+
         //loading history data from json
         List<Job> existingHistory = jsonStore.load();
 
@@ -62,5 +73,13 @@ public class ScraperManager {
 
     public static void main(String[] args) {
         new ScraperManager().run();
+        // Load .env file into the system environment
+        Dotenv dotenv = Dotenv.configure().load();
+        dotenv.entries().forEach(entry ->
+                System.setProperty(entry.getKey(), entry.getValue())
+        );
+
+        System.out.println("Starting Job Scraper Engine...");
+        // ... rest of your code
     }
 }

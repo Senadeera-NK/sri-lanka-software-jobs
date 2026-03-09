@@ -11,88 +11,62 @@ import java.util.regex.Pattern;
 
 public class DateParser {
     public static LocalDateTime parseDate(String dateStr) {
-        //for the sri lankan time zone
         ZoneId slZone = ZoneId.of("Asia/Colombo");
         LocalDateTime now = LocalDateTime.now(slZone);
 
-        if (dateStr == null || dateStr.isEmpty()) return now;
+        if (dateStr == null || dateStr.trim().isEmpty()) return now;
 
-        String input = dateStr.toLowerCase().trim();
-        System.out.println("input:"+input);
+        // 1. Clean data and determine "parts" for absolute dates
+        String cleanData = dateStr.trim().replaceAll("\\s+", " ");
+        String inputLower = cleanData.toLowerCase();
+        String[] parts = cleanData.split(" ");
 
-        // 1. Check if it's already an ISO string (from our JSON)
-        if (input.contains("t") && input.length() > 10) {
-            try { return LocalDateTime.parse(dateStr); } catch (Exception e) {
-                System.out.println("Error:parsing ISO: "+e);
-            }
-        }
-        // Handle relative strings (X days ago)
+        // 2. Handle Relative Strings (X days ago) - Stay with lowercase 'inputLower'
         Pattern p = Pattern.compile("(\\d+)\\s+(minute|hour|day|week|month)s?\\s+ago");
-        Matcher m = p.matcher(input);
+        Matcher m = p.matcher(inputLower);
         if (m.find()) {
             int amt = Integer.parseInt(m.group(1));
             String unit = m.group(2);
             return switch (unit) {
                 case "minute" -> now.minusMinutes(amt);
                 case "hour" -> now.minusHours(amt);
-                case "day" -> now.minusDays(amt).withHour(12).withMinute(0);
-                case "week" -> now.minusWeeks(amt).withHour(12).withMinute(0);
+                case "day", "week" -> {
+                    LocalDateTime dt = unit.equals("day") ? now.minusDays(amt) : now.minusWeeks(amt);
+                    yield dt.withHour(12).withMinute(0);
+                }
                 default -> now;
             };
         }
 
-        // Handle Absolute Dates (e.g., "28 Feb 2026" or "02 Mar 2026")
+        // 3. Handle Absolute Formats
         try {
-            //for ITPro.lk
-            DateTimeFormatter mySqlformatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
-            try{
-                return LocalDateTime.parse(dateStr, mySqlformatter);
-            }catch(Exception e){
-                System.out.println("failed to parse dateTime:"+ e);
+            // MySQL Format (ITPro)
+            if (cleanData.contains("-") && cleanData.contains(":")) {
+                return LocalDateTime.parse(cleanData, DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
             }
 
-            //TopJobs Format: "Sat Mar 07 2026"
-
+            // TopJobs (EEE MMM dd yyyy)
+            if (parts.length == 4) {
                 DateTimeFormatter topJobsFormatter = new DateTimeFormatterBuilder()
-                        .parseCaseInsensitive()
-                        .appendPattern("EEE MMM dd yyyy")
-                        .toFormatter(Locale.ENGLISH);
-
-                DateTimeFormatter generalFormatter = new DateTimeFormatterBuilder()
-                        .parseCaseInsensitive()
-                        .appendPattern("d MMM yyyy")
-                        .toFormatter(Locale.ENGLISH);
-
-                try{
-                    if(input.split(" ").length==4){
-                        LocalDate parsedDate = LocalDate.parse(input, topJobsFormatter);
-                        return handleLocalDate(parsedDate,slZone);
-                    }
-                    //07 mar 2026
-                    LocalDate parsedGeneralDate = LocalDate.parse(input, generalFormatter);
-                    return handleLocalDate(parsedGeneralDate, slZone);
-                }catch (Exception e){
-
-                }
-
-            // fallback - date only
-            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMM yyyy", Locale.ENGLISH);
-            LocalDate parsedDate = LocalDate.parse(dateStr, formatter);
-            LocalDate today = LocalDate.now(slZone);
-
-            // If it's today, return now to keep the "mins ago" fresh
-            if (parsedDate.equals(today)) {
-                return parsedDate.atStartOfDay();
+                        .parseCaseInsensitive().appendPattern("EEE MMM dd yyyy").toFormatter(Locale.ENGLISH);
+                return handleLocalDate(LocalDate.parse(cleanData, topJobsFormatter), slZone);
             }
-            // Otherwise return Noon on that day for a clean "X days ago" display
-            return parsedDate.atTime(12, 0);
-        } catch (Exception e) {
 
-            // Last resort: standard ISO date yyyy-MM-dd
+            // General (d MMM yyyy)
+            if (parts.length == 3) {
+                DateTimeFormatter generalFormatter = new DateTimeFormatterBuilder()
+                        .parseCaseInsensitive().appendPattern("d MMM yyyy").toFormatter(Locale.ENGLISH);
+                return handleLocalDate(LocalDate.parse(cleanData, generalFormatter), slZone);
+            }
+
+            // 4. LAST RESORT: Try standard ISO (only if nothing else matched)
+            return LocalDateTime.parse(dateStr);
+
+        } catch (Exception e) {
+            // Only print if we are totally lost
             try {
-                return LocalDate.parse(dateStr).atTime(12, 0);
+                return LocalDate.parse(cleanData).atTime(12, 0);
             } catch (Exception e2) {
-                System.err.println("Could not parse date: [" + dateStr + "]. Defaulting to now.");
                 return now;
             }
         }

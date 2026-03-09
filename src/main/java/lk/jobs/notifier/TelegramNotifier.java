@@ -19,51 +19,92 @@ import java.util.stream.Collectors;
 
 public class TelegramNotifier {
     //to compare existingjoblists with the new job list
-    public void notifyNewJobs(List<Job> currentScrappedJobs, List<Job> existingHistory){
-        //identifying only brand new jobs
+    public void notifyNewJobs(List<Job> currentScrappedJobs, List<Job> existingHistory) {
         Set<String> oldUrls = existingHistory.stream().map(Job::link).collect(Collectors.toSet());
         List<Job> newJobs = currentScrappedJobs.stream()
-                .filter(job-> !oldUrls.contains(job.link()))
+                .filter(job -> !oldUrls.contains(job.link()))
                 .toList();
 
-        if(newJobs.isEmpty()){
+        if (newJobs.isEmpty()) {
             System.out.println("No new jobs to notify.");
             return;
         }
 
-        //formating the message
-        //getting the SL time
         String slTime = ZonedDateTime.now(ZoneId.of("Asia/Colombo"))
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm a"));
-        StringBuilder sb = new StringBuilder("🔥 *New Jobs Found!* (" + slTime + ")\n\n");
 
-        for (Job job : newJobs) {
-            sb.append(String.format("📍 [%s](%s)\n", job.title(), job.link()));
+        // Chunking logic: Send messages in batches of 15 jobs
+        int batchSize = 15;
+        for (int i = 0; i < newJobs.size(); i += batchSize) {
+            int end = Math.min(i + batchSize, newJobs.size());
+            List<Job> batch = newJobs.subList(i, end);
+
+            StringBuilder sb = new StringBuilder();
+            sb.append(String.format("<b>🔥 New Jobs Found! (%d/%d)</b>\n", (i / batchSize) + 1, (newJobs.size() / batchSize) + 1));
+            sb.append("<i>" + slTime + "</i>\n\n");
+
+            for (Job job : batch) {
+                // Clean the title for HTML safety
+                String safeTitle = job.title().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;");
+                sb.append(String.format("📍 <a href=\"%s\">%s</a>\n\n", job.link(), safeTitle));
+            }
+
+            if (end == newJobs.size()) {
+                sb.append("📊 <b>Full Dashboard:</b> <a href=\"https://github.com/Senadeera-NK/sri-lanka-software-jobs\">Click Here</a>");
+            }
+
+            sendToTelegram(sb.toString());
+
+            // Brief sleep to avoid hitting Telegram's rate limit (30 msgs/sec)
+            try { Thread.sleep(500); } catch (InterruptedException ignored) {}
         }
-        //footer - for the github link
-        // Add the "Checkout for more" footer
-        sb.append("📊 *Check out more jobs & details here:* \n");
-        sb.append("[GitHub Dashboard](https://github.com/Senadeera-NK/sri-lanka-software-jobs)");
-        sendToTelegram(sb.toString());
     }
 
     //activate the sending the message
     private void sendToTelegram(String message) {
         try {
             String token = System.getenv("TELEGRAM_BOT_TOKEN");
-            String chatId = System.getenv("TELEGRAM_CHAT_ID");
+            if (token == null) token = System.getProperty("TELEGRAM_BOT_TOKEN");
 
-            //getting the telegram url
-            String baseUrl = Config.get("telegram.api.url");
-            String urlString = String.format(baseUrl, token, chatId, URLEncoder.encode(message, StandardCharsets.UTF_8));
+            String chatId = System.getenv("TELEGRAM_CHAT_ID");
+            if (chatId == null) chatId = System.getProperty("TELEGRAM_CHAT_ID");
+
+            if (token == null || chatId == null) {
+                System.err.println("❌ Env variables MISSING: Check TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID");
+                return;
+            }
+
+            String urlString = "https://api.telegram.org/bot" + token + "/sendMessage";
+
+            // CRITICAL: Escape backslashes, quotes, AND newlines for JSON compatibility
+            String escapedMsg = message
+                    .replace("\\", "\\\\")
+                    .replace("\"", "\\\"")
+                    .replace("\n", "\\n") // This is what was likely breaking your payload
+                    .replace("\r", "");
+
+            String jsonPayload = String.format(
+                    "{\"chat_id\": \"%s\", \"text\": \"%s\", \"parse_mode\": \"HTML\", \"disable_web_page_preview\": true}",
+                    chatId, escapedMsg
+            );
 
             HttpClient client = HttpClient.newHttpClient();
-            HttpRequest request = HttpRequest.newBuilder().uri(URI.create(urlString)).build();
-            client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create(urlString))
+                    .header("Content-Type", "application/json")
+                    .POST(HttpRequest.BodyPublishers.ofString(jsonPayload, StandardCharsets.UTF_8))
+                    .build();
 
-            System.out.println("Telegram notification sent!");
+            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+
+            if (response.statusCode() == 200) {
+                System.out.println("✅ Batch delivered successfully!");
+            } else {
+                // This body will now tell you if it's "Bad Request" or "Unauthorized"
+                System.err.println("❌ Telegram Error: " + response.statusCode() + " - " + response.body());
+            }
         } catch (Exception e) {
-            System.err.println("Failed to send Telegram: " + e.getMessage());
+            System.err.println("Critical failure sending Telegram: " + e.getMessage());
         }
     }
 }

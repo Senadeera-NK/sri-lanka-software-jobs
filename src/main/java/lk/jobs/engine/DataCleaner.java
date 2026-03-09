@@ -11,15 +11,15 @@ public class DataCleaner {
     public List<Job> clean(List<Job> allJobs) {
         if (allJobs == null || allJobs.isEmpty()) return new ArrayList<>();
 
-        List<String> domains = Config.getTechKeywords();
-        //List<String> roles = Config.getJobRoleKeywords();
+        List<String> techKeyWords = Arrays.asList(Config.get("tech.keywords").split(","));
+        List<String> blockedKeyWords = Arrays.asList(Config.get("blocked.keywords").split(","));
 
         int maxDays = Integer.parseInt(Config.get("max.days.old"));
         LocalDate cutoffDate = LocalDate.now().minusDays(maxDays);
 
         return allJobs.stream()
                 // 1. Tech Filter: Remove non-tech roles immediately
-                .filter(job -> isTechJob(job.title(), domains))
+                .filter(job -> isTechJob(job.title(), techKeyWords,blockedKeyWords))
 
                 // 2. Date Filter: Remove jobs older than 14 days
                 .filter(job -> !job.datePosted().isBefore(cutoffDate.atStartOfDay()))
@@ -39,7 +39,7 @@ public class DataCleaner {
                 .collect(Collectors.toList());
     }
 
-    private boolean isTechJob(String title, List<String> techKeywords) {
+    private boolean isTechJob(String title, List<String> techKeywords, List<String> blockedKeyWords) {
         if (title == null) return false;
         String t = title.toLowerCase();
 
@@ -49,10 +49,11 @@ public class DataCleaner {
                 .map(String::toLowerCase)
                 .anyMatch(t::contains);
 
-        // 2. Extra Safety: Hard-reject known non-tech words even if they hit a keyword
-        // Example: "HR Manager for Software Company" would match 'software' but get rejected here.
-        boolean isTrash = t.contains("human resource") || t.contains("marketing") || t.contains("recruiter");
+        //MUST NOT match any blocked keywords
+        boolean hasBlockedMatch = blockedKeyWords.stream()
+                .map(String::trim).map(String::toLowerCase)
+                .anyMatch(t::contains);
 
-        return matchesTech && !isTrash;
+        return matchesTech && !hasBlockedMatch;
     }
 }

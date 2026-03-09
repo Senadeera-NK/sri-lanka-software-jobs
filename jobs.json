@@ -1,4 +1,12 @@
 [ {
+  "title" : "Web Development Intern",
+  "company" : "Koncepthive",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13226/web-development-intern-at-koncepthive/",
+  "datePosted" : [ 2026, 3, 9, 12, 59, 18 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Web Content Assistant",
   "company" : "Ebeyonds (pvt) Ltd",
   "level" : "Junior/SE",
@@ -60,6 +68,22 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477256&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Trainee Software Engineer | Associate Software Engineer | Associate Desktop Application Engineer",
+  "company" : "Afisol (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Intern AI Engineer",
+  "company" : "FinzLabs",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477273&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -159,6 +183,14 @@
   "datePosted" : [ 2026, 3, 6, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
+  "title" : "Youtube Copyright Claiming Associate",
+  "company" : "HR Masterminder",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476832&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Software Engineer",
   "company" : "Expergen",
   "level" : "Junior/SE",
@@ -255,6 +287,38 @@
   "datePosted" : [ 2026, 3, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
+  "title" : "Assistant Manager - (AI & Data Engineering)",
+  "company" : "Dart Global Logistics (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476341&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Operations Trainee",
+  "company" : "Playbook Collective Pvt Ltd - Kandy",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476299&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "AI Automation Engineer",
+  "company" : "Lyceum Global Holdings (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476183&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Trainee Graphic Designer",
+  "company" : "Expo Industrial Engineering (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475849&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Full-Stack Engineer (React + NestJS)",
   "company" : "MO Marketplace",
   "level" : "Junior/SE",
@@ -300,6 +364,22 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475389&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 4, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "AI Video Creator & Editor",
+  "company" : "Mamro (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475589&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 4, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Trainee Graphic Designer",
+  "company" : "?Noritake Lanka Porcelain (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475518&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 4, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -503,6 +583,22 @@
   "datePosted" : [ 2026, 2, 27, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
+  "title" : "Conversational AI Engineer",
+  "company" : "Smebizness Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001474515&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "LED Video Wall Palyback Trainee",
+  "company" : "AU Entertainment (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001474127&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Senior Full Stack Software Engineer",
   "company" : "Levein",
   "level" : "Senior",
@@ -516,6 +612,14 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473754&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Automation & AI Systems Engineer",
+  "company" : "ServiceTeam Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473799&ec=DEFZZZ",
   "datePosted" : [ 2026, 2, 26, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -556,6 +660,14 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001472967&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 25, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Graphic Designer & Trainee Graphic Designer",
+  "company" : "Dasis Printers (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473091&ec=DEFZZZ",
   "datePosted" : [ 2026, 2, 25, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {

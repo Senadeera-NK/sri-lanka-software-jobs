@@ -47,7 +47,13 @@ public class DataCleaner {
         boolean matchesTech = techKeywords.stream()
                 .map(String::trim)
                 .map(String::toLowerCase)
-                .anyMatch(t::contains);
+                .anyMatch(keyword -> {
+                    // If the keyword is short (like 'qa'), check for whole word boundaries
+                    if (keyword.length() <= 2) {
+                        return t.matches(".*\\b" + keyword + "\\b.*");
+                    }
+                    return t.contains(keyword);
+                });
 
         //MUST NOT match any blocked keywords
         boolean hasBlockedMatch = blockedKeyWords.stream()

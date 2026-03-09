@@ -37,13 +37,13 @@ public class MarkdownGenerator {
             String relativeTime = TimeUtils.getRelativeTime(now);
             String metaInfo = "> 🟢 **Last Updated:** " + absoluteTime + " ("+relativeTime+") "+" | **Total Jobs Found:** " + jobs.size() + "\n\n";
 
-            // 2. Prepare the replacement block
+            //Prepare the replacement block
             String replacementBlock = START_MARKER + "\n" + metaInfo + newTable + "\n" + END_MARKER;
 
-            // 3. Use Pattern.quote to handle the markers safely
+            //Use Pattern.quote to handle the markers safely
             String patternString = "(?s)" + Pattern.quote(START_MARKER) + ".*?" + Pattern.quote(END_MARKER);
 
-            // 4. Use Matcher.quoteReplacement to avoid errors with special characters in job titles
+            // Use Matcher.quoteReplacement to avoid errors with special characters in job titles
             String updatedContent = content.replaceFirst(patternString, Matcher.quoteReplacement(replacementBlock));
 
             Files.writeString(path, updatedContent, StandardCharsets.UTF_8);

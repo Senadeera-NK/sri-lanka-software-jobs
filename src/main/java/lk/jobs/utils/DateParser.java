@@ -51,7 +51,7 @@ public class DateParser {
                 System.out.println("failed to parse dateTime:"+ e);
             }
 
-            // 2. TopJobs Format: "Sat Mar 07 2026"
+            //TopJobs Format: "Sat Mar 07 2026"
 
                 DateTimeFormatter topJobsFormatter = new DateTimeFormatterBuilder()
                         .parseCaseInsensitive()
@@ -87,6 +87,7 @@ public class DateParser {
             // Otherwise return Noon on that day for a clean "X days ago" display
             return parsedDate.atTime(12, 0);
         } catch (Exception e) {
+
             // Last resort: standard ISO date yyyy-MM-dd
             try {
                 return LocalDate.parse(dateStr).atTime(12, 0);

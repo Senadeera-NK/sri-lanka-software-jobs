@@ -6,19 +6,24 @@ import lk.jobs.scrapers.JobScraper;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
 import lk.jobs.scrapers.TopJobsScraper;
+import lk.jobs.notifier.TelegramNotifier;
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class ScraperManager {
     private final List<JobScraper> scrapers = new ArrayList<>();
     private final JsonStore jsonStore = new JsonStore();
-    // 1. You must create the cleaner instance here
+    //creating the cleaner instance
     private final DataCleaner dataCleaner = new DataCleaner();
 
-    public void run() {
-        System.out.println("🚀 Starting Job Scraper Engine...");
+    //creating a notifer instance
+    private final TelegramNotifier telegramNotifier = new TelegramNotifier();
 
-        // 2. Fix the URL config call (remove the "14")
+    public void run() {
+        System.out.println("Starting Job Scraper Engine...");
+
+        //fixing the URL config call (remove the "14")
         String itProURL = Config.get("itpro.api.url");
         scrapers.add(new ITProScraper(itProURL));
 
@@ -29,24 +34,27 @@ public class ScraperManager {
 
         // Execute all scrapers
         for (JobScraper scraper : scrapers) {
-            System.out.println("🔍 Scraping: " + scraper.getSourceName());
+            System.out.println("Scraping: " + scraper.getSourceName());
             allNewJobs.addAll(scraper.scrape());
         }
         //loading history data from json
         List<Job> existingHistory = jsonStore.load();
 
+        //NOTIFY FIRST - before merging to the github
+        telegramNotifier.notifyNewJobs(allNewJobs, existingHistory);
+
         //combining all into one master list
         List<Job> masterList = new ArrayList<>(existingHistory);
         masterList.addAll(allNewJobs);
 
-        // 3. Clean the NEW data first
+        //Clean the NEW data first
         List<Job> finalCleanedList = dataCleaner.clean(masterList);
 
-        // 4. Merge the CLEANED data with the existing store
+        //Merge the CLEANED data with the existing store
         System.out.println("Merging and saving " + finalCleanedList.size() + " update jobs to history..");
         jsonStore.save(finalCleanedList);
 
-        // 5. Update the README using the FULL list from the store (Old + New)
+        // Update the README using the FULL list from the store (Old + New)
         new MarkdownGenerator().update(finalCleanedList);
 
         System.out.println("Process completed successfully.");

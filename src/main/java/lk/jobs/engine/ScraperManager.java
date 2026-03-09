@@ -51,12 +51,15 @@ public class ScraperManager {
         //loading history data from json
         List<Job> existingHistory = jsonStore.load();
 
-        //NOTIFY FIRST - before merging to the github
-        telegramNotifier.notifyNewJobs(allNewJobs, existingHistory);
+        //cleaning the new jobs first
+        List<Job> cleanedNewJobs = dataCleaner.clean(allNewJobs);
 
-        //combining all into one master list
+        //NOTIFY FIRST - the cleaned new jobs
+        telegramNotifier.notifyNewJobs(cleanedNewJobs, existingHistory);
+
+        //combining and deduplicating for the master list
         List<Job> masterList = new ArrayList<>(existingHistory);
-        masterList.addAll(allNewJobs);
+        masterList.addAll(cleanedNewJobs);
 
         //Clean the NEW data first
         List<Job> finalCleanedList = dataCleaner.clean(masterList);

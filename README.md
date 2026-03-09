@@ -4,6 +4,9 @@
 > [!TIP]
 > **Help keep this project alive!** If this tool helped you find a lead today, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It’s how I measure the impact on our dev community! 🇱🇰
 
+> [!IMPORTANT]
+> **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
+
 ## 📊 Current Job Openings
 > 🟢 **Last Updated:** March 9,7:49 PM (Just now)  | **Total Jobs Found:** 119
 

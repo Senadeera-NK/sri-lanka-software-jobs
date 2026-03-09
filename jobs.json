@@ -39,22 +39,6 @@
   "datePosted" : [ 2026, 3, 9, 11, 9, 25 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "Web Content Assistant",
-  "company" : "Ebeyonds (pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13220/web-content-assistant-at-ebeyonds-pvt-ltd/",
-  "datePosted" : [ 2026, 3, 9, 10, 18, 29 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
-  "title" : "Technical Architect (Business Automation & Digital Transformation)",
-  "company" : "Orysys",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13209/technical-architect-business-automation-digital-transformation-at-orysys/",
-  "datePosted" : [ 2026, 3, 9, 2, 17, 53 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
   "title" : "Software Engineers",
   "company" : "Venturecorp (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -111,11 +95,11 @@
   "datePosted" : [ 2026, 3, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "Intern AI Engineer",
-  "company" : "FinzLabs",
-  "level" : "Intern",
+  "title" : "QA Engineer",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
   "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477273&ec=DEFZZZ",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001473839&ec=0000000651",
   "datePosted" : [ 2026, 3, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -175,14 +159,6 @@
   "datePosted" : [ 2026, 3, 7, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "WordPress Developer / Website Product Owner",
-  "company" : "Outerspace Digital",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13207/wordpress-developer-website-product-owner-at-outerspace-digital/",
-  "datePosted" : [ 2026, 3, 6, 15, 41, 41 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
   "title" : "Cloud Solutions Architect",
   "company" : "Tech Pacific Solutions",
   "level" : "Junior/SE",
@@ -228,6 +204,22 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476485&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Unqork SME / Technical Expert (Integrations & Azure) (1)",
+  "company" : "Mobizz Elite (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001476566&ec=0000000531",
+  "datePosted" : [ 2026, 3, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Senior QA Engineer (1)",
+  "company" : "Sumathi Group",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001441300&ec=0000000555",
   "datePosted" : [ 2026, 3, 6, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -335,19 +327,27 @@
   "datePosted" : [ 2026, 3, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "Assistant Manager - (AI & Data Engineering)",
-  "company" : "Dart Global Logistics (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476341&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 5, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
   "title" : "AI Automation Engineer",
   "company" : "Lyceum Global Holdings (Pvt) Ltd",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476183&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Quality Assurance Tester",
+  "company" : "Levein",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476322&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Unqork SME / Technical Expert (Integrations & Azure) (1)",
+  "company" : "R.M.D Consultants (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000499&jc=0001476267&ec=0000000679",
   "datePosted" : [ 2026, 3, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -396,6 +396,14 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475389&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 4, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Senior QA Engineer (Automation) (1)",
+  "company" : "George Bernard (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001475765&ec=0000000654",
   "datePosted" : [ 2026, 3, 4, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -495,6 +503,14 @@
   "datePosted" : [ 2026, 3, 3, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
+  "title" : "Data Science Intern",
+  "company" : "Gotli Labs",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475156&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 3, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Senior Quality Assurance Engineer (Automation – Playwright)",
   "company" : "Digiratina Technology Solutions",
   "level" : "Senior",
@@ -533,22 +549,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13172/senior-qa-engineer-at-bistec-global/",
   "datePosted" : [ 2026, 2, 28, 23, 27, 47 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
-  "title" : "Junior Web Executive",
-  "company" : "Olanka Travels",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13168/junior-web-executive-at-olanka-travels/",
-  "datePosted" : [ 2026, 2, 28, 17, 15, 8 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
-  "title" : "Senior Web Executive",
-  "company" : "Olanka Travels",
-  "level" : "Senior",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13167/senior-web-executive-at-olanka-travels/",
-  "datePosted" : [ 2026, 2, 28, 17, 10, 20 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
   "title" : "Senior Full Stack Engineer (React/Next/Node/Python)",
@@ -615,14 +615,6 @@
   "datePosted" : [ 2026, 2, 27, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "Conversational AI Engineer",
-  "company" : "Smebizness Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001474515&ec=DEFZZZ",
-  "datePosted" : [ 2026, 2, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
   "title" : "Senior Full Stack Software Engineer",
   "company" : "Levein",
   "level" : "Senior",
@@ -644,6 +636,14 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473799&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "Data Engineer - Python",
+  "company" : "Asiawise Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473674&ec=DEFZZZ",
   "datePosted" : [ 2026, 2, 26, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -671,11 +671,19 @@
   "datePosted" : [ 2026, 2, 25, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
-  "title" : "Manager | Senior Manager - Application Development & Implementation",
-  "company" : "PMF Finance PLC",
-  "level" : "Senior",
+  "title" : "Quality Assurance (QA) Engineer",
+  "company" : "Encore Group LLC",
+  "level" : "Junior/SE",
   "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001472967&ec=DEFZZZ",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473338&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 25, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "QA Intern (Full-Time | Remote)",
+  "company" : "Ventaz AI",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473234&ec=DEFZZZ",
   "datePosted" : [ 2026, 2, 25, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
@@ -855,6 +863,22 @@
   "datePosted" : [ 2026, 2, 24, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
+  "title" : "Senior Database Administrator (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001472888&ec=0000000661",
+  "datePosted" : [ 2026, 2, 24, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
+  "title" : "QA Engineer",
+  "company" : "M Data Zone (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001472849&ec=DEFZZZ",
+  "datePosted" : [ 2026, 2, 24, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 9 ]
+}, {
   "title" : "Intern / Junior QA Engineer",
   "company" : "Amerck",
   "level" : "Intern",
@@ -893,14 +917,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13107/associate-software-engineer-business-automation-at-orysys/",
   "datePosted" : [ 2026, 2, 23, 12, 22, 3 ],
-  "scrapedDate" : [ 2026, 3, 9 ]
-}, {
-  "title" : "Project Manager - Software Delivery (1)",
-  "company" : "Informatics Group of Companies",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000141&jc=0001472143&ec=0000000159",
-  "datePosted" : [ 2026, 2, 23, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 9 ]
 }, {
   "title" : "Junior Power BI Developer (1)",

@@ -3,6 +3,7 @@
 
 ---
 <sub>📢 **Support the project:** If this helped you find a lead, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It's how I measure the impact on our dev community!</sub>
+
 ---
 
 

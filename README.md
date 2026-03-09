@@ -5,7 +5,7 @@
 > **Help keep this project alive!** If this tool helped you find a lead today, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It’s how I measure the impact on our dev community! 🇱🇰
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 9,7:29 PM (Just now)  | **Total Jobs Found:** 119
+> 🟢 **Last Updated:** March 9,7:49 PM (Just now)  | **Total Jobs Found:** 119
 
 ### 🎓 Internships & Trainees  (20)
 

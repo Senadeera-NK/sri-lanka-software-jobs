@@ -24,7 +24,7 @@ public class Config {
         return properties.getProperty(key);
     }
 
-    // Pro tip: Add a helper for Integers like "max.days.old"
+    // Add a helper for Integers like "max.days.old"
     public static int getInt(String key, int defaultValue) {
         String value = properties.getProperty(key);
         return (value != null) ? Integer.parseInt(value) : defaultValue;
@@ -37,7 +37,7 @@ public class Config {
         return Arrays.asList(value.split(","));
     }
 
-    //Optional
+    //----Optional----
     // Add these to Config.java for convenience
     public static List<String> getTechKeywords() {
         return getList("tech.keywords");

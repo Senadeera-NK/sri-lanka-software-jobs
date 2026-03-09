@@ -8,6 +8,7 @@ import java.time.temporal.ChronoUnit;
 public class TimeUtils {
     private static final ZoneId SL_ZONE = ZoneId.of("Asia/Colombo");
     public static String getRelativeTime(java.time.LocalDateTime dateTime) {
+
         //converting the stored localDatetime to a zoned instance
         ZonedDateTime jobTime = dateTime.atZone(SL_ZONE);
 

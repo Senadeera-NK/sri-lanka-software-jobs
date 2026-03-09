@@ -4,6 +4,7 @@
 *.iws
 *.ipr
 
+
 # Compiled Java files (You have target/classes visible currently!)
 target/
 *.class

@@ -5,7 +5,7 @@
 > **Help keep this project alive!** If this tool helped you find a lead today, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It’s how I measure the impact on our dev community! 🇱🇰
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 9,5:09 PM (Just now)  | **Total Jobs Found:** 112
+> 🟢 **Last Updated:** March 9,5:27 PM (Just now)  | **Total Jobs Found:** 114
 
 ### 🎓 Internships & Trainees  (17)
 
@@ -31,11 +31,13 @@
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (61)
+### 💻 Associate & Junior/SE Roles  (63)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Web Content Assistant](https://itpro.lk/job/13220/web-content-assistant-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Web Developer](https://itpro.lk/job/13241/associate-web-developer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Associate | 8&nbsp;mins&nbsp;ago | ITPro.lk |
+| [Web Designer](https://itpro.lk/job/13240/web-designer-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 10&nbsp;mins&nbsp;ago | ITPro.lk |
+| [Web Content Assistant](https://itpro.lk/job/13220/web-content-assistant-at-ebeyonds-pvt-ltd/) | Ebeyonds (pvt) Ltd | Junior/SE | 7&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Audio Visual Technician / AV Programmer / Mobile Technician (Qatar)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001473056&ec=DEFZZZ) | WorkNet Global (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |

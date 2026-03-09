@@ -17,8 +17,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static com.fasterxml.jackson.databind.type.LogicalType.DateTime;
-
 public class TelegramNotifier {
     //to compare existingjoblists with the new job list
     public void notifyNewJobs(List<Job> currentScrappedJobs, List<Job> existingHistory){

@@ -1,6 +1,9 @@
 # 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![GitHub Repo stars](https://img.shields.io/github/stars/Senadeera-NK/sri-lanka-software-jobs?style=social)](https://github.com/Senadeera-NK/sri-lanka-software-jobs/stargazers)
 🚀 Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
 
+---
+📢 **Help keep this project alive!** This tracker is free and open-source. If it helped you find a lead today, please **Star ⭐ the repo**. It’s the only way I know this is actually helping the Sri Lankan dev community! 🇱🇰
+---
 
 ## 📊 Current Job Openings
 > 🟢 **Last Updated:** March 9,12:06 PM (Just now)  | **Total Jobs Found:** 98

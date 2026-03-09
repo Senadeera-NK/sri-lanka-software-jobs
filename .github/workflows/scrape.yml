@@ -32,3 +32,5 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update jobs: $(date)" && git push)
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

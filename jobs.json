@@ -47,6 +47,54 @@
   "datePosted" : [ 2026, 3, 10, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 10 ]
 }, {
+  "title" : "Senior SQL Developer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
+  "title" : "Senior/lead DevOps Engineer (Contract) (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001477961&ec=0000000492",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
+  "title" : "Cyber Security Analyst",
+  "company" : "UB Finance PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478138&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
+  "title" : "Laravel Tech Lead / Laravel Architecture",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478006&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
+  "title" : "Management Coordinator Software",
+  "company" : "Vital One (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477880&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
+  "title" : "Junior Power BI Developer (1)",
+  "company" : "McLarens Holdings Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000026&jc=0001472128&ec=0000000026",
+  "datePosted" : [ 2026, 3, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 10 ]
+}, {
   "title" : "Internship Full Stack Developer Trainee",
   "company" : "ITX Digital Services (Pvt) Ltd",
   "level" : "Intern",
@@ -77,14 +125,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13226/web-development-intern-at-koncepthive/",
   "datePosted" : [ 2026, 3, 9, 12, 59, 18 ],
-  "scrapedDate" : [ 2026, 3, 10 ]
-}, {
-  "title" : "Senior SQL Developer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
-  "datePosted" : [ 2026, 3, 9, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 10 ]
 }, {
   "title" : "Software Engineer | Fullstack & Mobile Development Intern",
@@ -844,14 +884,6 @@
   "level" : "Associate",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001472669&ec=DEFZZZ",
-  "datePosted" : [ 2026, 2, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 10 ]
-}, {
-  "title" : "Senior/lead DevOps Engineer (Contract) (1)",
-  "company" : "Jobfactory",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001472606&ec=0000000492",
   "datePosted" : [ 2026, 2, 24, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 10 ]
 }, {

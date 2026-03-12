@@ -8,14 +8,15 @@
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 12,11:41 AM (Just now)  | **Total Jobs Found:** 102
+> 🟢 **Last Updated:** March 12,5:20 PM (Just now)  | **Total Jobs Found:** 109
 
-### 🎓 Internships & Trainees  (21)
+### 🎓 Internships & Trainees  (22)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer Intern](https://itpro.lk/job/13253/software-engineer-intern-at-rispit/) | Rispit | Intern | 23&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern - Business Analyst, DevOps and Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478279&ec=DEFZZZ) | Future CX Lanka (Pvt) Ltd | Intern | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Cloud Solutions and Service (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001466318&ec=0000000313) | John Keells IT | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer Intern](https://itpro.lk/job/13253/software-engineer-intern-at-rispit/) | Rispit | Intern | Yesterday | ITPro.lk |
+| [Intern - Business Analyst, DevOps and Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478279&ec=DEFZZZ) | Future CX Lanka (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
 | [Software Quality Assurance - Intern](https://itpro.lk/job/13246/software-quality-assurance-intern-at-qdesk-ai-pvt-ltd/) | Qdesk AI Pvt Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Internship Full Stack Developer Trainee](https://itpro.lk/job/13245/internship-full-stack-developer-trainee-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Web Development Intern](https://itpro.lk/job/13226/web-development-intern-at-koncepthive/) | Koncepthive | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -38,21 +39,27 @@
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (48)
+### 💻 Associate & Junior/SE Roles  (54)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001473839&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477811&ec=DEFZZZ) | InEight SL (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Platform Engineer (AI Assisted Development)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478358&ec=DEFZZZ) | Lyceum Global Holdings (Pvt) Ltd | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer - iOS Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478660&ec=DEFZZZ) | Ideahub (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478655&ec=DEFZZZ) | Ideahub (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Software Engineer (Colombo)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478646&ec=DEFZZZ) | Nawaloka College of Higher Studies | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Scientist (Architect) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001478461&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Python Architect (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001478455&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Backend Developer (Node.js / NestJS)](https://itpro.lk/job/13268/backend-developer-nodejs-nestjs-at-icellyte/) | Icellyte | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Assurance Engineer](https://itpro.lk/job/13266/quality-assurance-engineer-at-digitalbee-labs/) | DigitalBee Labs | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Trainee QA Engineer](https://itpro.lk/job/13265/trainee-qa-engineer-at-digitalbee-labs/) | DigitalBee Labs | Associate | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001476158&ec=DEFZZZ) | Venturecorp (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001473839&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477811&ec=DEFZZZ) | InEight SL (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Officer (ISMS)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Trainee - Software Engineering](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478996&ec=DEFZZZ) | iPhonik (Pvt) Ltd | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Azure/ Dynamics 365 (Business Central Administrator) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001478995&ec=0000000264) | Browns Group Of Companies | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475446&ec=DEFZZZ) | Greenpeace South Asia | Junior/SE | Yesterday | TopJobs.lk |
+| [Associate Platform Engineer (AI Assisted Development)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478358&ec=DEFZZZ) | Lyceum Global Holdings (Pvt) Ltd | Associate | Yesterday | TopJobs.lk |
+| [Software Engineer - iOS Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478660&ec=DEFZZZ) | Ideahub (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478655&ec=DEFZZZ) | Ideahub (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Associate Software Engineer (Colombo)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478646&ec=DEFZZZ) | Nawaloka College of Higher Studies | Associate | Yesterday | TopJobs.lk |
+| [Data Scientist (Architect) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001478461&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Python Architect (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001478455&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Cyber Security Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478138&ec=DEFZZZ) | UB Finance PLC | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Management Coordinator Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477880&ec=DEFZZZ) | Vital One (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Junior Power BI Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000026&jc=0001472128&ec=0000000026) | McLarens Holdings Limited | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -97,13 +104,13 @@
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer / Senior / Lead  - Data Migration & Integration](https://itpro.lk/job/13259/software-engineer-senior-lead-data-migration-integration-at-jfs-holdings/) | JFS Holdings | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer - PHP](https://itpro.lk/job/13258/senior-software-engineer-php-at-vitalhub-innovations-lab/) | VitalHub Innovations Lab | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Lead / Senior / Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478356&ec=0000000492) | Jobfactory | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer / Senior Software Engineer -  Data Migrati...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478604&ec=0000000492) | Jobfactory | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior DevOPs Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478614&ec=0000000492) | Jobfactory | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Lead DevOps Enginineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478615&ec=0000000492) | Jobfactory | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer / Senior / Lead  - Data Migration & Integration](https://itpro.lk/job/13259/software-engineer-senior-lead-data-migration-integration-at-jfs-holdings/) | JFS Holdings | Senior | Yesterday | ITPro.lk |
+| [Senior Software Engineer - PHP](https://itpro.lk/job/13258/senior-software-engineer-php-at-vitalhub-innovations-lab/) | VitalHub Innovations Lab | Senior | Yesterday | ITPro.lk |
+| [Lead / Senior / Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478356&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
+| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
+| [Software Engineer / Senior Software Engineer -  Data Migrati...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478604&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
+| [Senior DevOPs Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478614&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
+| [Lead DevOps Enginineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001478615&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior/lead DevOps Engineer (Contract) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001477961&ec=0000000492) | Jobfactory | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Laravel Tech Lead / Laravel Architecture](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478006&ec=DEFZZZ) | Company Name Withheld | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer Full Stack (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001478193&ec=0000000661) | DirectFN | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

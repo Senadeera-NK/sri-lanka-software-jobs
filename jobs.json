@@ -1,4 +1,28 @@
 [ {
+  "title" : "Backend Developer (Node.js / NestJS)",
+  "company" : "Icellyte",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13268/backend-developer-nodejs-nestjs-at-icellyte/",
+  "datePosted" : [ 2026, 3, 12, 12, 51, 33 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Quality Assurance Engineer",
+  "company" : "DigitalBee Labs",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13266/quality-assurance-engineer-at-digitalbee-labs/",
+  "datePosted" : [ 2026, 3, 12, 12, 33, 21 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Trainee QA Engineer",
+  "company" : "DigitalBee Labs",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13265/trainee-qa-engineer-at-digitalbee-labs/",
+  "datePosted" : [ 2026, 3, 12, 12, 30, 58 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
   "title" : "Software Engineers",
   "company" : "Venturecorp (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -28,6 +52,38 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477811&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Information Security Officer (ISMS)",
+  "company" : "Treinetic (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Trainee - Software Engineering",
+  "company" : "iPhonik (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478996&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Azure/ Dynamics 365 (Business Central Administrator) (1)",
+  "company" : "Browns Group Of Companies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001478995&ec=0000000264",
+  "datePosted" : [ 2026, 3, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 12 ]
+}, {
+  "title" : "Intern - Cloud Solutions and Service (1)",
+  "company" : "John Keells IT",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001466318&ec=0000000313",
   "datePosted" : [ 2026, 3, 12, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 12 ]
 }, {

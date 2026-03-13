@@ -1,4 +1,44 @@
 [ {
+  "title" : "Senior Software Engineer - Full Stack - JavaScript",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13278/senior-software-engineer-full-stack-javascript-at-/",
+  "datePosted" : [ 2026, 3, 13, 16, 47, 23 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Senior Software Engineer - Agentic AI",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13277/senior-software-engineer-agentic-ai-at-/",
+  "datePosted" : [ 2026, 3, 13, 16, 43, 22 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Senior Software Engineer - .NET",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13276/senior-software-engineer-net-at-/",
+  "datePosted" : [ 2026, 3, 13, 16, 39, 46 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Senior Software Engineer - Golang",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13275/senior-software-engineer-golang-at-/",
+  "datePosted" : [ 2026, 3, 13, 16, 19, 21 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Full Stack Developer Intern",
+  "company" : "Ranga Technologies (PineGen AI)",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13274/full-stack-developer-intern-at-ranga-technologies-pinegen-ai/",
+  "datePosted" : [ 2026, 3, 13, 14, 24, 33 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
   "title" : "Full Stack Developer (React.js & Supabase)",
   "company" : "KD Marketing Group",
   "level" : "Junior/SE",
@@ -52,6 +92,22 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479329&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Senior QA Engineer (1)",
+  "company" : "Sumathi Group",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001441300&ec=0000000555",
+  "datePosted" : [ 2026, 3, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 13 ]
+}, {
+  "title" : "Backend Developer / Engineer -  Golang (1)",
+  "company" : "Browns Group Of Companies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001479675&ec=0000000264",
   "datePosted" : [ 2026, 3, 13, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 13 ]
 }, {
@@ -476,14 +532,6 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001476566&ec=0000000531",
-  "datePosted" : [ 2026, 3, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 13 ]
-}, {
-  "title" : "Senior QA Engineer (1)",
-  "company" : "Sumathi Group",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001441300&ec=0000000555",
   "datePosted" : [ 2026, 3, 6, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 13 ]
 }, {

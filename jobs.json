@@ -1,4 +1,28 @@
 [ {
+  "title" : ".NET Developer",
+  "company" : "ASN IT",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13291/net-developer-at-asn-it/",
+  "datePosted" : [ 2026, 3, 16, 16, 5, 48 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Quality Assurance Engineer",
+  "company" : "i4T Labs",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13290/quality-assurance-engineer-at-i4t-labs/",
+  "datePosted" : [ 2026, 3, 16, 14, 55, 28 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Full Stack Software Engineering Intern",
+  "company" : "Zeawis Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13288/full-stack-software-engineering-intern-at-zeawis-ltd/",
+  "datePosted" : [ 2026, 3, 16, 14, 29, 49 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
   "title" : "QA Intern – Software Testing",
   "company" : "Seedbyte",
   "level" : "Intern",
@@ -60,6 +84,54 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001480027&ec=0000000531",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Technical Lead (Python) (1)",
+  "company" : "Mobizz Elite (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001480472&ec=0000000531",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Web Application Quality Assurance Executive",
+  "company" : "S A S Creative (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480399&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "QA Automation Engineer (6 Month Contract)",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480326&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Senior Java Backend Developer (Remote - Sri Lanka)",
+  "company" : "Cloofd Solutions Inc",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480261&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Senior Java Full - Stack Developer (Financial Internet Banking)",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480203&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 16 ]
+}, {
+  "title" : "Senior Front - End Developer (React)",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480196&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 16 ]
 }, {

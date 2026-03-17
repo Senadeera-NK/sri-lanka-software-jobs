@@ -31,6 +31,70 @@
   "datePosted" : [ 2026, 3, 17, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 17 ]
 }, {
+  "title" : "Senior SQL Developer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Senior Front end Developer (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480722&ec=0000000661",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Software Quality Assurance Engineer (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480925&ec=0000000661",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Senior Database Administrator (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480915&ec=0000000661",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Software Engineer - Full Stack (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480909&ec=0000000661",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Senior Full Stack Developer",
+  "company" : "Edusight",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480905&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "Front End Associate - Angular",
+  "company" : "Seven Senki Holdings (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480814&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
+  "title" : "QA Lead - Automation (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480723&ec=0000000661",
+  "datePosted" : [ 2026, 3, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 17 ]
+}, {
   "title" : "Senior Software Quality Engineer (Test Automation)",
   "company" : "VitalHub Innovations Lab",
   "level" : "Senior",
@@ -388,14 +452,6 @@
   "level" : "Intern",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001478279&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 17 ]
-}, {
-  "title" : "Senior SQL Developer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
   "datePosted" : [ 2026, 3, 11, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 17 ]
 }, {
@@ -918,14 +974,6 @@
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001475252&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 3, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 17 ]
-}, {
-  "title" : "Senior Front end Developer (1)",
-  "company" : "DirectFN",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001475229&ec=0000000661",
-  "datePosted" : [ 2026, 3, 3, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 10 ]
 }, {
   "title" : "Senior Software Engineer - Finacle Development (1)",
   "company" : "George Bernard (Pvt) Ltd",

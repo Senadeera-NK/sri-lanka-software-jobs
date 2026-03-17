@@ -1,5 +1,6 @@
 # 🇱🇰 Sri Lanka Software Engineering Jobs | 2026 Tracker [![Telegram](https://img.shields.io/badge/JOIN_TELEGRAM_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SL_Software_Jobs)
-🚀 Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
+Looking for software engineering jobs in Sri Lanka? This tracker updates daily with intern, junior, and senior IT roles across Colombo and beyond
+Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorizes Intern, Associate, and SE roles daily using Java (Jsoup) and GitHub Actions.
 
 > [!TIP]
 > **Help keep this project alive!** If this tool helped you find a lead today, please [**Star ⭐ the repo**](https://github.com/Senadeera-NK/sri-lanka-software-jobs). It’s how I measure the impact on our dev community! 🇱🇰

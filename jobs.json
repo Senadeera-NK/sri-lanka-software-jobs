@@ -1,4 +1,44 @@
 [ {
+  "title" : "Quality Assurance internships",
+  "company" : "ITX Digital Services (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13311/quality-assurance-internships-at-itx-digital-services-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 18, 15, 49, 9 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Senior Quality Assurance Engineer",
+  "company" : "BISTEC Global",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13308/senior-quality-assurance-engineer-at-bistec-global/",
+  "datePosted" : [ 2026, 3, 18, 14, 27, 1 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "WordPress Developer Intern",
+  "company" : "Innenta Solutions",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13307/wordpress-developer-intern-at-innenta-solutions/",
+  "datePosted" : [ 2026, 3, 18, 13, 16, 11 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Senior Developer",
+  "company" : "Digit Web Lanka (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13305/senior-developer-at-digit-web-lanka-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 18, 13, 6, 42 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Software Engineer - Intern",
+  "company" : "TS Technologies (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13302/software-engineer-intern-at-ts-technologies-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 18, 12, 39, 58 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
   "title" : "Frontend Developer Intern",
   "company" : "Ranga Technologies (PineGen AI)",
   "level" : "Intern",
@@ -44,6 +84,46 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481005&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "AI Specialist For Workflow Automation (1)",
+  "company" : "Nawaloka Hospitals PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001481330&ec=0000000178",
+  "datePosted" : [ 2026, 3, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Frontend Engineer (React + TryperScript)",
+  "company" : "SimpliConnect (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481269&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Senior QA Engineer",
+  "company" : "Synergen Health (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481243&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : ".NET 8 Software Engineers",
+  "company" : "X-ONT Software (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481195&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 18 ]
+}, {
+  "title" : "Executive - Web Developing",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481185&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 18, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 18 ]
 }, {

@@ -1,4 +1,12 @@
 [ {
+  "title" : "Software Engineer - .NET",
+  "company" : "VitalHub Innovations Lab",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13322/software-engineer-net-at-vitalhub-innovations-lab/",
+  "datePosted" : [ 2026, 3, 20, 14, 5, 44 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
   "title" : "Intern Software Developer (Full Stack)",
   "company" : "InBizSys (Private) Limited",
   "level" : "Intern",
@@ -52,6 +60,54 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481920&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "Senior Software Engineer Full Stack (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482180&ec=0000000661",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "Senior Software Engineer JAVA (4)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482182&ec=0000000661",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "UI|UX Front End Developer",
+  "company" : "Seren IT Services",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482366&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "Senior Software Engineer - Spring Boot (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482365&ec=0000000661",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "Founding Engineer / Software Developer",
+  "company" : "SULECO (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482268&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 20 ]
+}, {
+  "title" : "Full Stack Software Developer",
+  "company" : "Arpico Energry",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482113&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 20, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 20 ]
 }, {
@@ -782,22 +838,6 @@
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000026&jc=0001472128&ec=0000000026",
   "datePosted" : [ 2026, 3, 10, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 16 ]
-}, {
-  "title" : "Senior Software Engineer Full Stack (1)",
-  "company" : "DirectFN",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001478193&ec=0000000661",
-  "datePosted" : [ 2026, 3, 10, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 17 ]
-}, {
-  "title" : "Senior Software Engineer JAVA (4)",
-  "company" : "DirectFN",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001478191&ec=0000000661",
-  "datePosted" : [ 2026, 3, 10, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 17 ]
 }, {
   "title" : "Software Quality Assurance - Intern",
   "company" : "Qdesk AI Pvt Ltd",

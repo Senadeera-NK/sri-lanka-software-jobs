@@ -9,12 +9,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 22,11:41 AM (Just now)  | **Total Jobs Found:** 120
+> 🟢 **Last Updated:** March 22,5:18 PM (Just now)  | **Total Jobs Found:** 121
 
-### 🎓 Internships & Trainees  (21)
+### 🎓 Internships & Trainees  (22)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Software Engineer Intern (Remote)](https://itpro.lk/job/13326/software-engineer-intern-remote-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Intern | Yesterday | ITPro.lk |
 | [Intern Software Developer (Full Stack)](https://itpro.lk/job/13321/intern-software-developer-full-stack-at-inbizsys-private-limited/) | InBizSys (Private) Limited | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Internship (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481385&ec=DEFZZZ) | Xaventra (Pvt) Ltd | Intern | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Quality Assurance internships](https://itpro.lk/job/13311/quality-assurance-internships-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | 4&nbsp;days&nbsp;ago | ITPro.lk |
@@ -43,9 +44,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Officer (ISMS)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [.NET MAUI Developer](https://itpro.lk/job/13335/net-maui-developer-at-katvaas-pvt-ltd/) | Katvaas Pvt Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Officer (ISMS)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [.NET MAUI Developer](https://itpro.lk/job/13335/net-maui-developer-at-katvaas-pvt-ltd/) | Katvaas Pvt Ltd | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer - .NET](https://itpro.lk/job/13322/software-engineer-net-at-vitalhub-innovations-lab/) | VitalHub Innovations Lab | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer (Male)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001481926&ec=0000000266) | Data Management Systems (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481966&ec=DEFZZZ) | SPOS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |

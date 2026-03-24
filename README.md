@@ -9,14 +9,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 24,12:10 PM (Just now)  | **Total Jobs Found:** 115
+> 🟢 **Last Updated:** March 24,5:34 PM (Just now)  | **Total Jobs Found:** 122
 
 ### 🎓 Internships & Trainees  (19)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Website Developer Intern](https://itpro.lk/job/13345/website-developer-intern-at-millennex/) | Millennex | Intern | 11&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern - Cloud Solutions and Services (Security) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001483216&ec=0000000313) | John Keells IT | Intern | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Website Developer Intern](https://itpro.lk/job/13345/website-developer-intern-at-millennex/) | Millennex | Intern | 17&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - Cloud Solutions and Services (Security) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001483216&ec=0000000313) | John Keells IT | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer Intern (Remote)](https://itpro.lk/job/13326/software-engineer-intern-remote-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Intern Software Developer (Full Stack)](https://itpro.lk/job/13321/intern-software-developer-full-stack-at-inbizsys-private-limited/) | InBizSys (Private) Limited | Intern | 4&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Internship (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481385&ec=DEFZZZ) | Xaventra (Pvt) Ltd | Intern | 5&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -37,13 +37,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (59)
+### 💻 Associate & Junior/SE Roles  (64)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Web Developer](https://itpro.lk/job/13346/web-developer-at-eplus-business-solutions-pvt-ltd/) | E-Plus Business Solutions - PVT Ltd | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Information Security Officer (ISMS)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate/QA Enineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001483284&ec=0000000178) | Nawaloka Hospitals PLC | Associate | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developer](https://itpro.lk/job/13346/web-developer-at-eplus-business-solutions-pvt-ltd/) | E-Plus Business Solutions - PVT Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Information Security Officer (ISMS)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate/QA Enineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001483284&ec=0000000178) | Nawaloka Hospitals PLC | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI Engineer - Application Development Focus](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483511&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483468&ec=DEFZZZ) | Shaw Wallace Ceylon Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer (React \| .Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ) | Ateam Software Pvt Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Azure Cloud Architect (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001483430&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Gen AI Architect (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001483394&ec=0000000654) | George Bernard (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full Stack Software Engineer - Remote (Full Time)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481920&ec=DEFZZZ) | Tour Beez | Junior/SE | Yesterday | TopJobs.lk |
 | [Trainee Software Engineer \| Associate Software Engineer \| ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001477410&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | Yesterday | TopJobs.lk |
 | [.NET MAUI Developer](https://itpro.lk/job/13335/net-maui-developer-at-katvaas-pvt-ltd/) | Katvaas Pvt Ltd | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -103,11 +108,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (37)
+### 🚀 Senior & Lead Roles  (39)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer](https://itpro.lk/job/13343/senior-software-engineer-at-effectzal/) | Effectz.Al | Senior | 17&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Solutions Architect - IPTV / OTT](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483513&ec=DEFZZZ) | SLT Mobitel | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer in Test (SDET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ) | Ateam Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://itpro.lk/job/13343/senior-software-engineer-at-effectzal/) | Effectz.Al | Senior | 22&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer (Full Stack)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482735&ec=DEFZZZ) | Effectz.AI | Senior | Yesterday | TopJobs.lk |
 | [Senior QA Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001481951&ec=0000000555) | Sumathi Group | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |

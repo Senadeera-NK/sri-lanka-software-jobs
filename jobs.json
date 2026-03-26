@@ -1,4 +1,28 @@
 [ {
+  "title" : "Associate QA Engineer",
+  "company" : "Surecore (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13361/associate-qa-engineer-at-surecore-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 26, 15, 31, 10 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Software Engineer / Senior Software Engineer / Tech Lead",
+  "company" : "Amerck",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13357/software-engineer-senior-software-engineer-tech-lead-at-amerck/",
+  "datePosted" : [ 2026, 3, 26, 15, 15 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "WordPress Web Developer Intern/Undergraduates",
+  "company" : "Loopz Global (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/12628/wordpress-web-developer-internundergraduates-at-loopz-global-pvt-ltd/",
+  "datePosted" : [ 2026, 3, 26, 14, 6, 59 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
   "title" : "Information Security Officer (ISMS)",
   "company" : "Treinetic (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -12,6 +36,62 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Senior Software Engineer in Test (SDET)",
+  "company" : "Ateam Software Pvt Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Full Stack Developer (React | .Net)",
+  "company" : "Ateam Software Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Senior QA Engineer",
+  "company" : "Kernel Encode (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484415&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Software Engineer",
+  "company" : "Kernel Encode (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484413&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Senior iOS Developer (Banking Applications)",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484282&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Senior Android Developer (Banking Applications)",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484281&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 26 ]
+}, {
+  "title" : "Software Engineer (Full Stack)",
+  "company" : "ICT Asyst (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484114&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 26, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 26 ]
 }, {
@@ -118,22 +198,6 @@
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483837&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 26 ]
-}, {
-  "title" : "Senior Software Engineer in Test (SDET)",
-  "company" : "Ateam Software Pvt Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 25, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 25 ]
-}, {
-  "title" : "Full Stack Developer (React | .Net)",
-  "company" : "Ateam Software Pvt Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 25, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 25 ]
 }, {
   "title" : "Associate/QA Enineer (1)",
   "company" : "Nawaloka Hospitals PLC",

@@ -1,4 +1,20 @@
 [ {
+  "title" : "Senior/Software Engineer",
+  "company" : "PacificKode",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13370/seniorsoftware-engineer-at-pacifickode/",
+  "datePosted" : [ 2026, 3, 27, 15, 57, 5 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Quality Assurance Engineer",
+  "company" : "PacificKode",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/",
+  "datePosted" : [ 2026, 3, 27, 15, 23, 25 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
   "title" : "Full Stack Developer (React Native / React / ASP.NET)",
   "company" : "Tecoora",
   "level" : "Junior/SE",
@@ -13,6 +29,142 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13363/trainee-associate-fullstack-developer-at-wishmiq-ltd/",
   "datePosted" : [ 2026, 3, 27, 6, 43, 27 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Senior SQL Developer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Senior Software Engineer in Test (SDET)",
+  "company" : "Ateam Software Pvt Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Full Stack Developer (React | .Net)",
+  "company" : "Ateam Software Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Software Engineer (Male)",
+  "company" : "Data Management Systems (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001484573&ec=0000000266",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Software Engineer - Full Stack (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001484713&ec=0000000661",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Software Engineers",
+  "company" : "Asian Logistics Solutions (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484840&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Senior Software Engineers",
+  "company" : "Central Finance Company PLC",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484808&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "SharePoint Developer (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001484715&ec=0000000661",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Senior Software Engineer JAVA 17 (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001484611&ec=0000000661",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "DevOps Engineers",
+  "company" : "eBEYONDS",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484605&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Mobile Application Developer (1)",
+  "company" : "KPMG Executive Search Private Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000343&jc=0001484577&ec=0000000458",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Report Developer (1)",
+  "company" : "Raigam Marketing Services (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000422&jc=0001484539&ec=0000000556",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "RPG Developer (IBM I | AS400)",
+  "company" : "Ceylinco Life Insurance Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484527&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Internship - Software Quality Assurance",
+  "company" : "Ceylinco Life Insurance Limited",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484518&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Internship - IT Department (Full - Stack Developer)",
+  "company" : "Ceylinco Life Insurance Limited",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484508&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Cloud & IT Infrastructure Associate",
+  "company" : "ESOFT Uni (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484492&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Software Engineers",
+  "company" : "Atera Technologies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484483&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Associate QA Engineer",
@@ -39,75 +191,51 @@
   "datePosted" : [ 2026, 3, 26, 14, 6, 59 ],
   "scrapedDate" : [ 2026, 3, 27 ]
 }, {
-  "title" : "Information Security Officer (ISMS)",
-  "company" : "Treinetic (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
-}, {
-  "title" : "Senior SQL Developer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
-}, {
-  "title" : "Senior Software Engineer in Test (SDET)",
-  "company" : "Ateam Software Pvt Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
-}, {
-  "title" : "Full Stack Developer (React | .Net)",
-  "company" : "Ateam Software Pvt Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
-}, {
   "title" : "Senior QA Engineer",
   "company" : "Kernel Encode (Pvt) Ltd",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484415&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "datePosted" : [ 2026, 3, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Engineer",
   "company" : "Kernel Encode (Pvt) Ltd",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484413&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "datePosted" : [ 2026, 3, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior iOS Developer (Banking Applications)",
   "company" : "Fortunaglobal (Pvt) Limited",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484282&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "datePosted" : [ 2026, 3, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Android Developer (Banking Applications)",
   "company" : "Fortunaglobal (Pvt) Limited",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484281&ec=DEFZZZ",
-  "datePosted" : [ 2026, 3, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "datePosted" : [ 2026, 3, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Engineer (Full Stack)",
   "company" : "ICT Asyst (Pvt) Ltd",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484114&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 3, 27 ]
+}, {
+  "title" : "Information Security Officer (ISMS)",
+  "company" : "Treinetic (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479053&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 26, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 26 ]
 }, {
@@ -133,7 +261,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483783&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Architect -  Azure Cloud (1)",
   "company" : "Mobizz Elite (Pvt) Ltd",
@@ -141,7 +269,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001483781&ec=0000000531",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Quality Assurance Intern",
   "company" : "One Billion Tech (Pvt) Ltd",
@@ -149,7 +277,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483774&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern - Software Engineer (.NET)",
   "company" : "One Billion Tech (Pvt) Ltd",
@@ -157,7 +285,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483767&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Technical Lead (.NET | Angular)",
   "company" : "MedcubeUSA (Pvt) Ltd",
@@ -165,7 +293,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483669&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "RPG Developer",
   "company" : "Innovis Engineering (Pvt) Ltd",
@@ -173,7 +301,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483666&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern Software Engineer (1)",
   "company" : "Expolanka Holdings Limited",
@@ -181,7 +309,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001483633&ec=0000000367",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern QA Engineer (1)",
   "company" : "Expolanka Holdings Limited",
@@ -189,7 +317,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001483627&ec=0000000367",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Engineers / Senior Software Engineers",
   "company" : "Scicom Lanka (Private) Limited",
@@ -197,7 +325,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484000&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Database Administrator (1)",
   "company" : "Lanka Hospitals Corporation PLC",
@@ -205,7 +333,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000440&jc=0001483842&ec=0000000582",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Web & Mobile Banking Application Software Architect",
   "company" : "Fortunaglobal (Pvt) Limited",
@@ -213,7 +341,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483837&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Associate/QA Enineer (1)",
   "company" : "Nawaloka Hospitals PLC",
@@ -221,7 +349,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001483284&ec=0000000178",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern - Cloud Solutions and Services (Security) (1)",
   "company" : "John Keells IT",
@@ -229,7 +357,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001483216&ec=0000000313",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Solutions Architect - IPTV / OTT",
   "company" : "SLT Mobitel",
@@ -237,7 +365,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483513&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "AI Engineer - Application Development Focus",
   "company" : "Asiawise Lanka (Pvt) Ltd",
@@ -245,7 +373,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483511&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Junior Software Engineer",
   "company" : "Shaw Wallace Ceylon Ltd",
@@ -253,7 +381,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483468&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Azure Cloud Architect (1)",
   "company" : "George Bernard (Pvt) Ltd",
@@ -261,7 +389,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001483430&ec=0000000654",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Gen AI Architect (1)",
   "company" : "George Bernard (Pvt) Ltd",
@@ -269,7 +397,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001483394&ec=0000000654",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior QA Engineer (1)",
   "company" : "Sumathi Group",
@@ -285,7 +413,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000094&jc=0001483608&ec=0000000111",
   "datePosted" : [ 2026, 3, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Web Developer",
   "company" : "E-Plus Business Solutions - PVT Ltd",
@@ -317,7 +445,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482735&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Full Stack Software Engineer - Remote (Full Time)",
   "company" : "Tour Beez",
@@ -325,7 +453,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481920&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Trainee Software Engineer | Associate Software Engineer | Associate Desktop Application Engineer",
   "company" : "Afisol (Pvt) Ltd",
@@ -359,21 +487,13 @@
   "datePosted" : [ 2026, 3, 20, 14, 5, 44 ],
   "scrapedDate" : [ 2026, 3, 27 ]
 }, {
-  "title" : "Software Engineer (Male)",
-  "company" : "Data Management Systems (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001481926&ec=0000000266",
-  "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
-}, {
   "title" : "Software Engineer",
   "company" : "SPOS (Pvt) Ltd",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481966&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Full Stack Engineer (Laravel) - Fully Remote",
   "company" : "Tour Beez",
@@ -389,7 +509,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482180&ec=0000000661",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Software Engineer JAVA (4)",
   "company" : "DirectFN",
@@ -397,7 +517,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482182&ec=0000000661",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "UI|UX Front End Developer",
   "company" : "Seren IT Services",
@@ -405,7 +525,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482366&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Software Engineer - Spring Boot (1)",
   "company" : "DirectFN",
@@ -413,7 +533,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482365&ec=0000000661",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Founding Engineer / Software Developer",
   "company" : "SULECO (Pvt) Ltd",
@@ -429,7 +549,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001482113&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Database Administrator (1)",
   "company" : "DirectFN",
@@ -437,7 +557,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482178&ec=0000000661",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern Software Developer (Full Stack)",
   "company" : "InBizSys (Private) Limited",
@@ -453,7 +573,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481528&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Mobile Developer - Flutter",
   "company" : "KAST",
@@ -461,7 +581,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481524&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Associate Technical Lead - Fullstack",
   "company" : "KAST",
@@ -469,7 +589,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481521&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Software Engineer - Java",
   "company" : "Hitachi Digital Payment Solutions Limited",
@@ -477,7 +597,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481515&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "DevOps Engineer",
   "company" : "S A S Creative (Pvt) Ltd",
@@ -485,7 +605,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481452&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Engineer Internship (Remote)",
   "company" : "Xaventra (Pvt) Ltd",
@@ -493,7 +613,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481385&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Frontend Engineer (React + TypeScript) - Remote",
   "company" : "SimpliConnect (Pvt) Ltd",
@@ -509,7 +629,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481734&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "RPA Developer (Straddle Shift)",
   "company" : "Legacy Health (Pvt) Ltd",
@@ -517,7 +637,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481716&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus)",
   "company" : "Efficient Frontiers International",
@@ -525,7 +645,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481537&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI)",
   "company" : "Efficient Frontiers International",
@@ -533,7 +653,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481534&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Engineers",
   "company" : "Venturecorp (Pvt) Ltd",
@@ -589,7 +709,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001481041&ec=0000000531",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Software Engineer",
   "company" : "Webxpay (Pvt) Ltd",
@@ -597,7 +717,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481005&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "AI Specialist For Workflow Automation (1)",
   "company" : "Nawaloka Hospitals PLC",
@@ -605,7 +725,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001481330&ec=0000000178",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior QA Engineer",
   "company" : "Synergen Health (Pvt) Ltd",
@@ -613,7 +733,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481243&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : ".NET 8 Software Engineers",
   "company" : "X-ONT Software (Pvt) Ltd",
@@ -621,7 +741,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481195&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Executive - Web Developing",
   "company" : "Company Name Withheld",
@@ -629,7 +749,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001481185&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Intern - Data Science & Analytics (1)",
   "company" : "MAS Holdings",
@@ -637,7 +757,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000094&jc=0001481333&ec=0000000111",
   "datePosted" : [ 2026, 3, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Frontend Developer Intern",
   "company" : "Ranga Technologies (PineGen AI)",
@@ -661,7 +781,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480504&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 17, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Front end Developer (1)",
   "company" : "DirectFN",
@@ -679,21 +799,13 @@
   "datePosted" : [ 2026, 3, 17, 12, 0 ],
   "scrapedDate" : [ 2026, 3, 24 ]
 }, {
-  "title" : "Software Engineer - Full Stack (1)",
-  "company" : "DirectFN",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001480909&ec=0000000661",
-  "datePosted" : [ 2026, 3, 17, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 24 ]
-}, {
   "title" : "Senior Full Stack Developer",
   "company" : "Edusight",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480905&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 17, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Front End Associate - Angular",
   "company" : "Seven Senki Holdings (Pvt) Ltd",
@@ -701,7 +813,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480814&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 17, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "QA Lead - Automation (1)",
   "company" : "DirectFN",
@@ -765,7 +877,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480164&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Engineer - Accounting Software",
   "company" : "Senska (Private) Limited",
@@ -773,7 +885,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480158&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "DevOps Engineer (1)",
   "company" : "Mobizz Elite (Pvt) Ltd",
@@ -781,7 +893,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001480027&ec=0000000531",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Technical Lead (Python) (1)",
   "company" : "Mobizz Elite (Pvt) Ltd",
@@ -789,7 +901,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001480472&ec=0000000531",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Web Application Quality Assurance Executive",
   "company" : "S A S Creative (Pvt) Ltd",
@@ -797,7 +909,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480399&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "QA Automation Engineer (6 Month Contract)",
   "company" : "Company Name Withheld",
@@ -805,7 +917,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480326&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Java Backend Developer (Remote - Sri Lanka)",
   "company" : "Cloofd Solutions Inc",
@@ -813,7 +925,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480261&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Java Full - Stack Developer (Financial Internet Banking)",
   "company" : "Fortunaglobal (Pvt) Limited",
@@ -821,7 +933,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480203&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Front - End Developer (React)",
   "company" : "Fortunaglobal (Pvt) Limited",
@@ -829,7 +941,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001480196&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "QA Intern – Software Testing",
   "company" : "Seedbyte",
@@ -893,7 +1005,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479329&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Backend Developer / Engineer -  Golang (1)",
   "company" : "Browns Group Of Companies",
@@ -901,7 +1013,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001479675&ec=0000000264",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "DevOps Engineer",
   "company" : "eBEYONDS",
@@ -909,7 +1021,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479814&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Senior Software Engineer | Software Engineer.",
   "company" : "PacificKode (Pvt) Ltd",
@@ -917,7 +1029,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479807&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Web Developer",
   "company" : "The Permalinks Limited",
@@ -925,7 +1037,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479778&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Software Development Engineer - Odoo",
   "company" : "Netex Technologies (Pvt) Ltd",
@@ -933,7 +1045,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001479764&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 26 ]
+  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "Full Stack Developer (React.js & Supabase)",
   "company" : "KD Marketing Group",

@@ -9,13 +9,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** March 29,12:13 PM (Just now)  | **Total Jobs Found:** 122
+> 🟢 **Last Updated:** March 29,5:23 PM (Just now)  | **Total Jobs Found:** 122
 
 ### 🎓 Internships & Trainees  (23)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer - Intern - Remote](https://itpro.lk/job/13379/software-engineer-intern-remote-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Intern | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer - Intern - Remote](https://itpro.lk/job/13379/software-engineer-intern-remote-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Internship - Software Quality Assurance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484518&ec=DEFZZZ) | Ceylinco Life Insurance Limited | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Internship - IT Department (Full - Stack Developer)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484508&ec=DEFZZZ) | Ceylinco Life Insurance Limited | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [WordPress Web Developer Intern/Undergraduates](https://itpro.lk/job/12628/wordpress-web-developer-internundergraduates-at-loopz-global-pvt-ltd/) | Loopz Global (Pvt) Ltd | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -45,7 +45,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer (React \| .Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ) | Ateam Software Pvt Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer (React \| .Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ) | Ateam Software Pvt Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Quality Assurance Engineer](https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/) | PacificKode | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer (Male)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001484573&ec=0000000266) | Data Management Systems (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer - Full Stack (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001484713&ec=0000000661) | DirectFN | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -113,7 +113,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer in Test (SDET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ) | Ateam Software Pvt Ltd | Senior | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer in Test (SDET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ) | Ateam Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Full-Stack Engineer (Al-Native)](https://itpro.lk/job/13375/senior-fullstack-engineer-alnative-at-rope-digital/) | Rope Digital | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer in Test](https://itpro.lk/job/13373/senior-software-engineer-in-test-at-digiratina-technology-solutions/) | Digiratina Technology Solutions | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior/Software Engineer](https://itpro.lk/job/13370/seniorsoftware-engineer-at-pacifickode/) | PacificKode | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |

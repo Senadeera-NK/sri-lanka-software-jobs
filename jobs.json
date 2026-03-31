@@ -31,6 +31,30 @@
   "datePosted" : [ 2026, 3, 31, 0, 0 ],
   "scrapedDate" : [ 2026, 3, 31 ]
 }, {
+  "title" : "Software Engineer -Mobile (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001485933&ec=0000000492",
+  "datePosted" : [ 2026, 3, 31, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 31 ]
+}, {
+  "title" : "Software Engineer - Frontend (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001485892&ec=0000000492",
+  "datePosted" : [ 2026, 3, 31, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 31 ]
+}, {
+  "title" : "Senior Software Engineer | Software Engineer",
+  "company" : "HRC Labs",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001485921&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 31, 0, 0 ],
+  "scrapedDate" : [ 2026, 3, 31 ]
+}, {
   "title" : ".NET Backend Developer (ASP.NET Core)",
   "company" : "Iykons",
   "level" : "Junior/SE",

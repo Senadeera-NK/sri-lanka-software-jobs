@@ -39,6 +39,54 @@
   "datePosted" : [ 2026, 4, 2, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 2 ]
 }, {
+  "title" : "Software Engineer -Mobile (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001486556&ec=0000000492",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
+  "title" : "Software Engineer (Male)",
+  "company" : "Data Management Systems (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001486328&ec=0000000266",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
+  "title" : "Senior Software Engineer JAVA (4)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001486344&ec=0000000661",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
+  "title" : "ASE|SE (Automation)",
+  "company" : "Effectz.AI",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486513&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
+  "title" : "Senior Software Engineer",
+  "company" : "Webxpay (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486303&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
+  "title" : "Software Engineer",
+  "company" : "Spherehead Technologies (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486301&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 2 ]
+}, {
   "title" : "Full-Stack Software Engineer Intern (Paid)",
   "company" : "Nippon IT and Educational Solution (NITES)",
   "level" : "Intern",
@@ -100,14 +148,6 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000486&jc=0001485616&ec=0000000654",
-  "datePosted" : [ 2026, 3, 31, 12, 0 ],
-  "scrapedDate" : [ 2026, 4, 2 ]
-}, {
-  "title" : "Software Engineer -Mobile (1)",
-  "company" : "Jobfactory",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001485933&ec=0000000492",
   "datePosted" : [ 2026, 3, 31, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 2 ]
 }, {
@@ -237,14 +277,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/",
   "datePosted" : [ 2026, 3, 27, 15, 23, 25 ],
-  "scrapedDate" : [ 2026, 4, 2 ]
-}, {
-  "title" : "Software Engineer (Male)",
-  "company" : "Data Management Systems (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001484573&ec=0000000266",
-  "datePosted" : [ 2026, 3, 27, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 2 ]
 }, {
   "title" : "Software Engineer - Full Stack (1)",
@@ -702,14 +734,6 @@
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482180&ec=0000000661",
   "datePosted" : [ 2026, 3, 20, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 2 ]
-}, {
-  "title" : "Senior Software Engineer JAVA (4)",
-  "company" : "DirectFN",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001482182&ec=0000000661",
-  "datePosted" : [ 2026, 3, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 3, 27 ]
 }, {
   "title" : "UI|UX Front End Developer",
   "company" : "Seren IT Services",

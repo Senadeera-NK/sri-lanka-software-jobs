@@ -1,4 +1,20 @@
 [ {
+  "title" : "QA Engineer",
+  "company" : "CodeSight Global",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13433/qa-engineer-at-codesight-global/",
+  "datePosted" : [ 2026, 4, 3, 14, 3, 49 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
+  "title" : "Java Full-Stack Developer",
+  "company" : "Finakle Mangement Solution (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13431/java-fullstack-developer-at-finakle-mangement-solution-pvt-ltd/",
+  "datePosted" : [ 2026, 4, 3, 12, 26, 53 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
   "title" : "Intern QA Engineer (Paid)",
   "company" : "Nippon IT and Educational Solution (NITES)",
   "level" : "Intern",
@@ -44,6 +60,38 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486659&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
+  "title" : "DevOps Engineers",
+  "company" : "eBEYONDS",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484605&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
+  "title" : "Software QA Full Stack Developer",
+  "company" : "Concord Group of Companies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487005&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
+  "title" : "QA Lead Engineer",
+  "company" : "ZeloraTech (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486829&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 3 ]
+}, {
+  "title" : "RPA Developer (Straddle Shift)",
+  "company" : "Legacy Health (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486820&ec=DEFZZZ",
   "datePosted" : [ 2026, 4, 3, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 3 ]
 }, {
@@ -356,14 +404,6 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001484611&ec=0000000661",
-  "datePosted" : [ 2026, 3, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 4, 3 ]
-}, {
-  "title" : "DevOps Engineers",
-  "company" : "eBEYONDS",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484605&ec=DEFZZZ",
   "datePosted" : [ 2026, 3, 27, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 3 ]
 }, {

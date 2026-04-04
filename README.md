@@ -9,12 +9,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** April 4,12:07 PM (Just now)  | **Total Jobs Found:** 103
+> 🟢 **Last Updated:** April 4,5:23 PM (Just now)  | **Total Jobs Found:** 104
 
-### 🎓 Internships & Trainees  (19)
+### 🎓 Internships & Trainees  (20)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Full Stack Software Engineer – Intern](https://itpro.lk/job/13443/full-stack-software-engineer-intern-at-qbinom/) | Qbinom | Intern | 2&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Intern QA Engineer (Paid)](https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/) | Nippon IT and Educational Solution (NITES) | Intern | Yesterday | ITPro.lk |
 | [Intern Software Engineer](https://itpro.lk/job/13420/intern-software-engineer-at-vornex-labs/) | Vornex Labs | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Intern - Software Engineering (Web \| Mobile)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486175&ec=DEFZZZ) | Cloud Books (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -41,10 +42,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer (React \| .Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ) | Ateam Software Pvt Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Web Developer](https://itpro.lk/job/13435/full-stack-web-developer-at-mobilecafelk/) | Mobilecafe.lk | Junior/SE | 13&nbsp;hours&nbsp;ago | ITPro.lk |
-| [QA Engineer](https://itpro.lk/job/13433/qa-engineer-at-codesight-global/) | CodeSight Global | Junior/SE | 22&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Java Full-Stack Developer](https://itpro.lk/job/13431/java-fullstack-developer-at-finakle-mangement-solution-pvt-ltd/) | Finakle Mangement Solution (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer (React \| .Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483460&ec=DEFZZZ) | Ateam Software Pvt Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Web Developer](https://itpro.lk/job/13435/full-stack-web-developer-at-mobilecafelk/) | Mobilecafe.lk | Junior/SE | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://itpro.lk/job/13433/qa-engineer-at-codesight-global/) | CodeSight Global | Junior/SE | Yesterday | ITPro.lk |
+| [Java Full-Stack Developer](https://itpro.lk/job/13431/java-fullstack-developer-at-finakle-mangement-solution-pvt-ltd/) | Finakle Mangement Solution (Pvt) Ltd | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer Back-End (Java \| Spring)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486804&ec=DEFZZZ) | Levein | Junior/SE | Yesterday | TopJobs.lk |
 | [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486665&ec=DEFZZZ) | ZeloraTech (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Engineer - Python](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486659&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -104,7 +105,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer in Test (SDET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ) | Ateam Software Pvt Ltd | Senior | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer in Test (SDET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483462&ec=DEFZZZ) | Ateam Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [QA Lead Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486829&ec=DEFZZZ) | ZeloraTech (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Tech Lead Java (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487051&ec=0000000661) | DirectFN | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer JAVA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487050&ec=0000000661) | DirectFN | Senior | Yesterday | TopJobs.lk |

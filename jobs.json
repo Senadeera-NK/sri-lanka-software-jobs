@@ -71,6 +71,70 @@
   "datePosted" : [ 2026, 4, 6, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 6 ]
 }, {
+  "title" : "Senior SQL Developer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Senior Quality Assurance Engineer (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487584&ec=0000000661",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Senior Database Administrator (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487575&ec=0000000661",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Senior Software Engineer - Spring Boot (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487574&ec=0000000661",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Automation Engineer (Rewst)",
+  "company" : "Dijital Team",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487483&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Senior Software Quality Engineer - Test Automation",
+  "company" : "VitalHub Innovations Lab",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487474&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "Software Engineer",
+  "company" : "HealthRecon Connect (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487469&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
+  "title" : "QA Engineer - Full Time",
+  "company" : "HRC Labs",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487458&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 6 ]
+}, {
   "title" : "Software Developer",
   "company" : "Glenzsoft (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -221,14 +285,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13420/intern-software-engineer-at-vornex-labs/",
   "datePosted" : [ 2026, 4, 2, 21, 41 ],
-  "scrapedDate" : [ 2026, 4, 6 ]
-}, {
-  "title" : "Senior SQL Developer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350",
-  "datePosted" : [ 2026, 4, 2, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 6 ]
 }, {
   "title" : "Web Developer (Odoo Focused)",

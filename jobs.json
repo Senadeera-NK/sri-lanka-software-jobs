@@ -1,10 +1,34 @@
 [ {
+  "title" : "Senior Developer",
+  "company" : "Digit Web Lanka (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13305/senior-developer-at-digit-web-lanka-pvt-ltd/",
+  "datePosted" : [ 2026, 4, 7, 15, 59, 20 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Web Developers",
+  "company" : "Ebeyonds (pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13469/web-developers-at-ebeyonds-pvt-ltd/",
+  "datePosted" : [ 2026, 4, 7, 15, 19, 14 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
   "title" : "Web Developer",
   "company" : "Tecoora",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13459/web-developer-at-tecoora/",
   "datePosted" : [ 2026, 4, 7, 11, 38 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Quality Assurance Engineer",
+  "company" : "PacificKode",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/",
+  "datePosted" : [ 2026, 4, 7, 5, 23, 25 ],
   "scrapedDate" : [ 2026, 4, 7 ]
 }, {
   "title" : "Senior Software Engineer in Test (SDET)",
@@ -60,6 +84,46 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487823&ec=0000000661",
+  "datePosted" : [ 2026, 4, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Software Engineer (Male)",
+  "company" : "Data Management Systems (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001487931&ec=0000000266",
+  "datePosted" : [ 2026, 4, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "QA Engineer",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488092&ec=0000000651",
+  "datePosted" : [ 2026, 4, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Senior Java Full - Stack Developer (Financial Internet Banking)",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488071&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Systems & SaaS Automation Specialist (Remote - Full Time)",
+  "company" : "Vopaq Consulting",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487996&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 7 ]
+}, {
+  "title" : "Senior Quality Assurance Engineer (1)",
+  "company" : "Browns Group Of Companies",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001487942&ec=0000000264",
   "datePosted" : [ 2026, 4, 7, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 7 ]
 }, {
@@ -359,14 +423,6 @@
   "datePosted" : [ 2026, 4, 2, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 7 ]
 }, {
-  "title" : "Software Engineer (Male)",
-  "company" : "Data Management Systems (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000223&jc=0001486328&ec=0000000266",
-  "datePosted" : [ 2026, 4, 2, 12, 0 ],
-  "scrapedDate" : [ 2026, 4, 7 ]
-}, {
   "title" : "Senior Software Engineer JAVA (4)",
   "company" : "DirectFN",
   "level" : "Senior",
@@ -573,14 +629,6 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13370/seniorsoftware-engineer-at-pacifickode/",
   "datePosted" : [ 2026, 3, 27, 15, 57, 5 ],
-  "scrapedDate" : [ 2026, 4, 7 ]
-}, {
-  "title" : "Quality Assurance Engineer",
-  "company" : "PacificKode",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/",
-  "datePosted" : [ 2026, 3, 27, 15, 23, 25 ],
   "scrapedDate" : [ 2026, 4, 7 ]
 }, {
   "title" : "Software Engineer - Full Stack (1)",

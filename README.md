@@ -9,7 +9,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** April 8,8:08 PM (Just now)  | **Total Jobs Found:** 149
+> 🟢 **Last Updated:** April 8,8:14 PM (Just now)  | **Total Jobs Found:** 149
 
 ### 🎓 Internships & Trainees  (23)
 
@@ -45,7 +45,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Data Analyst](https://xpress.jobs/jobs/view/274055) | Dialog Axiata PLC | Junior/SE | Just&nbsp;now | XpressJobs |
+| [Data Analyst](https://xpress.jobs/jobs/view/274055) | Dialog Axiata PLC | Junior/SE | 5&nbsp;hours&nbsp;ago | XpressJobs |
 | [Associate Software Engineer – React, Spring Boot](https://itpro.lk/job/13484/associate-software-engineer-react-spring-boot-at-silverline-it/) | Silverline IT | Associate | 9&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Software Engineer (Mobile)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487288&ec=DEFZZZ) | Ateam Software (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488092&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
@@ -125,8 +125,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Full-Stack Developer](https://itpro.lk/job/13353/fullstack-developer-at-digiratina-technology-solutions/) | Digiratina Technology Solutions | Junior/SE | 14&nbsp;days&nbsp;ago | ITPro.lk |
 | [Walk In Interviews \| Collaboration Tools (Cloud) (Freshers) ](https://xpress.jobs/jobs/view/274545) | HCL Technologies Lanka (Private) Limited | Junior/SE | 14&nbsp;days&nbsp;ago | XpressJobs |
 | [Walk In Interviews \| Cyber Security (Fresher) ](https://xpress.jobs/jobs/view/274541) | HCL Technologies Lanka (Private) Limited | Junior/SE | 14&nbsp;days&nbsp;ago | XpressJobs |
-| [Walk In Interviews \| Graduate Engineer Trainee (Analyst)](https://xpress.jobs/jobs/view/274564) | HCL Technologies Lanka (Private) Limited | Associate | 14&nbsp;days&nbsp;ago | XpressJobs |
 | [Walk In Interviews \| Graduate Engineer Analyst - Infrastruc...](https://xpress.jobs/jobs/view/274540) | HCL Technologies Lanka (Private) Limited | Junior/SE | 14&nbsp;days&nbsp;ago | XpressJobs |
+| [Walk In Interviews \| Graduate Engineer Trainee (Analyst)](https://xpress.jobs/jobs/view/274564) | HCL Technologies Lanka (Private) Limited | Associate | 14&nbsp;days&nbsp;ago | XpressJobs |
 | [Walk In Interviews \| Graduate Engineering Trainee (Fresher)](https://xpress.jobs/jobs/view/274563) | HCL Technologies Lanka (Private) Limited | Associate | 14&nbsp;days&nbsp;ago | XpressJobs |
 | [Architect -  Azure Cloud (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001483781&ec=0000000531) | Mobizz Elite (Pvt) Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [RPG Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001483666&ec=DEFZZZ) | Innovis Engineering (Pvt) Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |

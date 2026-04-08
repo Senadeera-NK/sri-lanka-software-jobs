@@ -1,4 +1,12 @@
 [ {
+  "title" : "Data Analyst",
+  "company" : "Dialog Axiata PLC",
+  "level" : "Junior/SE",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274055",
+  "datePosted" : [ 2026, 4, 8, 20, 8, 39, 396266600 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Associate Software Engineer – React, Spring Boot",
   "company" : "Silverline IT",
   "level" : "Associate",
@@ -103,6 +111,22 @@
   "datePosted" : [ 2026, 4, 8, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
+  "title" : "Senior QA Engineer (Automation - 06 Months) (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001488536&ec=0000000492",
+  "datePosted" : [ 2026, 4, 8, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Big Data Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
+  "datePosted" : [ 2026, 4, 8, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Senior Developer",
   "company" : "Digit Web Lanka (Pvt) Ltd",
   "level" : "Senior",
@@ -172,6 +196,14 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001487942&ec=0000000264",
+  "datePosted" : [ 2026, 4, 7, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Data Engineer (1)",
+  "company" : "Browns Group Of Companies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001488049&ec=0000000264",
   "datePosted" : [ 2026, 4, 7, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
@@ -308,6 +340,38 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487458&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Senior Associate - Data Analytics (Power BI & Microsoft Ecosystem) (US Calendar - US Shift) (1)",
+  "company" : "H Connect International (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001487653&ec=0000000445",
+  "datePosted" : [ 2026, 4, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Executive - System Engineer (AUS Calendar - AUS Shift) (1)",
+  "company" : "H Connect International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001487564&ec=0000000445",
+  "datePosted" : [ 2026, 4, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Data Engineer",
+  "company" : "HealthRecon Connect (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487470&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 6, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Data Platform Specialist",
+  "company" : "South Asia Gateway Terminals - Port of Colombo",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487357&ec=DEFZZZ",
   "datePosted" : [ 2026, 4, 6, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
@@ -455,6 +519,30 @@
   "datePosted" : [ 2026, 4, 3, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
+  "title" : "Senior Systems Engineer (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001487046&ec=0000000661",
+  "datePosted" : [ 2026, 4, 3, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Junior IT Engineer",
+  "company" : "Atlas Global BPO (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487029&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Senior IT Engineer",
+  "company" : "Atlas Global BPO (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486976&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 3, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Intern QA Engineer (Paid)",
   "company" : "Nippon IT and Educational Solution (NITES)",
   "level" : "Intern",
@@ -516,6 +604,22 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486301&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "AI Engineer",
+  "company" : "BatteryLab Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001486396&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Engineer - Data Analytics & AI (1)",
+  "company" : "Hirdaramani - H CONNECT (PVT) LIMITED",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001486354&ec=0000000603",
   "datePosted" : [ 2026, 4, 2, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
@@ -607,6 +711,14 @@
   "datePosted" : [ 2026, 3, 31, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 7 ]
 }, {
+  "title" : "Data Engineer",
+  "company" : "George Steuart Optimize (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001485858&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 31, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Intern QA Engineer",
   "company" : "Onsys Technologies",
   "level" : "Intern",
@@ -647,6 +759,22 @@
   "datePosted" : [ 2026, 3, 30, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
+  "title" : "Master Data Administration Executive (1)",
+  "company" : "Michelin",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000160&jc=0001485433&ec=0000000192",
+  "datePosted" : [ 2026, 3, 30, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Business Data Analyst",
+  "company" : "House of Intimates (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001485158&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 30, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Software Engineer",
   "company" : "Institute of Ocean Resource Analysis",
   "level" : "Junior/SE",
@@ -669,6 +797,14 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13388/full-stack-developer-intern-at-nuwali-digital-solutions/",
   "datePosted" : [ 2026, 3, 29, 22, 36, 4 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Intern - Data Analytics (1)",
+  "company" : "JKH Property Group",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001485056&ec=0000000312",
+  "datePosted" : [ 2026, 3, 29, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
   "title" : "Software Engineer - Intern - Remote",
@@ -799,6 +935,30 @@
   "datePosted" : [ 2026, 3, 27, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
+  "title" : "AI Instructor | Workshop Facilitator - Part Time | Full Time",
+  "company" : "APSS International Networks (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484791&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Data Processors",
+  "company" : "Traffic Data Centre (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001484786&ec=DEFZZZ",
+  "datePosted" : [ 2026, 3, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "AI Enablement Lead (1)",
+  "company" : "KPMG Executive Search Private Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000343&jc=0001484540&ec=0000000458",
+  "datePosted" : [ 2026, 3, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
   "title" : "Full Stack Developer (React Native / React / ASP.NET)",
   "company" : "Tecoora",
   "level" : "Junior/SE",
@@ -901,6 +1061,46 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13353/fullstack-developer-at-digiratina-technology-solutions/",
   "datePosted" : [ 2026, 3, 25, 21, 6, 2 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Walk In Interviews | Collaboration Tools (Cloud) (Freshers) ",
+  "company" : "HCL Technologies Lanka (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274545",
+  "datePosted" : [ 2026, 3, 25, 20, 8, 39, 390249900 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Walk In Interviews | Cyber Security (Fresher) ",
+  "company" : "HCL Technologies Lanka (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274541",
+  "datePosted" : [ 2026, 3, 25, 20, 8, 39, 388973200 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Walk In Interviews | Graduate Engineer Trainee (Analyst)",
+  "company" : "HCL Technologies Lanka (Private) Limited",
+  "level" : "Associate",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274564",
+  "datePosted" : [ 2026, 3, 25, 20, 8, 39, 388973200 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Walk In Interviews | Graduate Engineer Analyst - Infrastructure Services (Data Centre) (Freshers)",
+  "company" : "HCL Technologies Lanka (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274540",
+  "datePosted" : [ 2026, 3, 25, 20, 8, 39, 388973200 ],
+  "scrapedDate" : [ 2026, 4, 8 ]
+}, {
+  "title" : "Walk In Interviews | Graduate Engineering Trainee (Fresher)",
+  "company" : "HCL Technologies Lanka (Private) Limited",
+  "level" : "Associate",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274563",
+  "datePosted" : [ 2026, 3, 25, 20, 8, 39, 387972600 ],
   "scrapedDate" : [ 2026, 4, 8 ]
 }, {
   "title" : "Intern - Software Engineer (React | Node)",

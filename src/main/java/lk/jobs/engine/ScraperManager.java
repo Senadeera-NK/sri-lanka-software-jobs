@@ -4,6 +4,7 @@ import io.github.cdimascio.dotenv.Dotenv;
 import lk.jobs.model.Job;
 import lk.jobs.scrapers.ITProScraper;
 import lk.jobs.scrapers.JobScraper;
+import lk.jobs.scrapers.XpressJobsScraper;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
 import lk.jobs.scrapers.TopJobsScraper;
@@ -30,6 +31,9 @@ public class ScraperManager {
 
         String TopjobsURL = Config.get("topjobs.url");
         scrapers.add(new TopJobsScraper(TopjobsURL));
+
+        String XpressJobsURL = Config.get("xpressjobs.url");
+        scrapers.add(new XpressJobsScraper(XpressJobsURL));
 
         List<Job> allNewJobs = new ArrayList<>();
 
@@ -75,18 +79,16 @@ public class ScraperManager {
     }
 
     public static void main(String[] args) {
-        // 1. LOAD THE ENV FIRST
         try {
             Dotenv dotenv = Dotenv.configure().load();
             dotenv.entries().forEach(entry ->
                     System.setProperty(entry.getKey(), entry.getValue())
             );
-            System.out.println("✅ Environment variables loaded.");
+            System.out.println("Environment variables loaded.");
         } catch (Exception e) {
-            System.err.println("⚠️ Could not find .env file, falling back to System Env.");
+            System.err.println("Could not find .env file, falling back to System Env.");
         }
 
-        // 2. NOW RUN THE SCRAPER
         new ScraperManager().run();
     }
 }

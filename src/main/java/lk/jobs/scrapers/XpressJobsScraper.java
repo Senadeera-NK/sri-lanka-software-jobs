@@ -1,100 +1,113 @@
 package lk.jobs.scrapers;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lk.jobs.model.Job;
+import lk.jobs.utils.Config;
 import org.jsoup.Jsoup;
 
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-import java.io.IOException;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-import static java.time.LocalTime.now;
-
-public class XpressJobsScraper implements JobScraper{
+public class XpressJobsScraper implements JobScraper {
     private final String apiUrl;
+    private final ObjectMapper mapper = new ObjectMapper();
 
     public XpressJobsScraper(String apiUrl) {
+        // We will use the API URL you found
         this.apiUrl = apiUrl;
     }
 
     @Override
     public List<Job> scrape() {
         List<Job> jobs = new ArrayList<>();
+        try {
+            // Fetch the JSON string directly from the API
+            String jsonResponse = Jsoup.connect(apiUrl)
+                    .ignoreContentType(true) // Crucial for non-HTML responses
+                    .userAgent("Mozilla/5.0")
+                    .execute()
+                    .body();
 
-        try{
-//        using the injected url with a realistic user-agent to avoid 403s
-            Document doc = Jsoup.connect(apiUrl)
-                    .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-                    .timeout(10000)
-                    .get();
-            
-//            expressjobs uses .job_list_bow for the main job cards
-            Elements jobCards = doc.select(".job_list_box");
+            // Parse the JSON array
+            JsonNode rootArray = mapper.readTree(jsonResponse);
 
-            for(Element card:jobCards){
-                try{
-                    String title = card.select(".job-title a").text().trim();
-                    String company = card.select(".job_company").text().trim();
-                    String link = card.select(".job-title a").attr("href");
+            if (rootArray.isArray()) {
+                System.out.println("DEBUG [XpressJobs]: Processing " + rootArray.size() + " jobs from API.");
 
-//                    handle "x days left" logic
-                    String daysLeftText = card.select("div:contains(days left)").first() != null ?
-                            card.select("div:contains(days left)").first().text():"";
-                    
-                    LocalDate estimatedPostedDate = calculatePostedDate(daysLeftText);
-
-                    if(!title.isEmpty() && !company.isEmpty()){
-                        jobs.add(new Job(
-                                title,
-                                company,
-                                determineLevel(title),
-                                getSourceName(),
-                                link,
-                                estimatedPostedDate.atStartOfDay(),
-                                LocalDate.now()
-                        ));
+                for (JsonNode node : rootArray) {
+                    String title = node.get("jobTitle").asText();
+                    String company = node.get("organizationName").asText();
+                    int jobId = node.get("jobId").asInt();
+                    if (!isRelevant(title)) {
+                        // ADD THIS LINE TEMPORARILY:
+                        System.out.println("SKIPPED (Keyword Mismatch): " + title);
+                        continue;
                     }
-                }catch(Exception e){
-                    System.out.println("error parsing xpressjobs card: "+e.getMessage());
+                    // Filter based on your tech.keywords
+                    if (isRelevant(title)) {
+
+                        // Date Calculation: expireDayCountDown usually implies a 30-day post.
+                        // If it expires in 16 days, it was posted ~14 days ago.
+                        int daysLeft = node.get("expireDayCountDown").asInt();
+                        int daysAgo = 30 - daysLeft;
+                        LocalDateTime postedDate = LocalDateTime.now().minusDays(Math.max(0, daysAgo));
+
+                        // Freshness check from config
+                        LocalDate cutoff = LocalDate.now().minusDays(Config.getInt("max.days.old", 14));
+
+                        if (!postedDate.toLocalDate().isBefore(cutoff)) {
+                            jobs.add(new Job(
+                                    title,
+                                    company,
+                                    determineLevel(title),
+                                    getSourceName(),
+                                    "https://xpress.jobs/jobs/view/" + jobId,
+                                    postedDate,
+                                    LocalDate.now()
+                            ));
+                        }
+                    }
                 }
             }
-            
-        }catch(Exception e){
-            System.err.println("xpressjobs connection error: "+e.getMessage());
+        } catch (Exception e) {
+            System.err.println("XpressJobs API Error: " + e.getMessage());
         }
         return jobs;
     }
 
-    private String determineLevel(String title) {
-        String t = title.toLowerCase();
-        if(t.contains("intern")) return "Intern";
-        if(t.contains("associate") || t.contains("trainee"))return "Associate";
-        if(t.contains("senior") || t.contains("sr")||t.contains("lead"))return "Senior";
-        return "Junior/SE";
+    private boolean isRelevant(String title) {
+        String lowerTitle = title.toLowerCase();
+
+        // Check Blocked Keywords first (Highest Priority)
+        boolean isBlocked = Config.getBlockedKeywords().stream()
+                .anyMatch(lowerTitle::contains);
+        if (isBlocked) return false;
+
+        // Check Tech Keywords
+        boolean hasTech = Config.getTechKeywords().stream()
+                .anyMatch(lowerTitle::contains);
+
+        // Check Job Level/Role Keywords (e.g., Trainee, Intern, Engineer)
+        boolean hasRole = Config.getTechJobKeywords().stream()
+                .anyMatch(lowerTitle::contains);
+
+        // If it mentions a tech stack OR a relevant engineering role, we want it
+        return hasTech || hasRole;
     }
 
-    private LocalDate calculatePostedDate(String daysLeftText) {
-        if(daysLeftText == null ||daysLeftText.isEmpty())return LocalDate.now();
-
-        Pattern pattern = Pattern.compile("(\\d+)");
-        Matcher matcher = pattern.matcher(daysLeftText);
-
-        if(matcher.find()){
-            int daysLeft = Integer.parseInt(matcher.group(1));
-//            standard 30-days window estimate
-            int daysAgo = 30 - daysLeft;
-            return LocalDate.now().minusDays(Math.max(0,daysAgo));
-        }
-        return LocalDate.now();
+    private String determineLevel(String title) {
+        String t = title.toLowerCase();
+        if (t.contains("intern")) return "Intern";
+        if (t.contains("associate") || t.contains("trainee")) return "Associate";
+        if (t.contains("senior") || t.contains("sr") || t.contains("lead")) return "Senior";
+        return "Junior/SE";
     }
 
     @Override
     public String getSourceName() {
-        return "xpress.jobs";
+        return "XpressJobs";
     }
 }

@@ -43,7 +43,9 @@ public class Config {
         return getList("tech.keywords");
     }
 
-    public static List<String> getJobRoleKeywords() {
+    public static List<String> getTechJobKeywords() {
         return getList("techjobs.keywords");
     }
+
+    public static List<String> getBlockedKeywords(){return getList("blocked.keywords");}
 }

@@ -9,7 +9,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** April 8,8:21 PM (Just now)  | **Total Jobs Found:** 150
+> 🟢 **Last Updated:** April 8,8:08 PM (Just now)  | **Total Jobs Found:** 149
 
 ### 🎓 Internships & Trainees  (23)
 
@@ -135,11 +135,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (40)
+### 🚀 Senior & Lead Roles  (39)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Back End Developer Shopify](https://itpro.lk/job/13489/senior-back-end-developer-shopify-at-i4t-labs/) | I4t Labs | Senior | 4&nbsp;mins&nbsp;ago | ITPro.lk |
 | [Senior QA Automation Engineer](https://itpro.lk/job/13479/senior-qa-automation-engineer-at-itechro/) | Itechro | Senior | 10&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior Software Quality Engineer - Test Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487474&ec=DEFZZZ) | VitalHub Innovations Lab | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |

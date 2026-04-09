@@ -2,12 +2,9 @@ package lk.jobs.engine;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import lk.jobs.model.Job;
-import lk.jobs.scrapers.ITProScraper;
-import lk.jobs.scrapers.JobScraper;
-import lk.jobs.scrapers.XpressJobsScraper;
+import lk.jobs.scrapers.*;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
-import lk.jobs.scrapers.TopJobsScraper;
 import lk.jobs.notifier.TelegramNotifier;
 import java.util.ArrayList;
 import java.util.List;
@@ -34,6 +31,10 @@ public class ScraperManager {
 
         String XpressJobsURL = Config.get("xpressjobs.url");
         scrapers.add(new XpressJobsScraper(XpressJobsURL));
+
+        String RoosterJobsURL = Config.get("rooster.url");
+        scrapers.add(new RoosterJobsScraper(RoosterJobsURL));
+
 
         List<Job> allNewJobs = new ArrayList<>();
 

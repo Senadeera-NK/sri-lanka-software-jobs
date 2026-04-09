@@ -1,9 +1,18 @@
 [ {
+  "title" : "Software Engineer",
+  "company" : "Ceycert",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13496/software-engineer-at-ceycert/",
+  "datePosted" : [ 2026, 4, 9, 9, 29, 34 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
   "title" : "Data Analyst",
   "company" : "Dialog Axiata PLC",
   "level" : "Junior/SE",
   "source" : "XpressJobs",
   "link" : "https://xpress.jobs/jobs/view/274055",
+<<<<<<< HEAD
   "datePosted" : [ 2026, 4, 9, 14, 20, 38, 963733100 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
@@ -23,6 +32,11 @@
   "datePosted" : [ 2026, 4, 9, 9, 29, 34 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
+=======
+  "datePosted" : [ 2026, 4, 9, 6, 57, 16, 50924757 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
   "title" : "Senior Software Engineer (.NET / C#)",
   "company" : "BISTEC Global",
   "level" : "Senior",
@@ -71,6 +85,7 @@
   "datePosted" : [ 2026, 4, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
+<<<<<<< HEAD
   "title" : "Data & AI Solutions Engineer (1)",
   "company" : "Ceylon Cold Stores PLC",
   "level" : "Junior/SE",
@@ -87,6 +102,8 @@
   "datePosted" : [ 2026, 4, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
+=======
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
   "title" : "Senior Back End Developer Shopify",
   "company" : "I4t Labs",
   "level" : "Senior",
@@ -270,6 +287,7 @@
   "link" : "https://itpro.lk/job/13459/web-developer-at-tecoora/",
   "datePosted" : [ 2026, 4, 7, 11, 38 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+<<<<<<< HEAD
 }, {
   "title" : "Intern - Software Engineering",
   "company" : "Zegates International Private Limited",
@@ -278,6 +296,8 @@
   "link" : "https://rooster.jobs/jobs/516725",
   "datePosted" : [ 2026, 4, 7, 6, 18, 20 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+=======
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
 }, {
   "title" : "Quality Assurance Engineer",
   "company" : "PacificKode",
@@ -286,6 +306,7 @@
   "link" : "https://itpro.lk/job/13369/quality-assurance-engineer-at-pacifickode/",
   "datePosted" : [ 2026, 4, 7, 5, 23, 25 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+<<<<<<< HEAD
 }, {
   "title" : "IoT Systems Engineer",
   "company" : "Atlas Labs",
@@ -294,6 +315,8 @@
   "link" : "https://rooster.jobs/jobs/516721",
   "datePosted" : [ 2026, 4, 7, 4, 11, 52 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+=======
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
 }, {
   "title" : "Senior Software Engineer in Test (SDET)",
   "company" : "Ateam Software Pvt Ltd",
@@ -630,6 +653,7 @@
   "link" : "https://itpro.lk/job/13420/intern-software-engineer-at-vornex-labs/",
   "datePosted" : [ 2026, 4, 2, 21, 41 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+<<<<<<< HEAD
 }, {
   "title" : "Senior QA Engineer (Colombo)",
   "company" : "Enactor LTD",
@@ -638,6 +662,8 @@
   "link" : "https://rooster.jobs/jobs/516632",
   "datePosted" : [ 2026, 4, 2, 12, 43, 29 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+=======
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
 }, {
   "title" : "Web Developer (Odoo Focused)",
   "company" : "Coldco Group",
@@ -702,6 +728,7 @@
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001486354&ec=0000000603",
   "datePosted" : [ 2026, 4, 2, 12, 0 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+<<<<<<< HEAD
 }, {
   "title" : "Senior Golang Developer - REF8903",
   "company" : "Creative Software",
@@ -718,6 +745,8 @@
   "link" : "https://rooster.jobs/jobs/516629",
   "datePosted" : [ 2026, 4, 2, 8, 5, 31 ],
   "scrapedDate" : [ 2026, 4, 9 ]
+=======
+>>>>>>> 73fddd3ee38d1642a285e07f08215e7b2b052882
 }, {
   "title" : "Full-Stack Software Engineer Intern (Paid)",
   "company" : "Nippon IT and Educational Solution (NITES)",

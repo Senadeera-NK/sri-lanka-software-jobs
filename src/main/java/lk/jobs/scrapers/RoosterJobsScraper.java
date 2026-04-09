@@ -4,23 +4,20 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lk.jobs.model.Job;
 import lk.jobs.utils.Config;
+import lk.jobs.utils.DateParser;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
 public class RoosterJobsScraper implements JobScraper {
     private final String apiUrl;
     private final ObjectMapper mapper = new ObjectMapper();
-    // Rooster date format: 2026-03-23 12:20:35
-    private final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
     public RoosterJobsScraper(String apiUrl) {
-        // Use: https://api.rooster.jobs/jobSearch/jobs/search
         this.apiUrl = apiUrl;
     }
 
@@ -28,7 +25,7 @@ public class RoosterJobsScraper implements JobScraper {
     public List<Job> scrape() {
         List<Job> jobs = new ArrayList<>();
         try {
-            // FIXED: query is now an array to match the API's new requirements
+            // Searching for "software" to get a broad list of relevant engineering roles
             String requestBody = "{\"query\":[\"software\"],\"limit\":100,\"page\":1,\"filters\":{}}";
 
             Connection.Response response = Jsoup.connect(apiUrl)
@@ -38,14 +35,13 @@ public class RoosterJobsScraper implements JobScraper {
                     .header("Accept", "application/json, text/plain, */*")
                     .header("Origin", "https://rooster.jobs")
                     .header("Referer", "https://rooster.jobs/")
-                    .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36")
+                    .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
                     .requestBody(requestBody)
                     .ignoreHttpErrors(true)
                     .execute();
 
             if (response.statusCode() != 200 && response.statusCode() != 201) {
                 System.err.println("Rooster API Failed. Status: " + response.statusCode());
-                System.err.println("Error Body: " + response.body());
                 return jobs;
             }
 
@@ -60,16 +56,21 @@ public class RoosterJobsScraper implements JobScraper {
                     String company = node.path("company_name").asText("Unknown");
                     int jobId = node.path("id").asInt();
 
-                    // Skip if title is empty or not relevant to your tech stack
                     if (title.isEmpty() || !isRelevant(title)) continue;
 
-                    String createdAtStr = node.path("created_at").asText();
-                    LocalDateTime postedDate;
-                    try {
-                        postedDate = LocalDateTime.parse(createdAtStr, formatter);
-                    } catch (Exception e) {
-                        postedDate = LocalDateTime.now();
+                    // 1. GET & CLEAN RAW DESCRIPTION
+                    String rawHtml = node.path("description").asText("");
+                    if (rawHtml.isEmpty()) {
+                        rawHtml = node.path("body").asText("");
                     }
+                    String cleanDescription = Jsoup.parse(rawHtml).text();
+
+                    // 2. USE YOUR UPDATED DATEPARSER
+                    String createdAtStr = node.path("created_at").asText();
+                    LocalDateTime postedDate = DateParser.parseDate(createdAtStr);
+
+                    // 3. LIGHTWEIGHT SKILLS EXTRACTION
+                    List<String> extractedSkills = extractSkills(title + " " + cleanDescription);
 
                     LocalDate cutoff = LocalDate.now().minusDays(Config.getInt("max.days.old", 14));
 
@@ -81,7 +82,8 @@ public class RoosterJobsScraper implements JobScraper {
                                 getSourceName(),
                                 "https://rooster.jobs/jobs/" + jobId,
                                 postedDate,
-                                LocalDate.now()
+                                LocalDate.now(),
+                                cleanDescription // NEW: Full description for PostgreSQL
                         ));
                     }
                 }
@@ -92,17 +94,23 @@ public class RoosterJobsScraper implements JobScraper {
         return jobs;
     }
 
+    private List<String> extractSkills(String text) {
+        if (text == null || text.isEmpty()) return List.of();
+        String lowerText = text.toLowerCase();
+
+        return Config.getTechKeywords().stream()
+                .filter(skill -> lowerText.contains(skill.toLowerCase()))
+                .distinct()
+                .toList();
+    }
+
     private boolean isRelevant(String title) {
         String lowerTitle = title.toLowerCase();
-
-        boolean isBlocked = Config.getBlockedKeywords().stream()
-                .anyMatch(lowerTitle::contains);
+        boolean isBlocked = Config.getBlockedKeywords().stream().anyMatch(lowerTitle::contains);
         if (isBlocked) return false;
 
-        boolean hasTech = Config.getTechKeywords().stream()
-                .anyMatch(lowerTitle::contains);
-        boolean hasRole = Config.getTechJobKeywords().stream()
-                .anyMatch(lowerTitle::contains);
+        boolean hasTech = Config.getTechKeywords().stream().anyMatch(lowerTitle::contains);
+        boolean hasRole = Config.getTechJobKeywords().stream().anyMatch(lowerTitle::contains);
 
         return hasTech || hasRole;
     }

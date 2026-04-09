@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lk.jobs.model.Job;
 import lk.jobs.utils.Config;
+import lk.jobs.utils.DateParser;
 import org.jsoup.Jsoup;
 
 import java.time.LocalDate;
@@ -12,50 +13,49 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class XpressJobsScraper implements JobScraper {
-    private final String apiUrl;
+    private final String listApiUrl;
+    private final String detailApiBase = "https://xpress.jobs/api/jobs/publishedJob?jobId=";
     private final ObjectMapper mapper = new ObjectMapper();
 
-    public XpressJobsScraper(String apiUrl) {
-        // We will use the API URL you found
-        this.apiUrl = apiUrl;
+    public XpressJobsScraper(String listApiUrl) {
+        this.listApiUrl = listApiUrl;
     }
 
     @Override
     public List<Job> scrape() {
         List<Job> jobs = new ArrayList<>();
         try {
-            // Fetch the JSON string directly from the API
-            String jsonResponse = Jsoup.connect(apiUrl)
-                    .ignoreContentType(true) // Crucial for non-HTML responses
-                    .userAgent("Mozilla/5.0")
-                    .execute()
-                    .body();
-
-            // Parse the JSON array
-            JsonNode rootArray = mapper.readTree(jsonResponse);
+            // Step 1: Fetch the main job list
+            String listJson = fetchJson(listApiUrl);
+            JsonNode rootArray = mapper.readTree(listJson);
 
             if (rootArray.isArray()) {
-                System.out.println("DEBUG [XpressJobs]: Processing " + rootArray.size() + " jobs from API.");
+                System.out.println("DEBUG [XpressJobs]: Found " + rootArray.size() + " total jobs. Filtering...");
 
                 for (JsonNode node : rootArray) {
-                    String title = node.get("jobTitle").asText();
-                    String company = node.get("organizationName").asText();
-                    int jobId = node.get("jobId").asInt();
-                    if (!isRelevant(title)) {
-                        // ADD THIS LINE TEMPORARILY:
-                        System.out.println("SKIPPED (Keyword Mismatch): " + title);
-                        continue;
-                    }
-                    // Filter based on your tech.keywords
-                    if (isRelevant(title)) {
+                    String title = node.path("jobTitle").asText("").trim();
 
-                        // Date Calculation: expireDayCountDown usually implies a 30-day post.
-                        // If it expires in 16 days, it was posted ~14 days ago.
-                        int daysLeft = node.get("expireDayCountDown").asInt();
-                        int daysAgo = 30 - daysLeft;
-                        LocalDateTime postedDate = LocalDateTime.now().minusDays(Math.max(0, daysAgo));
+                    // Filter early so we don't waste API calls on irrelevant jobs
+                    if (!isRelevant(title)) continue;
 
-                        // Freshness check from config
+                    int jobId = node.path("jobId").asInt();
+
+                    // Step 2: Fetch the Full Detail for this specific Job
+                    // This is where we get the 'jobInfo' field you need.
+                    try {
+                        String detailJson = fetchJson(detailApiBase + jobId);
+                        JsonNode detailNode = mapper.readTree(detailJson);
+
+                        // Extract from Detail Node
+                        JsonNode jobItem = detailNode.path("jobItem");
+                        String company = jobItem.path("organizationName").asText("Unknown").trim();
+                        String rawHtml = detailNode.path("jobInfo").asText("");
+                        String cleanDescription = Jsoup.parse(rawHtml).text().trim();
+
+                        // Date Parsing
+                        String dateStr = detailNode.path("createdDate").asText();
+                        LocalDateTime postedDate = DateParser.parseDate(dateStr);
+
                         LocalDate cutoff = LocalDate.now().minusDays(Config.getInt("max.days.old", 14));
 
                         if (!postedDate.toLocalDate().isBefore(cutoff)) {
@@ -66,35 +66,40 @@ public class XpressJobsScraper implements JobScraper {
                                     getSourceName(),
                                     "https://xpress.jobs/jobs/view/" + jobId,
                                     postedDate,
-                                    LocalDate.now()
+                                    LocalDate.now(),
+                                    cleanDescription.isEmpty() ? title : cleanDescription
                             ));
                         }
+
+                        // Small delay to be polite to the server
+                        Thread.sleep(200);
+
+                    } catch (Exception detailEx) {
+                        System.err.println("Failed to fetch detail for job " + jobId + ": " + detailEx.getMessage());
                     }
                 }
             }
         } catch (Exception e) {
-            System.err.println("XpressJobs API Error: " + e.getMessage());
+            System.err.println("XpressJobs Scraper Error: " + e.getMessage());
         }
         return jobs;
     }
 
+    private String fetchJson(String url) throws Exception {
+        return Jsoup.connect(url)
+                .ignoreContentType(true)
+                .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+                .execute()
+                .body();
+    }
+
     private boolean isRelevant(String title) {
         String lowerTitle = title.toLowerCase();
-
-        // Check Blocked Keywords first (Highest Priority)
-        boolean isBlocked = Config.getBlockedKeywords().stream()
-                .anyMatch(lowerTitle::contains);
+        boolean isBlocked = Config.getBlockedKeywords().stream().anyMatch(lowerTitle::contains);
         if (isBlocked) return false;
 
-        // Check Tech Keywords
-        boolean hasTech = Config.getTechKeywords().stream()
-                .anyMatch(lowerTitle::contains);
-
-        // Check Job Level/Role Keywords (e.g., Trainee, Intern, Engineer)
-        boolean hasRole = Config.getTechJobKeywords().stream()
-                .anyMatch(lowerTitle::contains);
-
-        // If it mentions a tech stack OR a relevant engineering role, we want it
+        boolean hasTech = Config.getTechKeywords().stream().anyMatch(lowerTitle::contains);
+        boolean hasRole = Config.getTechJobKeywords().stream().anyMatch(lowerTitle::contains);
         return hasTech || hasRole;
     }
 

@@ -2,6 +2,7 @@ package lk.jobs.engine;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import lk.jobs.model.Job;
+import lk.jobs.repository.JobRepository;
 import lk.jobs.scrapers.*;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
@@ -18,6 +19,8 @@ public class ScraperManager {
 
     //creating a notifer instance
     private final TelegramNotifier telegramNotifier = new TelegramNotifier();
+
+    private final JobRepository repository = new JobRepository();
 
     public void run() {
         System.out.println("Starting Job Scraper Engine...");
@@ -37,6 +40,7 @@ public class ScraperManager {
 
 
         List<Job> allNewJobs = new ArrayList<>();
+
 
         // Execute all scrapers
         for (JobScraper scraper : scrapers) {
@@ -58,6 +62,13 @@ public class ScraperManager {
 
         //cleaning the new jobs first
         List<Job> cleanedNewJobs = dataCleaner.clean(allNewJobs);
+
+        // 2. SAVE TO SUPABASE (PostgreSQL)
+        // We do this after cleaning but before notification
+        System.out.println("Syncing " + cleanedNewJobs.size() + " jobs to Supabase...");
+        for (Job job : cleanedNewJobs) {
+            repository.save(job);
+        }
 
         //NOTIFY FIRST - the cleaned new jobs
         telegramNotifier.notifyNewJobs(cleanedNewJobs, existingHistory);

@@ -10,13 +10,11 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class TopJobsScraper implements JobScraper {
     private final String apiUrl;
 
-    public TopJobsScraper(String apiUrl){
+    public TopJobsScraper(String apiUrl) {
         this.apiUrl = apiUrl;
     }
 
@@ -26,28 +24,23 @@ public class TopJobsScraper implements JobScraper {
         try {
             Document doc = Jsoup.connect(apiUrl)
                     .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+                    .timeout(10000)
                     .get();
 
-            // Select all rows that have an 'onclick' starting with 'createAlert'
             Elements rows = doc.select("tr[onclick^=createAlert]");
 
             for (Element row : rows) {
                 try {
-                    // 1. Extract IDs from the onclick attribute for the URL
-                    // Example: createAlert('13','0000000484','0001475899','0000000651',...)
-                    String onClick = row.attr("onclick");
-                    String directLink = buildDirectLink(row);
-
-                    // 2. Extract Text Data
                     String title = row.select("h2").text().trim()
-                            .replaceAll("\\s"," ")//replacing multiple spaces/newlines
-                            .replaceAll("\\?","- ");//fixing weird marks
+                            .replaceAll("\\s", " ")
+                            .replaceAll("\\?", "- ");
                     String company = row.select("h1").text().trim();
-
-                    // The 5th column (index 4) contains the date: "Sat Mar 07 2026"
+                    String directLink = buildDirectLink(row);
                     String dateStr = row.select("td").get(4).text().trim();
 
                     if (!title.isEmpty() && !company.isEmpty()) {
+                        // We skip the fetchTopJobsDescription call entirely.
+                        // It saves time and prevents unnecessary 404s/image-only pages.
                         jobs.add(new Job(
                                 title,
                                 company,
@@ -55,7 +48,8 @@ public class TopJobsScraper implements JobScraper {
                                 getSourceName(),
                                 directLink,
                                 DateParser.parseDate(dateStr),
-                                LocalDate.now()
+                                LocalDate.now(),
+                                title // Using Title as the description for TopJobs
                         ));
                     }
                 } catch (Exception e) {
@@ -69,18 +63,12 @@ public class TopJobsScraper implements JobScraper {
     }
 
     private String buildDirectLink(Element row) {
-        // Inside your TopJobsScraper row loop
         String jc = row.select("span[id^=hdnJC]").text().trim();
         String ec = row.select("span[id^=hdnEC]").text().trim();
         String ac = row.select("span[id^=hdnAC]").text().trim();
 
-// Construct the URL
-        String directLink = String.format(
-                "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=%s&jc=%s&ec=%s&pg=applicant/vacancybyfunctionalarea.jsp",
-                ac, jc, ec
-        );
-            return String.format("https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=%s&jc=%s&ec=%s", ac, jc, ec);
-        }
+        return String.format("https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=%s&jc=%s&ec=%s", ac, jc, ec);
+    }
 
     private String determineLevel(String title) {
         String t = title.toLowerCase();

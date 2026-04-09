@@ -9,13 +9,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** April 9,2:36 PM (Just now)  | **Total Jobs Found:** 136
+> 🟢 **Last Updated:** April 9,5:39 PM (Just now)  | **Total Jobs Found:** 144
 
-### 🎓 Internships & Trainees  (17)
+### 🎓 Internships & Trainees  (20)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern - Information Security (Technical & GRC)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488251&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Information Security (Technical & GRC)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488251&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Software Engineer (.Net)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488860&ec=DEFZZZ) | One Billion Tech (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488854&ec=DEFZZZ) | One Billion Tech (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Software Engineer (React \| Node)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488849&ec=DEFZZZ) | One Billion Tech (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Developer Intern](https://itpro.lk/job/13481/software-developer-intern-at-glamer-media/) | Glamer Media | Intern | Yesterday | ITPro.lk |
 | [Senior Java Full - Stack Developer (Financial Internet Banking)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488071&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern - Software Engineering](https://rooster.jobs/jobs/516725) | Zegates International Private Limited | Intern | 2&nbsp;days&nbsp;ago | Rooster.jobs |
@@ -35,21 +38,25 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (80)
+### 💻 Associate & Junior/SE Roles  (84)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Engineer – AI Agents & Automation](https://itpro.lk/job/13501/qa-engineer-ai-agents-automation-at-coderra/) | Coderra | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer](https://itpro.lk/job/13496/software-engineer-at-ceycert/) | Ceycert | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Quality Engineer - Performance](https://itpro.lk/job/13503/software-quality-engineer-performance-at-vitalhub-innovations-lab/) | VitalHub Innovations Lab | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Quality Engineer - Test Automation](https://itpro.lk/job/13502/software-quality-engineer-test-automation-at-vitalhub-innovations-lab/) | VitalHub Innovations Lab | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer – AI Agents & Automation](https://itpro.lk/job/13501/qa-engineer-ai-agents-automation-at-coderra/) | Coderra | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Data Analyst](https://xpress.jobs/jobs/view/274055) | Dialog Axiata PLC | Junior/SE | 5&nbsp;hours&nbsp;ago | XpressJobs |
-| [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488718&ec=DEFZZZ) | Ernst & Young | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488715&ec=DEFZZZ) | Ernst & Young | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Enterprise Solution Architect](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488702&ec=DEFZZZ) | Ernst & Young | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data & AI Solutions Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001488659&ec=0000000311) | Ceylon Cold Stores PLC | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Mid-Level Full Stack & AI Engineer (Laravel / PHP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488658&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Web Developer (Backend-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000501&jc=0001488588&ec=0000000681) | Oscar Wylee | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488092&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer (Mobile)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487288&ec=DEFZZZ) | Ateam Software (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://itpro.lk/job/13496/software-engineer-at-ceycert/) | Ceycert | Junior/SE | 8&nbsp;hours&nbsp;ago | ITPro.lk |
+| [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488718&ec=DEFZZZ) | Ernst & Young | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488715&ec=DEFZZZ) | Ernst & Young | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Enterprise Solution Architect](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488702&ec=DEFZZZ) | Ernst & Young | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data & AI Solutions Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001488659&ec=0000000311) | Ceylon Cold Stores PLC | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Mid-Level Full Stack & AI Engineer (Laravel / PHP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488658&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Web Developer (Backend-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000501&jc=0001488588&ec=0000000681) | Oscar Wylee | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488092&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer (Mobile)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487288&ec=DEFZZZ) | Ateam Software (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Cyber Security Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488883&ec=0000000651) | Epic Lanka (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [JIRA Cloud Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001488751&ec=0000000313) | John Keells IT | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Database Administrator (MSSQL and MySQL)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488185&ec=DEFZZZ) | BOC IT Solutions (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000379&jc=0001488176&ec=0000000497) | Ceyline Group | Junior/SE | Yesterday | TopJobs.lk |
 | [Big Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -122,13 +129,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (39)
+### 🚀 Senior & Lead Roles  (40)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer (.NET / C#)](https://itpro.lk/job/13491/senior-software-engineer-net-c-at-bistec-global/) | BISTEC Global | Senior | 11&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Quality Engineer - Test Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487474&ec=DEFZZZ) | VitalHub Innovations Lab | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Back End Developer Shopify](https://itpro.lk/job/13489/senior-back-end-developer-shopify-at-i4t-labs/) | I4t Labs | Senior | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer (.NET / C#)](https://itpro.lk/job/13491/senior-software-engineer-net-c-at-bistec-global/) | BISTEC Global | Senior | 14&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Quality Engineer - Test Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487474&ec=DEFZZZ) | VitalHub Innovations Lab | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488762&ec=DEFZZZ) | Torch Labs Software LLC | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Back End Developer Shopify](https://itpro.lk/job/13489/senior-back-end-developer-shopify-at-i4t-labs/) | I4t Labs | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior QA Engineer (Automation - 06 Months) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001488536&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior Frontend Developer (Shopify & WordPress)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488480&ec=DEFZZZ) | Star Garments Group (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Mobile App Developer (React Native)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488328&ec=DEFZZZ) | FineXa Tech (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |

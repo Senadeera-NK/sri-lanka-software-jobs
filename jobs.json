@@ -1,4 +1,20 @@
 [ {
+  "title" : "Software Quality Engineer - Performance",
+  "company" : "VitalHub Innovations Lab",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13503/software-quality-engineer-performance-at-vitalhub-innovations-lab/",
+  "datePosted" : [ 2026, 4, 9, 16, 3, 30 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Software Quality Engineer - Test Automation",
+  "company" : "VitalHub Innovations Lab",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13502/software-quality-engineer-test-automation-at-vitalhub-innovations-lab/",
+  "datePosted" : [ 2026, 4, 9, 16, 1, 27 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
   "title" : "QA Engineer – AI Agents & Automation",
   "company" : "Coderra",
   "level" : "Junior/SE",
@@ -7,20 +23,20 @@
   "datePosted" : [ 2026, 4, 9, 13, 26, 45 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
+  "title" : "Data Analyst",
+  "company" : "Dialog Axiata PLC",
+  "level" : "Junior/SE",
+  "source" : "XpressJobs",
+  "link" : "https://xpress.jobs/jobs/view/274055",
+  "datePosted" : [ 2026, 4, 9, 12, 9, 37, 256423713 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
   "title" : "Software Engineer",
   "company" : "Ceycert",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13496/software-engineer-at-ceycert/",
   "datePosted" : [ 2026, 4, 9, 9, 29, 34 ],
-  "scrapedDate" : [ 2026, 4, 9 ]
-}, {
-  "title" : "Data Analyst",
-  "company" : "Dialog Axiata PLC",
-  "level" : "Junior/SE",
-  "source" : "XpressJobs",
-  "link" : "https://xpress.jobs/jobs/view/274055",
-  "datePosted" : [ 2026, 4, 9, 9, 6, 34, 680704617 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {
   "title" : "Senior Software Engineer (.NET / C#)",
@@ -108,6 +124,54 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001487288&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Cyber Security Analyst",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001488883&ec=0000000651",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Intern - Software Engineer (.Net)",
+  "company" : "One Billion Tech (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488860&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Quality Assurance Intern",
+  "company" : "One Billion Tech (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488854&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Intern - Software Engineer (React | Node)",
+  "company" : "One Billion Tech (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488849&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "Senior Software Engineer",
+  "company" : "Torch Labs Software LLC",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001488762&ec=DEFZZZ",
+  "datePosted" : [ 2026, 4, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 4, 9 ]
+}, {
+  "title" : "JIRA Cloud Administrator (1)",
+  "company" : "John Keells IT",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001488751&ec=0000000313",
   "datePosted" : [ 2026, 4, 9, 0, 0 ],
   "scrapedDate" : [ 2026, 4, 9 ]
 }, {

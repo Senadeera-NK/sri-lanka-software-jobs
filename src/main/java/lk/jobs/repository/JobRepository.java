@@ -16,11 +16,9 @@ public class JobRepository {
 
 
 
-    public void save(Job job) {
-        try{
-            Connection conn = DatabaseConnection.getConnection();
+    public void save(Job job, Connection sharedConn) {
 
-            try (PreparedStatement pstmt = conn.prepareStatement(UPSERT_SQL)) {
+            try (PreparedStatement pstmt = sharedConn.prepareStatement(UPSERT_SQL)) {
 
                 pstmt.setString(1, job.getTitle());
                 pstmt.setString(2, job.getCompany());
@@ -32,7 +30,7 @@ public class JobRepository {
 
                 pstmt.executeUpdate();
             }
-            } catch (SQLException e) {
+            catch (SQLException e) {
                 System.err.println("Database Save Error: " + e.getMessage());
         }
     }

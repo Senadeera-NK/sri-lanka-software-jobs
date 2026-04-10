@@ -89,6 +89,8 @@ public class XpressJobsScraper implements JobScraper {
         return Jsoup.connect(url)
                 .ignoreContentType(true)
                 .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+                .header("Referer", "https://xpress.jobs/") // Add this line
+                .header("Accept", "application/json")      // Add this line
                 .execute()
                 .body();
     }

@@ -1,12 +1,16 @@
 package lk.jobs.engine;
 
 import io.github.cdimascio.dotenv.Dotenv;
+import lk.jobs.db.DatabaseConnection;
 import lk.jobs.model.Job;
 import lk.jobs.repository.JobRepository;
 import lk.jobs.scrapers.*;
 import lk.jobs.utils.Config;
 import lk.jobs.utils.JsonStore;
 import lk.jobs.notifier.TelegramNotifier;
+
+import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,7 +26,7 @@ public class ScraperManager {
 
     private final JobRepository repository = new JobRepository();
 
-    public void run() {
+    public void run() throws SQLException {
         System.out.println("Starting Job Scraper Engine...");
 
         //fixing the URL config call (remove the "14")
@@ -60,10 +64,16 @@ public class ScraperManager {
 
         // 2. SAVE TO SUPABASE (PostgreSQL)
         // We do this after cleaning but before notification
+        Connection sharedConn = DatabaseConnection.getConnection();
+
+        System.out.println("Total jobs scraped: " + allNewJobs.size());
+        System.out.println("Jobs after cleaning: " + cleanedNewJobs.size());
+
         System.out.println("Syncing " + cleanedNewJobs.size() + " jobs to Supabase...");
         for (Job job : cleanedNewJobs) {
-            repository.save(job);
+            repository.save(job, sharedConn);
         }
+        DatabaseConnection.closeConnection();
 
         //NOTIFY FIRST - the cleaned new jobs
         telegramNotifier.notifyNewJobs(cleanedNewJobs, existingHistory);
@@ -96,6 +106,10 @@ public class ScraperManager {
             System.err.println("Could not find .env file, falling back to System Env.");
         }
 
-        new ScraperManager().run();
-    }
+        try {
+            new ScraperManager().run();
+        } catch (SQLException e) {
+            System.err.println("FATAL DATABASE ERROR: " + e.getMessage());
+            e.printStackTrace();
+        }    }
 }

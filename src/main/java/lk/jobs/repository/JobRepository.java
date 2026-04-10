@@ -14,21 +14,26 @@ public class JobRepository {
                     "description = EXCLUDED.description, " +
                     "scraped_at = CURRENT_TIMESTAMP";
 
+
+
     public void save(Job job) {
-        try (Connection conn = DatabaseConnection.getConnection();
-             PreparedStatement pstmt = conn.prepareStatement(UPSERT_SQL)) {
+        try{
+            Connection conn = DatabaseConnection.getConnection();
 
-            pstmt.setString(1, job.getTitle());
-            pstmt.setString(2, job.getCompany());
-            pstmt.setString(3, job.getLevel());
-            pstmt.setString(4, job.getSource());
-            pstmt.setString(5, job.getLink());
-            pstmt.setTimestamp(6, Timestamp.valueOf(job.getDatePosted()));
-            pstmt.setString(7, job.getDescription());
+            try (PreparedStatement pstmt = conn.prepareStatement(UPSERT_SQL)) {
 
-            pstmt.executeUpdate();
-        } catch (SQLException e) {
-            System.err.println("Database Save Error: " + e.getMessage());
+                pstmt.setString(1, job.getTitle());
+                pstmt.setString(2, job.getCompany());
+                pstmt.setString(3, job.getLevel());
+                pstmt.setString(4, job.getSource());
+                pstmt.setString(5, job.getLink());
+                pstmt.setTimestamp(6, Timestamp.valueOf(job.getDatePosted()));
+                pstmt.setString(7, job.getDescription());
+
+                pstmt.executeUpdate();
+            }
+            } catch (SQLException e) {
+                System.err.println("Database Save Error: " + e.getMessage());
         }
     }
 }

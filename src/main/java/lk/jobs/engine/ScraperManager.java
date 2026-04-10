@@ -38,9 +38,7 @@ public class ScraperManager {
         String RoosterJobsURL = Config.get("rooster.url");
         scrapers.add(new RoosterJobsScraper(RoosterJobsURL));
 
-
         List<Job> allNewJobs = new ArrayList<>();
-
 
         // Execute all scrapers
         for (JobScraper scraper : scrapers) {
@@ -52,10 +50,7 @@ public class ScraperManager {
             }catch(Exception e){
                 System.err.println("CRITICAL ERROR on "+scraper.getSourceName()+": "+e.getMessage());
             }
-
         }
-
-
 
         //loading history data from json
         List<Job> existingHistory = jsonStore.load();

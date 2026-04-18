@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import psycopg2
+from routers import job_stats
 from dotenv import load_dotenv
 import os
 
@@ -14,23 +15,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load environment variables from .env
-load_dotenv()
 
-# Fetch variables
-DATABASE_URL = os.getenv("DATABASE_URL")
+# registering the router
+app.include_router(job_stats.router)
 
-# Connect to the database
-connection = psycopg2.connect(DATABASE_URL)
-
-if(connection):
-    print("database connected successfully")
-
-
-# jobs stats
-@app.get("/api/jobs-stats")
-def get_stats():
-    return{
-        "labels":["XpressJobs","TopJobs","ITPro","Rooster"],
-        "data":[53, 227, 44, 5]
-    }
+@app.get("/")
+def root():
+    return {"mesage":"lanka job tracker api is alive"}

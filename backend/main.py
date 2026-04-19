@@ -10,7 +10,7 @@ app = FastAPI()
 # critical - allowing the frontend to talk to this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["http://localhost:3000", "https://sri-lanka-software-jobs.vercel.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

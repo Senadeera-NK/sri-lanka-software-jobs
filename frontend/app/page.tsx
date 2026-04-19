@@ -1,6 +1,28 @@
+'use client'
 import JobCharts from "../app/components/JobCharts";
+import { useEffect, useState } from "react";
+
+import { 
+    get_total_jobs_count,
+    get_total_platforms
+} from "../app/api/api";
 
 export default function Home() {
+      const [totalJobsCount, setTotalJobsCount] = useState(null);
+      const [totalPlatformsCount, setTotalPlatformsCount] = useState(null);
+
+        useEffect(() => {
+    const fetchData = async () => {
+      const [totalJobs, totalPlatforms] = await Promise.all([
+        get_total_jobs_count(),
+        get_total_platforms(),
+
+      ]);
+      if(totalJobs) setTotalJobsCount(totalJobs);
+      if(totalPlatforms) setTotalPlatformsCount(totalPlatforms);
+    };
+    fetchData();
+  }, []);
   return (
     <div className="min-h-screen bg-[#f8fafc] dark:bg-black font-sans text-slate-900 dark:text-slate-100">
       {/* Sleek Navbar */}
@@ -19,20 +41,19 @@ export default function Home() {
         </div>
       </nav>
 
-      <main className="max-w-7xl mx-auto py-10 px-6">
-        {/* Header Section */}
-        <div className="mb-10">
-          <h2 className="text-3xl font-black tracking-tight">Market Intelligence</h2>
-          <p className="text-slate-500 dark:text-zinc-500 mt-1 font-medium">
-            Analyzing engineering vacancies across the island's top recruiters.
-          </p>
-        </div>
+    <main className="max-w-7xl mx-auto py-6 px-6"> {/* Reduced py-12 to py-6 */}
+      <div className="mb-6"> {/* Reduced mb-12 to mb-6 */}
+        <h2 className="text-2xl font-black tracking-tight">Market Intelligence</h2>
+        <p className="text-slate-500 text-sm font-medium">
+          Live software engineering demand across Sri Lanka.
+        </p>
+      </div>
 
         {/* Quick Stats Ribbon */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+        <div className="grid grid-cols-3 sm:grid-cols-3 gap-4 mb-6">
             <div className="bg-white dark:bg-zinc-900 p-5 rounded-2xl border border-slate-200 dark:border-zinc-800">
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">Total Indexed</p>
-                <p className="text-2xl font-black mt-1">428 Jobs</p>
+                <p className="text-2xl font-black mt-1">{totalJobsCount} Jobs</p>
             </div>
             <div className="bg-white dark:bg-zinc-900 p-5 rounded-2xl border border-slate-200 dark:border-zinc-800">
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">Trending Hub</p>
@@ -40,11 +61,11 @@ export default function Home() {
             </div>
             <div className="bg-white dark:bg-zinc-900 p-5 rounded-2xl border border-slate-200 dark:border-zinc-800">
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest">Active Boards</p>
-                <p className="text-2xl font-black mt-1">4 Platforms</p>
+                <p className="text-2xl font-black mt-1">{totalPlatformsCount} Platforms</p>
             </div>
         </div>
 
-        <div className="bg-white dark:bg-zinc-950 rounded-3xl p-4 border border-slate-200 dark:border-zinc-900 shadow-xl shadow-slate-200/50 dark:shadow-none">
+  <div className="bg-[#0a0a0a] rounded-2xl p-2 border border-zinc-800">
             <JobCharts />
         </div>
       </main>

@@ -14,3 +14,12 @@ def read_marker_share():
 @router.get("/seniority")
 def read_seniority():
     return service.get_seniority_distribution()
+
+@router.get("/daily-trends")
+def daily_trends():
+    return service.get_daily_trends()
+
+
+@router.get("/top_companies")
+def top_companies():
+    return service.get_top_companies()

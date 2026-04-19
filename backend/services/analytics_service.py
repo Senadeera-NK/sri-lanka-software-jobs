@@ -48,4 +48,41 @@ class AnalyticsService:
             distributions[source][level] = distributions[source].get(level, 0) + 1
 
         return list(distributions.values())
+    
+    def get_daily_trends(self):
+        response = self.repo.get_columns(["scraped_at"])
+        raw_data = cast(List[Dict[str,Any]], response.data or [])
+
+        daily_counts: Dict[str,int]  ={}
+
+        for job in raw_data:
+            date=str(job.get('scraped_at',''))[:10]
+            if date:
+                daily_counts[date]=daily_counts.get(date,0)+1
+        
+        formatted_trends = [
+            {"date":date, "jobs":count}
+            for date, count in daily_counts.items()
+        ]
+
+        return sorted(formatted_trends, key=lambda x: x['date'])
+    
+
+    def get_top_companies(self, limit=10):
+        response = self.repo.get_columns(["company"])
+        raw_data = cast(List[Dict[str,Any]], response.data or [])
+
+        company_counts: Dict[str, int]={}
+
+        for job in raw_data:
+            name = job.get('company','Unknown')
+            company_counts[name]=company_counts.get(name, 0)+1
+        
+        formatted_companies = [
+            {"name":name, "count":count}
+            for name, count in company_counts.items()
+        ]
+
+        top_list = sorted(formatted_companies, key=lambda x: x['count'], reverse=True)
+        return top_list[:limit]
 

@@ -8,16 +8,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 > [!IMPORTANT]
 > **Automatic Staleness Purge:** The engine automatically removes listings older than **14 days**, ensuring the feed stays relevant and high-signal.
 
-# 🇱🇰 LankaJob Pulse
 > **Live Analytics & Daily Software Job Tracker for Sri Lanka**
 
 [📊 View Live Dashboard](https://sri-lanka-software-jobs.vercel.app/) | [📱 Join Telegram Alerts](https://t.me/SL_Software_Jobs)
-
----
-### 📈 Market at a Glance
-| Total Indexed | Active Platforms | Top Hub |
-| :--- | :--- | :--- |
-| **{total_jobs} Jobs** | **4 Boards** | **Colombo** |
 
 ![Dashboard Preview](./frontend/public/dashboard-screenshot.png) 
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*

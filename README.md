@@ -10,7 +10,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 > **Live Analytics & Daily Software Job Tracker for Sri Lanka**
 
-[📊 View Live Dashboard](https://sri-lanka-software-jobs.vercel.app/) | [📱 Join Telegram Alerts](https://t.me/SL_Software_Jobs)
+[📊 View Live Dashboard](https://sri-lanka-software-jobs.vercel.app/)
 
 ![Dashboard Preview](./frontend/public/dashboard-screenshot.png) 
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*

@@ -7,6 +7,14 @@ router = APIRouter(prefix="/api/v1/analytics", tags=["analytics"])
 # initializing the service
 service = AnalyticsService()
 
+@router.get("/total_jobs")
+def total_jobs_count():
+    return service.get_total_jobs_count()
+
+@router.get("/total_platforms")
+def total_platforms():
+    return service.get_total_platforms()
+
 @router.get("/market-share")
 def read_marker_share():
     return service.get_market_share_stats()

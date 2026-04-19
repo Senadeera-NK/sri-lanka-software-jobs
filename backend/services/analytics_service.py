@@ -5,6 +5,18 @@ class AnalyticsService:
     def __init__(self):
         self.repo = JobRepository()
 
+    def get_total_jobs_count(self):
+        response = self.repo.get_columns(["id"])
+        raw_data = cast(List[Dict[str, Any]], response.data or [])
+        return len(raw_data)
+
+    def get_total_platforms(self):
+        response = self.repo.get_columns(["source_name"])
+        raw_data = cast(List[Dict[str,Any]], response.data or [])
+
+        unique_platforms = {job.get('source_name') for job in raw_data if job.get('source_name')}
+        return len(unique_platforms)
+
     def get_market_share_stats(self):
         # transforms raw job data into source distribution for a donut chart
         response = self.repo.get_columns(["source_name"])
@@ -50,13 +62,13 @@ class AnalyticsService:
         return list(distributions.values())
     
     def get_daily_trends(self):
-        response = self.repo.get_columns(["scraped_at"])
+        response = self.repo.get_columns(["date_posted"])
         raw_data = cast(List[Dict[str,Any]], response.data or [])
 
         daily_counts: Dict[str,int]  ={}
 
         for job in raw_data:
-            date=str(job.get('scraped_at',''))[:10]
+            date=str(job.get('date_posted',''))[:10]
             if date:
                 daily_counts[date]=daily_counts.get(date,0)+1
         

@@ -16,17 +16,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** April 29,1:10 PM (Just now)  | **Total Jobs Found:** 214
+> 🟢 **Last Updated:** April 29,6:39 PM (Just now)  | **Total Jobs Found:** 218
 
 ### 🎓 Internships & Trainees  (22)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer Intern](https://xpress.jobs/jobs/view/279603) | Kapital Group | Intern | 33&nbsp;secs&nbsp;ago | XpressJobs |
-| [Software Engineer Intern](https://xpress.jobs/jobs/view/279601) | Kapital Group | Intern | 34&nbsp;secs&nbsp;ago | XpressJobs |
-| [Software Engineering Intern](https://itpro.lk/job/13616/software-engineering-intern-at-biztat/) | Biztat | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern - Backend](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001492643&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Intern - QA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001494865&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer Intern](https://xpress.jobs/jobs/view/279603) | Kapital Group | Intern | 37&nbsp;secs&nbsp;ago | XpressJobs |
+| [Software Engineer Intern](https://xpress.jobs/jobs/view/279601) | Kapital Group | Intern | 38&nbsp;secs&nbsp;ago | XpressJobs |
+| [Software Engineering Intern](https://itpro.lk/job/13616/software-engineering-intern-at-biztat/) | Biztat | Intern | 12&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - Backend](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001492643&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - QA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001494865&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Web Developer (Wordpress) - Intern](https://itpro.lk/job/13612/web-developer-wordpress-intern-at-microweb-global/) | Microweb Global | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Automation Trainee (Workflow Automation) – Paid Internship \| Jaffna](https://xpress.jobs/jobs/view/281061) | DIGIT WEB LANKA (PVT) LTD | Intern | 2&nbsp;days&nbsp;ago | XpressJobs |
 | [Intern - Data Analyst](https://xpress.jobs/jobs/view/277196) | Arpico Supercentre | Intern | 7&nbsp;days&nbsp;ago | XpressJobs |
@@ -47,42 +47,46 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (126)
+### 💻 Associate & Junior/SE Roles  (130)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Head of AI](https://xpress.jobs/jobs/view/278925) | Omobio | Junior/SE | 27&nbsp;secs&nbsp;ago | XpressJobs |
-| [IT Helpdesk Engineer \| Awissawella](https://xpress.jobs/jobs/view/279105) | Micronet Global Services (Pvt) Ltd | Junior/SE | 29&nbsp;secs&nbsp;ago | XpressJobs |
-| [Automation Engineer](https://xpress.jobs/jobs/view/279164) | Konnect BPO | Junior/SE | 29&nbsp;secs&nbsp;ago | XpressJobs |
-| [Head of Information Security](https://xpress.jobs/jobs/view/279290) | SMB Finance PLC | Junior/SE | 31&nbsp;secs&nbsp;ago | XpressJobs |
-| [Database Administrator - Oracle](https://xpress.jobs/jobs/view/279376) | Melsta Technologies (Pvt) Ltd | Junior/SE | 31&nbsp;secs&nbsp;ago | XpressJobs |
-| [Test & Validation (T&V) Engineers](https://xpress.jobs/jobs/view/279653) | Manpower Sri Lanka | Junior/SE | 35&nbsp;secs&nbsp;ago | XpressJobs |
-| [Android & Linux Developers](https://xpress.jobs/jobs/view/279655) | Manpower Sri Lanka | Junior/SE | 37&nbsp;secs&nbsp;ago | XpressJobs |
-| [Website Developer](https://xpress.jobs/jobs/view/279665) | Union Business Finance | Junior/SE | 38&nbsp;secs&nbsp;ago | XpressJobs |
-| [Head of Technology and Enterprise Architect](https://xpress.jobs/jobs/view/279721) | Dialog Axiata PLC | Junior/SE | 40&nbsp;secs&nbsp;ago | XpressJobs |
+| [Head of AI](https://xpress.jobs/jobs/view/278925) | Omobio | Junior/SE | 28&nbsp;secs&nbsp;ago | XpressJobs |
+| [IT Helpdesk Engineer \| Awissawella](https://xpress.jobs/jobs/view/279105) | Micronet Global Services (Pvt) Ltd | Junior/SE | 30&nbsp;secs&nbsp;ago | XpressJobs |
+| [Automation Engineer](https://xpress.jobs/jobs/view/279164) | Konnect BPO | Junior/SE | 31&nbsp;secs&nbsp;ago | XpressJobs |
+| [Head of Information Security](https://xpress.jobs/jobs/view/279290) | SMB Finance PLC | Junior/SE | 33&nbsp;secs&nbsp;ago | XpressJobs |
+| [Database Administrator - Oracle](https://xpress.jobs/jobs/view/279376) | Melsta Technologies (Pvt) Ltd | Junior/SE | 33&nbsp;secs&nbsp;ago | XpressJobs |
+| [Test & Validation (T&V) Engineers](https://xpress.jobs/jobs/view/279653) | Manpower Sri Lanka | Junior/SE | 39&nbsp;secs&nbsp;ago | XpressJobs |
+| [Android & Linux Developers](https://xpress.jobs/jobs/view/279655) | Manpower Sri Lanka | Junior/SE | 40&nbsp;secs&nbsp;ago | XpressJobs |
+| [Website Developer](https://xpress.jobs/jobs/view/279665) | Union Business Finance | Junior/SE | 41&nbsp;secs&nbsp;ago | XpressJobs |
+| [Head of Technology and Enterprise Architect](https://xpress.jobs/jobs/view/279721) | Dialog Axiata PLC | Junior/SE | 42&nbsp;secs&nbsp;ago | XpressJobs |
 | [Azure / Dynamics 365 Business Central Administrator](https://xpress.jobs/jobs/view/279712) | Brown and Company PLC | Junior/SE | 42&nbsp;secs&nbsp;ago | XpressJobs |
 | [Data Engineer](https://xpress.jobs/jobs/view/279716) | Brown and Company PLC | Junior/SE | 43&nbsp;secs&nbsp;ago | XpressJobs |
-| [Software Engineer / ABAP Developer](https://xpress.jobs/jobs/view/279812) | Lanka Walltiles PLC | Junior/SE | 44&nbsp;secs&nbsp;ago | XpressJobs |
-| [Junior Quality Assurance Engineer](https://xpress.jobs/jobs/view/279871) | Davton Limited | Junior/SE | 45&nbsp;secs&nbsp;ago | XpressJobs |
-| [Engineer - Product Development](https://xpress.jobs/jobs/view/281087) | Mobitel (Pvt) Ltd | Junior/SE | 53&nbsp;secs&nbsp;ago | XpressJobs |
+| [Software Engineer / ABAP Developer](https://xpress.jobs/jobs/view/279812) | Lanka Walltiles PLC | Junior/SE | 43&nbsp;secs&nbsp;ago | XpressJobs |
+| [Junior Quality Assurance Engineer](https://xpress.jobs/jobs/view/279871) | Davton Limited | Junior/SE | 44&nbsp;secs&nbsp;ago | XpressJobs |
+| [Engineer - Product Development](https://xpress.jobs/jobs/view/281087) | Mobitel (Pvt) Ltd | Junior/SE | 54&nbsp;secs&nbsp;ago | XpressJobs |
 | [.Net Developer](https://xpress.jobs/jobs/view/281431) | Care Analytics and Advisory pvt.ltd. | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [AI Programmer](https://xpress.jobs/jobs/view/281918) | JOB11 | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
-| [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001490764&ec=DEFZZZ) | Accura Tech (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer (PHP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001492825&ec=DEFZZZ) | Procons Infotech (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Back-End Developer (PHP/Laravel/React)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001493144&ec=DEFZZZ) | Aspirations I-Lab (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Big Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack .Net Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001490551&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494053&ec=DEFZZZ) | Care Systems South Asia (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494916&ec=DEFZZZ) | National Institute of Business Management | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494902&ec=DEFZZZ) | Arpico Energy | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Executive - Data Driven Solution](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494822&ec=DEFZZZ) | Hellmann MAS Supply Chain (HMSC) | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer - Application Development & Automated Test...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494788&ec=DEFZZZ) | Seaport Group | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [WordPress Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494773&ec=DEFZZZ) | KD Associates (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [DevOps Engineer - Embedded Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494544&ec=DEFZZZ) | Invenza Digital Technologies (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate DevOps Engineer](https://xpress.jobs/jobs/view/274036) | HT Works Pvt Ltd | Associate | 18&nbsp;hours&nbsp;ago | XpressJobs |
-| [Applied ML Engineer - Autonomous Drones](https://xpress.jobs/jobs/view/278069) | The Scouts | Junior/SE | 18&nbsp;hours&nbsp;ago | XpressJobs |
-| [Enterprise Solution Architect](https://xpress.jobs/jobs/view/278675) | Ernst & Young | Junior/SE | 18&nbsp;hours&nbsp;ago | XpressJobs |
-| [Associate Quality Assurance Engineer](https://xpress.jobs/jobs/view/281119) | Thyāga | Associate | 18&nbsp;hours&nbsp;ago | XpressJobs |
+| [Backend Software Engineer (Cloud Services Team)](https://rooster.jobs/jobs/517150) | Nextjob | Junior/SE | 6&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001490764&ec=DEFZZZ) | Accura Tech (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer (PHP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001492825&ec=DEFZZZ) | Procons Infotech (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Back-End Developer (PHP/Laravel/React)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001493144&ec=DEFZZZ) | Aspirations I-Lab (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Big Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack .Net Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001490551&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494053&ec=DEFZZZ) | Care Systems South Asia (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494916&ec=DEFZZZ) | National Institute of Business Management | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494902&ec=DEFZZZ) | Arpico Energy | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Executive - Data Driven Solution](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494822&ec=DEFZZZ) | Hellmann MAS Supply Chain (HMSC) | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer - Application Development & Automated Test...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494788&ec=DEFZZZ) | Seaport Group | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [WordPress Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494773&ec=DEFZZZ) | KD Associates (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [DevOps Engineer - Embedded Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494544&ec=DEFZZZ) | Invenza Digital Technologies (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Word Press Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001495100&ec=DEFZZZ) | Apex Consulting | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001495017&ec=DEFZZZ) | Payable (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Engineer - JAVA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494932&ec=DEFZZZ) | Medcube USA | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate DevOps Engineer](https://xpress.jobs/jobs/view/274036) | HT Works Pvt Ltd | Associate | 23&nbsp;hours&nbsp;ago | XpressJobs |
+| [Applied ML Engineer - Autonomous Drones](https://xpress.jobs/jobs/view/278069) | The Scouts | Junior/SE | 23&nbsp;hours&nbsp;ago | XpressJobs |
+| [Enterprise Solution Architect](https://xpress.jobs/jobs/view/278675) | Ernst & Young | Junior/SE | 23&nbsp;hours&nbsp;ago | XpressJobs |
+| [Associate Quality Assurance Engineer](https://xpress.jobs/jobs/view/281119) | Thyāga | Associate | 23&nbsp;hours&nbsp;ago | XpressJobs |
 | [Software Vacancies](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494279&ec=DEFZZZ) | Mark & Comm (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer JAVA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001494613&ec=0000000661) | DirectFN | Junior/SE | Yesterday | TopJobs.lk |
 | [Information Security Specialist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494475&ec=DEFZZZ) | Cargills Bank PLC | Junior/SE | Yesterday | TopJobs.lk |
@@ -184,34 +188,34 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Lead Mobile App Developer](https://xpress.jobs/jobs/view/279194) | Gluon Force (PVT) Ltd | Senior | 30&nbsp;secs&nbsp;ago | XpressJobs |
-| [Technical Lead -  Full Stack (NextJS & NestJS)](https://xpress.jobs/jobs/view/279562) | EFutures | Senior | 32&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Software Engineers](https://xpress.jobs/jobs/view/279657) | Manpower Sri Lanka | Senior | 37&nbsp;secs&nbsp;ago | XpressJobs |
-| [iOS Developers (Colombo, Sri Lanka)](https://xpress.jobs/jobs/view/279658) | Manpower Sri Lanka | Senior | 38&nbsp;secs&nbsp;ago | XpressJobs |
+| [Lead Mobile App Developer](https://xpress.jobs/jobs/view/279194) | Gluon Force (PVT) Ltd | Senior | 32&nbsp;secs&nbsp;ago | XpressJobs |
+| [Technical Lead -  Full Stack (NextJS & NestJS)](https://xpress.jobs/jobs/view/279562) | EFutures | Senior | 34&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Software Engineers](https://xpress.jobs/jobs/view/279657) | Manpower Sri Lanka | Senior | 40&nbsp;secs&nbsp;ago | XpressJobs |
+| [iOS Developers (Colombo, Sri Lanka)](https://xpress.jobs/jobs/view/279658) | Manpower Sri Lanka | Senior | 41&nbsp;secs&nbsp;ago | XpressJobs |
 | [Senior SQL and SSRS Developer](https://xpress.jobs/jobs/view/279891) | KriyaGo | Senior | 45&nbsp;secs&nbsp;ago | XpressJobs |
 | [Executive / Senior Executive - Data Analytics](https://xpress.jobs/jobs/view/280214) | Universal Outsourcing & Consultancy (Pvt) Ltd | Senior | 47&nbsp;secs&nbsp;ago | XpressJobs |
 | [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280380) | Sri Lanka Technology Campus | SLTC | Senior | 47&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280381) | Sri Lanka Technology Campus | SLTC | Senior | 48&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280382) | Sri Lanka Technology Campus | SLTC | Senior | 49&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280381) | Sri Lanka Technology Campus | SLTC | Senior | 49&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280382) | Sri Lanka Technology Campus | SLTC | Senior | 50&nbsp;secs&nbsp;ago | XpressJobs |
 | [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/280383) | Sri Lanka Technology Campus | SLTC | Senior | 50&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Software Engineers](https://xpress.jobs/jobs/view/280727) | Central Finance Company PLC | Senior | 51&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Software Engineers](https://xpress.jobs/jobs/view/280727) | Central Finance Company PLC | Senior | 52&nbsp;secs&nbsp;ago | XpressJobs |
 | [Senior Next.js Frontend Engineer (Vercel)](https://xpress.jobs/jobs/view/280917) | Innotic Pvt Ltd | Senior | 52&nbsp;secs&nbsp;ago | XpressJobs |
-| [Tech Lead – AI & Platform Engineering \| Hybrid](https://xpress.jobs/jobs/view/280927) | Coderra | Senior | 52&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Software Engineer - Mobile](https://xpress.jobs/jobs/view/281096) | Mobitel (Pvt) Ltd | Senior | 56&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Ruby on Rails Developer](https://xpress.jobs/jobs/view/281209) | Archipelago | Senior | 58&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Go (Golang) Developer](https://xpress.jobs/jobs/view/281210) | Archipelago | Senior | 58&nbsp;secs&nbsp;ago | XpressJobs |
+| [Tech Lead – AI & Platform Engineering \| Hybrid](https://xpress.jobs/jobs/view/280927) | Coderra | Senior | 53&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Software Engineer - Mobile](https://xpress.jobs/jobs/view/281096) | Mobitel (Pvt) Ltd | Senior | 58&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Ruby on Rails Developer](https://xpress.jobs/jobs/view/281209) | Archipelago | Senior | 59&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Go (Golang) Developer](https://xpress.jobs/jobs/view/281210) | Archipelago | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Python Developer \| Remote](https://xpress.jobs/jobs/view/281170) | BlueOceanSP | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Software Developer](https://xpress.jobs/jobs/view/281673) | Wizlearn Technologies Pte Ltd | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Software Engineer : Ruby on Rails](https://xpress.jobs/jobs/view/281796) | OXO Tech (Pvt) Ltd | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Java Architect \| Colombo](https://xpress.jobs/jobs/view/281871) | YI CAN PTE. LTD. | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Full Stack Engineer \| Colombo](https://xpress.jobs/jobs/view/278651) | TGT Global | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
-| [Senior Engineer - IT Security (Red Team Operations)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001490271&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Oracle Cloud Database - Senior Engineer \| Tech Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491203&ec=DEFZZZ) | Twixia Tech | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Oracle Workflow & BPM - Senior Developer \| Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491201&ec=DEFZZZ) | Twixia Tech | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Oracle APEX \| VBCS - Senior Developer \| Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491194&ec=DEFZZZ) | Twixia Tech | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Laravel Full Stack Developer](https://itpro.lk/job/13615/senior-laravel-full-stack-developer-at-zb-solutions/) | ZB Solutions | Senior | 17&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer](https://xpress.jobs/jobs/view/274015) | HT Works Pvt Ltd | Senior | 18&nbsp;hours&nbsp;ago | XpressJobs |
+| [Senior Engineer - IT Security (Red Team Operations)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001490271&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Oracle Cloud Database - Senior Engineer \| Tech Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491203&ec=DEFZZZ) | Twixia Tech | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Oracle Workflow & BPM - Senior Developer \| Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491201&ec=DEFZZZ) | Twixia Tech | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Oracle APEX \| VBCS - Senior Developer \| Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001491194&ec=DEFZZZ) | Twixia Tech | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001421034&ec=0000000350) | CMS (Pvt) Ltd | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Laravel Full Stack Developer](https://itpro.lk/job/13615/senior-laravel-full-stack-developer-at-zb-solutions/) | ZB Solutions | Senior | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer](https://xpress.jobs/jobs/view/274015) | HT Works Pvt Ltd | Senior | 23&nbsp;hours&nbsp;ago | XpressJobs |
 | [Senior Information Security Engineer - FINCSIRT (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000166&jc=0001494289&ec=0000000200) | LankaPay (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer \| Software Engineer Mobile Development](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494583&ec=DEFZZZ) | Scienter Technologies (Pte) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Software Engineer (Python) \| Senior Software Engineer (Python)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001494580&ec=DEFZZZ) | Innobot Health | Senior | Yesterday | TopJobs.lk |

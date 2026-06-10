@@ -16,17 +16,19 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** June 10,2:36 PM (Just now)  | **Total Jobs Found:** 220
+> 🟢 **Last Updated:** June 10,8:08 PM (Just now)  | **Total Jobs Found:** 226
 
-### 🎓 Internships & Trainees  (33)
+### 🎓 Internships & Trainees  (35)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern - QA](https://xpress.jobs/jobs/view/284564) | XpressJobs | Intern | 37&nbsp;secs&nbsp;ago | XpressJobs |
-| [Intern - Mobile Development](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001505633&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Intern - UI \| UX Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001508198&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [🚀 Internship Opportunity – QA (Quality Assurance)](https://rooster.jobs/jobs/517946) | Zegates International Private Limited | Intern | 21&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Odoo Developer Intern](https://itpro.lk/job/13973/odoo-developer-intern-at-everestx-technologies/) | EverestX Technologies | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - QA](https://xpress.jobs/jobs/view/284564) | XpressJobs | Intern | 44&nbsp;secs&nbsp;ago | XpressJobs |
+| [Product Development Intern](https://itpro.lk/job/13983/product-development-intern-at-w4labs/) | W4Labs | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - Mobile Development](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001505633&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - UI \| UX Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001508198&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern -  Cloud Solutions & Services (Modern Work Place) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001510858&ec=0000000313) | John Keells IT | Intern | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [🚀 Internship Opportunity – QA (Quality Assurance)](https://rooster.jobs/jobs/517946) | Zegates International Private Limited | Intern | Yesterday | Rooster.jobs |
+| [Odoo Developer Intern](https://itpro.lk/job/13973/odoo-developer-intern-at-everestx-technologies/) | EverestX Technologies | Intern | Yesterday | ITPro.lk |
 | [Software Engineering Internship](https://itpro.lk/job/13965/software-engineering-internship-at-99nex-technologies/) | 99NEX Technologies | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Intern](https://itpro.lk/job/13964/qa-intern-at-axzell-innovations/) | axzell innovations | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern - .NET](https://itpro.lk/job/13962/software-engineer-intern-net-at-navitsa/) | Navitsa | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -58,17 +60,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (120)
+### 💻 Associate & Junior/SE Roles  (122)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Head of Information Security](https://xpress.jobs/jobs/view/293760) | SMB Finance PLC | Junior/SE | 34&nbsp;secs&nbsp;ago | XpressJobs |
-| [Database Administrator - Oracle](https://xpress.jobs/jobs/view/293940) | Melsta Technologies (Pvt) Ltd | Junior/SE | 36&nbsp;secs&nbsp;ago | XpressJobs |
-| [Software Engineer / ABAP Developer](https://xpress.jobs/jobs/view/294358) | Lanka Walltiles PLC | Junior/SE | 40&nbsp;secs&nbsp;ago | XpressJobs |
-| [QA Engineer (US Working Hours)](https://xpress.jobs/jobs/view/294752) | Innobot | Junior/SE | 42&nbsp;secs&nbsp;ago | XpressJobs |
-| [QA Engineer](https://xpress.jobs/jobs/view/295232) | Innobot | Junior/SE | 50&nbsp;secs&nbsp;ago | XpressJobs |
-| [AI and Automation Engineer](https://xpress.jobs/jobs/view/295781) | TGT Global | Junior/SE | 55&nbsp;secs&nbsp;ago | XpressJobs |
-| [Security Analyst](https://xpress.jobs/jobs/view/295783) | TGT Global | Junior/SE | 55&nbsp;secs&nbsp;ago | XpressJobs |
+| [Head of Information Security](https://xpress.jobs/jobs/view/293760) | SMB Finance PLC | Junior/SE | 41&nbsp;secs&nbsp;ago | XpressJobs |
+| [Database Administrator - Oracle](https://xpress.jobs/jobs/view/293940) | Melsta Technologies (Pvt) Ltd | Junior/SE | 42&nbsp;secs&nbsp;ago | XpressJobs |
+| [Software Engineer / ABAP Developer](https://xpress.jobs/jobs/view/294358) | Lanka Walltiles PLC | Junior/SE | 46&nbsp;secs&nbsp;ago | XpressJobs |
+| [QA Engineer (US Working Hours)](https://xpress.jobs/jobs/view/294752) | Innobot | Junior/SE | 47&nbsp;secs&nbsp;ago | XpressJobs |
+| [QA Engineer](https://xpress.jobs/jobs/view/295232) | Innobot | Junior/SE | 53&nbsp;secs&nbsp;ago | XpressJobs |
+| [AI and Automation Engineer](https://xpress.jobs/jobs/view/295781) | TGT Global | Junior/SE | 57&nbsp;secs&nbsp;ago | XpressJobs |
+| [Security Analyst](https://xpress.jobs/jobs/view/295783) | TGT Global | Junior/SE | 58&nbsp;secs&nbsp;ago | XpressJobs |
 | [Quality Assurance Engineer](https://xpress.jobs/jobs/view/296035) | Davton Limited | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Junior Executive Grade - Information Security Analyst](https://xpress.jobs/jobs/view/296069) | Dialog Finance PLC | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Software Engineering , Artificial Intelligence Lecturers (Fu...](https://xpress.jobs/jobs/view/296227) | Campus Direct | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
@@ -79,17 +81,19 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Walk In Interview \| Cyber Security (Fresh Graduates)](https://xpress.jobs/jobs/view/293588) | HCL Technologies Lanka (Private) Limited | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Walk In Interview \| Graduate Engineering (Fresh Graduates)](https://xpress.jobs/jobs/view/293604) | HCL Technologies Lanka (Private) Limited | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Walk In Interviews \| Graduate Engineer Analyst - Infrastruc...](https://xpress.jobs/jobs/view/293590) | HCL Technologies Lanka (Private) Limited | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
-| [Data Governance Officer](https://xpress.jobs/jobs/view/296459) | Brown and Company PLC | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
-| [Quality Assurance Engineer](https://itpro.lk/job/13979/quality-assurance-engineer-at-orysys-limited/) | Orysys Limited | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Full Stack Developer](https://itpro.lk/job/13978/full-stack-developer-at-stalione-lanka-pvt-ltd/) | Stalione Lanka (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Golang API Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505547&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505542&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Automation \| Release Validation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505492&ec=DEFZZZ) | Capsicum Labs | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer (AI - Powered Development)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505484&ec=DEFZZZ) | Capsicum Labs | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer - Python & Cloud (Backend)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001508193&ec=DEFZZZ) | Affixcon Pty Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Quality Assurance Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001510792&ec=DEFZZZ) | RedOwl Labs (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Walk In Interview \| Collaboration Tools (Cloud) (Fresh Graduates)](https://xpress.jobs/jobs/view/293587) | HCL Technologies Lanka (Private) Limited | Junior/SE | 19&nbsp;hours&nbsp;ago | XpressJobs |
-| [Risk and Governance Engineer](https://xpress.jobs/jobs/view/293649) | Innobot | Junior/SE | 19&nbsp;hours&nbsp;ago | XpressJobs |
+| [Java Programmer](https://xpress.jobs/jobs/view/296480) | Recruit Lanka | Junior/SE | 1&nbsp;mins&nbsp;ago | XpressJobs |
+| [Data Governance Officer](https://xpress.jobs/jobs/view/296459) | Brown and Company PLC | Junior/SE | 5&nbsp;hours&nbsp;ago | XpressJobs |
+| [Quality Assurance Engineer](https://itpro.lk/job/13979/quality-assurance-engineer-at-orysys-limited/) | Orysys Limited | Junior/SE | 10&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer](https://itpro.lk/job/13978/full-stack-developer-at-stalione-lanka-pvt-ltd/) | Stalione Lanka (Pvt) Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Golang API Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505547&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505542&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Automation \| Release Validation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505492&ec=DEFZZZ) | Capsicum Labs | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer (AI - Powered Development)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001505484&ec=DEFZZZ) | Capsicum Labs | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer - Python & Cloud (Backend)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001508193&ec=DEFZZZ) | Affixcon Pty Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001510792&ec=DEFZZZ) | RedOwl Labs (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AUTOMATION SOLUTIONS DEVELOPER (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001510947&ec=0000000023) | Maritime Placements (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Walk In Interview \| Collaboration Tools (Cloud) (Fresh Graduates)](https://xpress.jobs/jobs/view/293587) | HCL Technologies Lanka (Private) Limited | Junior/SE | Yesterday | XpressJobs |
+| [Risk and Governance Engineer](https://xpress.jobs/jobs/view/293649) | Innobot | Junior/SE | Yesterday | XpressJobs |
 | [Big Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Full Stack .Net Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001490551&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000501&jc=0001510249&ec=0000000681) | Oscar Wylee | Junior/SE | Yesterday | TopJobs.lk |
@@ -185,27 +189,27 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (67)
+### 🚀 Senior & Lead Roles  (69)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Technical Lead (AI, Software)](https://xpress.jobs/jobs/view/294316) | PBA Systems Pte Ltd | Senior | 38&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior SQL and SSRS Developer](https://xpress.jobs/jobs/view/294354) | KriyaGo | Senior | 39&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Software Engineer (Python)](https://xpress.jobs/jobs/view/294753) | Innobot | Senior | 42&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294873) | Sri Lanka Technology Campus | SLTC | Senior | 43&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294874) | Sri Lanka Technology Campus | SLTC | Senior | 44&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294875) | Sri Lanka Technology Campus | SLTC | Senior | 45&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294876) | Sri Lanka Technology Campus | SLTC | Senior | 47&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior WordPress / Shopify Developer](https://xpress.jobs/jobs/view/291712) | AmplifyD Pvt Ltd | Senior | 48&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Python Developer \| Remote](https://xpress.jobs/jobs/view/295181) | BlueOceanSP | Senior | 48&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Software / Automation Systems Engineer](https://xpress.jobs/jobs/view/295212) | Seaport Group | Senior | 49&nbsp;secs&nbsp;ago | XpressJobs |
-| [Technical Lead - Python Focus](https://xpress.jobs/jobs/view/295233) | Innobot | Senior | 51&nbsp;secs&nbsp;ago | XpressJobs |
-| [Team Lead ( Blockchain, Full-Stack & AI  )  - Remote](https://xpress.jobs/jobs/view/295307) | Advantage Group Australasia Pty. Ltd | Senior | 52&nbsp;secs&nbsp;ago | XpressJobs |
-| [Tech Lead – AI & Platform Engineering \| Hybrid](https://xpress.jobs/jobs/view/295519) | Coderra | Senior | 53&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Systems Engineer](https://xpress.jobs/jobs/view/295700) | TGT Global | Senior | 54&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Full Stack Engineer](https://xpress.jobs/jobs/view/295780) | TGT Global | Senior | 54&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Ruby on Rails Developer](https://xpress.jobs/jobs/view/295828) | Archipelago | Senior | 56&nbsp;secs&nbsp;ago | XpressJobs |
-| [Senior Go (Golang) Developer](https://xpress.jobs/jobs/view/295829) | Archipelago | Senior | 57&nbsp;secs&nbsp;ago | XpressJobs |
+| [Technical Lead (AI, Software)](https://xpress.jobs/jobs/view/294316) | PBA Systems Pte Ltd | Senior | 45&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior SQL and SSRS Developer](https://xpress.jobs/jobs/view/294354) | KriyaGo | Senior | 45&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Software Engineer (Python)](https://xpress.jobs/jobs/view/294753) | Innobot | Senior | 47&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294873) | Sri Lanka Technology Campus | SLTC | Senior | 48&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294874) | Sri Lanka Technology Campus | SLTC | Senior | 48&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294875) | Sri Lanka Technology Campus | SLTC | Senior | 49&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Lecturer - Grade II / Lecturer / Lecturer (Probationa...](https://xpress.jobs/jobs/view/294876) | Sri Lanka Technology Campus | SLTC | Senior | 49&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior WordPress / Shopify Developer](https://xpress.jobs/jobs/view/291712) | AmplifyD Pvt Ltd | Senior | 51&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Python Developer \| Remote](https://xpress.jobs/jobs/view/295181) | BlueOceanSP | Senior | 51&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Software / Automation Systems Engineer](https://xpress.jobs/jobs/view/295212) | Seaport Group | Senior | 52&nbsp;secs&nbsp;ago | XpressJobs |
+| [Technical Lead - Python Focus](https://xpress.jobs/jobs/view/295233) | Innobot | Senior | 53&nbsp;secs&nbsp;ago | XpressJobs |
+| [Team Lead ( Blockchain, Full-Stack & AI  )  - Remote](https://xpress.jobs/jobs/view/295307) | Advantage Group Australasia Pty. Ltd | Senior | 54&nbsp;secs&nbsp;ago | XpressJobs |
+| [Tech Lead – AI & Platform Engineering \| Hybrid](https://xpress.jobs/jobs/view/295519) | Coderra | Senior | 55&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Systems Engineer](https://xpress.jobs/jobs/view/295700) | TGT Global | Senior | 56&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Full Stack Engineer](https://xpress.jobs/jobs/view/295780) | TGT Global | Senior | 56&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Ruby on Rails Developer](https://xpress.jobs/jobs/view/295828) | Archipelago | Senior | 59&nbsp;secs&nbsp;ago | XpressJobs |
+| [Senior Go (Golang) Developer](https://xpress.jobs/jobs/view/295829) | Archipelago | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior AI and Automation Engineer](https://xpress.jobs/jobs/view/295951) | TGT Global | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Software Engineer : Ruby on Rails](https://xpress.jobs/jobs/view/296299) | OXO Tech (Pvt) Ltd | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Software Developer](https://xpress.jobs/jobs/view/296304) | Wizlearn Technologies Pte Ltd | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
@@ -215,11 +219,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Senior Data Engineer](https://xpress.jobs/jobs/view/296424) | Dialog Axiata PLC | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Senior Data Scientist](https://xpress.jobs/jobs/view/296425) | Dialog Axiata PLC | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
 | [Lead Data Scientist](https://xpress.jobs/jobs/view/296427) | Dialog Axiata PLC | Senior | 1&nbsp;mins&nbsp;ago | XpressJobs |
-| [Senior Lead Engineer - IT Data Center](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001508968&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001510719&ec=DEFZZZ) | Infinity Innovators (Pvt) Ltd | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead JAVA Angular (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001510612&ec=0000000661) | DirectFN | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer - Spring Boot (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001510606&ec=0000000661) | DirectFN | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Automation Engineer (Python Focus)](https://xpress.jobs/jobs/view/291719) | Innobot | Senior | 19&nbsp;hours&nbsp;ago | XpressJobs |
+| [Senior Lead Engineer - IT Data Center](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001508968&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001510719&ec=DEFZZZ) | Infinity Innovators (Pvt) Ltd | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead JAVA Angular (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001510612&ec=0000000661) | DirectFN | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer - Spring Boot (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001510606&ec=0000000661) | DirectFN | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Computer System Engineer - AR2](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001511013&ec=DEFZZZ) | Industrial Technology Institute (ITI) | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Detection Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001510839&ec=0000000531) | Mobizz Elite (Pvt) Ltd | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Automation Engineer (Python Focus)](https://xpress.jobs/jobs/view/291719) | Innobot | Senior | Yesterday | XpressJobs |
 | [Senior Software Engineer (React, .Net Core) - REF7802](https://rooster.jobs/jobs/517943) | Creative Software | Senior | Yesterday | Rooster.jobs |
 | [Full Stack Developer / Tech Lead](https://xpress.jobs/jobs/view/294694) | Boomerang International | Senior | 2&nbsp;days&nbsp;ago | XpressJobs |
 | [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001505237&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** June 29,3:40 PM (Just now)  | **Total Jobs Found:** 232
+> 🟢 **Last Updated:** June 29,8:29 PM (Just now)  | **Total Jobs Found:** 232
 
 ### 🎓 Internships & Trainees  (38)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [ERP Developer Intern](https://itpro.lk/job/14164/erp-developer-intern-at-everestx-technologies/) | EverestX Technologies | Intern | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Automation Engineering Intern](https://itpro.lk/job/14155/automation-engineering-intern-at-mindox-techno/) | Mindox Techno | Intern | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [ERP Developer Intern](https://itpro.lk/job/14164/erp-developer-intern-at-everestx-technologies/) | EverestX Technologies | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Automation Engineering Intern](https://itpro.lk/job/14155/automation-engineering-intern-at-mindox-techno/) | Mindox Techno | Intern | Yesterday | ITPro.lk |
 | [Intern AI Product Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001514358&ec=0000000367) | Expolanka Holdings Limited | Intern | Yesterday | TopJobs.lk |
 | [Full Stack Developer Trainee Internship](https://itpro.lk/job/14152/full-stack-developer-trainee-internship-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | Yesterday | ITPro.lk |
 | [Intern -  Cloud Solutions and Services (Security) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001517798&ec=0000000313) | John Keells IT | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -67,11 +67,11 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality Engineer](https://itpro.lk/job/14165/quality-engineer-at-catalyst-thrive/) | Catalyst & Thrive | Junior/SE | 25&nbsp;mins&nbsp;ago | ITPro.lk |
-| [QA Engineer](https://itpro.lk/job/14161/qa-engineer-at-frixb/) | frixB | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Part Time AI Developer \| Full - Stack AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515396&ec=DEFZZZ) | Quard International (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Shopify Expert \| Shopify Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515394&ec=DEFZZZ) | Quard International (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI Solution Architect](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516526&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Engineer](https://itpro.lk/job/14165/quality-engineer-at-catalyst-thrive/) | Catalyst & Thrive | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://itpro.lk/job/14161/qa-engineer-at-frixb/) | frixB | Junior/SE | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Part Time AI Developer \| Full - Stack AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515396&ec=DEFZZZ) | Quard International (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Shopify Expert \| Shopify Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515394&ec=DEFZZZ) | Quard International (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI Solution Architect](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516526&ec=DEFZZZ) | Commercial Bank of Ceylon PLC | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Software Engineer / ABAP Developer](https://xpress.jobs/jobs/view/299173) | Lanka Walltiles PLC | Junior/SE | Yesterday | XpressJobs |
 | [Associate Data Engineer](https://xpress.jobs/jobs/view/299965) | Brown and Company PLC | Associate | Yesterday | XpressJobs |
 | [Data Governance Officer](https://xpress.jobs/jobs/view/299966) | Brown and Company PLC | Junior/SE | Yesterday | XpressJobs |
@@ -204,7 +204,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer .Net](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001513825&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer .Net](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001513825&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior SQL and SSRS Developer](https://xpress.jobs/jobs/view/299169) | KriyaGo | Senior | Yesterday | XpressJobs |
 | [Technical Lead (AI, Software)](https://xpress.jobs/jobs/view/299204) | PBA Systems Pte Ltd | Senior | Yesterday | XpressJobs |
 | [Senior Lead - DevOps](https://xpress.jobs/jobs/view/299388) | Dialog Axiata PLC | Senior | Yesterday | XpressJobs |

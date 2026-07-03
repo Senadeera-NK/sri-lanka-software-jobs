@@ -1,4 +1,13 @@
 [ {
+  "title" : "Senior Software Engineer (Golang) - REF7504",
+  "company" : "Creative Software",
+  "level" : "Senior",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/518475",
+  "datePosted" : [ 2026, 7, 3, 11, 12, 37 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Our client is an international, fast growing SaaS company based in Stockholm building the market leading collaboration platform for corporate reporting projects. They have local offices in London and Helsinki to support customers globally **What we expect** · Bachelor’s Degree in Computer Science/Engineering or an equivalent qualification · Minimum 3 years of proven backend development experience with Golang tech stack · Strong understanding of the Golang programming language and its ecosystem. · Sound understanding of web application development · Good experince in developing and working with APIs · Good knowledge of databases (PostgreSQL) · Sound understanding of industry-standard designs and architectural patterns · Passion for writing clean, readable, and easily maintainable code · Very good communication skills in English, verbal and written **What you will be doing** · Build strong work relationships with client's engineering team · Work with the product and design teams to understand end-user requirements and translate those into effective technical solutions · Be a team player and promote team spirit by appreciating cultural diversity · Drive continuous improvement of software quality, customer experience, and maintainability of products/features · Review junior team members’ code and provide constructive feedback"
+}, {
   "title" : "Software Engineer",
   "company" : "The Closing Room",
   "level" : "Junior/SE",
@@ -7,6 +16,123 @@
   "datePosted" : [ 2026, 7, 3, 6, 43, 43 ],
   "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "## Role Overview As a Software Engineer, you will be responsible for designing, developing, and maintaining software applications. You will collaborate with cross-functional teams to deliver high-quality software solutions that meet user needs and business objectives. ### Responsibilities: - Design, develop, and implement software applications. - Collaborate with product managers and designers to define software requirements. - Conduct code reviews and ensure adherence to coding standards. - Troubleshoot and debug applications to optimize performance. - Stay updated with emerging technologies and industry trends. ### Requirements: - Bachelor's degree in Computer Science or related field. - Proven experience as a Software Engineer or similar role. - Strong programming skills in languages such as Java, Python, or C++. - Familiarity with database management systems. - Excellent problem-solving skills and attention to detail."
+}, {
+  "title" : "Part Time AI Developer | Full - Stack AI Engineer",
+  "company" : "Quard International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515396&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Part Time AI Developer | Full - Stack AI Engineer"
+}, {
+  "title" : "Shopify Expert | Shopify Developer",
+  "company" : "Quard International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515394&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Shopify Expert | Shopify Developer"
+}, {
+  "title" : "AI Solution Architect",
+  "company" : "Commercial Bank of Ceylon PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516526&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "AI Solution Architect"
+}, {
+  "title" : "QA Automation Engineer",
+  "company" : "Intrepid",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519022&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "QA Automation Engineer"
+}, {
+  "title" : "Back - End Developer",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518513&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Back - End Developer"
+}, {
+  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
+  "company" : "Thakshana Technologies (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518413&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
+}, {
+  "title" : "Junior Embedded Software Engineer (Security-Focused)",
+  "company" : "Thakshana Technologies (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518412&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Junior Embedded Software Engineer (Security-Focused)"
+}, {
+  "title" : "Quality Assurance Intern",
+  "company" : "Synergen Health (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519846&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Quality Assurance Intern"
+}, {
+  "title" : "Web Developers",
+  "company" : "Geo360 Life (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519806&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Web Developers"
+}, {
+  "title" : "DevOps Engineer",
+  "company" : "Ezugi",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519757&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "DevOps Engineer"
+}, {
+  "title" : "Front End Developer - React",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519676&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Front End Developer - React"
+}, {
+  "title" : "Associate DevOps Engineer",
+  "company" : "Zindhu Business Solutions (Private) Limited",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519648&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Associate DevOps Engineer"
+}, {
+  "title" : "Senior Executive - Web & App Development",
+  "company" : "Cap Snap Lanka (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519540&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 3, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Senior Executive - Web & App Development"
 }, {
   "title" : "Intern - Software Engineering",
   "company" : "Xeynergy",
@@ -53,6 +179,114 @@
   "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Job Title: Experienced Full Stack Engineer Location: Remote | Type: Full-time / Contract | Start Date: Immediate About Us We are a UK-based technology company building a technology platform in the healthcare industry, operating through AI-driven collaboration and smart data connectivity. We are looking for experienced full-stack (JavaScript and database) developers with 10+ years of hands-on experience who can write good, clean code. The role offers the opportunity to work with a UK Company on AI, integration, and platform development, ideal for a top engineering or IT talent passionate about building scalable and intelligent digital solutions. Key Responsibilities Design, develop, and maintain scalable, secure, and high-performance software applications. Build and support backend services, APIs, integrations, and cloud-based solutions. Develop responsive and user-friendly applications across multiple platforms. Contribute to software architecture, technical design, and strategic technology decisions. Collaborate with cross-functional teams to deliver high-quality solutions that meet business and user requirements. Conduct code reviews and ensure adherence to engineering best practices, coding standards, and quality processes. Troubleshoot, optimise, and enhance application performance, reliability, security, and scalability. Participate in project planning, technical documentation, and all stages of the software development lifecycle. Research and adopt emerging technologies, tools, and methodologies to support continuous improvement and innovation. Required Skills & Experience Bachelor’s degree in Software Engineering, IT, Computer Science, or a related field (mandatory) 10+ years of professional experience in full-stack development (mandatory) Strong expertise in designing, developing, and maintaining scalable, secure, and high-performance software applications across multiple platforms, including frontend, backend, and cloud-based systems. Proven experience in enterprise-level software architecture, system design, application integration, database modelling, and the delivery of complex software solutions following industry best practices. Strong understanding of software development lifecycle (SDLC), API development, microservices architecture, authentication and security frameworks, version control, deployment processes, and DevOps methodologies. Experience working within agile, remote, and distributed teams, with excellent communication, collaboration, analytical, and problem-solving skills. Demonstrated ability to write clean, maintainable, and well-documented code while contributing to technical strategy, code reviews, and continuous improvement initiatives. Familiarity with AI-assisted software development tools and modern engineering productivity platforms to improve development efficiency and code quality. Preferred Technologies and Tools Programming Languages - Dart / Golang / TypeScript / JavaScript Frameworks & Technologies - Flutter / Domain-Driven Design (DDD) / REST APIs / Microservices Architecture Databases & Authentication - Firestore / SQL Databases / NoSQL Databases / Firebase Authentication Development & DevOps Tools - GitHub / CI/CD Pipelines / Automated Deployment Tools AI-Assisted Development Tools - Cursor / Claude / Antigravity / Similar AI-powered development platforms Key Skills Writes clean, maintainable, and production-ready code. Strong analytical and problem-solving skills. Self-motivated and capable of working independently. Quick learner with a passion for emerging technologies. Strong attention to detail. Excellent collaboration and communication skills. Ability to take ownership of technical solutions from concept to deployment. What We Offer Competitive compensation based on qualifications and experience. Fully remote and flexible working environment. Opportunity to work with a UK-based technology company. Exposure to cutting-edge AI, healthcare technology, and data integration projects. Opportunity to influence architecture and technical direction. Collaborative and innovation-focused engineering culture. How to Apply: If you meet the above requirements, please send your CV, including two non-related referees and your expected salary, to devapplications2025@gmail.com within 10 days of this advertisement. Please include “Developer Vacancy – (Your Name)” in the subject line."
 }, {
+  "title" : "Big Data Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Big Data Engineer (1)"
+}, {
+  "title" : "Senior Snowflake Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001515730&ec=0000000350",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Senior Snowflake Engineer (1)"
+}, {
+  "title" : "Data Analyst",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516380&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Data Analyst"
+}, {
+  "title" : "AI - Frontend Tech Lead",
+  "company" : "HRC Labs",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519222&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "AI - Frontend Tech Lead"
+}, {
+  "title" : "AI - Frontend Senior Software Engineer",
+  "company" : "HRC Labs",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519221&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "AI - Frontend Senior Software Engineer"
+}, {
+  "title" : "AI - Frontend Software Engineer",
+  "company" : "HRC Labs",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519218&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "AI - Frontend Software Engineer"
+}, {
+  "title" : "Data Engineer",
+  "company" : "HRC Labs",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519214&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Data Engineer"
+}, {
+  "title" : "Intern & Associate - Software Engineer",
+  "company" : "Muve Mobility (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519189&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Intern & Associate - Software Engineer"
+}, {
+  "title" : "Web Developer (Wordpress)",
+  "company" : "Designsolv (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519180&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Web Developer (Wordpress)"
+}, {
+  "title" : "Intern - IT - QA (1)",
+  "company" : "Hirdaramani - H CONNECT (PVT) LIMITED",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001519081&ec=0000000603",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Intern - IT - QA (1)"
+}, {
+  "title" : "Senior QA Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Senior QA Engineer (1)"
+}, {
+  "title" : "Intern - Fullstack Developer",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001519023&ec=0000000651",
+  "datePosted" : [ 2026, 7, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
+  "description" : "Intern - Fullstack Developer"
+}, {
   "title" : "Senior Full Stack Engineer",
   "company" : "Global Training Network Alliances (Global TNA)",
   "level" : "Senior",
@@ -70,177 +304,6 @@
   "datePosted" : [ 2026, 7, 2, 8, 29, 22 ],
   "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Interns with a passion for Software Quality Assurance are also encouraged to apply. This is a great opportunity to gain hands-on industry experience and grow your career. Location: Pannipitiya, Colombo Company: Lakmini International (Pvt) Ltd Job Type: Full-Time Lakmini International (Pvt) Ltd, a reputed software development and digital solutions company established in 2012, is looking for a detail-oriented and passionate Quality Assurance (QA) Engineer to join our growing team. We specialize in developing high-quality mobile and web applications. As part of our QA team, you will be responsible for ensuring our software products meet the highest quality standards through comprehensive testing, defect identification, and continuous quality improvement. Job Responsibilities Plan, design, and execute manual test cases for web and mobile applications Identify, document, and track software defects using bug tracking tools Perform functional, regression, integration, usability, and compatibility testing Collaborate closely with developers, designers, and project managers to resolve issues Verify bug fixes and ensure software meets functional and business requirements Participate in requirement analysis and provide feedback to improve product quality Prepare and maintain test plans, test cases, and testing documentation Ensure software releases are stable and meet quality standards before deployment Report testing progress and provide quality assurance status updates Stay updated with the latest QA methodologies, testing tools, and industry best practices Requirements Proven experience in software quality assurance or software testing Good understanding of software development life cycle (SDLC) and software testing life cycle (STLC) Experience in manual testing of web and mobile applications Strong analytical and problem-solving skills with excellent attention to detail Ability to identify, reproduce, and clearly document software defects Good communication and teamwork skills Ability to work under deadlines and manage multiple projects Working Details Working Days: Monday to Saturday Working Hours: 9.00 AM – 5.30 PM Location: Pannipitiya, Colombo Salary & Benefits Attractive salary based on experience and skills Overtime payments available Opportunity to work with a professional software development company Supportive, collaborative, and growth-focused working environment Join Lakmini International (Pvt) Ltd and become part of a dedicated team committed to delivering reliable, high-quality software solutions."
-}, {
-  "title" : "Part Time AI Developer | Full - Stack AI Engineer",
-  "company" : "Quard International (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515396&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Part Time AI Developer | Full - Stack AI Engineer"
-}, {
-  "title" : "Shopify Expert | Shopify Developer",
-  "company" : "Quard International (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515394&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Shopify Expert | Shopify Developer"
-}, {
-  "title" : "AI Solution Architect",
-  "company" : "Commercial Bank of Ceylon PLC",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516526&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "AI Solution Architect"
-}, {
-  "title" : "Big Data Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Big Data Engineer (1)"
-}, {
-  "title" : "Senior Snowflake Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001515730&ec=0000000350",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Senior Snowflake Engineer (1)"
-}, {
-  "title" : "Data Analyst",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516380&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Data Analyst"
-}, {
-  "title" : "AI - Frontend Tech Lead",
-  "company" : "HRC Labs",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519222&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "AI - Frontend Tech Lead"
-}, {
-  "title" : "AI - Frontend Senior Software Engineer",
-  "company" : "HRC Labs",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519221&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "AI - Frontend Senior Software Engineer"
-}, {
-  "title" : "AI - Frontend Software Engineer",
-  "company" : "HRC Labs",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519218&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "AI - Frontend Software Engineer"
-}, {
-  "title" : "Data Engineer",
-  "company" : "HRC Labs",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519214&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Data Engineer"
-}, {
-  "title" : "Intern & Associate - Software Engineer",
-  "company" : "Muve Mobility (Pvt) Ltd",
-  "level" : "Intern",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519189&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Intern & Associate - Software Engineer"
-}, {
-  "title" : "Web Developer (Wordpress)",
-  "company" : "Designsolv (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519180&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Web Developer (Wordpress)"
-}, {
-  "title" : "Intern - IT - QA (1)",
-  "company" : "Hirdaramani - H CONNECT (PVT) LIMITED",
-  "level" : "Intern",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001519081&ec=0000000603",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Intern - IT - QA (1)"
-}, {
-  "title" : "Senior QA Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Senior QA Engineer (1)"
-}, {
-  "title" : "Intern - Fullstack Developer",
-  "company" : "Epic Lanka (Pvt) Ltd",
-  "level" : "Intern",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001519023&ec=0000000651",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Intern - Fullstack Developer"
-}, {
-  "title" : "QA Automation Engineer",
-  "company" : "Intrepid",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519022&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "QA Automation Engineer"
-}, {
-  "title" : "Back - End Developer",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518513&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Back - End Developer"
-}, {
-  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
-  "company" : "Thakshana Technologies (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518413&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
-}, {
-  "title" : "Junior Embedded Software Engineer (Security-Focused)",
-  "company" : "Thakshana Technologies (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518412&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 2, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
-  "description" : "Junior Embedded Software Engineer (Security-Focused)"
 }, {
   "title" : "Senior Software / Automation Systems Engineer",
   "company" : "Seaport Group",
@@ -653,7 +716,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518629&ec=DEFZZZ",
   "datePosted" : [ 2026, 7, 1, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Solution Engineer Vacancies in Colombo"
 }, {
   "title" : "GenAI Engineer (Indian candidates only) (1)",
@@ -662,7 +725,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000403&jc=0001518553&ec=0000000531",
   "datePosted" : [ 2026, 7, 1, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "GenAI Engineer (Indian candidates only) (1)"
 }, {
   "title" : "SAP Master Data Associate",
@@ -671,7 +734,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518409&ec=DEFZZZ",
   "datePosted" : [ 2026, 7, 1, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "SAP Master Data Associate"
 }, {
   "title" : "Laravel Full Stack Developer",
@@ -752,7 +815,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517962&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer | Senior Software Engineer"
 }, {
   "title" : "Junior Trainee - Software Development & IOT",
@@ -761,7 +824,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518166&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Junior Trainee - Software Development & IOT"
 }, {
   "title" : "Senior Associate - Data Analytics (Power BI & Microsoft Ecosystem) (US Calendar - US Shift) (1)",
@@ -770,7 +833,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001518382&ec=0000000445",
   "datePosted" : [ 2026, 6, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Associate - Data Analytics (Power BI & Microsoft Ecosystem) (US Calendar - US Shift) (1)"
 }, {
   "title" : "WordPress Developer",
@@ -914,7 +977,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001514358&ec=0000000367",
   "datePosted" : [ 2026, 6, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern - AI Product Engineer (1)"
 }, {
   "title" : "Full Stack Developer Trainee Internship",
@@ -932,7 +995,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001517798&ec=0000000313",
   "datePosted" : [ 2026, 6, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern -  Cloud Solutions and Services (Security) (1)"
 }, {
   "title" : "Intern QA Engineer (1)",
@@ -950,7 +1013,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001514359&ec=0000000367",
   "datePosted" : [ 2026, 6, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern - AI QA Engineer (1)"
 }, {
   "title" : "AIOps & Automation Engineer",
@@ -968,7 +1031,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517466&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Full Stack Developer"
 }, {
   "title" : "Product Engineer - AI & Automation (R&D)",
@@ -977,7 +1040,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517200&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Product Engineer - AI & Automation (R&D)"
 }, {
   "title" : "Senior ICT | Software Engineer",
@@ -986,7 +1049,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517116&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior ICT | Software Engineer"
 }, {
   "title" : "Software Engineer - Java",
@@ -995,7 +1058,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517591&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer - Java"
 }, {
   "title" : "Software Engineer (Python + Java)",
@@ -1004,7 +1067,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517584&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer (Python + Java)"
 }, {
   "title" : "Software Engineer - Frontend",
@@ -1013,7 +1076,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517556&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer - Frontend"
 }, {
   "title" : "Senior Software Architecture",
@@ -1022,7 +1085,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517448&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Software Architecture"
 }, {
   "title" : "QA Head",
@@ -1031,7 +1094,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517445&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "QA Head"
 }, {
   "title" : "IT Officer - Data & SQL Development",
@@ -1040,7 +1103,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517235&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "IT Officer - Data & SQL Development"
 }, {
   "title" : "Senior Developer / Tech Lead / Senior Tech Lead Full-Stack Development (Angular & .Net)",
@@ -1121,7 +1184,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517019&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Web Development Project Coordinator"
 }, {
   "title" : "Senior UX | UI Engineer",
@@ -1130,7 +1193,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517011&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior UX | UI Engineer"
 }, {
   "title" : "Software Engineer (.Net & React)",
@@ -1139,7 +1202,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001517005&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer (.Net & React)"
 }, {
   "title" : "Junior Data Analyst (1)",
@@ -1148,7 +1211,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001517003&ec=0000000178",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Junior Data Analyst (1)"
 }, {
   "title" : "Full Stack Developer",
@@ -1166,7 +1229,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516908&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer (PHP)"
 }, {
   "title" : "Front End Developer",
@@ -1175,7 +1238,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516696&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Front End Developer"
 }, {
   "title" : "Flutter Mobile Developer",
@@ -1184,7 +1247,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516687&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Flutter Mobile Developer"
 }, {
   "title" : "Quality Assurance Trainee",
@@ -1193,7 +1256,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516681&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Quality Assurance Trainee"
 }, {
   "title" : "Information Security Officer (1)",
@@ -1202,7 +1265,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000062&jc=0001516664&ec=0000000714",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Information Security Officer (1)"
 }, {
   "title" : "AI Training Data Intern",
@@ -1211,7 +1274,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516660&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "AI Training Data Intern"
 }, {
   "title" : "Associate Full Stack Software Developer",
@@ -1220,7 +1283,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516639&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Associate Full Stack Software Developer"
 }, {
   "title" : "Senior Developer",
@@ -1346,7 +1409,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001514705&ec=0000000410",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Executive - Data Analytics (1)"
 }, {
   "title" : "Senior Software Engineer Full Stack (1)",
@@ -1382,7 +1445,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001516602&ec=0000000661",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Mobile Developer - iOS (1)"
 }, {
   "title" : "Tech Lead - AI",
@@ -1391,7 +1454,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516494&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Tech Lead - AI"
 }, {
   "title" : "Senior Data Engineer",
@@ -1400,7 +1463,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516490&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Data Engineer"
 }, {
   "title" : "Data Engineer",
@@ -1409,7 +1472,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516488&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Data Engineer"
 }, {
   "title" : "Automotive Technical Data Specialist",
@@ -1418,7 +1481,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516366&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Automotive Technical Data Specialist"
 }, {
   "title" : "Low Code Development Specialist (1)",
@@ -1427,7 +1490,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001516280&ec=0000000311",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Low Code Development Specialist (1)"
 }, {
   "title" : "Mobile Developer - Android (1)",
@@ -1436,7 +1499,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001516221&ec=0000000661",
   "datePosted" : [ 2026, 6, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Mobile Developer - Android (1)"
 }, {
   "title" : "Senior Software Engineer Java Script (1)",
@@ -1508,7 +1571,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516064&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "AI - Backend Tech Lead"
 }, {
   "title" : "AI - Backend Senior Software Engineer",
@@ -1517,7 +1580,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516061&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "AI - Backend Senior Software Engineer"
 }, {
   "title" : "AI - Backend Engineer",
@@ -1526,7 +1589,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516056&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "AI - Backend Engineer"
 }, {
   "title" : "Senior Full Stack Engineer (.Net & Angular)",
@@ -1535,7 +1598,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001516052&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Full Stack Engineer (.Net & Angular)"
 }, {
   "title" : "QA Interns & QA Automation Interns",
@@ -1544,7 +1607,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515941&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "QA Interns & QA Automation Interns"
 }, {
   "title" : "Full Stack Engineer - Java & React",
@@ -1553,7 +1616,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001515929&ec=0000000666",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Full Stack Engineer - Java & React"
 }, {
   "title" : "Intern - UI | UX Engineer",
@@ -1562,7 +1625,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515923&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern - UI | UX Engineer"
 }, {
   "title" : "Chief Information Security Officer",
@@ -1571,7 +1634,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515909&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Chief Information Security Officer"
 }, {
   "title" : "Intern Full Stack Engineer (.Net & Angular)",
@@ -1580,7 +1643,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515867&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern Full Stack Engineer (.Net & Angular)"
 }, {
   "title" : "Technical Lead (Python | AI Engineering)",
@@ -1589,7 +1652,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515810&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Technical Lead (Python | AI Engineering)"
 }, {
   "title" : "Mobile QA Engineer",
@@ -1598,7 +1661,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515725&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Mobile QA Engineer"
 }, {
   "title" : "Nest JS Backend Developer",
@@ -1607,7 +1670,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515720&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Nest JS Backend Developer"
 }, {
   "title" : "Senior Quality Assurance Engineer",
@@ -1616,7 +1679,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515678&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior Quality Assurance Engineer"
 }, {
   "title" : "Software Engineer - Java",
@@ -1679,7 +1742,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515532&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Flutter Developer"
 }, {
   "title" : "Java Developers",
@@ -1688,7 +1751,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515529&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Java Developers"
 }, {
   "title" : "Web Developer (Wordpress)",
@@ -1697,7 +1760,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515523&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Web Developer (Wordpress)"
 }, {
   "title" : "QA Engineer - AI Testing & Automation",
@@ -1706,7 +1769,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001515157&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "QA Engineer - AI Testing & Automation"
 }, {
   "title" : "Full Stack Developer Intern",
@@ -1787,7 +1850,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001515037&ec=0000000311",
   "datePosted" : [ 2026, 6, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Data & AI Solutions Engineer (1)"
 }, {
   "title" : "QA Engineer – AI Testing & Automation",
@@ -1904,7 +1967,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001514715&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Full Stack Web/Core PHP Developer"
 }, {
   "title" : "Senior AI Solutions Engineer",
@@ -1913,7 +1976,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001514704&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Senior AI Solutions Engineer"
 }, {
   "title" : "Intern - Data Analytics (1)",
@@ -1922,7 +1985,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001514699&ec=0000000410",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Intern - Data Analytics (1)"
 }, {
   "title" : "Software Engineer",
@@ -1931,7 +1994,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001514612&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Software Engineer"
 }, {
   "title" : "QA Engineer",
@@ -1940,7 +2003,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001514588&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "QA Engineer"
 }, {
   "title" : "Interns - AI | C++ | Quantitative Research (QR)",
@@ -1949,7 +2012,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001514891&ec=DEFZZZ",
   "datePosted" : [ 2026, 6, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 2 ],
+  "scrapedDate" : [ 2026, 7, 3 ],
   "description" : "Interns - AI | C++ | Quantitative Research (QR)"
 }, {
   "title" : "Senior Developer / Tech Lead / Senior Tech Lead Full-Stack (Angular & NodeJS)",

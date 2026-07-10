@@ -1,4 +1,13 @@
 [ {
+  "title" : "Quality Assurance Engineer",
+  "company" : "EchonLabs",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14284/quality-assurance-engineer-at-echonlabs/",
+  "datePosted" : [ 2026, 7, 10, 15, 11, 43 ],
+  "scrapedDate" : [ 2026, 7, 10 ],
+  "description" : "About The Role We are looking for a detail-oriented and motivated Quality Assurance Engineer to ensure the quality and reliability of our software products. Responsibilities These are the responsibilities that we expect you to handle Assist in designing, executing, and maintaining test plans, test cases, and QA processes to ensure software quality throughout development. Perform manual and automated testing of software features, identifying bugs, defects, and performance issues. Document issues clearly with steps to reproduce and work closely with developers to ensure timely resolution. Collaborate with product managers, developers, and other stakeholders to understand requirements and ensure quality expectations are met. Support the implementation and maintenance of automated testing scripts and frameworks, contributing to efficiency and reliability. Participate in code reviews and QA discussions to provide feedback on test ability, design, and potential quality risks. Monitor and report on testing progress, product quality metrics, and areas for improvement to aid data-driven decision-making. Stay updated with emerging QA tools, technologies, and best practices, and contribute ideas to improve QA processes. Requirements These are the requirements that we expect from you Bachelor’s degree in computer science, Engineering, or a related field. 1–3 years of experience in software quality assurance or testing. Understanding QA methodologies, testing processes, and the software development life cycle. Experience with automation testing tools such as Selenium, JUnit, or similar. Familiarity with CI/CD pipelines and version control systems (Git) is a plus. Ability to write clear, detailed, and structured test plans, test cases, and bug reports. Good analytical skills, attention to detail, and problem-solving ability. Experience working in Agile/Scrum development environments is preferred. Experience with performance testing tools such as Apache JMeter or similar tools for conducting load and stress testing. Experience with API testing tools such as Postman or similar platforms. Experience in regression, smoke, sanity, and UAT testing. Strong communication skills to work effectively with developers, product managers, and other stakeholders."
+}, {
   "title" : "Web Developer",
   "company" : "PrimeWeb Lanka",
   "level" : "Junior/SE",
@@ -142,6 +151,24 @@
   "datePosted" : [ 2026, 7, 10, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 10 ],
   "description" : "Data Scientist | Engineer"
+}, {
+  "title" : "Web Developer",
+  "company" : "CIB Holdings",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001522728&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 10 ],
+  "description" : "Web Developer"
+}, {
+  "title" : "Software Engineer Internship - Remote",
+  "company" : "Xaventra (Private) Limited",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001522725&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 10 ],
+  "description" : "Software Engineer Internship - Remote"
 }, {
   "title" : "Intern - Software Engineering",
   "company" : "Xeynergy",

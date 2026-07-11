@@ -71,6 +71,15 @@
   "scrapedDate" : [ 2026, 7, 11 ],
   "description" : "Senior Full Stack Developer"
 }, {
+  "title" : "Associate Software Engineer (Java | React | Next.js)",
+  "company" : "SynthVaults Limited",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001523013&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 11, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 11 ],
+  "description" : "Associate Software Engineer (Java | React | Next.js)"
+}, {
   "title" : "Quality Assurance Engineer",
   "company" : "EchonLabs",
   "level" : "Junior/SE",
@@ -205,6 +214,15 @@
   "datePosted" : [ 2026, 7, 10, 9, 25, 41 ],
   "scrapedDate" : [ 2026, 7, 11 ],
   "description" : "Role Summary Support the automation framework by building and maintaining automated API and UI tests while improving regression coverage and release quality. Key Responsibilities Develop and maintain UI and API automation scripts. Convert stable manual test cases into automation. Execute automated regression suites and analyze failures. Support CI/CD automation execution. Perform API validation using Postman/Newman. Understand and validate WebSocket communication and message flows. Maintain automation documentation and test data. Team Collaboration Work closely with the Senior QA Engineer on automation strategy. Collaborate with Frontend, Backend, and DevOps teams. Participate in sprint ceremonies and release testing. Required Qualifications 0–2 years of QA automation or programming experience. Basic JavaScript/TypeScript or Python. Understanding of REST APIs, WebSocket basics, and Git. Preferred Qualifications Experience with Playwright, Cypress, or Selenium. Knowledge of Postman/Newman. Basic CI/CD knowledge. Experience in iGaming or FinTech is a plus."
+}, {
+  "title" : "IT Internship (BA/QA)",
+  "company" : "PAYable Pvt Ltd",
+  "level" : "Intern",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/518589",
+  "datePosted" : [ 2026, 7, 10, 2, 55, 24 ],
+  "scrapedDate" : [ 2026, 7, 11 ],
+  "description" : "### Job Summary PAYable is seeking highly motivated, analytical, and adaptable interns to join our FinTech team. This internship is designed for individuals who are passionate about Business Analysis and Quality Assurance while gaining exposure to enterprise-scale payment solutions. The selected intern will work across both Business Analysis (BA) and Quality Assurance (QA) functions throughout the Software Development Life Cycle (SDLC). Based on project priorities and business requirements, the intern will support requirement analysis, solution validation, testing, documentation, and product delivery. When required, the intern will also assist the Development team in feature verification, troubleshooting, testing support, and validating implemented solutions to ensure successful product delivery. ### Key Responsibilities • Support requirement gathering, analysis, and documentation for new features, enhancements, and change requests. • Prepare business requirement documents, user stories, acceptance criteria, process flows, and functional specifications. • Participate in Agile ceremonies including sprint planning and backlog refinement. • Prepare, execute, and maintain test cases, test scenarios, and test documentation. • Perform functional, regression, smoke, exploratory, integration, and UAT support activities. • Identify, document, prioritize, and track software defects while coordinating with developers until resolution. • Validate implemented features against business requirements and acceptance criteria before release. • Collaborate closely with Business Analysts, Developers, QA Engineers, and Product Owners. • Support development activities by assisting in feature verification, troubleshooting, functional validation, and testing newly developed functionality whenever required. • Assist with API, database, automation, and performance testing where applicable. • Maintain accurate documentation and communicate effectively while working within strict timelines. ### Required Skills & Experience • Currently pursuing or recently completed a Degree in IT, Computer Science, Software Engineering, Information Systems, Business Information Technology, or a related field. • Basic understanding of SDLC and Agile methodologies. • Knowledge of software testing concepts, requirement analysis, and business process documentation. • Strong analytical, logical thinking, and problem-solving skills. • Excellent written and verbal communication skills. • Ability to work collaboratively and manage multiple tasks under tight deadlines. • Willingness to perform both Business Analysis and Quality Assurance responsibilities based on business needs. • Exposure to Jira, Postman, SQL, Git, Figma, Draw.io will be an added advantage. ### Education • Currently pursuing (Part-Time) or recently completed (Fresh Graduate) a Degree in Information Technology, Computer Science, Software Engineering, Information Systems, Business Information Technology, or a related discipline. Nice to Have • University projects or coursework related to Business Analysis, Software Testing, Product Development, or Agile Software Development. • Basic programming knowledge (Java, JavaScript, Springboot, React Js, or similar). • Exposure to API testing, SQL, or version control systems. ### Why Join Us? • Work on innovative FinTech and digital payment solutions. • Gain practical experience in Business Analysis, Quality Assurance, and product delivery. • Exposure to enterprise-scale Agile software development. • Supportive and growth-focused team culture. • Opportunity to build a long-term career within PAYable."
 }, {
   "title" : "Software Engineer (Angular / C# .NET Core)",
   "company" : "Enhanzer",

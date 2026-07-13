@@ -1,4 +1,40 @@
 [ {
+  "title" : "Internship Back-End Developer - PHP / JAVA",
+  "company" : "Neo Solution",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14313/internship-backend-developer-php-java-at-neo-solution/",
+  "datePosted" : [ 2026, 7, 13, 18, 37, 29 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Gain hands-on experience with PHP, OOP, MySQL & APIs while working on live projects. 1 Year Contract Only What You’ll Do Work with PHP (OOP) to build scalable backend Design & manage MySQL databases Develop & consume RESTful APIs Apply basic security practices for backend de Collaborate with the team on real-world clien Ideal Candidate Good knowledge of PHP and OOP concepts Familiarity with MySQL and relational databas Understanding of APIs, HTTP, and server-side Passionate about learning & backend developme What We Offer Hands-on experience with live projects Friendly & supportive team environment Hybrid work model for flexibility 15-day probation (unpaid) → if selected, co Flexible schedule — adjust days according t Weekend work option available 2 weekdays can be taken as leave"
+}, {
+  "title" : "Senior Quality Engineer",
+  "company" : "Hatchyard",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14312/senior-quality-engineer-at-hatchyard/",
+  "datePosted" : [ 2026, 7, 13, 17, 46, 6 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Join Hatchyard and be part of a talented team that builds reliable, high-quality software solutions. Key Responsibilities Contributing towards the defining of test strategies and test planning Validating data models, reports, and dashboards against source systems to ensure data accuracy and consistency with defined business rules Executing test cases for data pipelines, ETL processes, and data transformations across the analytics afecycle (data ingestion to reporting) Contributing towards the development of Python-based automation frameworks for regression and data validation testing Preparing and maintaining test cases, test data, and execution results for analytics datasets and dashboards Performing data validation checks, including data completeness, transformation accuracy, and aggregation logic Assisting in identifying and documenting data issues and supporting root cause analysis activities Following established QE standards and ensuring proper documentation and traceability of testing activities in Jira and Confluence Participating in sprint activities, including planning, stand-ups, and retrospectives Requirements A Bachelor's Degree in Computer Science, Information Technology. Data Science, or a related field 1-3 years of experience in Software or Data Quality Engineering (ETL/B testing exposure is a plus) Good knowledge of SQL, with the ability to write and validate queries Basic to intermediate knowledge of Python for test automation or data validation A good understanding of software testing principles and QA methodologies Experience working in Agile environments and familiarity with tools like Jirs and Confluence Exposure to cloud data platforms (eg. GCP) is an added advantage Strong analytical and problem-solving skills Good communication and collaboration skills to work effectively with cross-functional teams The willingness to learn and grow in data engineering and quality engineering practices Attention to detail and commitment to delivering quality work"
+}, {
+  "title" : "Quality Engineer",
+  "company" : "Hatchyard",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14311/quality-engineer-at-hatchyard/",
+  "datePosted" : [ 2026, 7, 13, 17, 42, 49 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Join Hatchyard and be part of a talented team that builds reliable, high-quality software solutions. Key Responsibilities Contributing towards the defining of test strategies and test planning Performing test design and the development of test scenarios Contributing towards the development of automation scripts Configuring and maintaining test environments and continuous integration Performing test execution, analyzing test results and communicating test results to stakeholders Requirements A Bachelor's Degree in Computer Science, IT or equivalent qualification Strong knowledge in quality engineering practices and processes Sound knowledge of Java, OOP concepts and coding standards A solid understanding of building web and mobile test automation using Selenium and Appium Strong knowledge of Agile software testing and software engineering concepts Excellent communication, presentation and negotiation skill Excellent analytical and problem-solving skills A thirst for learning and regularly updating knowledge Testing and Agile-related certifications would be an added advantage"
+}, {
+  "title" : "Full Stack Developer Intern",
+  "company" : "avenque",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14310/full-stack-developer-intern-at-avenque/",
+  "datePosted" : [ 2026, 7, 13, 17, 17, 58 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "About the Role Avenque is looking for a passionate and motivated Full Stack Developer Intern to join our growing team. This internship is an excellent opportunity for students, fresh graduates, and aspiring developers who want to gain hands-on experience by working on real-world web applications for UK and international clients. As a Full Stack Developer Intern, you will collaborate with experienced developers, designers, and project managers to build scalable, modern, and user-friendly applications while learning industry best practices. Key Responsibilities Develop and maintain responsive, scalable web applications using modern technologies. Build interactive frontend interfaces using Next.js, React.js, TypeScript, and Tailwind CSS. Develop and maintain backend APIs using Node.js, Express.js, and Next.js API Routes. Design, develop, and manage databases using PostgreSQL, MySQL, MongoDB, Supabase, or other relational and NoSQL database systems. Implement secure authentication and authorization using Supabase Auth, JWT, OAuth, or similar authentication solutions. Integrate third-party APIs, payment gateways, and external services. Write optimized database queries and ensure efficient data management. Debug, test, and optimize application performance across both frontend and backend. Write clean, maintainable, and well-documented code following industry best practices. Collaborate with designers, developers, and project managers throughout the software development lifecycle. Participate in Agile ceremonies, team meetings, code reviews, and technical discussions. Identify bugs, troubleshoot issues, and contribute to continuous improvement of existing applications. Requirements Basic knowledge of HTML, CSS, and JavaScript. Familiarity with React.js. Basic understanding of Node.js and REST APIs. Knowledge of Git and GitHub. Basic understanding of databases and SQL. Strong willingness to learn new technologies. Good communication and problem-solving skills. Ability to work independently and as part of a team. Preferred Skills (Nice to Have) Experience with Next.js. Knowledge of TypeScript. Familiarity with Tailwind CSS. Experience with Supabase or PostgreSQL. Knowledge of Prisma ORM. Basic understanding of UI/UX principles. Experience using VS Code, Postman, and Figma. Who Can Apply? Undergraduate students pursuing a degree in Information Technology, Computer Science, Software Engineering, or a related field. Recent graduates looking to gain industry experience. Self-taught developers with a strong portfolio are also encouraged to apply. Both girls and boys are welcome to apply. Applicants from Kandy are preferred, as our office is based there. However, this is not a mandatory requirement, and applications from candidates across Sri Lanka are warmly welcomed. What You'll Gain Hands-on experience working on real client projects. Opportunity to work with UK and international clients. Mentorship from experienced software engineers. Exposure to modern full-stack technologies and development practices. Experience working in an Agile development environment. A collaborative, friendly, and supportive team culture. Flexible learning environment with continuous skill development. Potential opportunity for a full-time position based on performance. Tech Stack Frontend Next.js React.js TypeScript Tailwind CSS Backend Node.js Express.js Next.js API Routes Database Supabase (PostgreSQL) Authentication Supabase Auth Storage Supabase Storage ORM Prisma Development Tools Git GitHub VS Code Postman Figma Why Join Avenque? At Avenque, you'll work on innovative projects for UK and international clients, gain valuable industry experience, and collaborate with talented professionals in a supportive environment. We believe in continuous learning, teamwork, and helping our interns grow into successful software engineers. How to Apply Interested candidates are invited to send their updated CV to: careers@avenque.io Please use the subject line: Application – Full Stack Developer Intern We look forward to welcoming passionate developers who are eager to learn, grow, and build the future with us."
+}, {
   "title" : "Software Engineer",
   "company" : "Predictiv AI",
   "level" : "Junior/SE",
@@ -16,6 +52,24 @@
   "datePosted" : [ 2026, 7, 13, 10, 59, 14 ],
   "scrapedDate" : [ 2026, 7, 13 ],
   "description" : "We’re searching for a creative and motivated Intern WordPress Developer who’s eager to dive into real-world projects, build modern websites, and grow with hands-on experience in a fast-paced tech environment. Your Future Role: Support the development, customization, and maintenance of WordPress websites Assist in designing responsive, user-friendly page layouts Work with plugins, themes, and page builders like Elementor or WPBakery Troubleshoot basic website issues and ensure smooth functionality Collaborate with designers and developers to bring ideas to life Help optimize website performance and SEO-friendly structure Continuously learn and adapt to new tools, trends, and technologies Who You Are: Passionate about web design and development Basic understanding of WordPress CMS, plugins, and themes Familiar with HTML, CSS, and basic PHP (added advantage!) Creative thinker with attention to detail Eager to learn, experiment, and grow with guidance Able to communicate clearly and work collaboratively Ready to build your future in web development? Send your CV and take your first step into the world of digital innovation. Explore more about us at www.ceylonx.co"
+}, {
+  "title" : "Uni Japura Career fair 2026 - Software Engineering Intern - Team 02",
+  "company" : "Creative Software",
+  "level" : "Intern",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/518626",
+  "datePosted" : [ 2026, 7, 13, 9, 13, 28 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "About Creative Software: Founded in 1999, Creative Software is a global technology enabler and pioneer in Sri Lanka’s tech industry. We manage teams of high-performing, dedicated software engineers for our global clientele, providing them with end-to-end software development and maintenance services through team augmentation. We are looking for a passionate and motivated Software Engineering Intern to join our development teams. As an intern, you will gain hands-on experience working on full-stack applications using modern frontend and backend technologies in a professional software engineering environment. What you can look forward to: • Work closely with cross-functional engineering teams to develop products, platforms or services • Collaborate in a scrum team environment adhering to agile software development practices • Contribute towards solving technical problems and take part in user-story discussions • Demonstrate analytical thinking and carry out technical research and feasibility study • Follow Software development best practices and standards • Gain domain knowledge related to product development You should have: • Passion for developing and delivering working software • Very good understanding of the basic software design principles • Familiarity with one or more frontend frameworks such as React, Angular, or Vue • Familiarity with technologies like .NET Core, GoLang, Java, or Python • Understanding of REST APIs, databases (e.g., SQL Server, PostgreSQL), and CI/CD pipelines • Exposure to cloud platforms like Azure, AWS, or GCP is highly desirable • Good foundation in data structures, algorithms, and software engineering principles • Eagerness to learn new technologies and contribute to real-world projects • Good communication skills and ability to work collaboratively in a team What We Offer: A Creative career offers a flexible working environment, attractive remuneration, and a place to grow and flourish. You will be amongst peers at the top of their game, allowing you to sharpen your skills in an inclusive culture. Our work environment includes a recreation zone and gym to support your mental and physical wellbeing."
+}, {
+  "title" : "Uni Japura Career fair 2026 - Software Engineering Intern - Team 01 ",
+  "company" : "Creative Software",
+  "level" : "Intern",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/518625",
+  "datePosted" : [ 2026, 7, 13, 9, 5, 29 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "About Creative Software: Founded in 1999, Creative Software is a global technology enabler and pioneer in Sri Lanka’s tech industry. We manage teams of high-performing, dedicated software engineers for our global clientele, providing them with end-to-end software development and maintenance services through team augmentation. We are looking for a passionate and motivated Software Engineering Intern to join our development teams. As an intern, you will gain hands-on experience working on full-stack applications using modern frontend and backend technologies in a professional software engineering environment. What you can look forward to: • Work closely with cross-functional engineering teams to develop products, platforms or services • Collaborate in a scrum team environment adhering to agile software development practices • Contribute towards solving technical problems and take part in user-story discussions • Demonstrate analytical thinking and carry out technical research and feasibility study • Follow Software development best practices and standards • Gain domain knowledge related to product development You should have: • Passion for developing and delivering working software • Very good understanding of the basic software design principles • Familiarity with one or more frontend frameworks such as React, Angular, or Vue • Familiarity with technologies like .NET Core, GoLang, Java, or Python • Understanding of REST APIs, databases (e.g., SQL Server, PostgreSQL), and CI/CD pipelines • Exposure to cloud platforms like Azure, AWS, or GCP is highly desirable • Good foundation in data structures, algorithms, and software engineering principles • Eagerness to learn new technologies and contribute to real-world projects • Good communication skills and ability to work collaboratively in a team What We Offer: A Creative career offers a flexible working environment, attractive remuneration, and a place to grow and flourish. You will be amongst peers at the top of their game, allowing you to sharpen your skills in an inclusive culture. Our work environment includes a recreation zone and gym to support your mental and physical wellbeing."
 }, {
   "title" : "QA Automation Engineer",
   "company" : "Intrepid",
@@ -79,6 +133,33 @@
   "datePosted" : [ 2026, 7, 13, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 13 ],
   "description" : "Automation & Integration Engineer"
+}, {
+  "title" : "Claude AI Expert (1)",
+  "company" : "Delmege Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000015&jc=0001523565&ec=0000000015",
+  "datePosted" : [ 2026, 7, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Claude AI Expert (1)"
+}, {
+  "title" : "Associate Quality Assurance Engineer",
+  "company" : "Hitachi Digital Payment Solutions Limited",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001523534&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Associate Quality Assurance Engineer"
+}, {
+  "title" : "Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001523496&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 13 ],
+  "description" : "Data Engineer"
 }, {
   "title" : "Software Engineering Intern",
   "company" : "Project Cubit",

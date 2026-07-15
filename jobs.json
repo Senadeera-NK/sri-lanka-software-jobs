@@ -1,4 +1,13 @@
 [ {
+  "title" : "Senior / Full Stack Software Engineer",
+  "company" : "Syntrad Labs (Private) Limited",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14339/senior-full-stack-software-engineer-at-syntrad-labs-private-limited/",
+  "datePosted" : [ 2026, 7, 15, 13, 53, 20 ],
+  "scrapedDate" : [ 2026, 7, 15 ],
+  "description" : "Are you competent in C++? Then this is for you. Requirements 3+ years of experience Strong C++ expertise Angular development experience React development experience Colombo/Hybrid working setup Work with a leading US software company Industry-leading product • International exposure"
+}, {
   "title" : "Tech Lead – AI & Platform Engineering | Hybrid",
   "company" : "Coderra",
   "level" : "Senior",
@@ -394,6 +403,42 @@
   "datePosted" : [ 2026, 7, 15, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 15 ],
   "description" : "Associate QA Engineer"
+}, {
+  "title" : "School Leaver Data Formatter for LLM Processing",
+  "company" : "ServiceTeam Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524641&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 15 ],
+  "description" : "School Leaver Data Formatter for LLM Processing"
+}, {
+  "title" : "Software Engineer (Python) | Senior Software Engineer (Python)",
+  "company" : "Innobot Health",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524619&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 15 ],
+  "description" : "Software Engineer (Python) | Senior Software Engineer (Python)"
+}, {
+  "title" : "DevOps Engineer",
+  "company" : "Insync Technologies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524591&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 15 ],
+  "description" : "DevOps Engineer"
+}, {
+  "title" : "JAVA Tech Lead (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001524493&ec=0000000661",
+  "datePosted" : [ 2026, 7, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 15 ],
+  "description" : "JAVA Tech Lead (1)"
 }, {
   "title" : "Senior Software Engineer (Python)",
   "company" : "Innobot",

@@ -53,6 +53,60 @@
   "scrapedDate" : [ 2026, 7, 16 ],
   "description" : "Senior QA Engineer (1)"
 }, {
+  "title" : "QA Engineer",
+  "company" : "InEight Sri Lanka",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "QA Engineer"
+}, {
+  "title" : "Associate QA Engineer",
+  "company" : "Treinetic Pvt Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "Associate QA Engineer"
+}, {
+  "title" : "Lead Data Engineer",
+  "company" : "HRC Labs",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525170&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "Lead Data Engineer"
+}, {
+  "title" : "Junior Trainee - Software Developer & IOT",
+  "company" : "Hedanship Asia (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524973&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "Junior Trainee - Software Developer & IOT"
+}, {
+  "title" : "Software Engineer (1)",
+  "company" : "Nawaloka Hospitals PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001524970&ec=0000000178",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "Software Engineer (1)"
+}, {
+  "title" : "Business Center Quality Control Supervisor (1)",
+  "company" : "Nawaloka Hospitals PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001524802&ec=0000000178",
+  "datePosted" : [ 2026, 7, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 16 ],
+  "description" : "Business Center Quality Control Supervisor (1)"
+}, {
   "title" : "Senior / Full Stack Software Engineer",
   "company" : "Syntrad Labs (Private) Limited",
   "level" : "Senior",
@@ -448,24 +502,6 @@
   "datePosted" : [ 2026, 7, 15, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 15 ],
   "description" : "Back - End Developer"
-}, {
-  "title" : "QA Engineer",
-  "company" : "InEight Sri Lanka",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 15, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 15 ],
-  "description" : "QA Engineer"
-}, {
-  "title" : "Associate QA Engineer",
-  "company" : "Treinetic Pvt Ltd",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 15, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 15 ],
-  "description" : "Associate QA Engineer"
 }, {
   "title" : "Senior Software Engineer (Python)",
   "company" : "Innobot",

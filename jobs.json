@@ -1,4 +1,13 @@
 [ {
+  "title" : "Associate Software Engineer",
+  "company" : "Oak Integrated Systems",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14363/associate-software-engineer-at-oak-integrated-systems/",
+  "datePosted" : [ 2026, 7, 17, 14, 43, 42 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Company Description OAK Integrated Systems is a Sri Lanka based tech company delivering smart, secure, and scalable solutions in Al, Cloud, Cybersecurity, and Industry 4.0, driving digital transformation across industries. Qualifications Bachelor's Degree / NVQ 7 in IT, Computer Science, or a related field from a reputed university. Hands-on experience with PHP and Laravel framework is a must. At least 1 year of working experience in the related field. Experience with MySQL database design and queries. Experience building and consuming RESTful webservices and APIs. Working knowledge of SEO fundamentals and web analytics tools. Working knowledge of Cloudflare WAF / CDN and website security hardening Based in Western Province, but willing to travel within Sri Lanka. Responsibilities Maintain and implement required changes to assigned websites. Maintain source code in a neat, retrievable manner with proper backups. Write and maintain webservices and APIs as required. Maintain and update the built-in Content Management System (CMS). Perform database maintenance and integrate with third-party applications. Monitor analytics and implement changes to improve traffic and navigation. Develop and maintain SEO strategy to keep sites ranked for key search terms. Ensure websites are secured with enterprise-grade WAFS and kept up to date. Ensure 99.9% uptime and fast page load times (2-3 seconds). Provide escalation support for issues beyond onsite staff capability. Continuously monitor systems and propose improvements."
+}, {
   "title" : "Web Developer",
   "company" : "eArrow (Pvt) LTD",
   "level" : "Junior/SE",
@@ -70,6 +79,78 @@
   "datePosted" : [ 2026, 7, 17, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 17 ],
   "description" : "Data Scientist"
+}, {
+  "title" : "Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001523496&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Data Engineer"
+}, {
+  "title" : "Web Developer",
+  "company" : "Ruth Pictures (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525803&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Web Developer"
+}, {
+  "title" : "Quality Inspector (1)",
+  "company" : "Nawaloka Hospitals PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001525675&ec=0000000178",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Quality Inspector (1)"
+}, {
+  "title" : "Quality Executive (1)",
+  "company" : "Nawaloka Hospitals PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001525671&ec=0000000178",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Quality Executive (1)"
+}, {
+  "title" : "Full Stack Developer",
+  "company" : "Eldu Labs (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525636&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Full Stack Developer"
+}, {
+  "title" : "Learning Content & AI Research Associate | AI Trainee & Coordinator",
+  "company" : "Curveup",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525579&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Learning Content & AI Research Associate | AI Trainee & Coordinator"
+}, {
+  "title" : "Software Engineer",
+  "company" : "BPO Corporate Solutions Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525547&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "Software Engineer"
+}, {
+  "title" : "AI Content Creator",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525500&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 17 ],
+  "description" : "AI Content Creator"
 }, {
   "title" : "Intern Software Engineer (Frontend & Backend)",
   "company" : "ByteSquad Labs",
@@ -808,15 +889,6 @@
   "datePosted" : [ 2026, 7, 13, 12, 0 ],
   "scrapedDate" : [ 2026, 7, 17 ],
   "description" : "Associate Quality Assurance Engineer"
-}, {
-  "title" : "Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001523496&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 17 ],
-  "description" : "Data Engineer"
 }, {
   "title" : "Intern WordPress Developer",
   "company" : "CeylonX",

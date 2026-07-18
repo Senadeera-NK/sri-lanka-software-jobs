@@ -1,4 +1,13 @@
 [ {
+  "title" : "Senior Software Developer (Desktop Applications)",
+  "company" : "BISTEC Global Services",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14374/senior-software-developer-desktop-applications-at-bistec-global-services/",
+  "datePosted" : [ 2026, 7, 18, 15, 14, 27 ],
+  "scrapedDate" : [ 2026, 7, 18 ],
+  "description" : "Great software doesn't just run in the background - it keeps critical operations moving. At BISTEC Global, our engineers support and enhance a suite of desktop applications for a global client, handling everything from operational planning to scheduling. We're looking for a senior developer who's as comfortable in the code as they are with the customers who depend on it. What We're Looking For 5+ years of professional software development experience Strong experience with C# and .NET, and C++ development and maintenance Experience with WinForms and/or WPF, and SQL databases (ideally SQLite) Skilled in automated testing, source control, CI/CD, and release management Excellent communication and customer-facing skills, with strong troubleshooting ability APIs, legacy/Fortran exposure, or experience in complex operational domains are valued bonuses What You'll Do Build - enhance and maintain a suite of C#/.NET and C++ desktop applications for a global client Support - investigate and resolve issues in business-critical, live software systems Engage - work directly with customers to gather requirements and translate operational needs into software solutions Balance - manage multiple priorities across support, maintenance, and new development"
+}, {
   "title" : "Lead QA Automation Engineer (Web, Mobile & API)",
   "company" : "Wisdom RecruitmentS",
   "level" : "Senior",

@@ -16,13 +16,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** July 18,12:45 PM (Just now)  | **Total Jobs Found:** 191
+> 🟢 **Last Updated:** July 18,5:58 PM (Just now)  | **Total Jobs Found:** 192
 
 ### 🎓 Internships & Trainees  (27)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Developer - Intern](https://itpro.lk/job/14009/software-developer-intern-at-cloud-syntex/) | Cloud Syntex | Intern | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Developer - Intern](https://itpro.lk/job/14009/software-developer-intern-at-cloud-syntex/) | Cloud Syntex | Intern | Yesterday | ITPro.lk |
 | [Intern Software Engineer (Frontend & Backend)](https://itpro.lk/job/14355/intern-software-engineer-frontend-backend-at-bytesquad-labs/) | ByteSquad Labs | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/14338/software-engineer-intern-at-epinics/) | Epinics | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Intern](https://itpro.lk/job/14321/qa-intern-at-delivergate/) | Delivergate | Intern | 4&nbsp;days&nbsp;ago | ITPro.lk |
@@ -56,10 +56,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001521550&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Software Engineer](https://itpro.lk/job/14363/associate-software-engineer-at-oak-integrated-systems/) | Oak Integrated Systems | Associate | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001521550&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer](https://itpro.lk/job/14363/associate-software-engineer-at-oak-integrated-systems/) | Oak Integrated Systems | Associate | Yesterday | ITPro.lk |
 | [ATL / SSE Front End Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555) | Sumathi Group | Junior/SE | Yesterday | TopJobs.lk |
 | [Process Automation Executive (01 Year FTC) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000160&jc=0001525370&ec=0000000192) | Michelin | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Scientist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001525330&ec=DEFZZZ) | Ceylinco Life Insurance Limited | Junior/SE | Yesterday | TopJobs.lk |
@@ -167,14 +167,15 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (56)
+### 🚀 Senior & Lead Roles  (57)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Lead QA Automation Engineer (Web, Mobile & API)](https://itpro.lk/job/14370/lead-qa-automation-engineer-web-mobile-api-at-wisdom-recruitments/) | Wisdom RecruitmentS | Senior | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Engineer - .NET](https://itpro.lk/job/14369/senior-engineer-net-at-verdentra/) | Verdentra | Senior | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior AI / Software Engineer](https://itpro.lk/job/14367/senior-ai-software-engineer-at-via-codos-private-limited/) | Via Codos Private Limited | Senior | 15&nbsp;hours&nbsp;ago | ITPro.lk |
-| [AI Capability & Delivery Lead ](https://rooster.jobs/jobs/518730) | Nextjob | Senior | 23&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Senior Software Developer (Desktop Applications)](https://itpro.lk/job/14374/senior-software-developer-desktop-applications-at-bistec-global-services/) | BISTEC Global Services | Senior | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Lead QA Automation Engineer (Web, Mobile & API)](https://itpro.lk/job/14370/lead-qa-automation-engineer-web-mobile-api-at-wisdom-recruitments/) | Wisdom RecruitmentS | Senior | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Engineer - .NET](https://itpro.lk/job/14369/senior-engineer-net-at-verdentra/) | Verdentra | Senior | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior AI / Software Engineer](https://itpro.lk/job/14367/senior-ai-software-engineer-at-via-codos-private-limited/) | Via Codos Private Limited | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [AI Capability & Delivery Lead ](https://rooster.jobs/jobs/518730) | Nextjob | Senior | Yesterday | Rooster.jobs |
 | [Senior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001519642&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
 | [Java Tech Lead](https://itpro.lk/job/14238/java-tech-lead-at-directfn/) | DirectFN | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Snowflake Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001515730&ec=0000000350) | CMS (Pvt) Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

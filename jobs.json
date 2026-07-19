@@ -1,4 +1,13 @@
 [ {
+  "title" : "Associate Quality Engineering Lead",
+  "company" : "Hatchyard",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14379/associate-quality-engineering-lead-at-hatchyard/",
+  "datePosted" : [ 2026, 7, 19, 15, 59, 24 ],
+  "scrapedDate" : [ 2026, 7, 19 ],
+  "description" : "Join Hatchyard and be part of a talented team that delivers reliable, high-quality software solutions while leading quality engineering initiatives. Key Responsibilities Leading efforts in defining test strategies, test planning, execution, and reviews Improving and maintaining test automation frameworks Reviewing and contributing towards the development of automation scripts Configuring and maintaining Continuous Integration (CI) environments Overseeing test execution and communicating test status to stakeholders Mentoring, training, and leading a team of Quality Engineers Requirements Bachelor's Degree in Computer Science, IT, or equivalent qualification 5-6+ years of industry experience in Quality Engineering Experience in test automation using Selenium and related automation frameworks Experience in performance testing and performance testing tools Strong knowledge of software testing processes, best practices, and test design techniques Strong knowledge of Java, OOP concepts, and coding standards Experience working with Jenkins, Maven, Git, and CI/CD pipelines Experience testing REST APIs using Rest-Assured or SoapUI Solid understanding of Agile Software Testing and Software Engineering concepts Excellent communication, presentation, analytical, and problem-solving skills ISTQB, PMI-ACP, or Certified Scrum Master (CSM) certification will be an added advantage A passion for continuous learning and keeping up with emerging technologies"
+}, {
   "title" : "Software Engineering Internship",
   "company" : "Connex Codeworks",
   "level" : "Intern",

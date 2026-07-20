@@ -1,4 +1,13 @@
 [ {
+  "title" : "Intern Web Developer",
+  "company" : "Sans Technologies",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14390/intern-web-developer-at-sans-technologies/",
+  "datePosted" : [ 2026, 7, 20, 15, 20, 1 ],
+  "scrapedDate" : [ 2026, 7, 20 ],
+  "description" : "Are you passionate about web development and eager to grow your skills? Join our team as an Intern Web Developer and gain hands-on experience working on real-world projects. Requirements Good knowledge of HTML and CSS Basic understanding of WordPress and Shopify Knowledge of SEO is an added advantage Passionate about learning new technologies Self-motivated, responsible, and able to work independently Able to work with enthusiasm and meet deadlines What You'll Get Work remotely from anywhere Hands-on experience with live projects Learn from experienced developers Opportunity to grow your career in web development Join us and kick-start your web development career!"
+}, {
   "title" : "Software Engineer",
   "company" : "Homey",
   "level" : "Junior/SE",
@@ -88,6 +97,42 @@
   "datePosted" : [ 2026, 7, 20, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 20 ],
   "description" : "Senior Data Engineer"
+}, {
+  "title" : "Big Data Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
+  "datePosted" : [ 2026, 7, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 20 ],
+  "description" : "Big Data Engineer (1)"
+}, {
+  "title" : "Senior Snowflake Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001515730&ec=0000000350",
+  "datePosted" : [ 2026, 7, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 20 ],
+  "description" : "Senior Snowflake Engineer (1)"
+}, {
+  "title" : "Senior QA Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
+  "datePosted" : [ 2026, 7, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 20 ],
+  "description" : "Senior QA Engineer (1)"
+}, {
+  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
+  "company" : "Thakshana Technologies (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 20 ],
+  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
 }, {
   "title" : "Associate Quality Engineering Lead",
   "company" : "Hatchyard",
@@ -322,33 +367,6 @@
   "datePosted" : [ 2026, 7, 16, 12, 36, 32 ],
   "scrapedDate" : [ 2026, 7, 20 ],
   "description" : "We're Hiring – JAVA Tech Lead What we're looking for: A Bachelor’s Degree in Computer Science, Information Technology, Software Engineering, or a related field. 6+ years of experience in software development. Strong Java/J2EE development experience Hands-on JBoss (WildFly) deployment and configuration Solid EJB development experience (EJB 3.x preferred) Oracle DB - PL/SQL, query optimization, schema design Experience with REST/SOAP web services Maven/Git and CI/CD familiarity Nice to Have Spring Boot or Microservices exposure Experience in banking or financial systems Apply now and be part of #TeamDirectFN"
-}, {
-  "title" : "Big Data Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
-  "datePosted" : [ 2026, 7, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 20 ],
-  "description" : "Big Data Engineer (1)"
-}, {
-  "title" : "Senior Snowflake Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001515730&ec=0000000350",
-  "datePosted" : [ 2026, 7, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 20 ],
-  "description" : "Senior Snowflake Engineer (1)"
-}, {
-  "title" : "Senior QA Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
-  "datePosted" : [ 2026, 7, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 20 ],
-  "description" : "Senior QA Engineer (1)"
 }, {
   "title" : "Lead Data Engineer",
   "company" : "HRC Labs",
@@ -880,15 +898,6 @@
   "datePosted" : [ 2026, 7, 14, 14, 34, 35 ],
   "scrapedDate" : [ 2026, 7, 20 ],
   "description" : "We at LAUGFS Holdings Limited are one of Sri Lanka's largest diversified business conglomerates and a trusted, well-loved home-grown enterprise. Founded in 1995, LAUGFS has grown to encompass 20 industries locally and internationally, establishing a strong presence as a leader and pioneer in the power and energy, retail, industrial, services, leisure, and logistics sectors. With a workforce of over 3,000 employees and an annual turnover exceeding USD 300 million, LAUGFS continues to expand and empower the nation as a trusted Sri Lankan brand. Key Responsibilities Assist in preparing, reviewing, and executing test cases, test plans, and test scenarios based on business and functional requirements. Perform functional, regression, integration, system, and user acceptance support testing to ensure software quality. Execute manual testing activities and assist in maintaining automated test scripts where applicable. Identify, document, reproduce, and track software defects using defect management tools while working closely with developers to support timely resolution. Validate application functionality, APIs, and database changes under the guidance of senior QA team members. Participate in requirement analysis and provide feedback to improve testability and product quality. Support the preparation of test documentation, test reports, and release validation activities. Contribute to improving QA processes, testing standards, and automation initiatives. Collaborate with developers, business analysts, project managers, and other stakeholders throughout the software development lifecycle. Adhere to organizational QA standards, policies, and best practices. Candidate Profile Bachelor's Degree or professional qualification in Computer Science, Information Technology, Software Engineering, or a related field. 1 year of experience in Software Quality Assurance or software testing. Fresh graduates with relevant academic projects or internships are encouraged to apply. Basic understanding of Software Testing Life Cycle (STLC), Software Development Life Cycle (SDLC), and QA methodologies. Familiarity with functional, regression, integration, and system testing. Basic knowledge of API testing tools (eg. Postman) and SQL/database validation will be an added advantage. Exposure to test automation tools (e.g, Selenium, Playwright, Cypress, or similar) is desirable. Familiarity with defect tracking and test management tools (e.g. Azure DevOps, Jira, or similar). Basic understanding of Agile/Scrum software development practices is an advantage. Strong analytical, troubleshooting, and problem-solving skills. Good attention to detail and organizational skills. Ability to work effectively in a collaborative team environment and manage multiple assignments. Good verbal and written communication skills. Self-motivated with a strong willingness to learn and develop a career in Software Quality Assurance."
-}, {
-  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
-  "company" : "Thakshana Technologies (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001518413&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 15 ],
-  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
 }, {
   "title" : "Junior Embedded Software Engineer (Security-Focused)",
   "company" : "Thakshana Technologies (Pvt) Ltd",

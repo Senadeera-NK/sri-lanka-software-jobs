@@ -1,4 +1,13 @@
 [ {
+  "title" : "Intern Software Engineer (React / .NET Core)",
+  "company" : "Novrix Solutions (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14397/intern-software-engineer-react-net-core-at-novrix-solutions-pvt-ltd/",
+  "datePosted" : [ 2026, 7, 21, 17, 46, 3 ],
+  "scrapedDate" : [ 2026, 7, 21 ],
+  "description" : "Are you a passionate tech enthusiast ready to kickstart your career in software engineering? Novrix Solutions (Pvt) Ltd is looking for an energetic and driven Intern Software Engineer to join our dynamic team! What You Will Do: Learn and contribute to full-stack development using modern frameworks like React and .NET Core. Build responsive user interfaces and robust backend APIs. Work on real-world projects, cloud platforms, and AI-based feature integrations. Collaborate closely with experienced software engineering experts. Requirements: Undergraduate or Higher Diploma holder in Computer Science, IT, Software Engineering, or a related field. Basic knowledge of React.js, C#, .NET Core, JavaScript, and relational databases. Strong problem-solving skills, eager to learn, and a good team player. Based in Sri Lanka and available for local/online onboarding. Closing Date: August 21, 2026"
+}, {
   "title" : "Software Engineer .NET",
   "company" : "Ideahub",
   "level" : "Junior/SE",
@@ -88,6 +97,24 @@
   "datePosted" : [ 2026, 7, 21, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 21 ],
   "description" : "Full Stack Developer Intern"
+}, {
+  "title" : "Design Engineer",
+  "company" : "KRAMSKI Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 21 ],
+  "description" : "Design Engineer"
+}, {
+  "title" : "School Leaver Data Formatter for LLM Processing - Battramulla",
+  "company" : "ServiceTeam Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524641&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 21 ],
+  "description" : "School Leaver Data Formatter for LLM Processing - Battramulla"
 }, {
   "title" : "Intern Web Developer",
   "company" : "Sans Technologies",

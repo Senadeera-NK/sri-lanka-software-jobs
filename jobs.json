@@ -1,4 +1,31 @@
 [ {
+  "title" : "Associate QA Lead",
+  "company" : "tecciance",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14408/associate-qa-lead-at-tecciance/",
+  "datePosted" : [ 2026, 7, 22, 16, 34, 40 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "We're Hiring | Quality Engineers Open Roles: Associate QA Lead | 6+ Years Bachelor's Degree or equivalent qualification Expertise in Java, Selenium, Test Automation, and Automation Frameworks Experience in API/Service and Performance Testing Knowledge of Jenkins, Maven, Git, and CI/CD Experience with Rest-Assured/SoapUI and Service-Oriented Architectures Ability to lead, mentor, and develop Quality Engineering teams ISTQB, PMI-ACP, or CSM certification is an added advantage Ready to take your Quality Engineering career to the next level? We want to hear from you! When applying, please include the following in your email: Current Notice Period Expected Gross Salary (LKR)"
+}, {
+  "title" : "Senior QA Engineer (Data Quality)",
+  "company" : "tecciance",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14407/senior-qa-engineer-data-quality-at-tecciance/",
+  "datePosted" : [ 2026, 7, 22, 16, 32, 32 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "We're Hiring | Quality Engineers Open Roles: Senior QA Engineer (Data Quality) | 3+ Years Bachelor's Degree in Computer Science, IT, Data Science, or a related field Strong knowledge of SQL and Python for automation and data validation Experience in Data Quality, ETL/BI, Data Pipelines, and Analytics Testing Familiarity with Jira, Confluence, and Agile methodologies Exposure to GCP or cloud data platforms is an added advantage Ready to take your Quality Engineering career to the next level? We want to hear from you! When applying, please include the following in your email: Current Notice Period Expected Gross Salary (LKR)"
+}, {
+  "title" : "QA Engineer",
+  "company" : "tecciance",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14406/qa-engineer-at-tecciance/",
+  "datePosted" : [ 2026, 7, 22, 16, 30, 50 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "We're Hiring | Quality Engineers Open Roles: QA Engineer | 2+ Years Bachelor's Degree in Computer Science, IT, or a related field Knowledge of Java, OOP, Selenium, and Appium Understanding of Quality Engineering, Software Testing, and Agile practices Testing/Agile certifications are an added advantage Ready to take your Quality Engineering career to the next level? We want to hear from you! When applying, please include the following in your email: Current Notice Period Expected Gross Salary (LKR)"
+}, {
   "title" : "Senior Full-Stack GenAI Engineer",
   "company" : "Leapfrog Technology",
   "level" : "Senior",
@@ -16,6 +43,15 @@
   "datePosted" : [ 2026, 7, 22, 11, 43, 48 ],
   "scrapedDate" : [ 2026, 7, 22 ],
   "description" : "Join Doc990, Sri Lanka's leading integrated digital healthcare platform, and play a key role in delivering reliable, high-quality digital healthcare solutions. Requirements Bachelor's Degree or Higher Diploma in Computer Science, Software Engineering or IT 1+ years of experience in Software QA (Fresh graduates with internship experience are encouraged to apply). SDLC & STLC understanding Familiarity with manual testing for web & mobile apps Basic understanding of API testing using Postman or similar tools Understanding of SQL & relational databases Basic understanding of Test automation concepts (Selenium, Cypress, Playwright) Version Control (Git) Basic knowledge of Agile/Scrum methodologies Responsibilities Design and execute test cases for web, mobile and REST API applications Perform functional, regression, smoke, integration and UAT testing Validate new features against business requirements acceptance criteria Log and track defects using JIRA or similar tools Conduct API testing with Postman or equivalent platforms Execute database testing to verify data integrity, accuracy and stored procedures. Write and run SQL queries for MySQL, PostgreSQL or SQL Server. Verify data synchronization between fronted, APIs and backend systems Develop automated test scripts using Selenium, Cypress or Playwright"
+}, {
+  "title" : "Senior Software Engineer (Java)",
+  "company" : "Nextjob",
+  "level" : "Senior",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/518834",
+  "datePosted" : [ 2026, 7, 22, 10, 54, 3 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "#### **Company Description** We are a dynamic software solutions provider delivering cutting-edge technology services to clients worldwide. The company operates with a strong “can-do” attitude, focusing on both project execution and dedicated team provisioning to address diverse business needs. Our portfolio includes reputable accounts from globally recognized stock exchanges such as NASDAQ, SGX, and ASX, reflecting its proven expertise and reliability. With clients across the USA, Singapore, Australia, the UK, Sweden, and Norway, we offer tailored, high-quality services driven by innovation, efficiency, and customer satisfaction. The organization values long-term partnerships and continues to gain recognition in the global technology landscape. #### **About the Role** We are looking for an experienced Senior Java Microservices Developer to join our engineering team. The ideal candidate should have strong hands-on experience in designing, developing, and maintaining scalable microservices using the Java ecosystem. You should be passionate about building high-performance distributed systems and have practical experience with messaging platforms such as Kafka and RabbitMQ. #### **Key Responsibilities** - Design, develop, and maintain scalable microservices using Java and Spring Boot. - Build and optimize RESTful APIs and event-driven applications. - Develop and integrate asynchronous messaging solutions using Apache Kafka and RabbitMQ. - Implement gRPC services for high-performance inter-service communication. - Design efficient database schemas and write optimized SQL queries. - Collaborate with cross-functional teams to deliver high-quality software solutions. - Troubleshoot production issues and optimize application performance. - Write clean, maintainable, and well-tested code following industry best practices. - Participate in code reviews, architecture discussions, and technical planning. #### **Required Skills & Experience** - 4+ years of professional experience in Java development. - Strong expertise in Java 8/11/17 and Spring Boot. - Hands-on experience in Microservices Architecture. - Practical experience with gRPC. - Strong experience with Apache Kafka. - Experience with RabbitMQ or other messaging platforms. - Excellent SQL skills with experience in relational databases such as PostgreSQL, MySQL, or SQL Server. - Strong understanding of REST APIs and distributed systems. - Experience with Git and modern software development practices. - Good understanding of design patterns and object-oriented programming principles. #### **Nice to Have** - Experience with Docker and Kubernetes. - Knowledge of CI/CD pipelines (Jenkins, GitHub Actions, Azure DevOps, etc.). - Experience with cloud platforms such as AWS, Azure, or GCP. - Familiarity with Redis, Elasticsearch, or NoSQL databases. - Knowledge of monitoring and logging tools such as Prometheus, Grafana, ELK, or Splunk. #### **What We're Looking For** - Strong analytical and problem-solving skills. - Excellent communication and collaboration abilities. - Ability to work independently and in an agile development environment. - Passion for building scalable and reliable enterprise applications."
 }, {
   "title" : "QA Intern",
   "company" : "Navitsa",
@@ -143,6 +179,24 @@
   "scrapedDate" : [ 2026, 7, 22 ],
   "description" : "Data Analyst"
 }, {
+  "title" : "School Leaver Data Formatter for LLM Processing - Battramulla",
+  "company" : "ServiceTeam Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524641&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 22, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "School Leaver Data Formatter for LLM Processing - Battramulla"
+}, {
+  "title" : "Sports Data & Content Executive (2)",
+  "company" : "Sumathi Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001527624&ec=0000000555",
+  "datePosted" : [ 2026, 7, 22, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 22 ],
+  "description" : "Sports Data & Content Executive (2)"
+}, {
   "title" : "Intern Software Engineer (React / .NET Core)",
   "company" : "Novrix Solutions (Pvt) Ltd",
   "level" : "Intern",
@@ -205,15 +259,6 @@
   "datePosted" : [ 2026, 7, 21, 12, 0 ],
   "scrapedDate" : [ 2026, 7, 22 ],
   "description" : "Full Stack Developer Intern"
-}, {
-  "title" : "School Leaver Data Formatter for LLM Processing - Battramulla",
-  "company" : "ServiceTeam Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524641&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 22 ],
-  "description" : "School Leaver Data Formatter for LLM Processing - Battramulla"
 }, {
   "title" : "Intern Web Developer",
   "company" : "Sans Technologies",

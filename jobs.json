@@ -1,4 +1,31 @@
 [ {
+  "title" : "RPG Engineer / Lead RPG Engineer",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14420/rpg-engineer-lead-rpg-engineer-at-/",
+  "datePosted" : [ 2026, 7, 23, 16, 44, 50 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "\uD83D\uDE80 We’re Hiring | RPG Engineer / Lead RPG Engineer \uD83D\uDCCD Location: Sri Lanka \uD83C\uDFED Industry: Banking Technology / Fintech / Payment Systems / Software Engineering \uD83D\uDCBC Employment Type: Full time A strong opportunity for a skilled RPG professional to support card systems, payment workflows, and modern microservices architecture. Role Overview Maintain and modernize IBM i / AS400 RPG systems while supporting scalable services for card operations and transaction processing. Key Responsibilities Develop and maintain RPG IV / ILE RPG applications Support Card Management Systems, card issuance, transactions, and lifecycle workflows Build and support APIs and microservices for card operations Contribute to RPG modernization and Java / Spring Boot migration initiatives Ensure platform stability, documentation, security, and PCI DSS compliance Candidate Profile Degree in Computer Science, Information Systems, or related field Minimum 4+ years of software development experience RPG IV / ILE RPG and Card Management Systems experience required Skills & Competencies AS400, DB2, REST APIs, JSON, XML, and SQL Banking, fintech, cards, or payments knowledge Problem solving and technical documentatio"
+}, {
+  "title" : "Associate QA Engineer",
+  "company" : "Predictiv AI",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14419/associate-qa-engineer-at-predictiv-ai/",
+  "datePosted" : [ 2026, 7, 23, 16, 40, 53 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "\uD835\uDDD4\uD835\uDDEF\uD835\uDDFC\uD835\uDE02\uD835\uDE01 \uD835\uDDE3\uD835\uDDFF\uD835\uDDF2\uD835\uDDF1\uD835\uDDF6\uD835\uDDF0\uD835\uDE01\uD835\uDDF6\uD835\uDE03 \uD835\uDDD4\uD835\uDDDC Predictiv AI is a Canadian technology company specializing in AI and machine learning solutions. Our portfolio includes AI-powered fleet management, logistics management, healthcare, communication agents, and real estate intelligence platforms that help organizations improve operational efficiency, automate processes, and make smarter data-driven decisions. \uD835\uDDD4\uD835\uDDEF\uD835\uDDFC\uD835\uDE02\uD835\uDE01 \uD835\uDE01\uD835\uDDF5\uD835\uDDF2 \uD835\uDDE5\uD835\uDDFC\uD835\uDDF9\uD835\uDDF2 We're looking for an Associate QA Engineer to help ensure the quality, reliability, and performance of our software solutions across AI-driven and enterprise applications. \uD835\uDDDE\uD835\uDDF2\uD835\uDE06 \uD835\uDDE5\uD835\uDDF2\uD835\uDE00\uD835\uDDFD\uD835\uDDFC\uD835\uDDFB\uD835\uDE00\uD835\uDDF6\uD835\uDDEF\uD835\uDDF6\uD835\uDDF9\uD835\uDDF6\uD835\uDE01\uD835\uDDF6\uD835\uDDF2\uD835\uDE00 Assist in preparing test plans and defining test strategies for various projects. Design, develop, and execute test scenarios and test cases. Assist in developing and maintaining test automation scripts. Maintain test environments and support continuous integration processes. Execute tests, analyze results, and communicate findings effectively. \uD835\uDDE5\uD835\uDDF2\uD835\uDDFE\uD835\uDE02\uD835\uDDF6\uD835\uDDFF\uD835\uDDF2\uD835\uDDFA\uD835\uDDF2\uD835\uDDFB\uD835\uDE01\uD835\uDE00 Bachelor's Degree in Computer Science, Information Technology, or a related field. Strong understanding of quality engineering practices and processes. Knowledge of Software Engineering (SE), Machine Learning (ML), and Artificial Intelligence (AI) concepts is an added advantage. Experience with QA tools such as Selenium, Playwright, JMeter, or similar. Understanding of API concepts and experience with testing tools such as Postman or Rest Assured. Good knowledge of Agile software testing methodologies and software engineering principles. Excellent communication, presentation, and problem-solving skills. A proactive mindset with a strong desire for continuous learning and professional growth. ISTQB Foundation Level or a similar certification is an advantage."
+}, {
+  "title" : "Senior Software Engineer (Odoo)",
+  "company" : "Nisus Solutions (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14416/senior-software-engineer-odoo-at-nisus-solutions-pvt-ltd/",
+  "datePosted" : [ 2026, 7, 23, 14, 52, 24 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "Nisus Solutions (Pvt) Ltd is a leading ERP and business technology solutions provider specializing in Odoo ERP implementations, customizations, integrations, and digital transformation. Key Responsibilities Develop, customize, and maintain Odoo modules. Lead technical implementation of Odoo ERP projects. Perform upgrades, migrations, and third-party integrations. Troubleshoot technical issues and optimize performance. Collaborate with consultants and clients to deliver solutions. Review code, mentor developers, and maintain technical documentation. Requirements Bachelor's degree in IT, Computer Science, or related field. 3+ years of Odoo development experience. Strong Python, Odoo Framework, PostgreSQL, XML, QWeb, and JavaScript skills. Experience with Odoo modules, REST APIs, integrations, and migrations. Strong analytical, communication, and teamwork skills. Odoo Certification is a plus. Nice to Have Odoo.sh, Linux, Docker, Git, CI/CD. ERP consulting experience. Agile/Scrum and cloud platform exposure. What We Offer Enterprise-scale Odoo projects. Competitive salary and incentives. Career growth and continuous learning. Collaborative work environment. Overseas travel opportunities. Nisus Solutions (Pvt) Ltd is an equal opportunity employer."
+}, {
   "title" : "QA Engineer",
   "company" : "InEight Sri Lanka",
   "level" : "Junior/SE",
@@ -98,6 +125,33 @@
   "scrapedDate" : [ 2026, 7, 23 ],
   "description" : "DTP Developer - Galle"
 }, {
+  "title" : "Big Data Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
+  "datePosted" : [ 2026, 7, 23, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "Big Data Engineer (1)"
+}, {
+  "title" : "Senior QA Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
+  "datePosted" : [ 2026, 7, 23, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "Senior QA Engineer (1)"
+}, {
+  "title" : "Associate Software Engineers - Full Stack (.NET) (1)",
+  "company" : "KPMG Executive Search Private Limited",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000343&jc=0001528075&ec=0000000458",
+  "datePosted" : [ 2026, 7, 23, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 23 ],
+  "description" : "Associate Software Engineers - Full Stack (.NET) (1)"
+}, {
   "title" : "Intern - Software Engineer",
   "company" : "Exe.lk",
   "level" : "Intern",
@@ -143,15 +197,6 @@
   "scrapedDate" : [ 2026, 7, 22 ],
   "description" : ""
 }, {
-  "title" : "Big Data Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001420855&ec=0000000350",
-  "datePosted" : [ 2026, 7, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 23 ],
-  "description" : "Big Data Engineer (1)"
-}, {
   "title" : "Senior Snowflake Engineer (1)",
   "company" : "CMS (Pvt) Ltd",
   "level" : "Senior",
@@ -160,15 +205,6 @@
   "datePosted" : [ 2026, 7, 22, 12, 0 ],
   "scrapedDate" : [ 2026, 7, 23 ],
   "description" : "Senior Snowflake Engineer (1)"
-}, {
-  "title" : "Senior QA Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350",
-  "datePosted" : [ 2026, 7, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 23 ],
-  "description" : "Senior QA Engineer (1)"
 }, {
   "title" : "Associate Software Engineer - Full Stack (1)",
   "company" : "Ascent Business Solutions (Pvt) Ltd",

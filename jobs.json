@@ -1,4 +1,31 @@
 [ {
+  "title" : "Automation Engineer - Telecom Solutions",
+  "company" : "Hatchyard",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14438/automation-engineer-telecom-solutions-at-hatchyard/",
+  "datePosted" : [ 2026, 7, 24, 18, 10, 34 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "Be part of our journey to build intelligent automation platforms that transform telecom engineering processes. Solve real challenges. Build real impact. Key Responsibilities Design and develop Python-based automation solutions Automate telecom engineering and business workflows Build and deploy containerized applications on Azure Develop data pipelines using Microsoft Fabric Integrate Al/ML capabilities using Azure Al services Create insightful Power BI dashboards and reports Collaborate with cross-functional engineering teams Requirements 3+ years of experience in Software/Automation Engineering Strong proficiency in Python and SQL (MySQL / MSSQL) Experience with Azure cloud services and containerization Knowledge of Microsoft Fabric or ETL/ Data Pipelines Familiarity with Power BI or Tableau Excellent analytical and problem-solving skills Strong communication and teamwork abilities Nice to Have Telecom industry experience Azure Al/Machine Learning experience PySpark, Delta Lake, or Medallion Architecture knowledge AWS knowledge or certification Experience in productizing internal tools"
+}, {
+  "title" : "Software Engineer - Application Technology (Workday Integrations)",
+  "company" : "Hatchyard",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14437/software-engineer-application-technology-workday-integrations-at-hatchyard/",
+  "datePosted" : [ 2026, 7, 24, 18, 5, 5 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "Join Hatchyard and be part of a dynamic team delivering innovative Workday solutions that drive business success. The Role Project Driven: Participate in ongoing project work and take the lead on design, build, and support testing of Workday integration code base. Provide recommendations for the project as needed. Requirements Collection: Gather, build, test, and document requirements for integrations with Workday HCM. Production Support: Provide support and troubleshooting for existing/new integrations between the Workday product and other systems (outside carriers, outside vendors, internal systems and Datawarehouse). Troubleshooting: Handle HR related Workday support tickets via Service Now. Partner with customers to assess the scope of the request and determine estimated timeframe needed to complete. Research and Development: Innovate and introduce new products and services using Workday integration tools including Workday Studio, EIB's, Report Writer (BIRT). Core Connectors and Workday Extend. The Profile A bachelor's degree in information technology or equivalent. Saas/Cloud HCM or HRIS implementation experience. Previous coding experience using XML, XSLT, Web Services, JSON, JavaScript and Java. Good knowledge in resolving complex XSLT Itogics. Experience with Workday Implementation would be an added advantage. Superior written and verbal communication skills. Ability to work with multiple business and Tech teams to accomplish common end goals."
+}, {
+  "title" : "Senior Software Engineer – API Development",
+  "company" : "VS ONE WORLD (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14434/senior-software-engineer-api-development-at-vs-one-world-pvt-ltd/",
+  "datePosted" : [ 2026, 7, 24, 16, 36, 11 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "Join VS One World and help build secure, scalable, and high-performance API solutions. If you have 3–5 years of experience in backend development, microservices, cloud technologies, and API integration, we'd love to hear from you. Required Skills: 1. Programming & Language Depth Strong proficiency in at least one backend language (Java, Node.js, Go, Python, C#) - not just syntax, but idiomatic use, concurrency models, and performance characteristics. Solid grasp of OOP/functional principles, data structures, and algorithms. 2. API Design & Architecture RESTful API design principles (resource modeling, status codes, idempotency, versioning strategies). Understanding of when to use REST vs GraphQL vs gRPC vs event-driven/async APIs. Microservices architecture patterns: service decomposition, bounded contexts, inter-service communication (sync vs async). API contract-first design (OpenAPI/Swagger spec-driven development). 3. Data & Persistence SQL and at least one NoSQL store (MongoDB, DynamoDB, Redis). Schema design, indexing, query optimization, transaction management across services (sagas, eventual consistency). 4. Middleware & Integration Message brokers/event streaming (Kafka, RabbitMQ, SQS). API gateways and management platforms (WSO2 APIM, Kong, Apigee). Understanding of middleware patterns: circuit breakers, retries, rate limiting, caching. 5. Security AuthN/AuthZ: OAuth2, OIDC, JWT. Input validation, encryption in transit/at rest, secrets management. Common API vulnerabilities (OWASP API Top 10). 6. Testing Unit and integration testing frameworks. API test automation (Postman/Newman, REST Assured). Contract testing (Pact) for microservices. 7. DevOps & Operations Basic cloud platform exposure (AWS/GCP/Azure). 8. Documentation & Collaboration Swagger / OpenAPI spec writing. Clear technical communication for cross-team API consumers. 9. Increasingly Valued (AI Era) As VS One World builds Al capability, exposure to designing APIs that front LLM/RAG services (streaming responses, token- based rate limiting, prompt/response logging) is becoming a differentiator - even if not yet core to a traditional API developer role. Added advantage: Experience with WSO2 API Manager (APIM) and Identity Server (IS)."
+}, {
   "title" : "WordPress Developer",
   "company" : "Knowledge Books and Software",
   "level" : "Junior/SE",
@@ -124,6 +151,51 @@
   "datePosted" : [ 2026, 7, 24, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 24 ],
   "description" : "Backend Engineer - Colombo | Work from Home"
+}, {
+  "title" : "FULL STACK DEVELOPER (1)",
+  "company" : "Maritime Placements (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528930&ec=0000000023",
+  "datePosted" : [ 2026, 7, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "FULL STACK DEVELOPER (1)"
+}, {
+  "title" : "SENIOR LARAVEL ENGINEER (1)",
+  "company" : "Maritime Placements (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528681&ec=0000000023",
+  "datePosted" : [ 2026, 7, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "SENIOR LARAVEL ENGINEER (1)"
+}, {
+  "title" : "DEVOPS ENGINEER (1)",
+  "company" : "Maritime Placements (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528669&ec=0000000023",
+  "datePosted" : [ 2026, 7, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "DEVOPS ENGINEER (1)"
+}, {
+  "title" : "REACT DEVELOPER (1)",
+  "company" : "Maritime Placements (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528568&ec=0000000023",
+  "datePosted" : [ 2026, 7, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "REACT DEVELOPER (1)"
+}, {
+  "title" : "QUALITY ASSURANCE LEAD (1)",
+  "company" : "Maritime Placements (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528554&ec=0000000023",
+  "datePosted" : [ 2026, 7, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 24 ],
+  "description" : "QUALITY ASSURANCE LEAD (1)"
 }, {
   "title" : "Intern Software Engineer (Software Development & Gen AI)",
   "company" : "Xeynergy",

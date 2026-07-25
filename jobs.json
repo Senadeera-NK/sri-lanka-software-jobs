@@ -35,6 +35,24 @@
   "scrapedDate" : [ 2026, 7, 25 ],
   "description" : "QA | Software Tester (Trainee | Intern)"
 }, {
+  "title" : "Design Engineer",
+  "company" : "KRAMSKI Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 25 ],
+  "description" : "Design Engineer"
+}, {
+  "title" : "Senior Lead Engineer - IBM i",
+  "company" : "Commercial Bank",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 25 ],
+  "description" : "Senior Lead Engineer - IBM i"
+}, {
   "title" : "Full Stack Engineer (Project-Based / Task-Based)",
   "company" : "Lycerix Global",
   "level" : "Junior/SE",
@@ -214,24 +232,6 @@
   "datePosted" : [ 2026, 7, 24, 8, 53, 41 ],
   "scrapedDate" : [ 2026, 7, 25 ],
   "description" : "We are looking for a passionate and technically strong Lead QA Engineer to join our product engineering team. The ideal candidate takes ownership of software quality from concept to delivery, ensuring quality is embedded throughout the entire software development lifecycle rather than treated as the final step before release. You will work closely with product managers, developers, and engineering teams to define quality strategies, drive automation initiatives, improve testing processes, and deliver reliable, scalable, and high-quality software products. This role is ideal for professionals who are passionate about quality engineering, automation, continuous improvement, and mentoring high-performing QA teams. Responsibilities Take end-to-end ownership of product quality and release readiness Participate in requirement discussions, solution design reviews, and sprint planning activities Identify risks, edge cases, and quality concerns early in the software development lifecycle Design, execute, and maintain functional, integration, regression, exploratory, and end-to-end test plans Define, implement, and drive test automation strategies and quality engineering best practices Plan and execute performance, load, scalability, and reliability testing Collaborate closely with developers, product managers, and stakeholders to build quality into products from the beginning Analyze defects, support root cause analysis, and drive preventive quality improvements Mentor QA engineers and contribute to building a strong quality-first engineering culture Continuously improve QA processes, tools, metrics, standards, and testing methodologies Requirements Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field 4+ years of experience for Associate Lead QA Engineer or 6+ years for Lead QA Engineer Strong experience in software testing, quality assurance, and quality engineering practices Solid understanding of web applications, REST APIs, databases, distributed systems, and modern software architectures Ability to understand business requirements and translate them into comprehensive quality strategies Hands-on experience with test automation frameworks and automation planning Experience with API testing, integration testing, and end-to-end testing Knowledge of performance, load, and scalability testing methodologies and tools Strong analytical, troubleshooting, and problem-solving skills Excellent communication, collaboration, and stakeholder management abilities Ability to work independently, take ownership, and proactively identify quality risks Nice to Have Previous experience leading or mentoring QA teams Experience working in Agile/Scrum development environments Hands-on experience with CI/CD pipelines and automated quality gates Experience with performance testing tools such as JMeter, k6, or similar Understanding of security testing principles and secure software practices Experience working with SaaS products, enterprise software, Unified Communications, Contact Center, CRM, or customer engagement platforms ISTQB or other recognized software testing certifications Benefits Work with one of Sri Lanka’s leading technology companies delivering enterprise communication and customer engagement solutions Opportunity to work on innovative SaaS, AI-powered, cloud, and enterprise software products Collaborative, engineering-driven, and innovation-focused work environment Continuous learning, certification, and professional development opportunities Career growth into engineering leadership roles Competitive compensation and benefits package"
-}, {
-  "title" : "Design Engineer",
-  "company" : "KRAMSKI Lanka (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 24, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 24 ],
-  "description" : "Design Engineer"
-}, {
-  "title" : "Senior Lead Engineer - IBM i",
-  "company" : "Commercial Bank",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ",
-  "datePosted" : [ 2026, 7, 24, 0, 0 ],
-  "scrapedDate" : [ 2026, 7, 24 ],
-  "description" : "Senior Lead Engineer - IBM i"
 }, {
   "title" : "Intern Software Engineer (Software Development & Gen AI)",
   "company" : "Xeynergy",

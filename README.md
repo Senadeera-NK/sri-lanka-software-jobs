@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** July 27,2:26 PM (Just now)  | **Total Jobs Found:** 176
+> 🟢 **Last Updated:** July 27,7:25 PM (Just now)  | **Total Jobs Found:** 178
 
 ### 🎓 Internships & Trainees  (25)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Engineer / Engineering Intern, Power Platform](https://rooster.jobs/jobs/518907) | Snapdrum | Intern | 13&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Engineer / Engineering Intern, Power Platform](https://rooster.jobs/jobs/518907) | Snapdrum | Intern | 18&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Intern Software Engineer (Software Development & Gen AI)](https://itpro.lk/job/14426/intern-software-engineer-software-development-gen-ai-at-xeynergy/) | Xeynergy | Intern | 4&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527949&ec=DEFZZZ) | Electrobeam (Pvt) Ltd | Intern | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Full Stack Developer Intern (Java, Spring Boot & React)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527832&ec=DEFZZZ) | Blue Chip Technical Services (Pvt) Ltd | Intern | 4&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -50,14 +50,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (96)
+### 💻 Associate & Junior/SE Roles  (98)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer – Application Technology (Workday Integrations)](https://itpro.lk/job/14457/software-engineer-application-technology-workday-integrations-at-tecciance/) | tecciance | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://itpro.lk/job/14456/qa-engineer-at-dxdy/) | dxdy | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524056&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full Stack Engineer (Project-Based / Task-Based)](https://itpro.lk/job/14444/full-stack-engineer-projectbased-taskbased-at-lycerix-global/) | Lycerix Global | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Associate QA Engineer](https://itpro.lk/job/14443/associate-qa-engineer-at-lycerix-global/) | Lycerix Global | Associate | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Quality Engineer (Automation)](https://itpro.lk/job/14441/quality-engineer-automation-at-verdentra/) | Verdentra | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -157,9 +159,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Lead .NET Engineer](https://itpro.lk/job/14454/lead-net-engineer-at-via-codos-private-limited/) | Via Codos Private Limited | Senior | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529183&ec=DEFZZZ) | Company Name Withheld | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Lead .NET Engineer](https://itpro.lk/job/14454/lead-net-engineer-at-via-codos-private-limited/) | Via Codos Private Limited | Senior | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529183&ec=DEFZZZ) | Company Name Withheld | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer – API Development](https://itpro.lk/job/14434/senior-software-engineer-api-development-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior QA Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350) | CMS (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [SENIOR LARAVEL ENGINEER (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001528681&ec=0000000023) | Maritime Placements (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |

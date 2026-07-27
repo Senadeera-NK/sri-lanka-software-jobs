@@ -1,4 +1,22 @@
 [ {
+  "title" : "Software Engineer – Application Technology (Workday Integrations)",
+  "company" : "tecciance",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14457/software-engineer-application-technology-workday-integrations-at-tecciance/",
+  "datePosted" : [ 2026, 7, 27, 17, 34, 57 ],
+  "scrapedDate" : [ 2026, 7, 27 ],
+  "description" : "Join our team as a Software Engineer – Application Technology (Workday Integrations) and work on exciting cloud and enterprise integration projects. What We're Looking For Bachelor's Degree in IT or equivalent qualification with 2+ years of industry experience Experience with SaaS/Cloud HCM or HRIS implementations Strong coding knowledge in XML, XSLT, JSON, JavaScript, and Java Experience with Web Services and Workday integration tools Strong ability to troubleshoot complex XSLT logic and integrations Workday implementation experience is an added advantage Excellent communication and cross-functional collaboration skills Ready to build smarter technology solutions? Join our team and make an impact"
+}, {
+  "title" : "QA Engineer",
+  "company" : "dxdy",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14456/qa-engineer-at-dxdy/",
+  "datePosted" : [ 2026, 7, 27, 15, 0, 49 ],
+  "scrapedDate" : [ 2026, 7, 27 ],
+  "description" : "About the Role Dxdy delivers software solutions across diverse domains including Healthcare, Manufacturing, Production Planning and Digital . We are looking for a QA Engineer to join our team and play a pivotal part in ensuring the quality and reliability of our systems, working closely with developers, stakeholders, and business users to identify gaps, design test cases, and execute both manual and automated testing. What You Will Do Analyse requirements to identify test scenarios and data. Design and execute functional, regression, and system test cases. Log and track defects using tools like Jira. Manage test suites in test management tools like TestLink / XRay. Collaborate with cross-functional teams to resolve issues and ensure seamless integration · Investigate operational incidents and recommend improvements to processes and solutions. Contribute to the continuous improvement of testing frameworks and methodologies, ensuring systems meet the highest standards of performance and security. Contribute to automating smoke and regression test suites using Playwright/TypeScript, and keep automated test suites up to date. Quickly adapt to new domains such as Healthcare, Manufacturing, and Production Planning. What You Need A solid understanding of manual testing concepts, testing types, and test levels. Experience in system and integration testing across multiple platforms · Familiarity with Playwright/TypeScript in test automation. Knowledge of programming languages like JavaScript/TypeScript Proficiency in using project management and defect tracking tools (e.g., Jira, Azure DevOps). Knowledge of using JMeter/K6-like tools to perform performance testing · Knowledge of using BrowserStack-like tools for extensive UI testing. A collaborative mindset with excellent communication skills to explain complex issues in simple terms. A bachelor's degree in Computer Science, Engineering, or a related field (ISTQB certification is a plus). Nice to Have Exposure to healthcare, manufacturing, or production planning domains. Experience contributing to AI-augmented QA initiatives (e.g., LLM-based test evaluation, AI-assisted test generation). Prior experience working within cross-functional, multi-project QA teams"
+}, {
   "title" : "Lead .NET Engineer",
   "company" : "Via Codos Private Limited",
   "level" : "Senior",

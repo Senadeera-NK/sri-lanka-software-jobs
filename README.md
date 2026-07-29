@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** July 29,1:36 PM (Just now)  | **Total Jobs Found:** 170
+> 🟢 **Last Updated:** July 29,6:46 PM (Just now)  | **Total Jobs Found:** 174
 
 ### 🎓 Internships & Trainees  (24)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer Intern](https://itpro.lk/job/14479/full-stack-developer-intern-at-futura-solutions/) | Futura Solutions | Intern | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer Intern](https://itpro.lk/job/14479/full-stack-developer-intern-at-futura-solutions/) | Futura Solutions | Intern | Yesterday | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/14475/software-engineer-intern-at-alphintra/) | Alphintra | Intern | Yesterday | ITPro.lk |
 | [Quality Assurance (QA) Intern](https://itpro.lk/job/14470/quality-assurance-qa-intern-at-tecoora-pty-ltd/) | Tecoora Pty Ltd | Intern | Yesterday | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/13215/software-engineer-intern-at-perpova-developers/) | Perpova Developers | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -49,15 +49,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (96)
+### 💻 Associate & Junior/SE Roles  (99)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [PHP Laravel Developer](https://itpro.lk/job/14484/php-laravel-developer-at-rapidventure-business-solutions-pvt-ltd/) | Rapidventure Business Solutions (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer](https://itpro.lk/job/14480/associate-software-engineer-at-amplaz/) | Amplaz | Associate | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Associate](https://itpro.lk/job/14494/qa-associate-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Associate | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Engineer](https://itpro.lk/job/14493/quality-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer](https://itpro.lk/job/14490/software-engineer-at-amazoft/) | Amazoft | Junior/SE | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [PHP Laravel Developer](https://itpro.lk/job/14484/php-laravel-developer-at-rapidventure-business-solutions-pvt-ltd/) | Rapidventure Business Solutions (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer](https://itpro.lk/job/14480/associate-software-engineer-at-amplaz/) | Amplaz | Associate | Yesterday | ITPro.lk |
 | [Associate Quality Engineering Lead](https://itpro.lk/job/14474/associate-quality-engineering-lead-at-softvil-technologies/) | Softvil Technologies | Associate | Yesterday | ITPro.lk |
 | [Software Engineer – Integration Server (Aeonix/OmniCX)](https://rooster.jobs/jobs/518934) | Twist Digital | Junior/SE | Yesterday | Rooster.jobs |
 | [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529762&ec=DEFZZZ) | Ernst & Young | Junior/SE | Yesterday | TopJobs.lk |
@@ -152,13 +155,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (50)
+### 🚀 Senior & Lead Roles  (51)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software QA Engineer](https://itpro.lk/job/14483/senior-software-qa-engineer-at-pelago/) | Pelago | Senior | 19&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer / Software Engineer](https://itpro.lk/job/14476/senior-software-engineer-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer - Full Stack](https://itpro.lk/job/14492/senior-software-engineer-full-stack-at-softvil-technologies/) | Softvil Technologies | Senior | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software QA Engineer](https://itpro.lk/job/14483/senior-software-qa-engineer-at-pelago/) | Pelago | Senior | Yesterday | ITPro.lk |
+| [Senior Software Engineer / Software Engineer](https://itpro.lk/job/14476/senior-software-engineer-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | Yesterday | ITPro.lk |
 | [Senior Engineer - Business Intelligence (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001529658&ec=0000000510) | Expolanka Freight (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior QA Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001519031&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Enterprise Systems Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000062&jc=0001529811&ec=0000000068) | Softlogic Holdings PLC | Senior | Yesterday | TopJobs.lk |

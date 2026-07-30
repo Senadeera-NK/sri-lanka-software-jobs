@@ -1,4 +1,22 @@
 [ {
+  "title" : "Trainee Quality Assurance Engineer",
+  "company" : "EchonLabs",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14504/trainee-quality-assurance-engineer-at-echonlabs/",
+  "datePosted" : [ 2026, 7, 30, 15, 11, 39 ],
+  "scrapedDate" : [ 2026, 7, 30 ],
+  "description" : "About The Role We are currently seeking a dedicated and motivated individual to join our team as a Trainee Quality Assurance (QA) Engineer. This position offers an exciting opportunity for someone looking to start their career in software testing and quality assurance. As a Trainee QA Engineer, you will play a crucial role in ensuring the quality and reliability of our software products. Responsibilities These are the responsibilities that we expect you to handle Collaborates with the development team on bug fix verification and validation Manages testing efforts across projects under tight deadlines Develops and executes test plans and detailed test cases based on requirements and/or customer conversations Reviews and validates requirements and technical specifications Requirements These are the requirements that we expect from you Basic knowledge of programming languages such as Java, JavaScript, Python, or C#. Strong interest in software testing and quality assurance. Excellent analytical and problem-solving skills. Good understanding of software development concepts and methodologies. Ability to work independently and in a team environment, with excellent communication skills."
+}, {
+  "title" : "NetSuite Technical Developer",
+  "company" : "BISTEC Global Services",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14502/netsuite-technical-developer-at-bistec-global-services/",
+  "datePosted" : [ 2026, 7, 30, 14, 54, 59 ],
+  "scrapedDate" : [ 2026, 7, 30 ],
+  "description" : "Join our family keeping live NetSuite environments stable, scalable and secure - for clients across 15+ countries. What you'll do Build and maintain NetSuite customizations using SuiteScript 1.0/2.x-User Event, Client, Scheduled and Map/Reduce scripts. Develop SuiteFlow workflows, saved searches, KPIs. dashboards and custom records. Own integrations between NetSuite and third-party systems via REST, SOAP and middleware platforms. Diagnose and resolve integration, data and performance issues across live environments. Run NetSuite Health Checks and recommend improvements for stability and scalability. Monitor live environments, catching issues before they impact end users. What you'll bring 3-4 years of NetSuite technical development experience. Strong knowledge of SuiteScript 2x/2.1 and JavaScript. Experience with Suite Flow, SuiteBuilder, REST/SOAP APIs and SDF Knowledge of NetSuite records, transactions and governance limits. Experience with technical documentation, debugging and deployment. Confident diagnosing complex integration and performance issues independently. Your Toolkit SuiteScript • SuiteFlow • SuiteBuilder • SuiteTalk • REST APIs • SOAP Web Services • SDF Celigo • Dell Boomi • MuleSoft • SuiteQL • JavaScript Bonus points Experience with SuiteQL HTML, CSS, XML, JSON and FreeMarker Familiarity with Git, Azure DevOps, Github, Celigo, Boomi or MuleSoft. NetSuite technical certification is an advantage Think you're a fit? Let's talk. Send your CV and a note on a solution you're proud of."
+}, {
   "title" : "Shopify Website Developer",
   "company" : "WIS BPO",
   "level" : "Junior/SE",
@@ -160,6 +178,24 @@
   "datePosted" : [ 2026, 7, 30, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 30 ],
   "description" : "Senior Web Developer"
+}, {
+  "title" : "Database Administrator (1)",
+  "company" : "Lanka Hospitals Corporation PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000440&jc=0001530287&ec=0000000582",
+  "datePosted" : [ 2026, 7, 30, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 30 ],
+  "description" : "Database Administrator (1)"
+}, {
+  "title" : "QA Engineer",
+  "company" : "VitalFew Asia",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530235&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 30, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 30 ],
+  "description" : "QA Engineer"
 }, {
   "title" : "QA Associate",
   "company" : "D HELP HUB Private Limited",

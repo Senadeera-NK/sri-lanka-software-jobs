@@ -16,16 +16,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** July 30,1:25 PM (Just now)  | **Total Jobs Found:** 144
+> 🟢 **Last Updated:** July 30,6:37 PM (Just now)  | **Total Jobs Found:** 148
 
 ### 🎓 Internships & Trainees  (26)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Software Engineer – Intern](https://itpro.lk/job/14498/full-stack-software-engineer-intern-at-idea8-pvt-ltd/) | Idea8 (Pvt) Ltd | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Assurance Internship](https://itpro.lk/job/14497/quality-assurance-internship-at-gamage-recruiters-pvt-ltd/) | Gamage Recruiters (Pvt) Ltd | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Development Intern](https://itpro.lk/job/14495/software-development-intern-at-innovista-metal-fabriconix-pvt-ltd/) | Innovista Metal Fabriconix (Pvt) Ltd | Intern | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Software Engineer – Intern](https://itpro.lk/job/14498/full-stack-software-engineer-intern-at-idea8-pvt-ltd/) | Idea8 (Pvt) Ltd | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Assurance Internship](https://itpro.lk/job/14497/quality-assurance-internship-at-gamage-recruiters-pvt-ltd/) | Gamage Recruiters (Pvt) Ltd | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Development Intern](https://itpro.lk/job/14495/software-development-intern-at-innovista-metal-fabriconix-pvt-ltd/) | Innovista Metal Fabriconix (Pvt) Ltd | Intern | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA \| Software Tester (Trainee \| Intern)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526871&ec=DEFZZZ) | myPOS Software Solutions (Pvt) Ltd | Intern | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full Stack Developer Intern](https://itpro.lk/job/14479/full-stack-developer-intern-at-futura-solutions/) | Futura Solutions | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/14475/software-engineer-intern-at-alphintra/) | Alphintra | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Quality Assurance (QA) Intern](https://itpro.lk/job/14470/quality-assurance-qa-intern-at-tecoora-pty-ltd/) | Tecoora Pty Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -51,25 +51,29 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (84)
+### 💻 Associate & Junior/SE Roles  (88)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Shopify Website Developer](https://itpro.lk/job/14499/shopify-website-developer-at-wis-bpo/) | WIS BPO | Junior/SE | 37&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Power Platform & Copilot Developer](https://itpro.lk/job/14496/power-platform-copilot-developer-at-bistec-global-services/) | BISTEC Global Services | Junior/SE | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529417&ec=DEFZZZ) | Ignite Media Vision (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Software Engineer - Department of IT](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530186&ec=DEFZZZ) | Sri Lanka Institute of Information Technology (SLIIT) | Associate | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Machine Learning Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530181&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Graduate Data Engineer (AI Workflows)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530174&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Graduate GenAI Developer for FPGA Workflows](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530171&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Graduate Generative AI Engineer (MATLAB & Simulink)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530170&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI-Native Full-Stack Builder](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530167&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer (.NET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530151&ec=DEFZZZ) | IPD Colombo | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Associate](https://itpro.lk/job/14494/qa-associate-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Associate | 20&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Engineer](https://itpro.lk/job/14493/quality-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | 20&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer](https://itpro.lk/job/14490/software-engineer-at-amazoft/) | Amazoft | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Trainee Quality Assurance Engineer](https://itpro.lk/job/14504/trainee-quality-assurance-engineer-at-echonlabs/) | EchonLabs | Associate | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [NetSuite Technical Developer](https://itpro.lk/job/14502/netsuite-technical-developer-at-bistec-global-services/) | BISTEC Global Services | Junior/SE | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Shopify Website Developer](https://itpro.lk/job/14499/shopify-website-developer-at-wis-bpo/) | WIS BPO | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Power Platform & Copilot Developer](https://itpro.lk/job/14496/power-platform-copilot-developer-at-bistec-global-services/) | BISTEC Global Services | Junior/SE | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001526543&ec=DEFZZZ) | Thakshana Technologies (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Design Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001527063&ec=DEFZZZ) | KRAMSKI Lanka (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529417&ec=DEFZZZ) | Ignite Media Vision (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer - Department of IT](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530186&ec=DEFZZZ) | Sri Lanka Institute of Information Technology (SLIIT) | Associate | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Machine Learning Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530181&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Graduate Data Engineer (AI Workflows)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530174&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Graduate GenAI Developer for FPGA Workflows](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530171&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Graduate Generative AI Engineer (MATLAB & Simulink)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530170&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI-Native Full-Stack Builder](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530167&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer (.NET)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530151&ec=DEFZZZ) | IPD Colombo | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000440&jc=0001530287&ec=0000000582) | Lanka Hospitals Corporation PLC | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530235&ec=DEFZZZ) | VitalFew Asia | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Associate](https://itpro.lk/job/14494/qa-associate-at-d-help-hub-private-limited/) | D HELP HUB Private Limited | Associate | Yesterday | ITPro.lk |
+| [Quality Engineer](https://itpro.lk/job/14493/quality-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | Yesterday | ITPro.lk |
+| [Software Engineer](https://itpro.lk/job/14490/software-engineer-at-amazoft/) | Amazoft | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer -Fullstack Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001530044&ec=0000000373) | Synapsys | Junior/SE | Yesterday | TopJobs.lk |
 | [Associate QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001524251&ec=DEFZZZ) | Treinetic Pvt Ltd | Associate | Yesterday | TopJobs.lk |
 | [PHP Laravel Developer](https://itpro.lk/job/14484/php-laravel-developer-at-rapidventure-business-solutions-pvt-ltd/) | Rapidventure Business Solutions (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -146,9 +150,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530143&ec=DEFZZZ) | IPD Colombo Pvt Ltd | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer - Full Stack](https://itpro.lk/job/14492/senior-software-engineer-full-stack-at-softvil-technologies/) | Softvil Technologies | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Lead Engineer - IBM i](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001528392&ec=DEFZZZ) | Commercial Bank | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530143&ec=DEFZZZ) | IPD Colombo Pvt Ltd | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer - Full Stack](https://itpro.lk/job/14492/senior-software-engineer-full-stack-at-softvil-technologies/) | Softvil Technologies | Senior | Yesterday | ITPro.lk |
 | [Senior Software QA Engineer](https://itpro.lk/job/14483/senior-software-qa-engineer-at-pelago/) | Pelago | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer / Software Engineer](https://itpro.lk/job/14476/senior-software-engineer-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Engineer - Business Intelligence (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001529658&ec=0000000510) | Expolanka Freight (Pvt) Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

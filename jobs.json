@@ -1,4 +1,40 @@
 [ {
+  "title" : "QA Engineer",
+  "company" : "VitalFew",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14520/qa-engineer-at-vitalfew/",
+  "datePosted" : [ 2026, 7, 31, 18, 9, 44 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "Great quality isn’t just about finding bugs, it’s about building flawless software! Vitalfew is looking for a skilled QA Engineer to join our team! If you are passionate about quality and modern testing frameworks, we want to hear from you. What we are looking for: Experience: 2+ years in Software Quality Assurance Testing Tool: Strong hands-on experience with Cypress Core Skills: Test execution and defect reporting ISTQB certification is an added advantage Ready to take ownership and elevate your career? Apply now."
+}, {
+  "title" : "Java Full-Stack Developer",
+  "company" : "Finakle Mangement Solution (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13431/java-fullstack-developer-at-finakle-mangement-solution-pvt-ltd/",
+  "datePosted" : [ 2026, 7, 31, 16, 45, 33 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "We Are Expanding Our Team! – Java Developer Wanted At Finakle ERP Solutions, we build powerful POS & ERP systems used by real businesses across Sri Lanka Now we are moving to the next level — Cloud-Based SaaS Platform We are looking for a passionate Java Developer to join our core team. What You’ll Do: Develop POS & ERP systems Work on SaaS (multi-company cloud platform) Build real-world business solutions Requirements: Java (Servlet / JSP) MySQL Database Basic Web Knowledge Experience: 1–3 Years (or talented fresher) Location: Gampaha Attractive Salary + Career Growth Send CV WhatsApp: 077 720 6353"
+}, {
+  "title" : "Senior Backend Software Engineer (C++ /.NET)",
+  "company" : "Avikans Techshore Services",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14516/senior-backend-software-engineer-c-net-at-avikans-techshore-services/",
+  "datePosted" : [ 2026, 7, 31, 16, 17, 38 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "We are looking for an experienced and passionate engineer to design, develop and maintain high-performance backend systems that power our solutions. Key Responsibilities Design, develop, and maintain scalable and reliable backend systems. Enhance existing systems and support the adoption of new technologies. Follow best practices in development, testing, and code quality. Collaborate with cross-functional teams in an Agile/SCRUM environment. Document systems and share knowledge with the team. Ensure timely delivery and continuous improvement. Requirements Degree / Diploma with 6+ years of relevant experience. Strong experience in C++ (Windows & Linux) and C#. Experience in .NET Core, WCF, WebAPI (advantageous). Hands-on experience with SQL Server (2016/9) and advanced SQL. Experience with Azure DevOps (TFS, Git) or MS Team Foundation Server. Knowledge of message queue technologies (RabbitMQ, Kafka, ActiveMQ) is a plus. Familiarity with SOLID, KISS, TDD, DDD, and Clean Code practices. High attention to detail, strong problem-solving and communication skills. Ability to work effectively in a team and deliver within processes. Technical Skills C++ (Windows & Linux) C# .NET Core, WCF, WebAPI SQL Server (2016/9), SSRS (advantageous) Azure DevOps (TFS, Git) Agile/SCRUM Multi-threaded & parallel programming Service Oriented Architecture (SOA) What We Offer Competitive Salary Professional Growth Friendly & Collaborative Environment Opportunities to work on challenging projects If you're ready to take the next step in your career, we'd love to hear from you!"
+}, {
+  "title" : "Senior Developer / Tech Lead / Senior Tech Lead Full-Stack (Angular, NodeJS & .NET)",
+  "company" : "BISTEC Global Services",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14514/senior-developer-tech-lead-senior-tech-lead-fullstack-angular-nodejs-net-at-bistec-global-services/",
+  "datePosted" : [ 2026, 7, 31, 14, 8, 30 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "Job Description Contract Type: 1 Year (with potential for extension) Location: Remote Engagement: Full-Time What You'll Do Build Angular applications with TypeScript. Develop backend services using AWS Lambda on NodeJS (JavaScript) or .NET. Design and implement AWS Serverless architecture. Develop REST APIs and integrate third-party services. Support architecture and design decisions. Work directly with client teams. What You'll Bring 5+ years' experience in web development. Strong Angular, TypeScript, and RxJS. Strong NodeJS (JavaScript) and .NET, with AWS Lambda experience. Hands-on experience with AWS Serverless architecture (API Gateway, DynamoDB, S3, etc.). Experience with REST APIs and integration. Good communication skills (client-facing role). Bonus Points Experience with AWS services (CloudWatch, Cognito, EventBridge, etc.). CI/CD experience (Azure DevOps / GitHub Actions). Unit testing experience. .NET experience is a strong plus for full-stack flexibility."
+}, {
   "title" : "Senior Quality Assurance Engineer",
   "company" : "Softvil Technologies",
   "level" : "Senior",
@@ -142,6 +178,24 @@
   "datePosted" : [ 2026, 7, 31, 0, 0 ],
   "scrapedDate" : [ 2026, 7, 31 ],
   "description" : "Data Analyst"
+}, {
+  "title" : "ATL / SSE Front End Developer (1)",
+  "company" : "Sumathi Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
+  "datePosted" : [ 2026, 7, 31, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "ATL / SSE Front End Developer (1)"
+}, {
+  "title" : "Senior Software Engineer - Python",
+  "company" : "InSync Information Technologies (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530855&ec=DEFZZZ",
+  "datePosted" : [ 2026, 7, 31, 0, 0 ],
+  "scrapedDate" : [ 2026, 7, 31 ],
+  "description" : "Senior Software Engineer - Python"
 }, {
   "title" : "QA Engineer",
   "company" : "Platned",
@@ -1231,15 +1285,6 @@
   "datePosted" : [ 2026, 7, 17, 12, 58, 23 ],
   "scrapedDate" : [ 2026, 7, 31 ],
   "description" : "#### **The Company** Founded in 1999, we are a global technology enabler and pioneer in offering end-to-end software development and maintenance services through team augmentation with expertise in the rapidly growing and evolving tech ecosystems of Scandinavia and beyond. We specialise in building and managing dedicated, high-performing software development teams with full stack development competencies. Our products power leading organisations across several sectors, including healthcare, construction, oil and gas, marine, logistics, manufacturing, retail, finance, travel and hospitality, education and more. From insights to software development, we take an industry-agnostic approach and offer a comprehensive tech stack and domain knowledge to deliver innovations at speed and scale. Collectively, our company manages 700+ tech professionals under its brand. For over 25 years, we co-create the evolution of our clients' software applications while actively participating in the innovation journey and product strategy through exceptional delivery of tech services. Partner with us for tech-inspired collaborations; together, we build. #### **What you’ll do** - Lead AI enablement initiatives across engineering teams. - Identify opportunities where AI can create value for client products. - Build proofs of concept (PoCs), prototypes, and reference implementations. - Guide teams on the responsible and effective use of AI tools and technologies. - Assess the feasibility, business value, and implementation approach for AI initiatives. - Conduct workshops and knowledge-sharing sessions to accelerate AI adoption. #### **What we’re looking for** - Strong understanding of modern AI concepts, AI agents, and prompt engineering. - Experience with AI-assisted development tools (e.g. GitHub Copilot and Cursor). - Experience working with LLMs such as OpenAI, Claude, Gemini, or Azure AI Services. - Solid software engineering skills in Python, Java, C#, or JavaScript. - Familiarity with cloud-based AI and machine learning (ML) services. - Ability to evaluate, benchmark, and select AI models for specific use cases. - Understanding of AI observability, evaluation, testing, and guardrails. - Experience with model fine-tuning (or knowledge of when and why to fine-tune). - Ability to assess the feasibility, costs, and implementation effort of AI initiatives. #### **Requirements** - Bachelor's degree in Computer Science, Software Engineering, Artificial Intelligence, or a related field. - 5+ years of software engineering experience, including at least 2 years delivering AI-enabled solutions. - Strong communication skills, with the ability to explain AI concepts effectively to stakeholders. - Experience in software services or consulting environments is preferred. #### **Benefits** - Great Remuneration \uD83D\uDCB0 - Flexible Work Arrangement \uD83C\uDFE0 - Performance Bonus \uD83C\uDFE6 - Private Health Insurance \uD83C\uDFE5 - Accelerated Career Growth \uD83D\uDCDA"
-}, {
-  "title" : "ATL / SSE Front End Developer (1)",
-  "company" : "Sumathi Group",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
-  "datePosted" : [ 2026, 7, 17, 12, 0 ],
-  "scrapedDate" : [ 2026, 7, 31 ],
-  "description" : "ATL / SSE Front End Developer (1)"
 }, {
   "title" : "Process Automation Executive (01 Year FTC) (1)",
   "company" : "Michelin",

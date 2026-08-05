@@ -62,6 +62,24 @@
   "scrapedDate" : [ 2026, 8, 5 ],
   "description" : "C# Developer"
 }, {
+  "title" : "Information Security Analyst (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
+  "datePosted" : [ 2026, 8, 5, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 5 ],
+  "description" : "Information Security Analyst (1)"
+}, {
+  "title" : "Cloud Engineer - AWS",
+  "company" : "Vitalfew",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532553&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 5, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 5 ],
+  "description" : "Cloud Engineer - AWS"
+}, {
   "title" : "Senior/Software Engineer",
   "company" : "PacificKode",
   "level" : "Senior",

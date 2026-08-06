@@ -1,4 +1,31 @@
 [ {
+  "title" : "Lead QA Engineer",
+  "company" : "iTelaSoft",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14597/lead-qa-engineer-at-itelasoft/",
+  "datePosted" : [ 2026, 8, 6, 18, 25, 49 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "We are looking for an experienced Lead QA Engineer with strong manual testing, Salesforce testing, and QA leadership experience. Key Highlights 8+ Years in Software QA Strong Manual Testing Expertise QA Team Leadership Experience Salesforce Testing Experience ISTQB Advanced Level Test Analyst Required What You'll Do Lead end-to-end QA activities Define test plans & QA strategy Manage functional, integration & regression testing Oversee Salesforce testing Mentor QA engineers Work closely with cross-functional teams"
+}, {
+  "title" : "Associate QA Engineer",
+  "company" : "Iykons",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14595/associate-qa-engineer-at-iykons/",
+  "datePosted" : [ 2026, 8, 6, 18, 10, 43 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Great software isn't just built — it's tested, challenged, and refined until it earns the trust of the people who depend on it. At IYKONS, we're looking for an Associate QA Engineer in Vavuniya to help us hold that quality bar high. If you're curious, detail-obsessed, and want to grow in a hands-on Agile team, we'd love to hear from you. Key Responsibilities Analyse business requirements, user stories, and acceptance criteria. Design, develop, and execute manual test cases and test scenarios. Identify, document, and track software defects using bug tracking tools. Perform functional, regression, integration, and user acceptance testing. Verify bug fixes and perform regression testing before releases. Collaborate with Business Analysts, Developers, and Product Owners to ensure high-quality software delivery. Participate in Agile ceremonies, including sprint planning, daily stand-ups, sprint reviews, and retrospectives. Assist in API and database testing where required. Contribute to QA process improvements and documentation. Learn and support automation testing initiatives where applicable. Requirements Bachelor's degree in Information Technology, Computer Science, Software Engineering, or a related field. 2 years of experience in Software Quality Assurance Good understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Familiarity with Agile/Scrum methodology. Knowledge of test case design, test execution, defect reporting, and defect life cycle. Basic knowledge of API testing using Postman or Swagger is an advantage. Basic understanding of SQL and relational databases is an advantage. Basic knowledge of automation testing tools such as Selenium, Playwright, or Cypress is an advantage. Strong analytical, problem-solving, and communication skills. ISTQB Foundation Certification will be an added advantage. What We Offer A collaborative and supportive work environment. Opportunities to work on innovative software products and AI-driven solutions. Mentorship and continuous learning from experienced professionals. Hands-on exposure to both manual and automation testing. Career growth opportunities with the latest QA tools, technologies, and best practices."
+}, {
+  "title" : "Full Stack Developer Internship",
+  "company" : "Worklenz",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14590/full-stack-developer-internship-at-worklenz/",
+  "datePosted" : [ 2026, 8, 6, 16, 42, 37 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Full Stack Developer Internship at WorkLenz! Ready to prove your skills by building something real? Choose one feature—Task Import from CSV, Docs, Google Calendar, or Discord Integration—and implement it directly within the Worklenz open-source codebase using React, Node.js, and PostgreSQL. This is your opportunity to: Contribute to a real-world product Submit code through a GitHub pull request Receive feedback from experienced engineers Be considered for a full-time role based on performance Duration: 6 Months Work Mode: Remote & On-site GitHub: https://github.com/Worklenz/worklenz View the complete internship challenge document: https://bit.ly/WorkLenz-Challenge-FullStackDev-Intern"
+}, {
   "title" : "Software Engineering - Intern",
   "company" : "Qdesk AI Pvt Ltd",
   "level" : "Intern",
@@ -106,6 +133,60 @@
   "datePosted" : [ 2026, 8, 6, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 6 ],
   "description" : "Data Collector & Formatter"
+}, {
+  "title" : "SQL Database Administrator (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "SQL Database Administrator (1)"
+}, {
+  "title" : "Data Platform Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Data Platform Engineer (1)"
+}, {
+  "title" : "Junior Embedded Software Engineer (Security-Focused)",
+  "company" : "Thakshana Technologies (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Junior Embedded Software Engineer (Security-Focused)"
+}, {
+  "title" : "Intern - UI | UX Engineer",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001533098&ec=0000000651",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Intern - UI | UX Engineer"
+}, {
+  "title" : "Intern - Full Stack Developer",
+  "company" : "Epic Lanka (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001533094&ec=0000000651",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Intern - Full Stack Developer"
+}, {
+  "title" : "Data Engineer",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533055&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 6, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 6 ],
+  "description" : "Data Engineer"
 }, {
   "title" : "QA Engineer Intern",
   "company" : "Ceydigital",

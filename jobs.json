@@ -1,4 +1,31 @@
 [ {
+  "title" : "Senior Full Stack Al Engineer",
+  "company" : "EFutures",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14608/senior-full-stack-al-engineer-at-efutures/",
+  "datePosted" : [ 2026, 8, 7, 14, 46, 11 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "We are looking for an experienced Senior Full Stack Al Engineer to design, develop, and scale Al-powered applications. You will work across the full technology stack, integrating LLMs into real-world products while contributing to cloud infrastructure, CI/CD, and high-quality software delivery Key Responsibilities Develop scalable backend services using Node.js (NestJS/Fastify) and TypeScript. Build modern web applications using React and Next.js. Integrate Generative AI / LLM APIs into production applications. Design and maintain CI/CD pipelines and cloud infrastructure on AWS. Develop automated tests and participate in code reviews. Collaborate with cross-functional teams to deliver production-ready software. Must-Have Skills Node.js (NestJS/Fastify) TypeScript React & Next.js OpenAI / Azure OpenAI / Anthropic AWS Docker Terraform PostgreSQL GitHub Actions Playwright/Jest / Vitest CI/CD REST APIs Nice to Have Skills RAG Al Agents Semantic Search Redis Event-driven architecture Twilio Autho POS/Payments/Scheduling systems Mentoring experience What We're Looking For Strong communication skills Problem-solving mindset Passion for Al Engagement Details: Type: Full-Time Location: Remote / Hybrid Experience Level: 8+ years of software engineering experience Education: Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience) What You'll Enjoy: Work on cutting-edge AI & LLM-powered products. Build scalable cloud-native applications using modern technologies. Collaborate with a talented and innovative engineering team."
+}, {
+  "title" : "Software Engineer",
+  "company" : "SPM Technologies",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14607/software-engineer-at-spm-technologies/",
+  "datePosted" : [ 2026, 8, 7, 14, 4, 7 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "We’re Hiring: Software Engineer (2–3 Years Experience) Are you a passionate developer who loves building modern web applications and exploring AI-powered development? SPM Technologies is looking for a Software Engineer to join our growing technology team in Batticaloa. Tech Stack We’re Looking For: Next.js NestJS MySQL Database REST API Development Git & GitHub Workflow AI Coding Experience is a Plus Experience with: GitHub Copilot Claude Code Cursor We are looking for someone who can combine strong coding fundamentals with AI tools to build better software, faster. Work Mode: On-site – Batticaloa Salary: Based on Experience Contact: 074 016 3180 Join SPM Technologies and be part of building the next generation of AI-powered technology solutions."
+}, {
+  "title" : "Intern Software Engineer",
+  "company" : "Solutions Partner Group",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14599/intern-software-engineer-at-solutions-partner-group/",
+  "datePosted" : [ 2026, 8, 7, 12, 32, 4 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "Solution Partner Group is looking for a passionate and motivated Intern Software Engineer to join our growing development team. If you enjoy building real-world applications, solving problems through code, and working with modern technologies, this is your opportunity to gain valuable industry experience and grow your career. What We’re Looking For: Hands-on experience or projects with Flutter Experience working with Firebase Basic knowledge of MongoDB Strong problem-solving mindset and passion for coding Good communication and teamwork skills What You’ll Gain: Real world project experience Mentorship and career guidance Opportunity to grow within a professional tech environment \uD83D\uDCC5 Deadline: 12th August 2026 \uD83D\uDCCD Location: Ratnapura, Sri Lanka We don’t just build software - we build future professionals. Start your journey with us today."
+}, {
   "title" : "Junior Web Developer",
   "company" : "Ignite Media Vision (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -79,6 +106,33 @@
   "datePosted" : [ 2026, 8, 7, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 7 ],
   "description" : "Senior Web, Software & Digital Design Specialist"
+}, {
+  "title" : "ATL / SSE Front End Developer (1)",
+  "company" : "Sumathi Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
+  "datePosted" : [ 2026, 8, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "ATL / SSE Front End Developer (1)"
+}, {
+  "title" : "Design Engineer",
+  "company" : "HITEC Sensor Developments (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533802&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "Design Engineer"
+}, {
+  "title" : "Web Developers (BPO)",
+  "company" : "eBEYONDS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 7 ],
+  "description" : "Web Developers (BPO)"
 }, {
   "title" : "Lead QA Engineer",
   "company" : "iTelaSoft",
@@ -682,15 +736,6 @@
   "datePosted" : [ 2026, 7, 31, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 7 ],
   "description" : "Data Analyst"
-}, {
-  "title" : "ATL / SSE Front End Developer (1)",
-  "company" : "Sumathi Group",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
-  "datePosted" : [ 2026, 7, 31, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 7 ],
-  "description" : "ATL / SSE Front End Developer (1)"
 }, {
   "title" : "Senior Software Engineer - Python",
   "company" : "InSync Information Technologies (Pvt) Ltd",

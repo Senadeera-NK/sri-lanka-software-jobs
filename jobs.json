@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineer",
+  "company" : "Xeynergy",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14636/software-engineer-at-xeynergy/",
+  "datePosted" : [ 2026, 8, 10, 14, 28, 58 ],
+  "scrapedDate" : [ 2026, 8, 10 ],
+  "description" : "About this role Xeynergy is seeking a highly motivated and experienced Software Engineer on behalf of one of our clients, a leading organization based in Colombo. The successful candidate will play a key role in designing, developing, and delivering modern, scalable enterprise software solutions using advanced .NET and Angular technologies. This role requires strong full-stack engineering expertise, with the ability to work across backend services, frontend applications, system architecture, and technical problem-solving. You will collaborate with cross-functional teams to transform business requirements into reliable, high-quality software solutions while contributing to engineering best practices and continuous improvement. What You Will Be Doing Lead the design, development, and maintenance of scalable software applications across the full SDLC, including architecture discussions and technical decision-making Drive frontend and backend development using modern frameworks and enterprise-grade tools Write clean, maintainable, and efficient code while enforcing best practices — including code reviews, design patterns, SOLID principles, and documentation standards Own the investigation and resolution of complex system issues; lead root cause analysis and implement preventive measures Define and maintain CI/CD pipelines — build, test, and release automation using tools such as Azure DevOps or equivalent Integrate and oversee code quality and security scanning tools (e.g., SonarQube, Snyk, OWASP checks) into the development workflow Collaborate with QA, BA, and cross-functional teams to define requirements, review test strategies, and ensure delivery quality Mentor junior and mid-level engineers; champion engineering standards across the team Stay current with emerging technologies, cloud trends, and evolving best practices What We Are Looking For Bachelor's degree in computer science, Software Engineering, or equivalent; 2+ years of professional software engineering experience Strong proficiency in backend development using Node.js or .NET Core, with hands-on experience building and consuming RESTful APIs Solid experience with frontend frameworks — Angular, React, or similar Advanced knowledge of SQL databases (query optimization, indexing, stored procedures, schema design) and NoSQL databases (MongoDB, Cosmos DB, or equivalent) Hands-on experience with Microsoft Azure — including Azure App Services, Azure Functions, Key Vault, Storage, and Messaging Demonstrated experience designing and maintaining CI/CD pipelines (Azure DevOps, GitHub Actions, or similar) covering build, test, release, and environment promotion stages Familiarity with code scanning and security tooling (SAST/DAST tools, dependency vulnerability scanning) and ability to act on findings Strong grounding in OOP, design patterns, and software engineering best practices Experience with containerization (Docker) and orchestration basics (Kubernetes) is a plus Experience with Python for backend development or tooling tasks is an advantage Knowledge or hands-on experience with AI/ML tooling, LLM integration, or AI-assisted development workflows is a strong added advantage"
+}, {
   "title" : "Specialist programmer Universe/PICL",
   "company" : "Via Codos Private Limited",
   "level" : "Junior/SE",
@@ -7,6 +16,15 @@
   "datePosted" : [ 2026, 8, 10, 9, 6, 30 ],
   "scrapedDate" : [ 2026, 8, 10 ],
   "description" : "Specialist Programmer – UniVerse / PICL (PLEASE DO NOT APPLY IF YOU DONT HAVE KNOWLEGE OF UniVerse / PICL) We are looking for an experienced Specialist Programmer with strong UniVerse / PICL expertise to support the development, maintenance, enhancement, and modernization of legacy enterprise applications. The ideal candidate should have hands-on experience working with UniVerse MultiValue databases, PICK/PICL-based programming environments, and legacy business applications. You will be responsible for troubleshooting existing systems, implementing enhancements, optimizing application performance, and supporting integrations with modern technologies where required. Key Responsibilities Develop, maintain, and enhance applications built on UniVerse/PICL. Analyze and troubleshoot existing legacy applications. Develop and optimize UniVerse database queries and programs. Perform bug fixes, system enhancements, and performance improvements. Work with existing codebases and understand legacy business logic. Support system integrations with modern applications and APIs. Assist with migration or modernization initiatives where required. Document technical changes and system functionality. Collaborate with technical teams and business stakeholders to deliver reliable solutions. Requirements Proven commercial experience with UniVerse / PICK / PICL technologies. Strong understanding of MultiValue database concepts. Experience working with legacy enterprise applications. Strong programming and debugging skills. Ability to analyze and maintain existing codebases. Experience with system integration and APIs is an advantage. Good problem-solving and communication skills. Experience Level: Mid-Level to Senior / Specialist Work Arrangement: Remote"
+}, {
+  "title" : "Associate Software Engineer (Short-term Contract)",
+  "company" : "Twist Digital",
+  "level" : "Associate",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/519166",
+  "datePosted" : [ 2026, 8, 10, 7, 38, 20 ],
+  "scrapedDate" : [ 2026, 8, 10 ],
+  "description" : "**Contract – 3 Months | Extension Based on Project Requirements** Welcome to Twist Digital, where our brand essence revolves around the belief in the transformative power of twisting the fate of businesses. At the core of our values, we are dedicated to unlocking the hidden potential within enterprises and delivering results that bring about positive change. Our commitment lies in providing a comprehensive digital suite tailored to businesses, empowering them to thrive in the ever-evolving digital landscape. We specialize in unraveling new possibilities, reshaping strategies, and guiding brands toward unprecedented success. ## Position Overview We are seeking a proactive and responsible **Associate Software Engineer** to take end-to-end ownership of a client web application, from initial requirement gathering through development, deployment, and production. This role requires more than simply executing assigned development tasks. You will act as the **technical owner of the product**, working directly with the client to understand their requirements, translate business needs into technical solutions, develop the application, and ensure its successful delivery into production. The ideal candidate is a strong problem solver who can work independently, communicate confidently with clients, make sound technical decisions, and take accountability for the overall success of the product. ## Key Responsibilities - Take complete technical ownership of the assigned web application from requirement gathering through production deployment. - Communicate directly with the client to gather requirements, understand business processes, clarify expectations, and provide regular progress updates. - Translate client and business requirements into technical specifications, features, and development tasks. - Plan and develop the frontend, backend, database, APIs, and overall application architecture. - Build responsive, reliable, scalable, and maintainable web applications using modern development practices. - Design and integrate REST APIs, authentication systems, databases, and third-party services where required. - Manage the application codebase using Git and maintain clean, well-structured, and documented code. - Test, troubleshoot, and resolve issues throughout the development lifecycle. - Manage application deployment and production releases, including cloud/server configuration, databases, domains, environment variables, and other infrastructure requirements. - Monitor and resolve bugs or production issues following deployment. - Gather client feedback and implement improvements and changes throughout the project. - Identify technical risks, blockers, and potential delays early and communicate them clearly to relevant stakeholders. - Proactively determine the next steps required to move the project forward without relying on constant task-level supervision. - Ensure the completed application meets agreed requirements and is successfully delivered to production. ## Educational Background - Currently pursuing or have completed a Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field. ## Qualifications - Practical experience building full-stack web applications through academic, freelance, personal, internship, or professional projects. - Strong understanding of modern JavaScript/TypeScript and web development fundamentals. - Experience with modern frontend frameworks such as **React or Next.js**. - Experience with backend development using **Node.js, Express.js, NestJS, or similar technologies**. - Experience working with relational or NoSQL databases such as **PostgreSQL, MySQL, or MongoDB**. - Familiarity with designing and consuming REST APIs. - Understanding of authentication, authorization, and common web application security practices. - Familiarity with version control tools such as **Git and GitHub**. - Understanding of application deployment and production environments. - Strong debugging, analytical, and problem-solving skills. - Ability to work independently and take responsibility for project deliverables. - Strong communication skills with the confidence to interact directly with clients. - Ability to understand business requirements and translate them into practical technical solutions. - Strong sense of ownership, accountability, and attention to detail. ## Nice to Have - Experience with cloud platforms such as **AWS, Azure, GCP, or Vercel**. - Familiarity with **Docker and containerized applications**. - Understanding of **CI/CD pipelines and automated deployments**. - Experience configuring domains, DNS, SSL certificates, servers, or cloud infrastructure. - Experience integrating third-party APIs and external services. - Experience taking a web application from initial development through to a live production environment. - Previous experience independently managing a client or software project. ## Contract This position will initially be offered on a **3-month contract**. The contract may be extended depending on project requirements, performance, and the ongoing needs of the product. During the contract period, the Associate Software Engineer will be expected to take ownership of the assigned product and be accountable for driving it from requirements through successful production delivery. Join us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a problem solver, or someone passionate about building products that create real-world impact, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us. **Are you ready to become a Twister? Apply now and be a part of the transformation!**"
 }, {
   "title" : "Junior Web Developer",
   "company" : "Ignite Media Vision (Pvt) Ltd",
@@ -88,6 +106,24 @@
   "datePosted" : [ 2026, 8, 10, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 10 ],
   "description" : "Software Engineer"
+}, {
+  "title" : "Senior Software Engineer",
+  "company" : "MBiz Software Pvt Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533948&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 10 ],
+  "description" : "Senior Software Engineer"
+}, {
+  "title" : "Senior Quality Assurance Engineer (1)",
+  "company" : "Genesiis Software Pvt Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001",
+  "datePosted" : [ 2026, 8, 10, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 10 ],
+  "description" : "Senior Quality Assurance Engineer (1)"
 }, {
   "title" : "Sports Data & Content Executive (1)",
   "company" : "Sumathi Group",
@@ -232,15 +268,6 @@
   "datePosted" : [ 2026, 8, 7, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 10 ],
   "description" : "Design Engineer"
-}, {
-  "title" : "Senior Software Engineer",
-  "company" : "MBiz Software Pvt Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533948&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 10 ],
-  "description" : "Senior Software Engineer"
 }, {
   "title" : "Lead QA Engineer",
   "company" : "iTelaSoft",

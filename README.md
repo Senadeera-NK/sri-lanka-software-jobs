@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** August 10,12:23 PM (Just now)  | **Total Jobs Found:** 152
+> 🟢 **Last Updated:** August 10,5:39 PM (Just now)  | **Total Jobs Found:** 155
 
 ### 🎓 Internships & Trainees  (35)
 
@@ -60,19 +60,21 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (83)
+### 💻 Associate & Junior/SE Roles  (85)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Specialist programmer Universe/PICL](https://itpro.lk/job/14633/specialist-programmer-universepicl-at-via-codos-private-limited/) | Via Codos Private Limited | Junior/SE | 3&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529417&ec=DEFZZZ) | Ignite Media Vision (Pvt) Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Graduate GenAI Developer for FPGA Workflows](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530171&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Graduate Generative AI Engineer (MATLAB & Simulink)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530170&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI-Native Full-Stack Builder](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530167&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [C# Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Embedded Software Engineer (Security-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developers (BPO)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ) | eBEYONDS (Pvt) Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://itpro.lk/job/14636/software-engineer-at-xeynergy/) | Xeynergy | Junior/SE | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Specialist programmer Universe/PICL](https://itpro.lk/job/14633/specialist-programmer-universepicl-at-via-codos-private-limited/) | Via Codos Private Limited | Junior/SE | 8&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer (Short-term Contract)](https://rooster.jobs/jobs/519166) | Twist Digital | Associate | 10&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Junior Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001529417&ec=DEFZZZ) | Ignite Media Vision (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Graduate GenAI Developer for FPGA Workflows](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530171&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Graduate Generative AI Engineer (MATLAB & Simulink)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530170&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI-Native Full-Stack Builder](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001530167&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [C# Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Embedded Software Engineer (Security-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developers (BPO)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ) | eBEYONDS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Sports Data & Content Executive (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001533998&ec=0000000555) | Sumathi Group | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [QA Engineers (Manual Testing / Automation Testing)](https://itpro.lk/job/13836/qa-engineers-manual-testing-automation-testing-at-enhanzer/) | Enhanzer | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Trainee QA Engineers (Cloud ERP)](https://itpro.lk/job/11999/trainee-qa-engineers-cloud-erp-at-enhanzer/) | Enhanzer | Associate | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -150,18 +152,19 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (34)
+### 🚀 Senior & Lead Roles  (35)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Full-Stack Software Developer - Practice Management Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ) | Company Name Withheld | Senior | 12&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Full-Stack Software Developer - Practice Management Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ) | Company Name Withheld | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533948&ec=DEFZZZ) | MBiz Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Team Leader – Web Development (WordPress)](https://itpro.lk/job/14626/team-leader-web-development-wordpress-at-kd-marketing-group/) | KD Marketing Group | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Tech Lead - Frontend](https://itpro.lk/job/14625/tech-lead-frontend-at-zyentara-solutions/) | Zyentara Solutions | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Tech Lead - Backend](https://itpro.lk/job/14624/tech-lead-backend-at-zyentara-solutions/) | Zyentara Solutions | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Full Stack Al Engineer](https://itpro.lk/job/14608/senior-full-stack-al-engineer-at-efutures/) | EFutures | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Lead Engineer - Digitalization](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533417&ec=DEFZZZ) | Mobitel (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Web, Software & Digital Design Specialist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533352&ec=DEFZZZ) | SandS Australia Pty Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533948&ec=DEFZZZ) | MBiz Software Pvt Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Lead QA Engineer](https://itpro.lk/job/14597/lead-qa-engineer-at-itelasoft/) | iTelaSoft | Senior | 4&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior WSO2 Implementation & Integration Engineer](https://itpro.lk/job/14573/senior-wso2-implementation-integration-engineer-at-itelasoft/) | iTelaSoft | Senior | 5&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior/Software Engineer](https://itpro.lk/job/13088/seniorsoftware-engineer-at-pacifickode/) | PacificKode | Senior | 6&nbsp;days&nbsp;ago | ITPro.lk |

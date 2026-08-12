@@ -98,6 +98,60 @@
   "scrapedDate" : [ 2026, 8, 12 ],
   "description" : "IT Helpdesk Engineer (20)"
 }, {
+  "title" : "SQL Database Administrator (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "SQL Database Administrator (1)"
+}, {
+  "title" : "Data Platform Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "Data Platform Engineer (1)"
+}, {
+  "title" : "Information Security Analyst (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "Information Security Analyst (1)"
+}, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001535606&ec=0000000492",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001535603&ec=0000000492",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
+}, {
+  "title" : "Business Analyst - Software Industry",
+  "company" : "VitalFew Asia",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535432&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 12, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 12 ],
+  "description" : "Business Analyst - Software Industry"
+}, {
   "title" : "Software Engineer – Integrations",
   "company" : "Softvil Technologies",
   "level" : "Junior/SE",
@@ -124,33 +178,6 @@
   "datePosted" : [ 2026, 8, 11, 17, 52, 31 ],
   "scrapedDate" : [ 2026, 8, 12 ],
   "description" : "Are you a visionary architect who codes smarter, not just harder? We're looking for a dynamic Frontend Product Lead to spearhead our UI architecture, blending deep technical engineering with sharp product analysis. What You'll Do Architect & Analyze: Bridge the gap between product vision, user needs, and flawless engineering execution. Lead the Stack: Drive frontend excellence, design micro-frontends or scalable component architectures, and make high-level technical decisions. Innovate & Integrate: Build modern, responsive UIs and actively integrate next-gen AI capabilities directly into our user experience. Elevate the Team: Mentor engineers, establish best practices, and collaborate closely with UI/UX designers and backend teams. What You Bring (Required) Experience: 5+ years of frontend engineering, architecture, and product leadership. Core Stack: Deep, hands-on expertise in TypeScript, Angular, and Vue.js. State Management: Mastery of patterns and libraries like NgRx, Pinia, Vuex, or Redux. The AI Edge:Development: Highly effective power user of AI coding tools (Cursor, GitHub Copilot) to 10x output. Integration: Solid grasp of AI technologies (LLMs, OpenAI/Anthropic APIs, RAG concepts) to build smart product features. Testing & Quality: Strong experience with Unit and E2E testing frameworks (Jest, Cypress, or Playwright). Performance: Obsession with Core Web Vitals, optimization techniques, and web accessibility (WCAG standards). Tooling & DevOps: Familiarity with modern build tools (Vite, Webpack) and setting up frontend CI/CD pipelines. Agile Collaboration: Proven ability to translate complex business requirements into technical tickets and sprint deliverables."
-}, {
-  "title" : "SQL Database Administrator (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 12 ],
-  "description" : "SQL Database Administrator (1)"
-}, {
-  "title" : "Data Platform Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
-  "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 12 ],
-  "description" : "Data Platform Engineer (1)"
-}, {
-  "title" : "Information Security Analyst (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
-  "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 12 ],
-  "description" : "Information Security Analyst (1)"
 }, {
   "title" : "Big Data Engineer (1)",
   "company" : "CMS (Pvt) Ltd",

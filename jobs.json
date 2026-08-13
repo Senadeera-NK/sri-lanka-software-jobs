@@ -134,6 +134,60 @@
   "scrapedDate" : [ 2026, 8, 13 ],
   "description" : "Software Engineer Intern"
 }, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001536189&ec=0000000492",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Database Administrator",
+  "company" : "Onsys Technologies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536175&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Database Administrator"
+}, {
+  "title" : "Full Stack QA Engineer",
+  "company" : "Dinetap",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536068&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Full Stack QA Engineer"
+}, {
+  "title" : "Associate Engineer - Business Intelligence (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001535999&ec=0000000510",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Associate Engineer - Business Intelligence (1)"
+}, {
+  "title" : "Senior Engineer - Business Intelligence (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001535998&ec=0000000510",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Senior Engineer - Business Intelligence (1)"
+}, {
+  "title" : "Data and Ai Intern",
+  "company" : "Sriq Corporation (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535947&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 13, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 13 ],
+  "description" : "Data and Ai Intern"
+}, {
   "title" : "QA Engineer",
   "company" : "Innobot Health",
   "level" : "Junior/SE",
@@ -232,15 +286,6 @@
   "datePosted" : [ 2026, 8, 12, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 13 ],
   "description" : "Information Security Analyst (1)"
-}, {
-  "title" : "Associate Software Engineer (1)",
-  "company" : "Jobfactory",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001535606&ec=0000000492",
-  "datePosted" : [ 2026, 8, 12, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 13 ],
-  "description" : "Associate Software Engineer (1)"
 }, {
   "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
   "company" : "Jobfactory",

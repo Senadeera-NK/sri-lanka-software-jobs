@@ -1,4 +1,22 @@
 [ {
+  "title" : "Intern QA Engineer (Paid)",
+  "company" : "Nippon IT and Educational Solution (NITES)",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/",
+  "datePosted" : [ 2026, 8, 16, 17, 13, 4 ],
+  "scrapedDate" : [ 2026, 8, 16 ],
+  "description" : "Company Description Nippon IT and Educational Solution (NITES) is a global technology hub dedicated to bridging the technical excellence of Japan with the innovative spirit of Sri Lanka. We specialize in high-impact software solutions, offshore development, and bridging the gap between education and professional mastery. Join our Creative Crew in Galle and work on projects that span borders. Role Description We are looking for a highly motivated QA Intern with a technical mindset. You will work alongside our engineering team to ensure the reliability and performance of scalable, cloud-native applications. This is a Paid Internship designed to fast-track your career into a Junior QA Automation Engineer role. Key Responsibilities ▪️ API Testing: Perform thorough testing of RESTful APIs using tools like Postman to ensure backend reliability. ▪️ Automation Testing: Assist in developing and maintaining automated test scripts using Selenium. ▪️ Programming: Apply basic knowledge of programming languages (Java or JavaScript) to understand codebase logic and write test scripts. ▪️ Test Reporting: Document test results, track defects, and generate professional Test Reports to ensure transparency. ▪️ Mobile App Testing: Perform cross-platform testing on mobile applications. (Mobile app testing knowledge is a major plus!) ▪️ Collaboration: Participate in agile sprints and code reviews to maintain high-quality delivery standards. What We Are Looking For ▪️ Academic Level: 3rd or 4th-year university students or candidates with a minimum HND / Higher Diploma. ▪️ Technical Base: Fundamental understanding of the STLC, manual testing, and API testing concepts. ▪️ Code Proficiency: Basic programming skills in Java,or JavaScript. ▪️ Analytical Skills: Strong problem-solving mindset and the ability to find \"edge case\" bugs. ▪️ The NITES Edge: Proficiency in Japanese (JLPT N5 or above) is a significant advantage! Why Join NITES? ▪️ Paid Internship: Receive a competitive monthly stipend. ▪️ Flexibility: Work Onsite in our Galle hub, or enjoy Hybrid/Remote options. ▪️ Global Reach: Gain exposure to international standards and Japanese business culture. \uD835\uDC07\uD835\uDC28\uD835\uDC30 \uD835\uDC2D\uD835\uDC28 \uD835\uDC00\uD835\uDC29\uD835\uDC29\uD835\uDC25\uD835\uDC32: Ready to start your professional journey? Please send your CV and portfolio to: \uD83D\uDC49 nipponsolutions.nites@gmail.com"
+}, {
+  "title" : "Software Engineering Intern",
+  "company" : "Synapse Solutions Pvt Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14723/software-engineering-intern-at-synapse-solutions-pvt-ltd/",
+  "datePosted" : [ 2026, 8, 16, 13, 55, 6 ],
+  "scrapedDate" : [ 2026, 8, 16 ],
+  "description" : "Are you a Software Engineering, Computer Science, IT, or related undergraduate looking for an internship where you can move beyond classroom assignments and work on real enterprise software? SYNAPSE SOLUTIONS PVT LTD is looking for Software Engineering Interns from both Sri Lanka and international locations for our 2026 intake. This is an opportunity to learn from experienced engineers, contribute to real-world software projects, and build the technical foundation for your future career. What will you work with? React | Angular | Spring Boot | Docker | Linux | MySQL | Git | AI-Assisted Development | Apache Tomcat | Apache You'll have the opportunity to work on: Enterprise web applications REST APIs & microservices High-performance backend services Cloud & containerized deployments Database-driven solutions CI/CD and DevOps workflows AI-powered software development What will you gain? Real Project Experience - Go beyond academic projects and work with real enterprise software. Engineering Mentorship - Learn from experienced software engineers and understand professional development practices. Modern Technology Exposure - Gain practical experience with contemporary development, DevOps and AI-assisted engineering tools. Career Development - Build skills and experience that can strengthen your journey toward becoming a professional software engineer. Who should apply? We welcome applications from local and international students who have: A strong foundation in programming and OOP An interest in software engineering and enterprise applications Basic knowledge of web technologies, SQL and Git Strong problem-solving ability A genuine willingness to learn and build real-world solutions You don't need to know everything. We are looking for potential, curiosity, problem-solving ability and the motivation to grow. Local & international interns welcome Whether you're studying in Sri Lanka or overseas, we welcome talented students who are looking for meaningful software engineering experience. Hybrid / Remote work options may be available depending on the role and project requirements. Your first software engineering opportunity could start here."
+}, {
   "title" : ".NET Full-Stack Developer / Software Engineer",
   "company" : "Goodhope Asia Holdings Ltd",
   "level" : "Junior/SE",
@@ -31,7 +49,7 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 15, 12, 0 ],
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 16 ],
   "description" : "Senior Full-Stack Software Developer - Practice Management Platform"
 }, {
@@ -40,7 +58,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 15, 12, 0 ],
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 16 ],
   "description" : "C# Developer"
 }, {
@@ -49,7 +67,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 15, 12, 0 ],
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 16 ],
   "description" : "Junior Embedded Software Engineer (Security-Focused)"
 }, {
@@ -58,7 +76,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 15, 12, 0 ],
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 16 ],
   "description" : "Web Developers (BPO)"
 }, {
@@ -67,9 +85,18 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 15, 12, 0 ],
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 16 ],
   "description" : "Software Engineer"
+}, {
+  "title" : "Odoo Developer",
+  "company" : "Centrics Business Solutions (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537090&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 16 ],
+  "description" : "Odoo Developer"
 }, {
   "title" : "Full-Stack Software Engineering Intern",
   "company" : "Eminent Brands",

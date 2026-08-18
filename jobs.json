@@ -1,4 +1,40 @@
 [ {
+  "title" : "Senior Software Engineer – Full Stack",
+  "company" : "Softvil Technologies",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14752/senior-software-engineer-full-stack-at-softvil-technologies/",
+  "datePosted" : [ 2026, 8, 18, 14, 2, 11 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Softvil Technologies is looking for a talented Senior Software Engineer – Full Stack to join our team and work on enterprise solutions for one of the world’s largest corporations. Key Responsibilities Design and develop scalable, highly available enterprise applications. Develop and integrate RESTful APIs and microservices. Follow CI/CD, DevOps, and software engineering best practices. Collaborate with cross-functional teams in an Agile environment. Participate throughout the full software lifecycle, from development and QA to deployment and production support. Ensure high-quality, secure, and maintainable software solutions. Requirements Bachelor's Degree in Computer Science or equivalent. 2–4 years of experience developing production-grade enterprise applications. Strong experience with Node.js (Express.js) and/or Java (Spring Boot). Frontend experience with JavaScript, TypeScript, React.js, Next.js, HTML, and CSS. Experience with relational and NoSQL databases. Strong AWS experience with services such as ECS, Lambda, S3, and RDS. Experience with Docker, CI/CD pipelines, and Git. Familiarity with TDD and Quality Engineering practices. Experience working in Scrum/Agile environments. Excellent communication, problem-solving, and collaboration skills. Ability to work in a fast-paced environment and manage multiple priorities."
+}, {
+  "title" : "Solution Engineering Intern",
+  "company" : "Emojot",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14751/solution-engineering-intern-at-emojot/",
+  "datePosted" : [ 2026, 8, 18, 13, 16, 33 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Join Emojot's dynamic team as a Solution Engineering Intern and make a significant impact on our customer success initiatives. We are looking for enthusiastic and innovative individuals who are eager to engage with clients, design solutions, and support our global customer base. This role offers a unique opportunity to gain hands-on experience in the SaaS industry while working with a diverse, international clientele. Please note that this is not a software development internship Job Role: Participate in requirement-gathering sessions with clients. Engage in solution engineering discussions during the sales process, providing appropriate solutions from the Emojot SaaS solution stack. Assist in designing and configuring specific solutions along with enterprise integrations (if needed) on the Emojot SaaS platform. Assist in the customer onboarding process, and provide customer support post-onboarding, including handling support tickets, client calls, and meetings. Assist in conducting data analysis, presentations, training sessions, demos, and consultations based on the Emojot solution stack. Qualifications: Reading for a Bachelor's degree in IT or an equivalent field. Good understanding of HTML, CSS, JavaScript, and JSON. High proficiency in Microsoft Office packages and basic image editing skills. Target-driven, innovative, and dynamic individual with effective time management skills. Ability to handle multiple client engagements. Excellent communication skills. Knowledge of MongoDB, API integrations, and cloud architecture is an added advantage, but not required. Benefits: Opportunity to work with a global portfolio of clients from multiple domains. Experience in the customer success process of a global SaaS platform. Work in a company with a Silicon Valley-inspired culture. Competitive remuneration package. This role offers an exciting opportunity to join a growing team and play a significant role in the expansion and success of our innovative software product in the market."
+}, {
+  "title" : "Associate Software Engineer",
+  "company" : "Corechip Digital",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14747/associate-software-engineer-at-corechip-digital/",
+  "datePosted" : [ 2026, 8, 18, 12, 12, 31 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Are you a passionate software developer looking for a full-time remote opportunity to grow your career and work on real-world software projects? CoreChip Digital is looking for a talented Associate Software Engineer to join our growing development team. Requirements 1+ year of software development experience Knowledge of Laravel & PHP Good understanding of JavaScript, HTML & CSS Experience with MySQL / SQL Familiarity with Git & GitHub Strong problem-solving and debugging skills WordPress, WooCommerce & Elementor experience will be an added advantage. Responsibilities Develop and maintain web applications Build APIs and backend functionality Work with databases and third-party integrations Fix bugs and improve existing systems Collaborate with our development team on real-world projects Work remotely. Build great software. Grow with us."
+}, {
+  "title" : "Web Developer",
+  "company" : "Digital One Labs",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14746/web-developer-at-digital-one-labs/",
+  "datePosted" : [ 2026, 8, 18, 11, 36, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Are you a passionate Web Developer ready to turn ideas into impactful digital experiences? Digital One Labs is looking for a talented Web Developer with experience in HTML, CSS, JavaScript, PHP, WordPress, CMS, responsive web design, SEO, and AI tools to join our growing team. Qualifications Diploma/Degree in IT, Web Development, or a related field 1-2 years' experience in Web Development Proficiency in HTML, CSS, JavaScript & PHP Experience with WordPress, CMS & website development tools Basic knowledge of UI/UX and responsive web design Knowledge of SEO and website optimization Familiarity with Al Tools & Applications Strong analytical and problem-solving skills Good communication and teamwork skills Ability to work independently and meet deadlines If you’re creative, analytical, detail-oriented, and excited to build innovative web solutions, we’d love to hear from you."
+}, {
   "title" : "Senior Software Engineer",
   "company" : "Surecore (Pvt) Ltd",
   "level" : "Senior",
@@ -7,6 +43,123 @@
   "datePosted" : [ 2026, 8, 18, 8, 8, 49 ],
   "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Join Surecore and work closely with our IOS Architect and cross-functional teams to design, build and deliver scalable, secure and intelligent solutions on our enterprise insurance platform. Help us power the next generation of the Insurance Operating System (IOS). You will follow a business concept from its source data and database model through Python services and JSON APIs to the user interface-understanding the business meaning of data and delivering value at every layer. What You'll Do Design, develop and maintain scalable backand services, APIs and business logic in Python. Work with FastAPI, Pydantic, SQLAlchemy and Alembic to build robust applications. Design and optimize data models, queries and database performance. Investigate complex issues across data, business logic, APIs, Ul and infrastructure layers. Lead and build integrations with Snowflake and other external systems. Create automated tests and ensure high code quality through reviews and best practices. Support UAT, releases and production troubleshooting. Contribute to React and TypeScript components when required. Mentor junior engineers and collaborate with the IOS Architect and product teams. What We Are Looking For 5+ years of professional software development experience with a strong focus on backend. Strong hands-on experience with Python and production systems. Proficiency in REST APIs, JSON and OpenAPI. Expertise in SQL and relational databases (eg, PostgreSQL). Strong experience with SQLAlchemy and Alembic (migrations). Solid understanding of layered architecture, domain modelling and separation of responsibilities. Ability to translate business requirements into technical solutions. Experience with Pytest or other automated testing frameworks. Familiarity with Git, Docker and CVCD pipelines. Experience with AWS, Snowflake, Keycloak, Java/Spring Boot or financial/insurance systems is an advantage. Excellent problem-solving skills and the ability to work independently. About Surecore Surecore is building the next generation insurance Operating System (IOS) to help insurers operate smarter, integrate faster and serve their customers better."
+}, {
+  "title" : "Senior Full-Stack Software Developer - Practice Management Platform",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Senior Full-Stack Software Developer - Practice Management Platform"
+}, {
+  "title" : "C# Developer",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "C# Developer"
+}, {
+  "title" : "Junior Embedded Software Engineer (Security-Focused)",
+  "company" : "Thakshana Technologies (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Junior Embedded Software Engineer (Security-Focused)"
+}, {
+  "title" : "Web Developers (BPO)",
+  "company" : "eBEYONDS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Web Developers (BPO)"
+}, {
+  "title" : "Software Engineer",
+  "company" : "Prima Management Services (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Software Engineer"
+}, {
+  "title" : "Senior Quality Assurance Engineer (1)",
+  "company" : "Genesiis Software Pvt Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Senior Quality Assurance Engineer (1)"
+}, {
+  "title" : "SQL Database Administrator (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "SQL Database Administrator (1)"
+}, {
+  "title" : "Data Platform Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Data Platform Engineer (1)"
+}, {
+  "title" : "Information Security Analyst (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Information Security Analyst (1)"
+}, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538204&ec=0000000492",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538205&ec=0000000492",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
+}, {
+  "title" : "Trainee Data Analyst",
+  "company" : "Star Holdings International (Pvt) Ltd",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538008&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Trainee Data Analyst"
+}, {
+  "title" : "Intern - Data Engineer (1)",
+  "company" : "Hirdaramani - H CONNECT (PVT) LIMITED",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001537759&ec=0000000603",
+  "datePosted" : [ 2026, 8, 18, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Intern - Data Engineer (1)"
 }, {
   "title" : "Senior Software Engineer (Full-Stack)",
   "company" : "MicroWe",
@@ -41,7 +194,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14730/qa-engineer-at-surecore-pvt-ltd/",
   "datePosted" : [ 2026, 8, 17, 12, 40, 24 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "SureCore is looking to fill one QA Engineer position urgently. We're building reliable, high-quality systems for the insurance industry, and we need the right person to strengthen our quality assurance process - soon. What we're looking for: 2+ years of experience in Quality Assurance / Software Testing Mandatory experience in the Insurance domain Strong communication skills — both written and verbal Solid understanding of manual and/or automation testing practices Experience writing and executing test cases, test plans, and bug reports Familiarity with Agile/Scrum methodologies Strong analytical thinking and attention to detail Your responsibilities: Analyze requirements and design comprehensive test cases Perform functional, regression, and integration testing Identify, document, and track defects through to resolution Collaborate closely with developers, BAs, and product teams Ensure the quality and reliability of releases before deployment Why join SureCore? Work on impactful systems that shape how insurance businesses operate Take real ownership over quality and delivery, not just testing Grow with us as we scale and step into leadership opportunities Enjoy a collaborative environment with minimal bureaucracy and strong trust Only 1 position available — we're looking to close this quickly, so early applications are encouraged. Take the next step in your QA career with SureCore."
 }, {
   "title" : "Senior .NET Core Software Engineer",
@@ -52,6 +205,78 @@
   "datePosted" : [ 2026, 8, 17, 12, 23, 42 ],
   "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We're looking for an experienced Senior .NET Core Software Engineer to lead the design and development of enterprise-grade applications, provide technical leadership, mentor junior developers, and ensure delivery of secure, scalable, high-quality software. Key Responsibilities Lead design and development of enterprise applications, REST APIs, and microservices using ASP.NET Core, ASP.NET MVC, and .NET Core/.NET 8, defining architecture and technical solutions Conduct code reviews, enforce coding standards, and mentor junior developers Collaborate with architects, product owners, DevOps, QA, and business teams on sprint planning, estimation, and technical discussions Optimize performance, security, and reliability; implement CI/CD pipelines and DevOps best practices Integrate third-party APIs/cloud services and identify technical risks with mitigation strategies Required Skills 6-10+ years of .NET development experience with strong C#, ASP.NET Core, and .NET 6/7/8 expertise Extensive experience with REST APIs, Microservices, Entity Framework Core, and SQL Server Solid understanding of SOLID principles, Clean Architecture, and Domain-Driven Design (DDD) Experience with Azure services (App Service, Functions, Storage, SQL, Key Vault), IIS, Docker, and Kubernetes Strong knowledge of CI/CD tools (Azure DevOps, GitHub Actions) and messaging systems (Redis, RabbitMQ, or Azure Service Bus) Knowledge of authentication and authorization (OAuth2, Active Directory, JWT, OpenID Connect) Strong problem-solving and analytical skills Preferred Qualifications Event-driven architecture, CQRS, and MediatR Distributed systems and Infrastructure as Code (Terraform) Monitoring tools (Application Insights, Grafana, or Prometheus) Leadership Responsibilities Mentor engineers, conduct technical interviews, and drive technical excellence and best practices Participate in architecture reviews and lead POCs/technology evaluations Translate business requirements into technical solutions with stakeholders Education Bachelor's or Master's degree in Computer Science, Engineering, or related discipline"
+}, {
+  "title" : "Executive - Data Protection - Hemas Hospital (1)",
+  "company" : "Hemas Holdings PLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000038&jc=0001537592&ec=0000000038",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Executive - Data Protection - Hemas Hospital (1)"
+}, {
+  "title" : "Database Administrator",
+  "company" : "Senior DevOps Engineer",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537476&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Database Administrator"
+}, {
+  "title" : "Senior DevOps Engineer",
+  "company" : "AiBizs LLC",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537473&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Senior DevOps Engineer"
+}, {
+  "title" : "Software Developer",
+  "company" : "Cable Solutions (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537397&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Software Developer"
+}, {
+  "title" : "Senior Software Engineer - Java (Onsite)",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537374&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Senior Software Engineer - Java (Onsite)"
+}, {
+  "title" : "Quality Assurance Engineer - Onsite",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537363&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Quality Assurance Engineer - Onsite"
+}, {
+  "title" : "Full Stack Developer (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001537356&ec=0000000510",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "Full Stack Developer (1)"
+}, {
+  "title" : "RPA Developer (1)",
+  "company" : "Micronet Global Services (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001537632&ec=0000000552",
+  "datePosted" : [ 2026, 8, 17, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
+  "description" : "RPA Developer (1)"
 }, {
   "title" : "Senior Technical Lead / Associate Architect (Java)",
   "company" : "Xeynergy",
@@ -71,150 +296,6 @@
   "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "About this role We are looking for a Senior Software Engineer with 4+ years of experience to join our team on a full-time onsite contract basis for 6 months or 1 year. The ideal candidate will have strong expertise in Core Java, Spring Boot, WebFlux, Microservices, Kafka, APIs and backend development. Experience with MySQL/PostgreSQL/Oracle, MongoDB, Docker, Kubernetes, and cloud platforms is preferred. The role involves developing secure and scalable banking/fintech applications, system integrations, and event-driven solutions while contributing across the full SDLC. Experience in banking, fintech, payment systems, OWASP, PCI compliance, and Agile methodologies will be an added advantage. Key Responsibilities Design, develop, and maintain scalable and secure banking and fintech applications Write high-quality, secure code following best practices and standards (e.g., OWASP) Contribute to system design, including microservices, APIs, and event-driven architectures Integrate with core banking systems, payment networks, and third-party services Collaborate with cross-functional teams to translate business requirements into technical solutions Participate in the full SDLC: design, development, testing, and deployment Ensure system performance, reliability, and availability through monitoring and optimization Follow Agile practices including sprint planning, code reviews, and CI/CD Maintain technical documentation for systems and integrations Identify and implement improvements to enhance performance, security, and user experience Person Specifications Qualifications and Experiences Bachelor's degree in computer science, Software Engineering, or related field Minimum 4+ years of relevant industry experience Technical Skills Strong knowledge of Core Java (OOP, data types, immutability, string handling) Proficiency in Java, Spring Boot, WebFlux, and Microservices architecture Experience with event-driven systems (e.g., Kafka) Solid understanding of API design and backend development Basic to intermediate front-end knowledge (React.js or Angular) is an advantage Strong understanding of data structures, algorithms, and problem-solving techniques Hands-on experience with relational databases (MySQL, PostgreSQL, Oracle) and NoSQL (MongoDB) Knowledge of SQL, schema design, and query optimization Familiarity with cloud platforms (AWS, Azure, or GCP) Experience with DevOps practices, CI/CD pipelines, Docker, and Kubernetes Understanding of secure coding practices and compliance standards (e.g., OWASP, PCI) Ability to clearly explain technical projects and solutions Domain and Industry Knowledge Exposure to banking and fintech domains, including payment systems and digital banking Understanding of regulatory and compliance standards (e.g., PCI, open banking) Experience in digital transformation initiatives is an added advantage Soft Skills and Competencies Strong communication and articulation skills Excellent analytical, problem-solving, and debugging abilities Ability to work collaboratively in cross-functional teams Strong time management and attention to detail Adaptability to learn new technologies and tools, including AI-assisted development Adherence to organizational information security policies and standards"
 }, {
-  "title" : "Senior Full-Stack Software Developer - Practice Management Platform",
-  "company" : "Company Name Withheld",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Senior Full-Stack Software Developer - Practice Management Platform"
-}, {
-  "title" : "C# Developer",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "C# Developer"
-}, {
-  "title" : "Junior Embedded Software Engineer (Security-Focused)",
-  "company" : "Thakshana Technologies (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Junior Embedded Software Engineer (Security-Focused)"
-}, {
-  "title" : "Web Developers (BPO)",
-  "company" : "eBEYONDS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Web Developers (BPO)"
-}, {
-  "title" : "Software Engineer",
-  "company" : "Prima Management Services (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Software Engineer"
-}, {
-  "title" : "Senior Quality Assurance Engineer (1)",
-  "company" : "Genesiis Software Pvt Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Senior Quality Assurance Engineer (1)"
-}, {
-  "title" : "SQL Database Administrator (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "SQL Database Administrator (1)"
-}, {
-  "title" : "Data Platform Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Data Platform Engineer (1)"
-}, {
-  "title" : "Information Security Analyst (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Information Security Analyst (1)"
-}, {
-  "title" : "Executive - Data Protection - Hemas Hospital (1)",
-  "company" : "Hemas Holdings PLC",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000038&jc=0001537592&ec=0000000038",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Executive - Data Protection - Hemas Hospital (1)"
-}, {
-  "title" : "Database Administrator",
-  "company" : "Senior DevOps Engineer",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537476&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Database Administrator"
-}, {
-  "title" : "Senior DevOps Engineer",
-  "company" : "AiBizs LLC",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537473&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Senior DevOps Engineer"
-}, {
-  "title" : "Software Developer",
-  "company" : "Cable Solutions (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537397&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Software Developer"
-}, {
-  "title" : "Senior Software Engineer - Java (Onsite)",
-  "company" : "Company Name Withheld",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537374&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Senior Software Engineer - Java (Onsite)"
-}, {
-  "title" : "Quality Assurance Engineer - Onsite",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537363&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Quality Assurance Engineer - Onsite"
-}, {
-  "title" : "Full Stack Developer (1)",
-  "company" : "Expolanka Freight (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001537356&ec=0000000510",
-  "datePosted" : [ 2026, 8, 17, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Full Stack Developer (1)"
-}, {
   "title" : "Intern - Software Engineering",
   "company" : "Zegates International Private Limited",
   "level" : "Intern",
@@ -230,7 +311,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/",
   "datePosted" : [ 2026, 8, 16, 17, 13, 4 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Company Description Nippon IT and Educational Solution (NITES) is a global technology hub dedicated to bridging the technical excellence of Japan with the innovative spirit of Sri Lanka. We specialize in high-impact software solutions, offshore development, and bridging the gap between education and professional mastery. Join our Creative Crew in Galle and work on projects that span borders. Role Description We are looking for a highly motivated QA Intern with a technical mindset. You will work alongside our engineering team to ensure the reliability and performance of scalable, cloud-native applications. This is a Paid Internship designed to fast-track your career into a Junior QA Automation Engineer role. Key Responsibilities ▪️ API Testing: Perform thorough testing of RESTful APIs using tools like Postman to ensure backend reliability. ▪️ Automation Testing: Assist in developing and maintaining automated test scripts using Selenium. ▪️ Programming: Apply basic knowledge of programming languages (Java or JavaScript) to understand codebase logic and write test scripts. ▪️ Test Reporting: Document test results, track defects, and generate professional Test Reports to ensure transparency. ▪️ Mobile App Testing: Perform cross-platform testing on mobile applications. (Mobile app testing knowledge is a major plus!) ▪️ Collaboration: Participate in agile sprints and code reviews to maintain high-quality delivery standards. What We Are Looking For ▪️ Academic Level: 3rd or 4th-year university students or candidates with a minimum HND / Higher Diploma. ▪️ Technical Base: Fundamental understanding of the STLC, manual testing, and API testing concepts. ▪️ Code Proficiency: Basic programming skills in Java,or JavaScript. ▪️ Analytical Skills: Strong problem-solving mindset and the ability to find \"edge case\" bugs. ▪️ The NITES Edge: Proficiency in Japanese (JLPT N5 or above) is a significant advantage! Why Join NITES? ▪️ Paid Internship: Receive a competitive monthly stipend. ▪️ Flexibility: Work Onsite in our Galle hub, or enjoy Hybrid/Remote options. ▪️ Global Reach: Gain exposure to international standards and Japanese business culture. \uD835\uDC07\uD835\uDC28\uD835\uDC30 \uD835\uDC2D\uD835\uDC28 \uD835\uDC00\uD835\uDC29\uD835\uDC29\uD835\uDC25\uD835\uDC32: Ready to start your professional journey? Please send your CV and portfolio to: \uD83D\uDC49 nipponsolutions.nites@gmail.com"
 }, {
   "title" : "Software Engineering Intern",
@@ -248,7 +329,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001537090&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Odoo Developer"
 }, {
   "title" : ".NET Full-stack Developer / Software Engineer",
@@ -320,26 +401,8 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536474&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "AI Engineer - Remote | Hybrid"
-}, {
-  "title" : "Associate Software Engineer (1)",
-  "company" : "Jobfactory",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001536879&ec=0000000492",
-  "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Associate Software Engineer (1)"
-}, {
-  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
-  "company" : "Jobfactory",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001536878&ec=0000000492",
-  "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
-  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
 }, {
   "title" : "ATL / SSE Front End Developer (1)",
   "company" : "Sumathi Group",
@@ -347,7 +410,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "ATL / SSE Front End Developer (1)"
 }, {
   "title" : "Junior Developer",
@@ -356,7 +419,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536863&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Junior Developer"
 }, {
   "title" : "Senior Quality Assurance Engineer (1)",
@@ -365,7 +428,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001536847&ec=0000000661",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior Quality Assurance Engineer (1)"
 }, {
   "title" : "Senior Software Engineer JAVA (4)",
@@ -374,7 +437,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001536837&ec=0000000661",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior Software Engineer JAVA (4)"
 }, {
   "title" : "Software Quality Assurance Engineer (1)",
@@ -383,7 +446,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001536835&ec=0000000661",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Software Quality Assurance Engineer (1)"
 }, {
   "title" : "Software Engineer JAVA Angular (1)",
@@ -392,7 +455,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001536830&ec=0000000661",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Software Engineer JAVA Angular (1)"
 }, {
   "title" : "Software Engineer JAVA (1)",
@@ -401,7 +464,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001536824&ec=0000000661",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Software Engineer JAVA (1)"
 }, {
   "title" : "Intern - Cutting (Data Analytics) (1)",
@@ -410,7 +473,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000094&jc=0001536657&ec=0000000111",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Intern - Cutting (Data Analytics) (1)"
 }, {
   "title" : "Intern - Software Quality Assurance (1)",
@@ -419,7 +482,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001536520&ec=0000000315",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Intern - Software Quality Assurance (1)"
 }, {
   "title" : ".NET Core Software Engineer",
@@ -428,7 +491,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536505&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : ".NET Core Software Engineer"
 }, {
   "title" : "Senior.NET Core Software Engineer",
@@ -437,7 +500,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536501&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior.NET Core Software Engineer"
 }, {
   "title" : "Quality Assurance Intern",
@@ -446,7 +509,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14697/quality-assurance-intern-at-synexis-technologies-pvt-ltd/",
   "datePosted" : [ 2026, 8, 14, 10, 20, 11 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Synexis is looking for a motivated and detail-oriented Quality Assurance Intern to join our team. This is an excellent opportunity for an aspiring QA professional to gain hands-on experience in software testing, defect management, and quality assurance practices while working on real-world technology projects. Key Responsibilities Create comprehensive test cases based on product requirements and specifications. Perform manual and automated software testing. Identify, document, and report bugs with clear reproduction steps. Track defects throughout their lifecycle and follow up on resolutions. Assist in developing and maintaining automated test scripts. Collaborate with developers and team members to ensure product quality. Stay updated with the latest QA tools, methodologies, and industry practices. Requirements Currently pursuing a degree in Computer Science, Software Engineering, or a related field. Strong understanding of software development and testing principles. Familiarity with Manual Testing, Selenium, and JMeter. Strong analytical and problem-solving skills. Excellent attention to detail. Ability to work independently and collaboratively within a team. Passion for learning and building a career in software quality assurance. What You'll Gain Hands-on experience in a fast-paced technology environment. Mentorship and guidance from experienced QA professionals. Exposure to real-world software development and testing projects. Experience with modern QA tools and technologies. A collaborative and supportive working environment. Continuous learning and professional development opportunities. Valuable industry exposure and networking opportunities. Apply Now Join Synexis and start building your career in Quality Assurance & Software Testing."
 }, {
   "title" : "Senior Software Architect – Carbon Accounting & Reporting Platform",
@@ -491,7 +554,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14680/web-developer-at-webspark/",
   "datePosted" : [ 2026, 8, 13, 18, 59, 11 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Web Developer Hiring – WebSpark.lk \uD83D\uDE80 WE ARE HIRING – WEB DEVELOPER WebSpark.lk is looking for a motivated and skilled Web Developer to join our growing team. \uD83D\uDCBB Requirements Strong knowledge of PHP Good experience with Bootstrap Framework Ability to develop and maintain responsive websites Experience with cPanel Ability to perform domain migrations Knowledge of creating and managing subdomains Basic understanding of web hosting, DNS, and server management Good problem-solving and communication skills Ability to work independently and as part of a team \uD83D\uDCB0 Salary Basic Salary: LKR 30,000 per month \uD83D\uDD50 Job Details Employment Type: Full Time Working Hours: 8:00 AM – 5:00 PM Work Mode: \uD83C\uDFE0 Work From Home \uD83D\uDCCD Company: WebSpark.lk \uD83D\uDCBC Position: Web Developer If you have the required skills and are interested in joining our team, send us your CV and a brief introduction about yourself. \uD83D\uDCF1 WhatsApp: 074 3647593 Join WebSpark.lk and grow your career with us! \uD83D\uDE80"
 }, {
   "title" : "Software Engineer (Intern)",
@@ -509,7 +572,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535863&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "QA Engineer"
 }, {
   "title" : "Associate Software Engineer",
@@ -518,7 +581,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535859&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Associate Software Engineer"
 }, {
   "title" : "Tech Lead | Senior Engineer | QA Lead",
@@ -527,7 +590,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535820&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Tech Lead | Senior Engineer | QA Lead"
 }, {
   "title" : "Software Engineer Intern",
@@ -536,7 +599,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535742&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Software Engineer Intern"
 }, {
   "title" : "Database Administrator",
@@ -545,7 +608,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536175&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Database Administrator"
 }, {
   "title" : "Full Stack QA Engineer",
@@ -554,7 +617,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001536068&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Full Stack QA Engineer"
 }, {
   "title" : "Associate Engineer - Business Intelligence (1)",
@@ -563,7 +626,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001535999&ec=0000000510",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Associate Engineer - Business Intelligence (1)"
 }, {
   "title" : "Senior Engineer - Business Intelligence (1)",
@@ -572,7 +635,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001535998&ec=0000000510",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior Engineer - Business Intelligence (1)"
 }, {
   "title" : "Data and Ai Intern",
@@ -581,7 +644,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535947&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 13, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Data and Ai Intern"
 }, {
   "title" : "Software Engineer",
@@ -608,7 +671,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14674/qa-engineer-at-rightmo-web-solution/",
   "datePosted" : [ 2026, 8, 13, 11, 11, 59 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We Are Hiring | QA Engineer Rightmo Web Solution (Pvt) Ltd is looking for a talented QA Engineer to join our growing team. Qualifications & Requirements: Bachelor’s degree in Computer Science, IT, Engineering, or related field 3+ years of experience in software testing and automation Hands-on experience with automated testing tools Strong knowledge of software development methodologies Familiarity with Agile methodologies Experience with Bug Tracking Tools Strong analytical and problem-solving skills with keen attention to detail Excellent communication and teamwork skills \uD83D\uDCCD Work Mode: Onsite \uD83D\uDCCC Location: Galle If you are passionate about software quality and looking for an opportunity to grow with an innovative IT team, we would love to hear from you! \uD83D\uDCE9 Apply now : hro@rightmo.lk"
 }, {
   "title" : "Senior QA Engineer",
@@ -617,7 +680,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14673/senior-qa-engineer-at-rightmo-web-solution/",
   "datePosted" : [ 2026, 8, 13, 11, 10, 59 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We Are Hiring | Senior QA Engineer Rightmo Web Solution (Pvt) Ltd is looking for an experienced Senior QA Engineer to join our growing team. Qualifications & Requirements: Bachelor’s degree in Computer Science or equivalent practical experience. 5+ years of experience in software testing and automation Strong understanding of SDLC, STLC, and Agile/Scrum methodologies. Experience testing web applications, APIs, and responsive websites. Strong knowledge of API testing using Postman or similar tools. Experience with SQL and database validation. Hands-on experience with automation testing tools such as Playwright, Cypress, Selenium, or similar. Familiarity with CI/CD pipelines and Git. Excellent analytical, problem-solving, and communication skills. Ability to manage multiple projects and priorities. \uD83D\uDCCD Work Mode: Onsite \uD83D\uDCCC Location: Galle If you are passionate about software quality and ready to take the next step in your QA career, we would love to hear from you! \uD83D\uDCE9 Apply now : hro@rightmo.lk"
 }, {
   "title" : "QA Engineer Intern",
@@ -626,7 +689,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14670/qa-engineer-intern-at-longwapps-pvt-ltd/",
   "datePosted" : [ 2026, 8, 13, 4, 29, 42 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "LONGWApps is looking for a motivated and detail oriented QA Engineer Intern to join our software development team immediately. Key Responsibilities Assist in testing web and software applications. Prepare and execute test cases based on requirements. Perform functional, regression, usability, and responsive testing. Identify, document, and track software defects. Work closely with developers and QA engineers to investigate and resolve issues. Perform exploratory testing and provide feedback on product quality. Maintain test documentation and testing reports. Assist with test automation activities when required. Requirements Basic understanding of Software Testing / QA concepts. Understanding of SDLC and STLC is an advantage. Basic knowledge of test case preparation and bug reporting. Familiarity with Postman, Cypress, or Playwright is an added advantage. Good analytical and problem-solving skills. Strong attention to detail. Good communication and teamwork skills. Willingness to learn and grow in a professional software development environment. Available to join immediately."
 }, {
   "title" : "QA Engineer",
@@ -635,7 +698,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14665/qa-engineer-at-innobot-health/",
   "datePosted" : [ 2026, 8, 12, 20, 10, 56 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Ready to build quality-driven healthcare solutions that make a real impact? At Innobot Health, we're looking for a passionate QA Engineer to join our growing team. If you thrive in manual & automation testing, enjoy solving complex challenges, and want to work on innovative healthcare technology, this could be your next career move. Required Qualifications: Bachelor's degree in IT, Computer Science, or related field 2-4 years of QA experience covering manual, automation, frontend, backend, and integration testing Hands-on experience with Python-based test automation Experience in healthcare or RCM is an advantage Skills & Competencies: Proficient in both manual and automated testing Familiar with frontend testing tools (Selenium, pytest, Cypress, or Playwright) and API tools (Postman, REST Assured) Able to write basic SQL for backend/database validation Strong analytical, documentation, and communication skills Understanding of US healthcare and RCM processes is a plus Additional Information Experience with CI/CD pipelines (Jenkins, Azure DevOps) is advantageous HIPAA-compliant environment experience is preferred Be part of our mission to improve healthcare with cutting edge technology!"
 }, {
   "title" : "Engineer - Data Engineering",
@@ -698,7 +761,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001535187&ec=0000000552",
   "datePosted" : [ 2026, 8, 12, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "IT Helpdesk Engineer (20)"
 }, {
   "title" : "Business Analyst - Software Industry",
@@ -707,7 +770,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535432&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 12, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Business Analyst - Software Industry"
 }, {
   "title" : "Business Process QA & UX/UI Intern",
@@ -716,7 +779,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14376/business-process-qa-uxui-intern-at-process361-pvt-ltd/",
   "datePosted" : [ 2026, 8, 12, 10, 18, 52 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "About Us Process361 (Pvt) Ltd is a leading Business Process Automation and Digital Transformation company specializing in workflow automation, process optimization, and digital solution implementation. Process361 is a subsidiary company of HSB Holdings (Pvt) Ltd. We are looking for enthusiastic and detail-oriented interns who are passionate about business processes, user experience, quality assurance, and digital transformation. Key Responsibilities: Review workflow applications against business requirements. Assist in Quality Assurance (QA) and User Acceptance Testing (UAT) activities. Evaluate forms and screens for usability, consistency, and user-friendliness. Identify workflow issues, usability concerns, and improvement opportunities. Prepare test cases, test scenarios, and testing reports. Document findings and support issue resolution activities. Participate in client demonstrations and solution review sessions. Assist in process documentation and workflow analysis activities. Requirements: Undergraduate pursuing a Degree or Diploma in: Information Technology | Software Engineering | Information Systems | Business Information Systems | Management Information Systems| Business Management with IT Basic understanding of software testing concepts. Strong analytical and problem-solving skills. Excellent communication and documentation skills. Attention to detail and willingness to learn. Knowledge of UX/UI principles, Figma, BPMN, or workflow concepts will be an added advantage. What You Will Gain: Hands-on exposure to Business Process Automation projects. Experience in QA, UAT, Workflow Analysis, and UX/UI Evaluation. Opportunity to work with enterprise clients across multiple industries. Mentorship from industry professionals. Practical experience in Digital Transformation initiatives."
 }, {
   "title" : "Software Engineer – Integrations",
@@ -734,7 +797,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14648/qa-engineer-at-kangaro-tech/",
   "datePosted" : [ 2026, 8, 11, 18, 11, 54 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Are you a detail-oriented Software QA Engineer with a passion for quality and problem-solving? KangaroTech is looking for a Quality Assurance Engineer to join our growing team! 1+ year experience in QA / Software Testing Degree in Software Engineering, IT, Computer Science, or related field Strong problem-solving & analytical thinking skills Good understanding of Software Testing / QA processes Knowledge of API Testing, SQL, Bug Tracking & Test Case Design Automation Testing knowledge is an added advantage Male & Female candidates are welcome to apply! Join KangaroTech and let’s build the future together!"
 }, {
   "title" : "Frontend Product Lead",
@@ -761,7 +824,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001534773&ec=0000000510",
   "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Intern - Business Intelligence & Data Analysis (1)"
 }, {
   "title" : "Senior ERP Programmer Analyst",
@@ -770,7 +833,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001535020&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior ERP Programmer Analyst"
 }, {
   "title" : "Quality Assurance Engineer",
@@ -779,7 +842,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534883&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 11, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Quality Assurance Engineer"
 }, {
   "title" : "Web Developer",
@@ -788,7 +851,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14644/web-developer-at-clickon-solutions/",
   "datePosted" : [ 2026, 8, 11, 8, 47, 20 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We are looking for a talented and motivated Web Developer to join our growing team. Job Requirements Experience in WordPress website development Experience in Shopify website development Graphic designing skills (Adobe Photoshop, Illustrator, etc.) Knowledge of responsive design and basic SEO Good understanding of HTML, CSS, JavaScript (Basic) Ability to work independently and meet deadlines Good communication and teamwork skills Willingness to learn and adapt to new technologies Key Responsibilities Design, develop and maintain websites using WordPress and Shopify Create attractive and user-friendly designs for web and digital platforms Ensure website functionality, performance and responsiveness Optimize websites for speed, SEO and better user experience Collaborate with the team to deliver high-quality projects on time Provide support and updates for existing websites Salary: Rs. 30,000+ (Based on skills & experience) CONTACT (076) 568 8901 187, Ward Place, Colombo 7"
 }, {
   "title" : "Senior QA Engineer – Automation & Quality Engineering",
@@ -797,7 +860,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14643/senior-qa-engineer-automation-quality-engineering-at-dxdy/",
   "datePosted" : [ 2026, 8, 10, 23, 15, 26 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We are looking for an experienced Senior QA Engineer to join dxdy and help strengthen our Quality Engineering and test automation capabilities across complex, production-grade software projects. Our teams work across domains including Healthcare, Apparel, Manufacturing, Production Planning, and Digital Platforms, using modern technologies and increasingly AI-enabled engineering practices. What You’ll Do Design and execute functional, integration, regression, system, exploratory, and end-to-end testing. Test complex production-grade applications, APIs, integrations, and workflows. Contribute to building and evolving our test automation capability and engineering practices. Work closely with Developers, Business Analysts, Technical Leads, Architects, and customers to identify quality risks early. Investigate defects and production incidents beyond surface-level symptoms. Contribute to improving testability, automation coverage, reliability, and overall delivery quality. What We’re Looking For 3+ years of professional QA / software testing experience. Strong experience testing production-level applications and complex business workflows. Solid understanding of testing principles, test design, test levels, defect management, and risk-based testing. Hands-on experience with modern automation frameworks such as Playwright, Cypress, Selenium, or equivalent. Good knowledge of JavaScript/TypeScript and automation engineering concepts. Strong understanding of HTML, DOM behaviour, browser rendering, browser DevTools, network requests, and modern web application behaviour. Strong API and integration testing knowledge. Familiarity with collaboration, test management, source-control, and defect-tracking tools. Understanding of UI/UX fundamentals and the ability to evaluate systems from the end-user perspective. Strong communication, collaboration, and problem-solving skills. A growth mindset and willingness to work across teams to improve both product quality and engineering productivity. Added Advantage Experience in Healthcare or Apparel, performance testing, distributed systems, CI/CD-based automation, ISTQB certification, or testing AI-enabled applications will be considered an advantage. At dxdy, you’ll get exposure to modern architectures, emerging technologies, AI-assisted engineering, complex enterprise systems, and opportunities to help shape how Quality Engineering evolves within the organization. We are looking for someone who wants to engineer quality, not simply execute test cases."
 }, {
   "title" : "Senior Quality Engineer (Automation)",
@@ -806,7 +869,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/",
   "datePosted" : [ 2026, 8, 10, 22, 39, 42 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "About Verdentra We are a team of expert technologists with a shared passion for building technology solutions responsibly, whilst focusing on business outcomes. Our mission is to weave excellence, innovation, and sustainability into the very fabric of the digital landscape, and we specialize in Cloud, Data, AI, and emerging technologies. We maintain solid collaborations with top-tier Independent Software Vendors (ISVs) in the US, providing us with a strong foundation to address complex challenges and deliver business outcomes. What you’ll gain: Build Cutting-Edge Automation: Design, develop, and maintain scalable automated test frameworks using tools such as Selenium, Playwright, and beyond. Be a Quality Advocate: Work closely with developers, architects, and product teams to embed quality throughout the SDLC, influencing how products are built, tested, and released. Sharpen Your Expertise: Take on complex testing challenges, from end-to-end automation to performance and reliability, while driving improvements in efficiency and coverage. Collaborate & Grow: Share your insights with peers, contribute to best practices, and continuously upskill in the latest QE tools, DevOps practices, and industry trends. Mentor and Inspire: Lead, mentor, and coach junior QE engineers, sharing your expertise and driving the team’s technical maturity and best practices. Stay Ahead: Explore and adopt emerging QE methodologies and technologies that keep testing practices modern, lean, and impactful. Who We Are Looking For: A bachelor’s degree in computer science, Software Engineering, or a related field. 4+ years of solid hands-on experience in QE automation tools such as Playwright Proven ability to build and maintain automated testing frameworks and contribute to end-to-end QE strategies. Strong debugging and troubleshooting skills to identify root causes quickly and effectively. Experience in integrating automated tests into CI/CD pipelines (Azure DevOps or similar). Solid understanding of Agile methodologies (Scrum, Kanban) and working effectively in fast-paced environments. Excellent communication skills, with the ability to work cross-functionally and influence through expertise. Exposure to AI-driven testing tools and AI-based automation frameworks will be an added advantage. Ready to take your next step?"
 }, {
   "title" : "Software Engineer",
@@ -833,7 +896,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533948&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 10, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior Software Engineer"
 }, {
   "title" : "Specialist programmer Universe/PICL",
@@ -869,7 +932,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001533998&ec=0000000555",
   "datePosted" : [ 2026, 8, 8, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Sports Data & Content Executive (1)"
 }, {
   "title" : "QA Engineers (Manual Testing / Automation Testing)",
@@ -878,7 +941,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/13836/qa-engineers-manual-testing-automation-testing-at-enhanzer/",
   "datePosted" : [ 2026, 8, 8, 10, 38, 45 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Join the growing team at Enhanzer and be part of building innovative cloud-based enterprise solutions. Qualifications: Graduates or undergraduates in Information Technology, Computer Science, or a related field with a professional IT qualification. Proficiency in CRM, ERP, or accounting software/services is a plus. Strong communication skills (oral/written), with the ability to explain technical concepts and business processes clearly. Enthusiastic about software product testing and eager to learn new skills and technologies. Excellent critical thinking, problem-solving, and attention to detail. Ability to prioritize tasks effectively, work independently, and develop positive relationships with colleagues and clients. Committed to professional development and staying updated with industry advancements. Duties and Responsibilities Design, implement, execute, and maintain test cases and identify, analyze, and report bugs. Perform various types of testing, including Functional, Regression, API, Smoke, and UAT. Create and maintain test scripts using test automation frameworks. Participate in requirement clarification meetings. Use SQL for data validation and querying"
 }, {
   "title" : "Trainee QA Engineers (Cloud ERP)",
@@ -887,7 +950,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/11999/trainee-qa-engineers-cloud-erp-at-enhanzer/",
   "datePosted" : [ 2026, 8, 8, 10, 38, 36 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "QA Engineers - Manual Testing / Automation Testing Trainees (100% On-Site @Battaramulla, Sri Lanka) Qualifications: Graduates or undergraduates in Information Technology, Computer Science, or a related field with a professional IT qualification. Proficiency in CRM, ERP, or accounting software/services is a plus. Strong communication skills (oral/written), with the ability to explain technical concepts and business processes clearly. Enthusiastic about software product testing and eager to learn new skills and technologies. Excellent critical thinking, problem-solving, and attention to defail. Ability to prioritize tasks effectively, work independently, and develop positive relationships with colleagues and clients. Committed to professional development and staying updated with industry advancements, Duties and Responsibilities Design, implement, execute, and maintain test cases and identify, analyze, and report bugs. Perform various types of testing, including Functional, Regression, API, Smoke, and UAT. Create and maintain test scripts using test automation frameworks. Participate in requirement clarification meetings. Use SQL for data validation and querying"
 }, {
   "title" : "Team Leader – Web Development (WordPress)",
@@ -896,7 +959,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14626/team-leader-web-development-wordpress-at-kd-marketing-group/",
   "datePosted" : [ 2026, 8, 7, 23, 14, 20 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Role Overview We are looking for an experienced Team Leader – Web Development (WordPress) to lead our web development team and oversee the successful delivery of high-quality WordPress projects. In this role, you will manage developers, coordinate with designers and marketing teams, ensure projects are delivered on time, and maintain the highest standards of website quality, performance, security, and user experience. Key Responsibilities Lead, mentor, and manage the WordPress web development team. Plan, assign, and monitor daily development tasks and project timelines. Oversee the development, maintenance, and optimization of WordPress websites. Review code and ensure adherence to coding standards and best practices. Coordinate with UI/UX designers, SEO specialists, and marketing teams to deliver projects efficiently. Ensure websites are responsive, mobile-friendly, secure, and optimized for speed and SEO. Troubleshoot technical issues and provide guidance to developers. Manage website migrations, updates, backups, and ongoing maintenance. Monitor team performance and ensure timely project completion. Conduct regular team meetings and provide technical mentorship. Train and support junior developers while encouraging continuous learning. Improve team workflows, development processes, and overall productivity. Stay updated with the latest WordPress technologies, tools, and industry trends. Requirements Experience 4–6 years of professional experience in WordPress web development. Minimum 1–2 years of experience leading or managing a web development team. Proven experience managing multiple WordPress projects simultaneously. Technical Skills Strong expertise in WordPress development. Experience developing custom WordPress themes and plugins. Strong knowledge of Elementor or other WordPress page builders. Experience with WooCommerce is an added advantage. Ability to convert Figma designs into fully responsive WordPress websites. Strong knowledge of HTML, CSS, JavaScript, PHP, and MySQL. Familiarity with Bootstrap, Tailwind CSS, or similar front-end frameworks. Experience with website performance optimization, security, backups, and migrations. Understanding of SEO-friendly development best practices. Experience with Git or other version control systems is preferred. Leadership & Soft Skills Strong leadership and team management skills. Excellent communication and interpersonal skills. Strong project planning and organizational abilities. Ability to manage multiple projects and meet deadlines. Excellent analytical and problem-solving skills. Ability to work independently in a remote environment. Strong attention to detail and commitment to delivering high-quality work. Why Join Us? Lead a talented and growing web development team. Work on exciting WordPress projects for international clients. Opportunity to grow your leadership and technical career. Collaborative, supportive, and professional work environment. Flexible remote working opportunities. Continuous learning and career development. Apply Now Email: hr@kdmarketing.org Kindly CC: hr@kdmarketinggroup.com Phone: +94 76 294 1911 | +1 (716) 400-4369 Subject Line: Application – Team Leader – Web Development (WordPress) Build high-performing WordPress websites, lead a talented team, and make a lasting impact. Join KD Marketing today!"
 }, {
   "title" : "Fullstack Internship",
@@ -932,7 +995,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14617/associate-qa-engineer-at-port-city-bpo/",
   "datePosted" : [ 2026, 8, 7, 19, 17, 4 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We are seeking a detail-oriented Associate - QA Engineer to support software testing and quality assurance activities. The role involves executing tests, identifying defects, and collaborating with development teams to ensure reliable software solutions. Candidates with strong analytical skills and a willingness to learn are preferred. Job Responsibilities Perform manual and basic automated testing Identify, document, and track defects Collaborate with developers to resolve issues Prepare test cases and test reports Support regression and performance testing Skills and Qualifications Diploma or Bachelor's Degree in Computer Science, Software Engineering, Information Technology, or a related field. Basic knowledge of software testing methodologies. Familiarity with QA tools (e.g., Selenium, JIRA). Strong attention to detail and analytical skills. Good understanding of software development lifecycle (SDLC) is an added advantage."
 }, {
   "title" : "Scrum Master (1-year contract/full-time/onsite)",
@@ -977,7 +1040,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533417&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Lead Engineer - Digitalization"
 }, {
   "title" : "Senior Web, Software & Digital Design Specialist",
@@ -986,7 +1049,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533352&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior Web, Software & Digital Design Specialist"
 }, {
   "title" : "Design Engineer",
@@ -995,7 +1058,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533802&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Design Engineer"
 }, {
   "title" : "Lead QA Engineer",
@@ -1004,7 +1067,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14597/lead-qa-engineer-at-itelasoft/",
   "datePosted" : [ 2026, 8, 6, 18, 25, 49 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "We are looking for an experienced Lead QA Engineer with strong manual testing, Salesforce testing, and QA leadership experience. Key Highlights 8+ Years in Software QA Strong Manual Testing Expertise QA Team Leadership Experience Salesforce Testing Experience ISTQB Advanced Level Test Analyst Required What You'll Do Lead end-to-end QA activities Define test plans & QA strategy Manage functional, integration & regression testing Oversee Salesforce testing Mentor QA engineers Work closely with cross-functional teams"
 }, {
   "title" : "Associate QA Engineer",
@@ -1013,7 +1076,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14595/associate-qa-engineer-at-iykons/",
   "datePosted" : [ 2026, 8, 6, 18, 10, 43 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Great software isn't just built — it's tested, challenged, and refined until it earns the trust of the people who depend on it. At IYKONS, we're looking for an Associate QA Engineer in Vavuniya to help us hold that quality bar high. If you're curious, detail-obsessed, and want to grow in a hands-on Agile team, we'd love to hear from you. Key Responsibilities Analyse business requirements, user stories, and acceptance criteria. Design, develop, and execute manual test cases and test scenarios. Identify, document, and track software defects using bug tracking tools. Perform functional, regression, integration, and user acceptance testing. Verify bug fixes and perform regression testing before releases. Collaborate with Business Analysts, Developers, and Product Owners to ensure high-quality software delivery. Participate in Agile ceremonies, including sprint planning, daily stand-ups, sprint reviews, and retrospectives. Assist in API and database testing where required. Contribute to QA process improvements and documentation. Learn and support automation testing initiatives where applicable. Requirements Bachelor's degree in Information Technology, Computer Science, Software Engineering, or a related field. 2 years of experience in Software Quality Assurance Good understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Familiarity with Agile/Scrum methodology. Knowledge of test case design, test execution, defect reporting, and defect life cycle. Basic knowledge of API testing using Postman or Swagger is an advantage. Basic understanding of SQL and relational databases is an advantage. Basic knowledge of automation testing tools such as Selenium, Playwright, or Cypress is an advantage. Strong analytical, problem-solving, and communication skills. ISTQB Foundation Certification will be an added advantage. What We Offer A collaborative and supportive work environment. Opportunities to work on innovative software products and AI-driven solutions. Mentorship and continuous learning from experienced professionals. Hands-on exposure to both manual and automation testing. Career growth opportunities with the latest QA tools, technologies, and best practices."
 }, {
   "title" : "Full Stack Developer Internship",
@@ -1032,7 +1095,7 @@
   "link" : "https://itpro.lk/job/14554/software-engineering-intern-at-qdesk-ai-pvt-ltd/",
   "datePosted" : [ 2026, 8, 6, 13, 26, 26 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "Overview Join our innovative team as a Software Engineering Intern, where you'll collaborate with seasoned engineers on exciting web applications. This role offers you the chance to gain hands-on experience with real client projects, learn industry best practices, and engage in modern development workflows. We are looking for individuals who are passionate about problem-solving, eager to embrace new technologies, and dedicated to producing clean, efficient code. Responsibilities Assist in the development and maintenance of web applications, primarily utilizing the MERN stack. Collaborate with senior developers to implement new features and effectively resolve bugs. Write clean, maintainable, and reusable code that adheres to the highest standards of best practices. Work with RESTful APIs, databases, and cloud-based platforms to enhance application functionality and user experience. Participate in code reviews, testing, and deployment processes to ensure the delivery of high-quality products. Research and propose innovative solutions to technical challenges encountered during development. Maintain comprehensive project documentation and follow established development workflows. Requirements Currently pursuing an undergraduate degree in Computer Science, Information Technology, Software Engineering, or a related field. Strong understanding of programming fundamentals, particularly in JavaScript. Familiarity with HTML, CSS, React.js, Node.js, Express.js, and MongoDB is essential. Experience using Git and GitHub for version control. Basic knowledge of APIs and working with JSON data. Understanding of Agile development methodologies. Excellent analytical and problem-solving skills. A strong willingness to learn, adapt, and grow in a fast-paced environment. Ability to work both independently and collaboratively within a team. A proactive attitude towards learning and self-improvement. Strong communication skills to effectively convey ideas and collaborate with team members. A passion for technology and a desire to contribute to impactful projects. If you are excited about launching your career in software engineering and making meaningful contributions to our team, we encourage you to apply!"
 }, {
   "title" : "Software Developer Internship",
   "company" : "GIT Lanka",
@@ -1049,7 +1112,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532871&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Data Collector & Formatter"
 }, {
   "title" : "Intern - UI | UX Engineer",
@@ -1058,7 +1121,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001533098&ec=0000000651",
   "datePosted" : [ 2026, 8, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Intern - UI | UX Engineer"
 }, {
   "title" : "Intern - Full Stack Developer",
@@ -1067,7 +1130,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001533094&ec=0000000651",
   "datePosted" : [ 2026, 8, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Intern - Full Stack Developer"
 }, {
   "title" : "Data Engineer",
@@ -1076,7 +1139,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533055&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Data Engineer"
 }, {
   "title" : "Software Engineering Intern",
@@ -1086,7 +1149,7 @@
   "link" : "https://itpro.lk/job/14579/software-engineering-intern-at-hrock-digital/",
   "datePosted" : [ 2026, 8, 6, 0, 42, 12 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "HROCK Digital is looking for a talented and passionate Software Engineering Intern who wants hands-on experience building real-world web, cloud, and AI-powered products. What we’re looking for: Frontend: HTML, CSS, JavaScript, React Backend: Node.js, Python Database: SQL DevOps & Cloud: Docker, AWS AI: LLMs, AI APIs & AI application development You don’t need to be an expert in everything. We’re looking for someone who: Loves technology and building things Learns quickly and is curious Enjoys solving real-world problems Has a strong interest in AI and LLMs Wants to grow into a great software engineer At HROCK Digital, you won’t spend your internship working only on exercises. You’ll work alongside our engineering team on live projects, AI products, and real customer solutions."
 }, {
   "title" : "Software Engineer – Full Stack & Mobile",
   "company" : "Digital Turtles",
@@ -1095,7 +1158,7 @@
   "link" : "https://itpro.lk/job/14577/software-engineer-full-stack-mobile-at-digital-turtles/",
   "datePosted" : [ 2026, 8, 6, 0, 19, 31 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "We are looking for a versatile Software Engineer who can work across web applications, mobile apps, backend systems, APIs, databases, cloud platforms, and AI-powered products. This role is ideal for an all-rounder who enjoys working on different types of projects, learning new technologies, and building complete software solutions. Responsibilities Develop and maintain web, mobile, and backend applications Build responsive interfaces for web, Android, and iOS Design APIs, databases, authentication, and system integrations ⁠Integrate third-party services, cloud platforms, and AI solutions ⁠Optimize applications for performance, security, and scalability Debug issues and improve existing systems and features Support rapid prototyping and new product development Write clean, reusable, and well-documented code Requirements Strong software engineering and problem-solving skills Experience with modern frontend and backend technologies Experience developing mobile apps using Flutter, React Native, native Android, native iOS, or similar technologies Good understanding of APIs, databases, authentication, and application architecture Familiarity with Git, cloud deployment, and modern development workflows ⁠Ability to adapt to different technologies and project requirements ⁠Proficiency in using AI-assisted development tools Ability to work independently and collaborate with a multidisciplinary team Experience with DevOps, cybersecurity, AI integrations, desktop applications, game development, or IoT is an added advantage."
 }, {
   "title" : "Full-Stack Developer",
   "company" : "Jolanka Group",
@@ -1104,7 +1167,7 @@
   "link" : "https://itpro.lk/job/14576/fullstack-developer-at-jolanka-group/",
   "datePosted" : [ 2026, 8, 6, 0, 6 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "Are you a passionate developer ready to take your career to the next level? The Jolanka Group is looking for an innovative Full-Stack Developer to power our next-generation enterprise applications and production workflow systems. Required Technical Stack & Skills Backend Development: Strong expertise in PHP (Vanilla / Modern Frameworks) and .NET Core. Database Management: Advanced proficiency in MS SQL Server (complex queries, optimization, and stored procedures). Frontend Excellence: Modern UI development using JavaScript (Vanilla), HTML5, and Tailwind CSS. Infrastructure & Workflow: Experience with cloud deployment, API development, and automation workflows. Key Role Responsibilities System Development: Design, build, and maintain robust, scalable enterprise web applications. Database & Infrastructure Management: Optimize relational databases, manage data structures, and oversee core system architecture. Cross-Functional Collaboration: Work closely with our internal IT, software development, and industrial automation engineering teams to deliver seamless tech solutions. System Support: Troubleshoot, upgrade, and secure internal software systems."
 }, {
   "title" : "QA Engineer Intern",
   "company" : "Ceydigital",
@@ -1112,7 +1175,7 @@
   "source" : "ITPro.lk",
   "link" : "https://itpro.lk/job/14574/qa-engineer-intern-at-ceydigital/",
   "datePosted" : [ 2026, 8, 5, 23, 27, 16 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Ceydigital is recruiting a QA Engineer Intern to join our energetic and growing team! As a QA Engineer Intern, you’ll gain practical experience in software quality assurance under the guidance of experienced professionals. Learn how to identify defects, validate software requirements, improve product quality, and build a strong foundation for a rewarding career in software testing and technology. What to Expect: Hands-on experience in manual software testing and quality assurance processes Learning to prepare test plans, test scenarios, test cases, and test reports Identifying, documenting, and tracking software defects Performing functional, regression, usability, and compatibility testing Exposure to agile methodologies, sprint planning, and software development lifecycles Collaborating closely with developers, product managers, designers, and business analysts Assisting with requirement validation and product release testing Gaining practical experience with real-world IT products and enterprise tools Physical/on-site and remote internship opportunities available Who We’re Looking For: Detail-oriented individuals eager to begin a career in software quality assurance Strong analytical, communication, documentation, and problem-solving skills Candidates with a Bachelor’s Degree, or currently pursuing one, in IT, Software Engineering, Computer Science, or a related field Basic understanding of software testing concepts and development processes Passionate about delivering reliable, user-friendly, and high-quality software products Willingness to learn testing tools, techniques, and industry best practices Applicants from in and around Bandarawela will be given special consideration for the on-site internship opportunity Uncover your potential and begin your journey as a QA Engineer with Ceydigital. Let’s build reliable and high-quality solutions together! For more details: 076 530 8858"
 }, {
   "title" : "Senior WSO2 Implementation & Integration Engineer",
@@ -1122,7 +1185,7 @@
   "link" : "https://itpro.lk/job/14573/senior-wso2-implementation-integration-engineer-at-itelasoft/",
   "datePosted" : [ 2026, 8, 5, 23, 21, 47 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "Are you experienced in WSO2 APIM, Micro Integrator, Identity Server, Kubernetes, and CI/CD? Join iTelaSoft and work on secure, scalable enterprise API and integration solutions. What You'll Do Design, deploy and support enterprise integration solutions using WSO2 Work with WSO2 API Manager (APIM), Micro Integrator (MI) and Identity Server (5) Build APIs, mediation flows, connectors and reusable integration components Implement API security using OAuth2, OIDC, JWT, SAML and mTLS. Develop CI/CD pipelines and automate deployments with GitOps, laC and Kubernetes Manage cloud-native deployments, HA, clustering. load balancing and disaster recovery. Integrate with LDAP, Active Directory, Microsoft Entra ID Keycloak and other identity providers. Troubleshoot performance, deployment, authentication and production issues. What You Bring Bachelor's degree in Computer Science, IT, Software Engineering or a related field. 5+ years of experience in WSO2 implementation, API management and enterprise integration. Strong hands-on expertise in WSO2 APIM, MI and IS. Experience with REST, SOAP, Kafka, JMS, FTP/SFTP, databases and message queues Strong knowledge of Docker, Kubernetes and cloud-native architectures. Hands-on experience with CI/CD, version control, GeOps and Infrastructure as Code. Familiarity with HA, clustering and disaster recovery. Strong troubleshooting, communication and stakeholder management skills. Agile collaboration skills. Relevant WSO2 certifications are an added advantage."
 }, {
   "title" : "Cloud Engineer - AWS",
   "company" : "Vitalfew",
@@ -1130,7 +1193,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532553&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 5, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Cloud Engineer - AWS"
 }, {
   "title" : "IT Systems & Software Development Intern",
@@ -1139,7 +1202,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532723&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 5, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "IT Systems & Software Development Intern"
 }, {
   "title" : "Software Engineering Intern",
@@ -1149,7 +1212,7 @@
   "link" : "https://itpro.lk/job/14564/software-engineering-intern-at-roboticgen/",
   "datePosted" : [ 2026, 8, 5, 0, 56, 24 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "Join the EduTech Software Team at RoboticGen Academy and contribute to building innovative digital learning solutions that inspire the next generation of creators and engineers. We are looking for motivated individuals with a passion for software engineering, a willingness to learn, and the ability to leverage modern AI tools to enhance development workflows. Preferred Qualifications Experience with Next.js, NestJS, or FastAPI Knowledge of UI/UX design and application development principles Strong problem-solving skills and adaptability What We Offer Hands-on experience working on real-world EdTech products Mentorship from experienced software engineers Exposure to modern development practices and AI-assisted workflows Employment Type: Full-Time / Part-Time"
 }, {
   "title" : "Senior/Software Engineer",
   "company" : "PacificKode",
@@ -1158,7 +1221,7 @@
   "link" : "https://itpro.lk/job/13088/seniorsoftware-engineer-at-pacifickode/",
   "datePosted" : [ 2026, 8, 4, 17, 33, 46 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "PacificKode is a software development and IT services and consulting company that specializes in robotic engineering, software development, cloud computing, mobile application development, IT consulting, application support and manage services. Our team of experienced engineers and consultants work together to create innovative solutions for our clients that meet their unique business needs. Key Responsibilities Develop, test, and maintain scalable .NET applications using .NET 6.0/8.0 and C#. Design and implement RESTful APIs, Azure Functions, and SignalR-based real-time solutions. Build responsive front-end applications using React, TypeScript, HTML5, CSS, and Bootstrap. Write efficient and optimized SQL queries, stored procedures, and manage large datasets with indexing techniques. Work with various databases including MS SQL Server, Cosmos DB, MongoDB, Azure Storage Accounts, Firebase, and Firestore. Integrate and manage messaging with Azure Service Bus. Deploy and manage applications using Azure App Services, Azure Container Instances, Azure VMs, and other Azure cloud services. Collaborate with the DevOps team on CI/CD pipelines using Azure DevOps or GitHub. Participate in code reviews, unit testing, debugging, and documentation. Work in an agile development environment and collaborate with cross-functional teams. Knowledge of Object-Relational Mapping frameworks such as EF Core, Dapper. Required Skills & Qualifications: 2-5 years of experience in software development with a strong grasp of .NET (6.0/8.0) and C#. Experience building Web APIs, Azure Functions, or background services like Hosted Services. Front-end development experience with React, TypeScript, HTML/CSS, and Bootstrap Strong database skills with ability to write optimized SQL, manage stored procedures, apply indexes, and handle large datasets. Familiarity with Azure Cloud services including App Services, Containers, VMs, and Azure Storage. Understanding of messaging patterns using Azure Service Bus. Understanding of messaging patterns using Azure Service Bus. Exposure to CI/CD tools and pipelines will be an added advantage (Azure DevOps / GitHub Actions) Integrate third-party APIs and payment gateways. Follow security best practices for API development (e.g., OAuth2, JWT, input validation, HTTPS, etc.). Excellent problem-solving skills and a willingness to learn new technologies. Experience with Agile and Scrum development methodologies. Strong understanding of object-oriented programming (OOP), software architecture, and SOLID principles for writing clean, maintainable, and scalable code."
 }, {
   "title" : "Integration Engineer",
   "company" : "Bileeta",
@@ -1167,7 +1230,7 @@
   "link" : "https://itpro.lk/job/14557/integration-engineer-at-bileeta/",
   "datePosted" : [ 2026, 8, 4, 16, 48, 39 ],
   "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "No description available"
+  "description" : "Power Enterprise Innovation with Bileeta ! We're looking for an experienced Integration Engineer to join our team and build seamless enterprise integrations that power digital transformation. If you have 3+ years of experience with .NET, C#, SQL Server, and technologies like Linux, PostgreSQL, MySQL, Docker, Node.js, or Python, this is your opportunity to work on impactful ERP and enterprise integration projects for customers in Sri Lanka and beyond. Join a team that values innovation, collaboration, and continuous learning while making a real impact through technology..."
 }, {
   "title" : "Trainee Software Engineers",
   "company" : "Genius Soft (Pvt) Ltd",
@@ -1175,7 +1238,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001531987&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Trainee Software Engineers"
 }, {
   "title" : "Data Engineer - Python",
@@ -1184,7 +1247,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001531879&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Data Engineer - Python"
 }, {
   "title" : "Senior QA Engineer (1)",
@@ -1202,7 +1265,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532065&ec=DEFZZZ",
   "datePosted" : [ 2026, 8, 4, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 17 ],
+  "scrapedDate" : [ 2026, 8, 18 ],
   "description" : "Senior AI Solutions Engineer"
 }, {
   "title" : "Integration Engineer (1)",

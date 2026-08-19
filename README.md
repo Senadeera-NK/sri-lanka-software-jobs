@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** August 19,11:27 AM (Just now)  | **Total Jobs Found:** 138
+> 🟢 **Last Updated:** August 19,5:22 PM (Just now)  | **Total Jobs Found:** 144
 
 ### 🎓 Internships & Trainees  (27)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Solution Engineering Intern](https://itpro.lk/job/14751/solution-engineering-intern-at-emojot/) | Emojot | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern - Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001537759&ec=0000000603) | Hirdaramani - H CONNECT (PVT) LIMITED | Intern | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Solution Engineering Intern](https://itpro.lk/job/14751/solution-engineering-intern-at-emojot/) | Emojot | Intern | Yesterday | ITPro.lk |
+| [Intern - Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001537759&ec=0000000603) | Hirdaramani - H CONNECT (PVT) LIMITED | Intern | Yesterday | TopJobs.lk |
 | [Intern - Software Engineering](https://rooster.jobs/jobs/519273) | Zegates International Private Limited | Intern | 3&nbsp;days&nbsp;ago | Rooster.jobs |
 | [Intern QA Engineer (Paid)](https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/) | Nippon IT and Educational Solution (NITES) | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineering Intern](https://itpro.lk/job/14723/software-engineering-intern-at-synapse-solutions-pvt-ltd/) | Synapse Solutions Pvt Ltd | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -52,25 +52,30 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (78)
+### 💻 Associate & Junior/SE Roles  (83)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [D365 Test Engineer (Quality Engineer)](https://itpro.lk/job/14761/d365-test-engineer-quality-engineer-at-jit-resourcing-consultancy-services/) | JIT Resourcing & Consultancy Services | Junior/SE | 7&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Software Engineer – Frontend (React.js)](https://itpro.lk/job/14759/software-engineer-frontend-reactjs-at-wisdom-recruitments/) | Wisdom RecruitmentS | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [C# Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Embedded Software Engineer (Security-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developers (BPO)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ) | eBEYONDS (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538373&ec=0000000492) | Jobfactory | Associate | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538372&ec=0000000492) | Jobfactory | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Business Center Quality Control Supervisor (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001538302&ec=0000000178) | Nawaloka Hospitals PLC | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Software Engineer](https://itpro.lk/job/14747/associate-software-engineer-at-corechip-digital/) | Corechip Digital | Associate | 23&nbsp;hours&nbsp;ago | ITPro.lk |
-| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Trainee Data Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538008&ec=DEFZZZ) | Star Holdings International (Pvt) Ltd | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developer](https://itpro.lk/job/14746/web-developer-at-digital-one-labs/) | Digital One Labs | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [D365 Test Engineer (Quality Engineer)](https://itpro.lk/job/14763/d365-test-engineer-quality-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [D365 Test Engineer (Quality Engineer)](https://itpro.lk/job/14761/d365-test-engineer-quality-engineer-at-jit-resourcing-consultancy-services/) | JIT Resourcing & Consultancy Services | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer – Frontend (React.js)](https://itpro.lk/job/14759/software-engineer-frontend-reactjs-at-wisdom-recruitments/) | Wisdom RecruitmentS | Junior/SE | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [C# Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532346&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Embedded Software Engineer (Security-Focused)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533175&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developers (BPO)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001533643&ec=DEFZZZ) | eBEYONDS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538862&ec=0000000492) | Jobfactory | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538864&ec=0000000492) | Jobfactory | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Business Center Quality Control Supervisor (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001538302&ec=0000000178) | Nawaloka Hospitals PLC | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Satellite & RF Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538696&ec=DEFZZZ) | Assendive Communications (Pvt) limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538548&ec=DEFZZZ) | Innovis Engineering Pvt Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538546&ec=DEFZZZ) | Innovis Engineering Pvt Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer](https://itpro.lk/job/14747/associate-software-engineer-at-corechip-digital/) | Corechip Digital | Associate | Yesterday | ITPro.lk |
+| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Trainee Data Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538008&ec=DEFZZZ) | Star Holdings International (Pvt) Ltd | Associate | Yesterday | TopJobs.lk |
+| [Web Developer](https://itpro.lk/job/14746/web-developer-at-digital-one-labs/) | Digital One Labs | Junior/SE | Yesterday | ITPro.lk |
 | [.NET/ SharePoint Developer](https://itpro.lk/job/14733/net-sharepoint-developer-at-directfn/) | DirectFN | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Engineer](https://itpro.lk/job/14730/qa-engineer-at-surecore-pvt-ltd/) | Surecore (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Executive - Data Protection - Hemas Hospital (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000038&jc=0001537592&ec=0000000038) | Hemas Holdings PLC | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -137,14 +142,15 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (33)
+### 🚀 Senior & Lead Roles  (34)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer – Full Stack](https://itpro.lk/job/14752/senior-software-engineer-full-stack-at-softvil-technologies/) | Softvil Technologies | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Full-Stack Software Developer - Practice Management Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538796&ec=DEFZZZ) | Company Name Withheld | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior \| Senior Software Business Analyst (Managing Client Accounts)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538768&ec=DEFZZZ) | Media Defined (Pvt) Ltd | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer – Full Stack](https://itpro.lk/job/14752/senior-software-engineer-full-stack-at-softvil-technologies/) | Softvil Technologies | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer](https://itpro.lk/job/14744/senior-software-engineer-at-surecore-pvt-ltd/) | Surecore (Pvt) Ltd | Senior | Yesterday | ITPro.lk |
-| [Senior Full-Stack Software Developer - Practice Management Platform](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer (Full-Stack)](https://itpro.lk/job/14740/senior-software-engineer-fullstack-at-microwe/) | MicroWe | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer](https://itpro.lk/job/13840/senior-software-engineer-at-bitslize-concepts/) | BitSlize Concepts | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior .NET Core Software Engineer](https://itpro.lk/job/14729/senior-net-core-software-engineer-at-xventure/) | X-Venture | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |

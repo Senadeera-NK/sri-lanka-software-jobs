@@ -1,5 +1,14 @@
 [ {
   "title" : "D365 Test Engineer (Quality Engineer)",
+  "company" : "Softvil Technologies",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14763/d365-test-engineer-quality-engineer-at-softvil-technologies/",
+  "datePosted" : [ 2026, 8, 19, 11, 33, 12 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "We are looking for an experienced D365 Test Engineer / Quality Engineer to support a Microsoft Dynamics 365 Finance & Operations transformation programme. Key Skills & Experience: Microsoft Dynamics 365 Finance & Operations (D365 F&O) Functional Testing, SIT, Regression Testing & UAT Support Azure DevOps (ADO) Test Plans Test Case Design, Execution & Defect Management Leapwork Test Automation Selenium / Tricentis or similar automation tools ERP Integration Testing APIs, Middleware, EDI & Data Synchronization D365 F&O business processes across Finance, Supply Chain, Commercial, or Platform domains Ability to interpret FDDs, TDDs & BPMs Postman / Swagger / Azure API Management – added advantage ISTQB certification – added advantage The ideal candidate should have hands-on experience testing D365 F&O in a full lifecycle implementation and be comfortable working with UK-based teams. \uD83C\uDF0D Remote role from Sri Lanka \uD83D\uDD52 Must be able to work UK hours (GMT/BST) \uD83D\uDCE9 Interested candidates can send their CV and include: Notice Period Expected Gross Salary NIC"
+}, {
+  "title" : "D365 Test Engineer (Quality Engineer)",
   "company" : "JIT Resourcing & Consultancy Services",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",
@@ -66,7 +75,7 @@
   "company" : "Jobfactory",
   "level" : "Associate",
   "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538373&ec=0000000492",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538862&ec=0000000492",
   "datePosted" : [ 2026, 8, 19, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 19 ],
   "description" : "Associate Software Engineer (1)"
@@ -75,7 +84,7 @@
   "company" : "Jobfactory",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538372&ec=0000000492",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538864&ec=0000000492",
   "datePosted" : [ 2026, 8, 19, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 19 ],
   "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
@@ -88,6 +97,69 @@
   "datePosted" : [ 2026, 8, 19, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 19 ],
   "description" : "Business Center Quality Control Supervisor (1)"
+}, {
+  "title" : "SQL Database Administrator (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "SQL Database Administrator (1)"
+}, {
+  "title" : "Senior Full-Stack Software Developer - Practice Management Platform",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538796&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "Senior Full-Stack Software Developer - Practice Management Platform"
+}, {
+  "title" : "Junior | Senior Software Business Analyst (Managing Client Accounts)",
+  "company" : "Media Defined (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538768&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "Junior | Senior Software Business Analyst (Managing Client Accounts)"
+}, {
+  "title" : "Satellite & RF Engineer",
+  "company" : "Assendive Communications (Pvt) limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538696&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "Satellite & RF Engineer"
+}, {
+  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
+  "company" : "Thakshana Technologies (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
+}, {
+  "title" : "QA Engineer",
+  "company" : "Innovis Engineering Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538548&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "QA Engineer"
+}, {
+  "title" : "Full Stack Developer",
+  "company" : "Innovis Engineering Pvt Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538546&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 19, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 19 ],
+  "description" : "Full Stack Developer"
 }, {
   "title" : "Senior Software Engineer – Full Stack",
   "company" : "Softvil Technologies",
@@ -115,15 +187,6 @@
   "datePosted" : [ 2026, 8, 18, 12, 12, 31 ],
   "scrapedDate" : [ 2026, 8, 19 ],
   "description" : "Are you a passionate software developer looking for a full-time remote opportunity to grow your career and work on real-world software projects? CoreChip Digital is looking for a talented Associate Software Engineer to join our growing development team. Requirements 1+ year of software development experience Knowledge of Laravel & PHP Good understanding of JavaScript, HTML & CSS Experience with MySQL / SQL Familiarity with Git & GitHub Strong problem-solving and debugging skills WordPress, WooCommerce & Elementor experience will be an added advantage. Responsibilities Develop and maintain web applications Build APIs and backend functionality Work with databases and third-party integrations Fix bugs and improve existing systems Collaborate with our development team on real-world projects Work remotely. Build great software. Grow with us."
-}, {
-  "title" : "SQL Database Administrator (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 8, 18, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 19 ],
-  "description" : "SQL Database Administrator (1)"
 }, {
   "title" : "Data Platform Engineer (1)",
   "company" : "CMS (Pvt) Ltd",
@@ -178,15 +241,6 @@
   "datePosted" : [ 2026, 8, 18, 8, 8, 49 ],
   "scrapedDate" : [ 2026, 8, 19 ],
   "description" : "Join Surecore and work closely with our IOS Architect and cross-functional teams to design, build and deliver scalable, secure and intelligent solutions on our enterprise insurance platform. Help us power the next generation of the Insurance Operating System (IOS). You will follow a business concept from its source data and database model through Python services and JSON APIs to the user interface-understanding the business meaning of data and delivering value at every layer. What You'll Do Design, develop and maintain scalable backand services, APIs and business logic in Python. Work with FastAPI, Pydantic, SQLAlchemy and Alembic to build robust applications. Design and optimize data models, queries and database performance. Investigate complex issues across data, business logic, APIs, Ul and infrastructure layers. Lead and build integrations with Snowflake and other external systems. Create automated tests and ensure high code quality through reviews and best practices. Support UAT, releases and production troubleshooting. Contribute to React and TypeScript components when required. Mentor junior engineers and collaborate with the IOS Architect and product teams. What We Are Looking For 5+ years of professional software development experience with a strong focus on backend. Strong hands-on experience with Python and production systems. Proficiency in REST APIs, JSON and OpenAPI. Expertise in SQL and relational databases (eg, PostgreSQL). Strong experience with SQLAlchemy and Alembic (migrations). Solid understanding of layered architecture, domain modelling and separation of responsibilities. Ability to translate business requirements into technical solutions. Experience with Pytest or other automated testing frameworks. Familiarity with Git, Docker and CVCD pipelines. Experience with AWS, Snowflake, Keycloak, Java/Spring Boot or financial/insurance systems is an advantage. Excellent problem-solving skills and the ability to work independently. About Surecore Surecore is building the next generation insurance Operating System (IOS) to help insurers operate smarter, integrate faster and serve their customers better."
-}, {
-  "title" : "Senior Full-Stack Software Developer - Practice Management Platform",
-  "company" : "Company Name Withheld",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001532091&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 18, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 18 ],
-  "description" : "Senior Full-Stack Software Developer - Practice Management Platform"
 }, {
   "title" : "Senior Software Engineer (Full-Stack)",
   "company" : "MicroWe",

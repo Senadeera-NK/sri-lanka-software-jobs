@@ -1,4 +1,31 @@
 [ {
+  "title" : "Senior Software Architect - Energy Intelligence Platform",
+  "company" : "",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14801/senior-software-architect-energy-intelligence-platform-at-/",
+  "datePosted" : [ 2026, 8, 21, 15, 45, 15 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "Job Summary We are seeking an experienced Senior Software Architect to lead the architecture and technical direction of a mature Energy Intelligence and IoT platform. The ideal candidate will be responsible for driving the technical vision, ensuring platform stability, scalability, security, and performance, while leading the modernization of legacy applications and evolving the platform's cloud-native architecture. This role requires close collaboration with Product Owners, development teams, and stakeholders to deliver high-quality solutions and provide technical leadership across the engineering team. Key responsibilities Lead the overall technical architecture for the platform, including front-end, back end, integrations, data models, and non-functional requirements. Design and evolve microservices architecture and AWS serverless solutions while integrating with existing Laravel and AngularJS applications. Define and execute a phased modernization strategy for legacy systems, including migration from AngularJS to modern technologies. Own API architecture, system integrations, AWS deployment architecture, and CI/CD processes. Establish engineering standards, secure coding practices, code reviews, automated testing, and software quality guidelines. Review technical designs and code to ensure scalability, maintainability, performance, and security. Lead and mentor senior developers by providing architectural guidance and technical leadership. Collaborate with Product Owners and stakeholders to define technical roadmaps, delivery plans, and effort estimations. Identify and mitigate technical risks while ensuring the security and protection of customer and platform data. Drive continuous improvement initiatives across software architecture, engineering processes, and platform modernization. Core Competencies Required Bachelor's/ Master's degree in Computer Science, Software Engineering, or a related field, or equivalent professional experience. 10+ years of experience in software engineering, including proven experience as a Software Architect or Technical Lead supporting production SaaS platforms. Must be willing to work at office for a contract basis role. (06 Month 01 Year Renewable Contract) Strong hands-on experience with PHP, Laravel, AngularJS (Angular 1.x), Node.js, and/or Python. Strong experience designing scalable application architecture, distributed systems, and microservices. Hands-on experience with AWS, including Lambda, serverless architectures, and cloud-native application development. Experience designing and implementing RESTful APIs, system integrations, and endto-end application architecture. Strong knowledge of CI/CD pipelines, automated testing, secure software development practices, and DevSecOps principles. Experience maintaining, refactoring, and modernizing legacy enterprise applications. Strong knowledge of data modelling, application security, scalability, high availability, and performance optimization. Experience working with IoT platforms, energy or utility systems, time-series data, regulated environments, or data-sensitive applications. Familiarity with jQuery and MySQL. Excellent analytical, problem-solving, communication, stakeholder management, and leadership skills. Proven ability to mentor engineering teams and drive technical excellence across complex software projects."
+}, {
+  "title" : "Full Stack Developer",
+  "company" : "Xleron",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14798/full-stack-developer-at-xleron/",
+  "datePosted" : [ 2026, 8, 21, 14, 12, 53 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "We’re looking for a talented Full Stack Developer with 2+ years of professional experience to join our growing team and build scalable, high-quality web applications. Key Responsibilities Develop scalable web applications using Next.js Work with PostgreSQL & Drizzle ORM Build applications using Turborepo / Monorepo Develop scalable microservices with Nest.js Work with REST APIs & GraphQL Write unit and integration test Follow SOLID principles and clean architecture Collaborate with product and engineering teams Requirements 2+ years of professional Full Stack Development experience Strong proficiency in Next.js, React, and TypeScript Experience with Tailwind CSS Strong knowledge of PostgreSQL & Drizzle ORM Hands-on experience with Nest.js and microservices Familiarity with Turborepo / Monorepo architecture Experience with REST APIs & GraphQL Good understanding of Git Experience with unit and integration testing What We Offer Remote work environment Modern technology stack Meaningful and challenging projects Collaborative team culture Opportunities for learning and growth Join Xleron and be part of a team building innovative digital solutions."
+}, {
+  "title" : "Software Engineering Intern / Trainee",
+  "company" : "Nothing Apps (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14794/software-engineering-intern-trainee-at-nothing-apps-pvt-ltd/",
+  "datePosted" : [ 2026, 8, 21, 11, 40, 9 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "We are looking for a Software Engineering Intern / Trainee who has: Strong programming fundamentals The ability to explain technical concepts clearly in English Hands-on experience with the MERN stack Availability to work full-time Application Requirement As part of the application process, please create a 1–2 minute screen recording demonstrating how you use Google to search for information and find answers The recording should: Show your screen while you search for answers Include a clear voice-over Explain your search process and how you identify useful/reliable information Application Closing Date - 28 Aug 2026 Internship Details Duration: 6 months Type: Paid internship Availability: Full-time Work location: Jaffna How to Apply Upload your screen-recording video to Google Drive and share the link, along with your CV, by emailing: jobs@eagleitechsolutions.com"
+}, {
   "title" : "Full Stack Developer Intern",
   "company" : "Ranga Technologies",
   "level" : "Intern",
@@ -70,6 +97,51 @@
   "datePosted" : [ 2026, 8, 21, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 21 ],
   "description" : "Information Security Analyst (1)"
+}, {
+  "title" : "ATL / SSE Front End Developer (1)",
+  "company" : "Sumathi Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
+  "datePosted" : [ 2026, 8, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "ATL / SSE Front End Developer (1)"
+}, {
+  "title" : "Sports Data & Content Executive (1)",
+  "company" : "Sumathi Group",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001533998&ec=0000000555",
+  "datePosted" : [ 2026, 8, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "Sports Data & Content Executive (1)"
+}, {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 8, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "Senior SQL Developer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539647&ec=0000000350",
+  "datePosted" : [ 2026, 8, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "Senior SQL Developer (1)"
+}, {
+  "title" : "Software QA Intern",
+  "company" : "Activ8 Asia",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001539646&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 21, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 21 ],
+  "description" : "Software QA Intern"
 }, {
   "title" : "Senior Tech Lead / Associate Architect",
   "company" : "Xeynergy",
@@ -602,15 +674,6 @@
   "scrapedDate" : [ 2026, 8, 21 ],
   "description" : "AI Engineer - Remote | Hybrid"
 }, {
-  "title" : "ATL / SSE Front End Developer (1)",
-  "company" : "Sumathi Group",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001523743&ec=0000000555",
-  "datePosted" : [ 2026, 8, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 21 ],
-  "description" : "ATL / SSE Front End Developer (1)"
-}, {
   "title" : "Junior Developer",
   "company" : "Levein",
   "level" : "Junior/SE",
@@ -1123,15 +1186,6 @@
   "datePosted" : [ 2026, 8, 10, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 10 ],
   "description" : "Junior Web Developer"
-}, {
-  "title" : "Sports Data & Content Executive (1)",
-  "company" : "Sumathi Group",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000421&jc=0001533998&ec=0000000555",
-  "datePosted" : [ 2026, 8, 8, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 21 ],
-  "description" : "Sports Data & Content Executive (1)"
 }, {
   "title" : "QA Engineers (Manual Testing / Automation Testing)",
   "company" : "Enhanzer",

@@ -1,4 +1,13 @@
 [ {
+  "title" : "Python Backend Developer Intern",
+  "company" : "Era Biz Solutions",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14813/python-backend-developer-intern-at-era-biz-solutions/",
+  "datePosted" : [ 2026, 8, 22, 16, 11, 17 ],
+  "scrapedDate" : [ 2026, 8, 22 ],
+  "description" : "Hiring: Python Backend Developer Intern (100% Onsite – Kottawa R&D Center) Are you a budding backend engineer who loves solving complex architectural problems rather than just copy-pasting code? Era Biz Solutions is looking for you! We value true problem-solvers. If you want to fast-track your engineering skills under the direct mentorship of senior developers, join us at our Kottawa R&D Center. What You Will Do: Design, build, and optimize robust APIs using FastAPI. Manage databases and query optimization with PostgreSQL. Participate in daily 1-on-1 mentoring sessions with senior engineers. What We Are Looking For: Hands-on project exposure to FastAPI & PostgreSQL. True Fundamental Understanding: We want engineers who know why their code works. No blind AI-generated code pasting. Our Selection Process: We believe in practical capability. Candidates will undergo an initial, hands-on technical task evaluation to test their live FastAPI and PostgreSQL coding skills."
+}, {
   "title" : "Software Engineer",
   "company" : "Prima Management Services (Pvt) Ltd",
   "level" : "Junior/SE",

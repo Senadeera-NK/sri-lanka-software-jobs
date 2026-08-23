@@ -16,13 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** August 23,11:27 AM (Just now)  | **Total Jobs Found:** 136
+> 🟢 **Last Updated:** August 23,5:18 PM (Just now)  | **Total Jobs Found:** 137
 
-### 🎓 Internships & Trainees  (23)
+### 🎓 Internships & Trainees  (24)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Python Backend Developer Intern](https://itpro.lk/job/14813/python-backend-developer-intern-at-era-biz-solutions/) | Era Biz Solutions | Intern | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Web Developer Intern](https://itpro.lk/job/14820/web-developer-intern-at-nexus-grow/) | Nexus Grow | Intern | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Python Backend Developer Intern](https://itpro.lk/job/14813/python-backend-developer-intern-at-era-biz-solutions/) | Era Biz Solutions | Intern | Yesterday | ITPro.lk |
 | [Software QA Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001539646&ec=DEFZZZ) | Activ8 Asia | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineering Intern / Trainee](https://itpro.lk/job/14794/software-engineering-intern-trainee-at-nothing-apps-pvt-ltd/) | Nothing Apps (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Full Stack Developer Intern](https://itpro.lk/job/14021/full-stack-developer-intern-at-ranga-technologies/) | Ranga Technologies | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -52,8 +53,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 11&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full Stack Developer](https://itpro.lk/job/14798/full-stack-developer-at-xleron/) | Xleron | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |

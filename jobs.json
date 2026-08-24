@@ -1,4 +1,22 @@
 [ {
+  "title" : "Associate Software Engineer",
+  "company" : "Haulmatic Technologies",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14835/associate-software-engineer-at-haulmatic-technologies/",
+  "datePosted" : [ 2026, 8, 24, 13, 2, 9 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "WE ARE BUILDING FUTURE We're rebuilding the digital supply chain, procurement, logistics, transportation, and everything that moves the world. The tools have changed, and the bar for engineering judgment has gone up with them. WHAT THE ROLE LOOKS LIKE We're not hiring people to memorize syntax. We're hiring architects and editors: engineers who can turn a vague problem into a precise spec, direct AI to build it, and catch the moment it's confidently wrong. Ownership and autonomy — you'll shape architecture, not just close tickets Real, complex problems in a fast-moving team A modern workflow built around AI dev tools, used well YOU'LL FIT, IF YOU ARE: Reason clearly about code , and can defend your choices without the AI Communicate with precision (great prompts start as great writing) Know when to trust AI output, and when not to Are strong in JavaScript/TypeScript and/or Java, comfortable across stacks and cloud Have hands-on exposure to any of: Angular, GraphQL, NestJS, Flutter, MongoDB, Kubernetes, GCP Bring curiosity, ownership, and a willingness to be coached Fresh graduates welcome, we hire for trainable judgment, not years on a résumé."
+}, {
+  "title" : "Associate QA Engineer",
+  "company" : "Haulmatic Technologies",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14833/associate-qa-engineer-at-haulmatic-technologies/",
+  "datePosted" : [ 2026, 8, 24, 12, 57, 12 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "WHO WE ARE At Haulmatic, we transcend boundaries with a pioneering spirit of transformation. Our mission extends beyond traditional software; we lead the charge in revolutionizing supply chain digitization, transforming logistics, transportation, and everything beyond. HOW WE WORK Our working environment is fast-paced, demanding, and deeply collaborative. As a QA Engineer at Haulmatic, you will be responsible for ensuring the quality of every shipped product and continuously contributing to customer success by maintaining and improving our quality standards. RESPONSIBILITIES Collaborate closely with Product, Engineering, and Business teams to understand requirements and define testing scope. Write comprehensive test cases, execute tests, report defects, and manage the full bug life cycle. Track defects and report them in JIRA, working closely with developers to ensure timely resolution. Create and maintain test data and test environments to support functional, regression, and exploratory testing activities. Use risk-based and coverage-based testing techniques to maximise test coverage, focusing on the most critical features and flows. Plan and prioritise your work to meet deadlines and deliver under pressure. Contribute to continuous improvement of QA processes, documentation, and best practices. SKILLS & QUALIFICATIONS Degree in Software Engineering, Computer Science, Information Technology, Business Information Systems, or a related field. 1+ years of hands-on experience as a QA Engineer in the software industry. Strong experience testing Web applications and mobile applications (Android and iOS). Proficiency in using JIRA (or similar tools) for issue tracking and defect management. Experience working in fast-paced, Agile/Scrum environments with tight delivery timelines. Strong analytical skills, attention to detail, and a structured approach to testing. Enthusiastic, proactive, and a strong team player with a growth mindset. Excellent interpersonal and communication skills, with the ability to work effectively with cross-functional teams. NICE TO HAVE Experience with test automation (e.g. Playwright, Cypress, Selenium, Appium or similar). Experience in API testing (Postman, REST clients, or automation-based API tests). Familiarity with SQL and basic database validation. Exposure to CI/CD pipelines and integrating tests into build pipelines (GitHub Actions, GitLab CI, Azure DevOps, etc.). Experience in performance, load, or security testing tools is an added advantage. Previous experience in logistics, transportation, supply chain, or fleet management/TMS domains. Experience with test management tools (e.g. Testiny, TestRail, Zephyr, etc.)."
+}, {
   "title" : "Associate Quality Assurance Engineer",
   "company" : "PacificKode",
   "level" : "Associate",
@@ -61,6 +79,60 @@
   "datePosted" : [ 2026, 8, 24, 0, 0 ],
   "scrapedDate" : [ 2026, 8, 24 ],
   "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
+}, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540504&ec=0000000492",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540502&ec=0000000492",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
+}, {
+  "title" : "Senior Full-Stack Developer - React Native | Next.js",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540396&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "Senior Full-Stack Developer - React Native | Next.js"
+}, {
+  "title" : "Head of Software Delivery (1)",
+  "company" : "Synapsys",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001540395&ec=0000000373",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "Head of Software Delivery (1)"
+}, {
+  "title" : "AI Trainer",
+  "company" : "Curve Up (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540390&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "AI Trainer"
+}, {
+  "title" : "AI Engineers / AI Forward Deployed Engineers (Remote)",
+  "company" : "Insight Software Solutions Pty Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540307&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 24, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 24 ],
+  "description" : "AI Engineers / AI Forward Deployed Engineers (Remote)"
 }, {
   "title" : "Full Stack Intern",
   "company" : "Pandyt",
@@ -385,24 +457,6 @@
   "datePosted" : [ 2026, 8, 19, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 20 ],
   "description" : "Junior Embedded Software Engineer (Security-Focused)"
-}, {
-  "title" : "Associate Software Engineer (1)",
-  "company" : "Jobfactory",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538862&ec=0000000492",
-  "datePosted" : [ 2026, 8, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 24 ],
-  "description" : "Associate Software Engineer (1)"
-}, {
-  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
-  "company" : "Jobfactory",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001538864&ec=0000000492",
-  "datePosted" : [ 2026, 8, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 24 ],
-  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
 }, {
   "title" : "Business Center Quality Control Supervisor (1)",
   "company" : "Nawaloka Hospitals PLC",

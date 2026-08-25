@@ -1,4 +1,112 @@
 [ {
+  "title" : "Associate QA Engineer",
+  "company" : "Kangaro Tech",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14848/associate-qa-engineer-at-kangaro-tech/",
+  "datePosted" : [ 2026, 8, 25, 16, 10, 19 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "About the Role We are looking for an Associate QA Engineer who is passionate about software quality and wants to play an active role in delivering reliable, scalable, and high-quality software products. What We're Looking For 1+ years of experience in Software Quality Assurance / Software Testing Strong understanding of SDLC and STLC Good knowledge of functional and non-functional testing Experience creating test cases, test scenarios, test plans, and test reports Strong understanding of API testing using tools such as Postman Good understanding of REST APIs Experience with database testing and basic SQL queries Understanding of web application testing Good knowledge of Smoke, Sanity, Regression, Integration, and Exploratory Testing Understanding of the Defect/Bug Life Cycle Good understanding of Severity vs Priority Experience with issue tracking tools such as Jira Familiarity with Git and software development workflows Basic understanding of CI/CD pipelines Ability to understand technical requirements and translate them into effective test scenarios Strong analytical, problem-solving, and communication skills Automation & Technical Skills Basic experience or understanding of test automation Experience with Playwright, Cypress, Selenium, or similar tools is an advantage Understanding of automated API testing is an advantage Basic understanding of JavaScript / TypeScript or another programming language Familiarity with Docker is an advantage Understanding of microservices and distributed systems is an advantage Basic understanding of Kafka / event-driven systems is a plus Familiarity with AWS or cloud-based applications is an advantage What You'll Do Analyze requirements and identify potential quality risks Create detailed test scenarios and test cases Perform functional, regression, integration, smoke, sanity, and exploratory testing Test REST APIs and backend services Perform database validation using SQL Identify, document, and track defects using Jira Work closely with developers to investigate and reproduce issues Participate in sprint planning, refinement, and other Agile ceremonies Contribute to test automation initiatives Perform regression testing for new releases Validate fixes and ensure defects are properly resolved Support release and deployment validation Continuously improve QA processes and testing practices What We Offer Opportunity to work on real-world SaaS and fintech-oriented products Exposure to modern web applications, APIs, microservices, and cloud environments Hands-on experience with modern QA and automation practices Collaborative environment with experienced engineers Opportunities to develop both technical and QA skills Career growth opportunities within the engineering team If you are passionate about software quality and want to grow as a modern QA Engineer while working on real-world products, we'd love to hear from you. Apply now and become part of our engineering team."
+}, {
+  "title" : "Associate Software Engineer – Full Stack (Java + Next.js)",
+  "company" : "Kangaro Tech",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14847/associate-software-engineer-full-stack-java-nextjs-at-kangaro-tech/",
+  "datePosted" : [ 2026, 8, 25, 16, 3, 57 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "About the Company We are an Australia-based technology and product engineering company focused on building cutting-edge SaaS, AI, and enterprise-grade solutions. We bridge the gap between complex business challenges and high-performance software systems through engineering excellence, scalable architectures, and modern cloud technologies. Join our growing engineering team in Sri Lanka and work on international-scale products serving Australian and global markets. About the Role We are looking for an Associate Software Engineer to join our engineering team and contribute to building scalable, reliable, and production-ready software products. You will work closely with senior engineers, QA engineers, and product stakeholders to design, develop, test, and continuously improve modern applications and backend services. What You'll Do Develop and maintain backend services using Spring Boot Build and enhance frontend applications using Next.js / React Design and consume REST APIs Work with microservices and event-driven architectures Work with messaging systems such as Apache Kafka Design and optimize database queries and data models Write clean, maintainable, and testable code Collaborate with QA engineers to ensure product quality Debug and resolve production and development issues Participate in code reviews and technical discussions Contribute to improving development, deployment, and engineering practices What We're Looking For 1+ years of professional software engineering experience Strong understanding of Java and Spring Boot Good experience with Next.js / React and modern frontend development Strong understanding of RESTful APIs and backend development Good understanding of Microservices Architecture Basic to intermediate knowledge of Apache Kafka and event-driven architecture Good understanding of PostgreSQL / MySQL or other relational databases Understanding of Git and collaborative development workflows Familiarity with Docker and containerized applications Understanding of software development principles, clean code, and design patterns Good understanding of OOP and SOLID principles Ability to understand existing codebases and contribute to production systems Strong problem-solving and debugging skills Strong communication and teamwork skills Nice to Have Experience with distributed systems Knowledge of Redis Experience with AWS or other cloud platforms Understanding of CI/CD pipelines Familiarity with Kubernetes Experience with automated testing Understanding of system design and scalability Experience working in an Agile/Scrum environment What We Offer Opportunity to work on real-world SaaS and international-scale products for Australian and global markets Hands-on exposure to modern cloud, microservices, and distributed systems Experience working with modern software architecture and engineering practices A collaborative and growth-oriented engineering environment Opportunities for continuous learning and career advancement The opportunity to take ownership, solve meaningful engineering problems, and grow with a dynamic team If you are passionate about software engineering and want to build scalable products while continuously growing your technical skills, we'd love to hear from you. Apply now and join our engineering team."
+}, {
+  "title" : "Software Engineer (Full-Stack)",
+  "company" : "Vision Designing",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/12459/software-engineer-fullstack-at-vision-designing/",
+  "datePosted" : [ 2026, 8, 25, 13, 37, 57 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "We're Hiring: Software Engineer (Full-Stack) Vision Designing is growing, and we're looking for a talented Full-Stack Software Engineer to join our innovative team! We are seeking an experienced developer to build high-performance, scalable, and user-friendly web and mobile applications. If you are passionate about modern frameworks, cloud infrastructure, and mobile innovation, we would love to meet you. Key Responsibilities: Design, develop, and maintain scalable web and mobile applications. Deploy and manage applications on AWS infrastructure (EC2, Lambda, S3, RDS). Collaborate closely with design, QA, and DevOps teams for seamless product delivery. Write clean, secure, and maintainable code. Ensure performance, reliability, and scalability across all platforms. What We're Looking For: Minimum of 2 years of professional experience in software development. Strong knowledge of .NET / .NET Core, C#, React Native, and Next.js. Hands-on experience with AWS services (EC2, Lambda, S3, RDS, CloudFormation). Familiarity with both SQL (SQL Server, PostgreSQL) and NoSQL (MongoDB) databases. Solid understanding of REST APIs, Git, and CI/CD pipelines. Bachelor's degree in Computer Science, IT, or a related field (completed or currently pursuing). Excellent analytical, debugging, and teamwork skills . If you are passionate about coding and want to grow your career, we'd love to meet you!"
+}, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001541086&ec=0000000492",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001541088&ec=0000000492",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
+}, {
+  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
+  "company" : "Thakshana Technologies (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
+}, {
+  "title" : "Junior Mobile App Developer",
+  "company" : "Nascent Grow (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Junior Mobile App Developer"
+}, {
+  "title" : "Junior Web & Backend Developer",
+  "company" : "Nascent Grow (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Junior Web & Backend Developer"
+}, {
+  "title" : "Software Development Intern",
+  "company" : "Dynamical",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540883&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Software Development Intern"
+}, {
+  "title" : "Technical Lead - AI - Software",
+  "company" : "Company Name Withheld",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540822&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Technical Lead - AI - Software"
+}, {
+  "title" : "Software Developer",
+  "company" : "SME Bizness (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540556&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Software Developer"
+}, {
+  "title" : "Remote Voicebot Developer & Tester",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 8, 25 ],
+  "description" : "Remote Voicebot Developer & Tester"
+}, {
   "title" : "Unity Game Developer Intern / Trainee (PC, Mobile & VR)",
   "company" : "Anthem Studios",
   "level" : "Intern",
@@ -43,24 +151,6 @@
   "datePosted" : [ 2026, 8, 24, 12, 57, 12 ],
   "scrapedDate" : [ 2026, 8, 25 ],
   "description" : "WHO WE ARE At Haulmatic, we transcend boundaries with a pioneering spirit of transformation. Our mission extends beyond traditional software; we lead the charge in revolutionizing supply chain digitization, transforming logistics, transportation, and everything beyond. HOW WE WORK Our working environment is fast-paced, demanding, and deeply collaborative. As a QA Engineer at Haulmatic, you will be responsible for ensuring the quality of every shipped product and continuously contributing to customer success by maintaining and improving our quality standards. RESPONSIBILITIES Collaborate closely with Product, Engineering, and Business teams to understand requirements and define testing scope. Write comprehensive test cases, execute tests, report defects, and manage the full bug life cycle. Track defects and report them in JIRA, working closely with developers to ensure timely resolution. Create and maintain test data and test environments to support functional, regression, and exploratory testing activities. Use risk-based and coverage-based testing techniques to maximise test coverage, focusing on the most critical features and flows. Plan and prioritise your work to meet deadlines and deliver under pressure. Contribute to continuous improvement of QA processes, documentation, and best practices. SKILLS & QUALIFICATIONS Degree in Software Engineering, Computer Science, Information Technology, Business Information Systems, or a related field. 1+ years of hands-on experience as a QA Engineer in the software industry. Strong experience testing Web applications and mobile applications (Android and iOS). Proficiency in using JIRA (or similar tools) for issue tracking and defect management. Experience working in fast-paced, Agile/Scrum environments with tight delivery timelines. Strong analytical skills, attention to detail, and a structured approach to testing. Enthusiastic, proactive, and a strong team player with a growth mindset. Excellent interpersonal and communication skills, with the ability to work effectively with cross-functional teams. NICE TO HAVE Experience with test automation (e.g. Playwright, Cypress, Selenium, Appium or similar). Experience in API testing (Postman, REST clients, or automation-based API tests). Familiarity with SQL and basic database validation. Exposure to CI/CD pipelines and integrating tests into build pipelines (GitHub Actions, GitLab CI, Azure DevOps, etc.). Experience in performance, load, or security testing tools is an added advantage. Previous experience in logistics, transportation, supply chain, or fleet management/TMS domains. Experience with test management tools (e.g. Testiny, TestRail, Zephyr, etc.)."
-}, {
-  "title" : "Associate Software Engineer (1)",
-  "company" : "Jobfactory",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540504&ec=0000000492",
-  "datePosted" : [ 2026, 8, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 25 ],
-  "description" : "Associate Software Engineer (1)"
-}, {
-  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
-  "company" : "Jobfactory",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540502&ec=0000000492",
-  "datePosted" : [ 2026, 8, 24, 12, 0 ],
-  "scrapedDate" : [ 2026, 8, 25 ],
-  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
 }, {
   "title" : "Senior Full-Stack Developer - React Native | Next.js",
   "company" : "Company Name Withheld",
@@ -151,15 +241,6 @@
   "datePosted" : [ 2026, 8, 24, 5, 44, 17 ],
   "scrapedDate" : [ 2026, 8, 25 ],
   "description" : "**Who we are** Planlogic supports Australia’s financial advice industry by helping advisers deliver high-quality, compliant financial plans. With teams across Sri Lanka, India, and the Philippines, our operations rely on secure, high-performing technology systems. We're looking for a Software Engineer to join Planlogic's core tech team. You'll work on building new features, maintaining existing systems, and improving reliability and performance across the stack. **Core Duties & Responsibilities** - **Design and build full-stack systems** using React, Next.js, TypeScript/JavaScript, Python and .NET to support Planlogic's operations and client delivery. - **Develop secure APIs and services** with OAuth2/OpenID Connect authentication, working across PostgreSQL, SQL Server, Cosmos DB and Redis for performant data handling. - **Build cloud-native architecture** on Azure, using Docker, Terraform and microservices patterns, including integrations with platforms like Xplan. - **Apply AI technologies** (Azure OpenAI, AI agents, RAG, workflow automation) to internal tools and product features. - **Maintain code quality and reliabilit**y through code reviews, testing, CI/CD via GitHub and production troubleshooting within ISO 27001 security standards. - **Collaborate cross-functionally** with product, operations and business teams - translating requirements into technical solutions, documenting systems/APIs and participating in agile ceremonies. **What We're Looking For:** - **1–3 years** of professional software engineering experience, strong in React, Next.js, TypeScript, JavaScript, Python and .NET. - **Data & infrastructure:** PostgreSQL, SQL Server, Cosmos DB, Redis, plus hands-on Azure, Docker, GitHub, Terraform, and modern DevOps (cloud-native, microservices). - **Security:** solid grasp of auth/API security (OAuth2, OpenID Connect) and data privacy practices, especially given ISO 27001 and sensitive financial data handling. - **Ways of working:** comfortable in agile, cross-functional teams; strong independent problem-solving with distributed/offshore teams across time zones **Nice to have:** - Exposure to AI (Azure OpenAI, AI agents, RAG, workflow automation) is a plus. - Fintech/wealthtech background or experience integrating financial planning/CRM platforms (e.g. Xplan) is a plus."
-}, {
-  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
-  "company" : "Thakshana Technologies (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 24, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 24 ],
-  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
 }, {
   "title" : "Full Stack Intern",
   "company" : "Pandyt",

@@ -16,13 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** August 25,11:29 AM (Just now)  | **Total Jobs Found:** 143
+> 🟢 **Last Updated:** August 25,5:26 PM (Just now)  | **Total Jobs Found:** 152
 
-### 🎓 Internships & Trainees  (27)
+### 🎓 Internships & Trainees  (28)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Unity Game Developer Intern / Trainee (PC, Mobile & VR)](https://itpro.lk/job/14845/unity-game-developer-intern-trainee-pc-mobile-vr-at-anthem-studios/) | Anthem Studios | Intern | 16&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540883&ec=DEFZZZ) | Dynamical | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Unity Game Developer Intern / Trainee (PC, Mobile & VR)](https://itpro.lk/job/14845/unity-game-developer-intern-trainee-pc-mobile-vr-at-anthem-studios/) | Anthem Studios | Intern | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Full Stack Intern](https://itpro.lk/job/14826/full-stack-intern-at-pandyt/) | Pandyt | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Intern](https://itpro.lk/job/14824/qa-intern-at-pandyt/) | Pandyt | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Web Developer Intern](https://itpro.lk/job/14820/web-developer-intern-at-nexus-grow/) | Nexus Grow | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -52,24 +53,31 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (85)
+### 💻 Associate & Junior/SE Roles  (92)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Web Developer (Frontend / Backend / Full-Stack)](https://itpro.lk/job/14842/web-developer-frontend-backend-fullstack-at-/) |  | Junior/SE | 17&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer (Associate / Mid-Level)](https://itpro.lk/job/14841/software-engineer-associate-midlevel-at-/) |  | Associate | 17&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer](https://itpro.lk/job/14835/associate-software-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Associate | 22&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate QA Engineer](https://itpro.lk/job/14833/associate-qa-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Associate | 22&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540504&ec=0000000492) | Jobfactory | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001540502&ec=0000000492) | Jobfactory | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Head of Software Delivery (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001540395&ec=0000000373) | Synapsys | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI Trainer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540390&ec=DEFZZZ) | Curve Up (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI Engineers / AI Forward Deployed Engineers (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540307&ec=DEFZZZ) | Insight Software Solutions Pty Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Quality Assurance Engineer](https://itpro.lk/job/14828/associate-quality-assurance-engineer-at-pacifickode/) | PacificKode | Associate | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate QA Engineer](https://itpro.lk/job/14848/associate-qa-engineer-at-kangaro-tech/) | Kangaro Tech | Associate | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer – Full Stack (Java + Next.js)](https://itpro.lk/job/14847/associate-software-engineer-full-stack-java-nextjs-at-kangaro-tech/) | Kangaro Tech | Associate | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer (Full-Stack)](https://itpro.lk/job/12459/software-engineer-fullstack-at-vision-designing/) | Vision Designing | Junior/SE | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001541086&ec=0000000492) | Jobfactory | Associate | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001541088&ec=0000000492) | Jobfactory | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web & Backend Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540556&ec=DEFZZZ) | SME Bizness (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developer (Frontend / Backend / Full-Stack)](https://itpro.lk/job/14842/web-developer-frontend-backend-fullstack-at-/) |  | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer (Associate / Mid-Level)](https://itpro.lk/job/14841/software-engineer-associate-midlevel-at-/) |  | Associate | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer](https://itpro.lk/job/14835/associate-software-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Associate | Yesterday | ITPro.lk |
+| [Associate QA Engineer](https://itpro.lk/job/14833/associate-qa-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Associate | Yesterday | ITPro.lk |
+| [Head of Software Delivery (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001540395&ec=0000000373) | Synapsys | Junior/SE | Yesterday | TopJobs.lk |
+| [AI Trainer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540390&ec=DEFZZZ) | Curve Up (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [AI Engineers / AI Forward Deployed Engineers (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540307&ec=DEFZZZ) | Insight Software Solutions Pty Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Associate Quality Assurance Engineer](https://itpro.lk/job/14828/associate-quality-assurance-engineer-at-pacifickode/) | PacificKode | Associate | Yesterday | ITPro.lk |
 | [QA Engineer](https://itpro.lk/job/14674/qa-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer](https://itpro.lk/job/14676/software-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer](https://rooster.jobs/jobs/519373) | Planlogic | Junior/SE | Yesterday | Rooster.jobs |
-| [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | Yesterday | TopJobs.lk |
 | [QA Engineer](https://itpro.lk/job/14823/qa-engineer-at-pandyt/) | Pandyt | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001534058&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Full Stack Developer](https://itpro.lk/job/14798/full-stack-developer-at-xleron/) | Xleron | Junior/SE | 4&nbsp;days&nbsp;ago | ITPro.lk |
@@ -144,11 +152,12 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (31)
+### 🚀 Senior & Lead Roles  (32)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Full-Stack Developer - React Native \| Next.js](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540396&ec=DEFZZZ) | Company Name Withheld | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Technical Lead - AI - Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540822&ec=DEFZZZ) | Company Name Withheld | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Full-Stack Developer - React Native \| Next.js](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540396&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
 | [Senior QA Engineer](https://itpro.lk/job/14673/senior-qa-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer](https://itpro.lk/job/14675/senior-software-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Senior | Yesterday | ITPro.lk |
 | [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001534352&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

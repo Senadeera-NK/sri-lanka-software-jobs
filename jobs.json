@@ -1,4 +1,40 @@
 [ {
+  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
+  "company" : "Thakshana Technologies (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 27 ],
+  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
+}, {
+  "title" : "Junior Web & Backend Developer",
+  "company" : "Nascent Grow (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 27 ],
+  "description" : "Junior Web & Backend Developer"
+}, {
+  "title" : "Remote Voicebot Developer & Tester",
+  "company" : "Company Name Withheld",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 27 ],
+  "description" : "Remote Voicebot Developer & Tester"
+}, {
+  "title" : "Junior Mobile App Developer",
+  "company" : "Nascent Grow (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ",
+  "datePosted" : [ 2026, 8, 27, 12, 0 ],
+  "scrapedDate" : [ 2026, 8, 27 ],
+  "description" : "Junior Mobile App Developer"
+}, {
   "title" : "Software Engineering Intern – Full-Stack Development",
   "company" : "Urban Innovation Services",
   "level" : "Intern",
@@ -8,33 +44,6 @@
   "scrapedDate" : [ 2026, 8, 27 ],
   "description" : "Software Engineering Intern – Full-Stack Development We are an early-stage technology startup currently at the product development stage. We are looking for a motivated Software Engineering Intern to join us for a 3-month internship, with the possibility of a full-time position based on performance. What You Will Work On Custom POS Application Develop a custom cloud-based POS application from the ground up. Build features such as sales, products, inventory, customers, users and reports. Design the system to support different types of businesses. Work on frontend, backend, database and APIs. Business Websites Develop modern, responsive websites for businesses. Build frontend and backend functionality where required. Integrate websites with APIs and the POS platform. Requirements Good knowledge of HTML, CSS and JavaScript/TypeScript Experience with React / Next.js or similar Basic backend development knowledge (Node.js, Python, .NET, Java, etc.) Understanding of SQL and databases Familiarity with REST APIs and Git/GitHub Good problem-solving skills Willingness to learn and take ownership Who Can Apply? Undergraduate / final-year students Recent graduates Self-taught developers with strong projects Your projects matter more than your qualifications. Internship Duration: 3 months Location: Sri Lanka Type: Remote Future Opportunity: Full-time position based on performance During the internship, we will evaluate your technical skills, problem-solving ability, learning speed, code quality, ownership and overall performance. If you are excited about building a real software product from the ground up, we would love to hear from you. To Apply: Please send your CV to careers@urbaninnovation.qa and include: A brief description of one software project you have built Your role and what you personally developed Technologies you used Links to your previous work/projects, if available Your expected monthly internship allowance Shortlisted candidates may be asked to complete a short practical assessment."
 }, {
-  "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
-  "company" : "Thakshana Technologies (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 27, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 27 ],
-  "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
-}, {
-  "title" : "Junior Web & Backend Developer",
-  "company" : "Nascent Grow (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 27, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 27 ],
-  "description" : "Junior Web & Backend Developer"
-}, {
-  "title" : "Remote Voicebot Developer & Tester",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 27, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 27 ],
-  "description" : "Remote Voicebot Developer & Tester"
-}, {
   "title" : "Junior QA Engineer",
   "company" : "Amerck Care",
   "level" : "Junior/SE",
@@ -43,15 +52,6 @@
   "datePosted" : [ 2026, 8, 26, 18, 40, 10 ],
   "scrapedDate" : [ 2026, 8, 27 ],
   "description" : "We are looking for a detail-oriented and motivated individual to join our team as a Junior QA Engineer to ensure the quality and reliability of our software products through effective testing practices and collaboration with cross-functional teams. Key Skills & Requirements: Bachelor’s degree in IT / Software Engineering / Computer Science (Mandatory) Minimum 1+ year of experience in Software Quality Assurance Strong knowledge of manual testing & automation concepts and methodologies (automation tools - Cypress, Playwright) Experience in writing and executing test cases and test scenarios Familiarity with bug tracking tools (e.g., Jira or similar) Good understanding of SDLC and STLC processes Knowledge of AI tools (e.g., ChatGPT or similar) to support testing activities Basic understanding of REST APIs and system workflows Familiarity with Git and version control systems Good problem-solving and analytical skills Fluent in English with strong communication skills Additional Skills (Preferred): Familiarity with programming/scripting languages (e.g., Python, JavaScript, Java) Experience with API testing tools (e.g., Postman) Exposure to CI/CD pipelines Understanding of performance or security testing basics Experience working in Agile environments Responsibilities: Design, develop, and execute manual test cases Identify, document, and track bugs effectively Perform functional, regression, integration, and usability testing Collaborate with developers and product teams to ensure product quality Assist in maintaining test documentation and reports Utilize AI tools to improve testing efficiency and productivity Support test automation efforts where applicable Troubleshoot issues and ensure timely resolution If this opportunity matches your profile, we’d love to hear from you."
-}, {
-  "title" : "Junior Mobile App Developer",
-  "company" : "Nascent Grow (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 8, 26 ],
-  "description" : "Junior Mobile App Developer"
 }, {
   "title" : "Delphi Developer",
   "company" : "BISTEC Global Services",

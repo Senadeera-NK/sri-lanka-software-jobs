@@ -8,21 +8,12 @@
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "About Verdentra We are a team of expert technologists with a shared passion for building technology solutions responsibly, whilst focusing on business outcomes. Our mission is to weave excellence, innovation, and sustainability into the very fabric of the digital landscape, and we specialize in Cloud, Data, AI, and emerging technologies. We maintain solid collaborations with top-tier Independent Software Vendors (ISVs) in the US, providing us with a strong foundation to address complex challenges and deliver business outcomes. What you’ll gain: Build Cutting-Edge Automation: Design, develop, and maintain scalable automated test frameworks using tools such as Selenium, Playwright, and beyond. Be a Quality Advocate: Work closely with developers, architects, and product teams to embed quality throughout the SDLC, influencing how products are built, tested, and released. Sharpen Your Expertise: Take on complex testing challenges, from end-to-end automation to performance and reliability, while driving improvements in efficiency and coverage. Collaborate & Grow: Share your insights with peers, contribute to best practices, and continuously upskill in the latest QE tools, DevOps practices, and industry trends. Mentor and Inspire: Lead, mentor, and coach junior QE engineers, sharing your expertise and driving the team’s technical maturity and best practices. Stay Ahead: Explore and adopt emerging QE methodologies and technologies that keep testing practices modern, lean, and impactful. Who We Are Looking For: A bachelor’s degree in computer science, Software Engineering, or a related field. 4+ years of solid hands-on experience in QE automation tools such as Playwright Proven ability to build and maintain automated testing frameworks and contribute to end-to-end QE strategies. Strong debugging and troubleshooting skills to identify root causes quickly and effectively. Experience in integrating automated tests into CI/CD pipelines (Azure DevOps or similar). Solid understanding of Agile methodologies (Scrum, Kanban) and working effectively in fast-paced environments. Excellent communication skills, with the ability to work cross-functionally and influence through expertise. Exposure to AI-driven testing tools and AI-based automation frameworks will be an added advantage. Ready to take your next step?"
 }, {
-  "title" : "Associate Frontend Engineer",
-  "company" : "Kangaro Tech",
-  "level" : "Associate",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/14876/associate-frontend-engineer-at-kangaro-tech/",
-  "datePosted" : [ 2026, 8, 28, 11, 14, 8 ],
-  "scrapedDate" : [ 2026, 8, 28 ],
-  "description" : "About the Role We are looking for an Associate Frontend Engineer who is passionate about building modern, scalable, and user-friendly web applications. The ideal candidate should have 1+ years of hands-on experience with React.js and Next.js, with a strong understanding of modern frontend development practices. You will work closely with backend engineers, QA engineers, UI/UX designers, and product stakeholders to build high-quality web applications and deliver seamless user experiences. What We're Looking For 1+ years of professional experience in Frontend Development Strong experience with React.js Hands-on experience with Next.js Strong understanding of JavaScript / TypeScript Good understanding of React components, hooks, state management, and component lifecycle Experience building responsive and mobile-friendly web applications Good understanding of HTML5, CSS3, and modern CSS practices Experience integrating REST APIs into frontend applications Understanding of authentication and authorization flows Familiarity with JSON and asynchronous programming Good understanding of frontend application architecture and reusable components Experience with Git and modern software development workflows Understanding of Agile/Scrum development practices Ability to understand technical requirements and convert them into functional frontend features Strong problem-solving and debugging skills Good communication and teamwork skills Frontend & Technical Skills React.js Next.js JavaScript / TypeScript HTML5 / CSS3 Responsive Web Design REST API Integration Git / GitHub Familiarity with state management libraries such as Redux, Zustand, or similar is an advantage Experience with Tailwind CSS, Material UI, or similar UI frameworks is an advantage Understanding of Next.js Server-Side Rendering (SSR), Static Site Generation (SSG), and API routes is an advantage Understanding of frontend performance optimization is an advantage Familiarity with frontend testing using Jest, React Testing Library, Playwright, or Cypress is an advantage Basic understanding of Docker is an advantage Understanding of CI/CD workflows is an advantage Familiarity with cloud-based applications such as AWS is an advantage Basic understanding of backend technologies such as Node.js or Spring Boot is a plus Experience working with microservices-based applications is a plus What You'll Do Develop and maintain modern web applications using React.js and Next.js Build reusable, scalable, and maintainable frontend components Convert UI/UX designs and technical requirements into functional interfaces Integrate frontend applications with REST APIs and backend services Implement responsive designs across desktop, tablet, and mobile devices Work with application state, forms, authentication, and API data Identify and resolve frontend bugs and performance issues Collaborate with backend engineers to integrate and consume APIs effectively Work closely with QA engineers to ensure high-quality and reliable releases Participate in code reviews and follow established coding standards Write clean, maintainable, and well-structured code Participate in sprint planning, refinement, daily stand-ups, and other Agile ceremonies Contribute to improving frontend architecture, development practices, and performance Support release and deployment validation Stay updated with modern frontend technologies and best practices What We Offer Opportunity to work on real-world SaaS and fintech-oriented products Hands-on experience with modern React.js and Next.js applications Exposure to APIs, microservices, cloud environments, and modern software architecture Opportunity to work with experienced software engineers and cross-functional teams Exposure to modern development, testing, and CI/CD practices Collaborative and growth-oriented engineering environment Opportunities to develop both technical and professional skills Career growth opportunities within the engineering team If you are passionate about frontend development and want to grow as a modern React.js / Next.js Engineer while working on real-world products, we'd love to hear from you. Apply now and become part of our engineering team."
-}, {
   "title" : "Junior Algorithm Engineer - DSP - FPGA Engineer",
   "company" : "Thakshana Technologies (Private) Limited",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Junior Algorithm Engineer - DSP - FPGA Engineer"
 }, {
@@ -31,7 +22,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Junior Web & Backend Developer"
 }, {
@@ -40,7 +31,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Remote Voicebot Developer & Tester"
 }, {
@@ -49,7 +40,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Junior Mobile App Developer"
 }, {
@@ -58,7 +49,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541779&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Software Engineer"
 }, {
@@ -67,7 +58,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541742&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Junior Software Trainer"
 }, {
@@ -76,7 +67,7 @@
   "level" : "Intern",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541740&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "QA Intern | Junior QA"
 }, {
@@ -85,7 +76,7 @@
   "level" : "Associate",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541522&ec=DEFZZZ",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Senior Software Engineer/Software Engineer / Associate QA Engineer/QA Engineer"
 }, {
@@ -94,9 +85,18 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001541316&ec=0000000373",
-  "datePosted" : [ 2026, 8, 28, 0, 0 ],
+  "datePosted" : [ 2026, 8, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 8, 28 ],
   "description" : "Devops Engineer (1)"
+}, {
+  "title" : "Associate Frontend Engineer",
+  "company" : "Kangaro Tech",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14876/associate-frontend-engineer-at-kangaro-tech/",
+  "datePosted" : [ 2026, 8, 28, 11, 14, 8 ],
+  "scrapedDate" : [ 2026, 8, 28 ],
+  "description" : "About the Role We are looking for an Associate Frontend Engineer who is passionate about building modern, scalable, and user-friendly web applications. The ideal candidate should have 1+ years of hands-on experience with React.js and Next.js, with a strong understanding of modern frontend development practices. You will work closely with backend engineers, QA engineers, UI/UX designers, and product stakeholders to build high-quality web applications and deliver seamless user experiences. What We're Looking For 1+ years of professional experience in Frontend Development Strong experience with React.js Hands-on experience with Next.js Strong understanding of JavaScript / TypeScript Good understanding of React components, hooks, state management, and component lifecycle Experience building responsive and mobile-friendly web applications Good understanding of HTML5, CSS3, and modern CSS practices Experience integrating REST APIs into frontend applications Understanding of authentication and authorization flows Familiarity with JSON and asynchronous programming Good understanding of frontend application architecture and reusable components Experience with Git and modern software development workflows Understanding of Agile/Scrum development practices Ability to understand technical requirements and convert them into functional frontend features Strong problem-solving and debugging skills Good communication and teamwork skills Frontend & Technical Skills React.js Next.js JavaScript / TypeScript HTML5 / CSS3 Responsive Web Design REST API Integration Git / GitHub Familiarity with state management libraries such as Redux, Zustand, or similar is an advantage Experience with Tailwind CSS, Material UI, or similar UI frameworks is an advantage Understanding of Next.js Server-Side Rendering (SSR), Static Site Generation (SSG), and API routes is an advantage Understanding of frontend performance optimization is an advantage Familiarity with frontend testing using Jest, React Testing Library, Playwright, or Cypress is an advantage Basic understanding of Docker is an advantage Understanding of CI/CD workflows is an advantage Familiarity with cloud-based applications such as AWS is an advantage Basic understanding of backend technologies such as Node.js or Spring Boot is a plus Experience working with microservices-based applications is a plus What You'll Do Develop and maintain modern web applications using React.js and Next.js Build reusable, scalable, and maintainable frontend components Convert UI/UX designs and technical requirements into functional interfaces Integrate frontend applications with REST APIs and backend services Implement responsive designs across desktop, tablet, and mobile devices Work with application state, forms, authentication, and API data Identify and resolve frontend bugs and performance issues Collaborate with backend engineers to integrate and consume APIs effectively Work closely with QA engineers to ensure high-quality and reliable releases Participate in code reviews and follow established coding standards Write clean, maintainable, and well-structured code Participate in sprint planning, refinement, daily stand-ups, and other Agile ceremonies Contribute to improving frontend architecture, development practices, and performance Support release and deployment validation Stay updated with modern frontend technologies and best practices What We Offer Opportunity to work on real-world SaaS and fintech-oriented products Hands-on experience with modern React.js and Next.js applications Exposure to APIs, microservices, cloud environments, and modern software architecture Opportunity to work with experienced software engineers and cross-functional teams Exposure to modern development, testing, and CI/CD practices Collaborative and growth-oriented engineering environment Opportunities to develop both technical and professional skills Career growth opportunities within the engineering team If you are passionate about frontend development and want to grow as a modern React.js / Next.js Engineer while working on real-world products, we'd love to hear from you. Apply now and become part of our engineering team."
 }, {
   "title" : "Software Engineering Intern – Full-Stack Development",
   "company" : "Urban Innovation Services",

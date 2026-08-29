@@ -16,13 +16,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** August 29,5:16 PM (Just now)  | **Total Jobs Found:** 115
+> 🟢 **Last Updated:** August 29,9:14 PM (Just now)  | **Total Jobs Found:** 115
 
 ### 🎓 Internships & Trainees  (22)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern Quality Assurance Engineer](https://itpro.lk/job/14896/intern-quality-assurance-engineer-at-botcalm-pvt-ltd/) | BotCalm (Pvt) Ltd | Intern | 5&nbsp;mins&nbsp;ago | ITPro.lk |
+| [Intern Quality Assurance Engineer](https://itpro.lk/job/14896/intern-quality-assurance-engineer-at-botcalm-pvt-ltd/) | BotCalm (Pvt) Ltd | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
 | [QA Intern \| Junior QA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541740&ec=DEFZZZ) | Webappclouds (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
 | [Software Engineering Intern – Full-Stack Development](https://itpro.lk/job/14857/software-engineering-intern-fullstack-development-at-urban-innovation-services/) | Urban Innovation Services | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Development Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540883&ec=DEFZZZ) | Dynamical | Intern | 4&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -128,7 +128,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | Yesterday | ITPro.lk |
 | [Technical Lead - AI - Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540822&ec=DEFZZZ) | Company Name Withheld | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Full-Stack Developer - React Native \| Next.js](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540396&ec=DEFZZZ) | Company Name Withheld | Senior | 5&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior QA Engineer](https://itpro.lk/job/14673/senior-qa-engineer-at-rightmo-web-solution/) | Rightmo Web Solution | Senior | 5&nbsp;days&nbsp;ago | ITPro.lk |

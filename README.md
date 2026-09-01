@@ -16,13 +16,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 1,3:52 PM (Just now)  | **Total Jobs Found:** 114
+> 🟢 **Last Updated:** September 1,9:02 PM (Just now)  | **Total Jobs Found:** 119
 
 ### 🎓 Internships & Trainees  (20)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Internship - Software Developer](https://itpro.lk/job/14913/internship-software-developer-at-sudoes/) | Sudo-ES | Intern | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Internship - Software Developer](https://itpro.lk/job/14913/internship-software-developer-at-sudoes/) | Sudo-ES | Intern | Yesterday | ITPro.lk |
 | [Senior Software Engineer / Software Engineer / Associate QA ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541522&ec=DEFZZZ) | CSG Technologies | Intern | Yesterday | TopJobs.lk |
 | [Intern QA Engineer](https://itpro.lk/job/14903/intern-qa-engineer-at-dkin-technologies/) | DKIN Technologies | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Intern Quality Assurance Engineer](https://itpro.lk/job/14896/intern-quality-assurance-engineer-at-botcalm-pvt-ltd/) | BotCalm (Pvt) Ltd | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -45,17 +45,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (69)
+### 💻 Associate & Junior/SE Roles  (70)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full-Stack Developer](https://itpro.lk/job/14935/fullstack-developer-at-sisenco-digital/) | Sisenco Digital | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Playwright Automation Engineer](https://itpro.lk/job/14933/playwright-automation-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | 3&nbsp;hours&nbsp;ago | ITPro.lk |
-| [QA Engineer](https://itpro.lk/job/14925/qa-engineer-at-xeynergy/) | Xeynergy | Junior/SE | 15&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Junior QA Engineer](https://itpro.lk/job/14916/junior-qa-engineer-at-wire-apps/) | Wire Apps | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full-Stack Developer](https://itpro.lk/job/14935/fullstack-developer-at-sisenco-digital/) | Sisenco Digital | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Playwright Automation Engineer](https://itpro.lk/job/14933/playwright-automation-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Junior/SE | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | 8&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://itpro.lk/job/14925/qa-engineer-at-xeynergy/) | Xeynergy | Junior/SE | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542569&ec=DEFZZZ) | Revotec | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior QA Engineer](https://itpro.lk/job/14916/junior-qa-engineer-at-wire-apps/) | Wire Apps | Junior/SE | Yesterday | ITPro.lk |
 | [AI – Frontend Software Engineer](https://itpro.lk/job/14910/ai-frontend-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Junior/SE | Yesterday | ITPro.lk |
-| [Quality Assurance Engineer](https://itpro.lk/job/14909/quality-assurance-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | Yesterday | ITPro.lk |
 | [Junior Algorithm Engineer - DSP - FPGA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001538583&ec=DEFZZZ) | Thakshana Technologies (Private) Limited | Junior/SE | Yesterday | TopJobs.lk |
 | [Junior Web & Backend Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
@@ -69,6 +69,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [AI Solutions Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542220&ec=DEFZZZ) | Dijital Team | Junior/SE | Yesterday | TopJobs.lk |
 | [AI Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542161&ec=DEFZZZ) | Ernst & Young | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542156&ec=DEFZZZ) | Ernst & Young | Junior/SE | Yesterday | TopJobs.lk |
+| [Quality Assurance Engineer](https://itpro.lk/job/14909/quality-assurance-engineer-at-softvil-technologies/) | Softvil Technologies | Junior/SE | Yesterday | ITPro.lk |
 | [Software Developer](https://itpro.lk/job/14899/software-developer-at-ekrain-technologies-and-solutions-pvt-ltd/) | Ekrain Technologies and Solutions (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Head of Engineering](https://itpro.lk/job/14897/head-of-engineering-at-zenteur-spaces/) | Zenteur Spaces | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541779&ec=DEFZZZ) | Infinite Outsourcing Solutions | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -121,18 +122,22 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (25)
+### 🚀 Senior & Lead Roles  (29)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Quality Assurance Engineer](https://itpro.lk/job/14932/senior-software-quality-assurance-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Senior | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior SQL Developer](https://itpro.lk/job/14924/senior-sql-developer-at-xeynergy/) | Xeynergy | Senior | 15&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Team Leader – Web Development (WordPress)](https://itpro.lk/job/14626/team-leader-web-development-wordpress-at-kd-marketing-group/) | KD Marketing Group | Senior | 19&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior QA Engineer](https://itpro.lk/job/14920/senior-qa-engineer-at-bistec-global-services/) | BISTEC Global Services | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer](https://itpro.lk/job/14917/senior-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Quality Assurance Engineer](https://itpro.lk/job/14932/senior-software-quality-assurance-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Senior | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior SQL Developer](https://itpro.lk/job/14924/senior-sql-developer-at-xeynergy/) | Xeynergy | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Systems Administrator (IT Infrastructure & Cyber Security)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542899&ec=DEFZZZ) | Ferentino Tyre Corporation (Pvt) Ltd | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542868&ec=DEFZZZ) | Levein | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001542855&ec=DEFZZZ) | LB Finance PLC | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001542688&ec=0000000492) | Jobfactory | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Team Leader – Web Development (WordPress)](https://itpro.lk/job/14626/team-leader-web-development-wordpress-at-kd-marketing-group/) | KD Marketing Group | Senior | Yesterday | ITPro.lk |
+| [Senior QA Engineer](https://itpro.lk/job/14920/senior-qa-engineer-at-bistec-global-services/) | BISTEC Global Services | Senior | Yesterday | ITPro.lk |
+| [Senior Software Engineer](https://itpro.lk/job/14917/senior-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | Yesterday | ITPro.lk |
 | [AI – Frontend Senior Software Engineer](https://itpro.lk/job/14912/ai-frontend-senior-software-engineer-at-healthrecon-connect-llc/) | HealthRecon Connect LLC | Senior | Yesterday | ITPro.lk |
-| [Senior Quality Assurance Engineer](https://itpro.lk/job/14513/senior-quality-assurance-engineer-at-softvil-technologies/) | Softvil Technologies | Senior | Yesterday | ITPro.lk |
 | [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539647&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
+| [Senior Quality Assurance Engineer](https://itpro.lk/job/14513/senior-quality-assurance-engineer-at-softvil-technologies/) | Softvil Technologies | Senior | Yesterday | ITPro.lk |
 | [Senior Backend Engineer](https://itpro.lk/job/14902/senior-backend-engineer-at-zenteur-spaces/) | Zenteur Spaces | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | 4&nbsp;days&nbsp;ago | ITPro.lk |
 | [Technical Lead - AI - Software](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540822&ec=DEFZZZ) | Company Name Withheld | Senior | 7&nbsp;days&nbsp;ago | TopJobs.lk |

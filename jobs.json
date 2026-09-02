@@ -1,4 +1,40 @@
 [ {
+  "title" : "Senior Software Tech Lead",
+  "company" : "Emerald Clothing Private Limited",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14960/senior-software-tech-lead-at-emerald-clothing-private-limited/",
+  "datePosted" : [ 2026, 9, 2, 18, 42, 17 ],
+  "scrapedDate" : [ 2026, 9, 2 ],
+  "description" : "Emerald Clothing Private Limited is one of Sri Lanka's premier apparel manufacturers, where the promoters of the business have built a heritage enterprise spanning over 70 years, founded on design excellence, innovation, craftsmanship, and longstanding retail industry expertise. Position Overview We are recruiting a T-shaped, hands-on generalist engineering leader accountable for the client's technical estate. This role is designed for a strong generalist who can self-sufficiently manage reporting, application development, dashboards, and applied Al. Working Arrangement: Colombo, Sri Lanka (ECL Corporate Office - Colombo 09) | Supporting a UK-based client (Core working hours fully aligned to UK business day GMT/BST What You Will Do Reporting & Data: Own and maintain the client's SQL Server / SSRS reporting estate; partner with core systems (ERP, supply chain) to build a unified data layer. Application Development: Design, build, and maintain .NET-based tools, services, and integrations supporting operational workflows. Dashboards & BI: Build and maintain Power BI (or similar) dashboards to deliver self-serve visibility and decision- ready visualizations. Al & Automation: Identify and implement practical AI/ML use cases (such as anomaly detection, forecasting, and natural-language reporting) and apply Al-assisted tooling to automate workflows What You Need to Have Strong proficiency in SQL Server development (T-SQL, stored procedures, performance tuning) and SSRS report development/administration. Robust C#/.NET experience (.NET Core, ASP.NET) to build and maintain tools and integrations independently. Written and spoken English, comfortable with daily real-time collaboration with UK stakeholders during UK business hours. Exposure to BI tooling (Power BI), Python (pandas, scikit-learn), LLM/OpenAl-style APIs, cloud platforms (Azure/AWS), or ERP systems is an added advantage."
+}, {
+  "title" : "Software Engineer Intern",
+  "company" : "DartCodes (PVT) LTD",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14957/software-engineer-intern-at-dartcodes-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 2, 16, 52, 39 ],
+  "scrapedDate" : [ 2026, 9, 2 ],
+  "description" : "We are looking for passionate problem solvers who enjoy coding, experimenting with technology and turning ideas into working solutions. (Paid Internship) Key Responsibilities Support the development of web, software and business applications Work on frontend, backend, APIs and database- related development tasks Analyze problems and develop solutions using strong logical & programming skills Explore and support the implementation of Al & Machine Learning features in real-world projects Requirements Familiarity with technologies such as JavaScript / TypeScript, React, Next.js, Nest.js, PostgreSQL, MongoDB, MySQL technologies will be an advantage. Strong logical thinking, problem-solving & programming fundamentals Hands-on development experience through academic/personal projects, Basic knowledge of Al & Machine Learning concepts/modules"
+}, {
+  "title" : "Software Engineering Intern",
+  "company" : "KMK Group",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14952/software-engineering-intern-at-kmk-group/",
+  "datePosted" : [ 2026, 9, 2, 15, 25, 17 ],
+  "scrapedDate" : [ 2026, 9, 2 ],
+  "description" : "Remote | Paid Internship | Kurunegala Preferred KMK Group is looking for a talented and motivated Software Engineering Intern to join our growing in-house software engineering team. We operate across Rice Processing, Noodle Manufacturing, Flour Manufacturing, Hotels and Cultivation, and we are building custom software solutions to improve our business operations. What You’ll Do Develop real-world software solutions Build internal web applications and business systems Automate business processes Work with databases, APIs and other technologies Solve real business problems through software Internship Details Training Period: 1 Month Internship: 6 Months Salary: LKR 30,000/month Wi-Fi Allowance: LKR 2,500/month Work: Fully Remote Permanent Opportunity: Based on performance \uD83D\uDCCD Candidates from Kurunegala and nearby areas will be given priority. We are looking for someone who is passionate about software development, willing to learn and interested in building real-world solutions. \uD83D\uDCE9 Send your CV and GitHub/portfolio (if available) to apply. KMK Group"
+}, {
+  "title" : "Junior Full Stack Developer",
+  "company" : "Adelphoi Limited",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14949/junior-full-stack-developer-at-adelphoi-limited/",
+  "datePosted" : [ 2026, 9, 2, 13, 6, 14 ],
+  "scrapedDate" : [ 2026, 9, 2 ],
+  "description" : "Junior Full Stack Developer Health-tech platform · UK company · Fully remote Remote, Sri Lanka · Full-time · Immediate start · 3+ yrs experience Join the team building the AI-driven collaboration and data-connectivity layer behind a new healthcare platform — and grow your craft alongside senior engineers on real production code. About the role We're a UK-based technology company building a healthcare platform powered by AI-driven collaboration and smart data connectivity. We're hiring a junior full-stack developer — someone with a solid foundation in modern web development who's ready to take on real ownership, learn from senior engineers, and grow into a stronger, more independent builder. What you'll do Build and maintain features across the front end and back end Help develop APIs, integrations and cloud-based solutions Develop responsive, user-friendly experiences across platforms Write clean, well-documented, testable code Take part in code reviews and learn from senior feedback Help troubleshoot issues and support performance improvements Contribute to technical documentation as you go Stay curious about new tools, patterns and AI-assisted workflows What you bring Bachelor's degree in Software Engineering, IT, Computer Science or related (required) 3+ years' professional full-stack development experience (required) Solid grounding in API development, databases and version control Working understanding of SDLC, authentication and basic DevOps practice Comfortable in agile, remote and distributed teams Clear communicator who documents as well as they code Keen to learn and grow with AI-assisted development tools Tools & technologies Languages: Dart, Golang, TypeScript, JavaScript Frameworks & architecture: Flutter, Domain-Driven Design, REST APIs, Microservices Data & auth: Firestore, SQL, NoSQL, Firebase Auth Delivery & AI tooling: GitHub, CI/CD, Cursor, Claude, Antigravity What we offer Competitive compensation based on qualifications and experience Fully remote, flexible working environment Mentorship and support from senior engineers as you grow Work with an established UK-based technology company Exposure to cutting-edge AI, healthcare technology and data integration Collaborative, innovation-focused engineering culture Ready to build this with us? Apply through our careers site with your CV, two non-related referees and your expected salary. Applications close 10 days after this advertisement is posted."
+}, {
   "title" : "Senior Full Stack Developer",
   "company" : "Adelphoi Limited",
   "level" : "Senior",
@@ -133,6 +169,15 @@
   "datePosted" : [ 2026, 9, 2, 0, 0 ],
   "scrapedDate" : [ 2026, 9, 2 ],
   "description" : "Data Engineer (1)"
+}, {
+  "title" : "Intern - Software Engineering",
+  "company" : "Hayleys Group",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000377&jc=0001543400&ec=0000000495",
+  "datePosted" : [ 2026, 9, 2, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 2 ],
+  "description" : "Intern - Software Engineering"
 }, {
   "title" : "Technical Lead - Software Engineering, NOIDA",
   "company" : "AALUCKS Talent Pro",

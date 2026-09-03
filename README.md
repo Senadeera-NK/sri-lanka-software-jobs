@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 3,3:32 PM (Just now)  | **Total Jobs Found:** 122
+> 🟢 **Last Updated:** September 3,8:38 PM (Just now)  | **Total Jobs Found:** 124
 
 ### 🎓 Internships & Trainees  (21)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Engineering Internship](https://itpro.lk/job/14963/qa-engineering-internship-at-kmk-group/) | KMK Group | Intern | 17&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer Intern](https://itpro.lk/job/14957/software-engineer-intern-at-dartcodes-pvt-ltd/) | DartCodes (PVT) LTD | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineering Internship](https://itpro.lk/job/14963/qa-engineering-internship-at-kmk-group/) | KMK Group | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer Intern](https://itpro.lk/job/14957/software-engineer-intern-at-dartcodes-pvt-ltd/) | DartCodes (PVT) LTD | Intern | Yesterday | ITPro.lk |
 | [Software Engineering Intern](https://itpro.lk/job/14952/software-engineering-intern-at-kmk-group/) | KMK Group | Intern | Yesterday | ITPro.lk |
 | [Intern - Software Engineering](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000377&jc=0001543400&ec=0000000495) | Hayleys Group | Intern | Yesterday | TopJobs.lk |
 | [Internship - Software Developer](https://itpro.lk/job/14913/internship-software-developer-at-sudoes/) | Sudo-ES | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -46,25 +46,27 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (70)
+### 💻 Associate & Junior/SE Roles  (72)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Junior Web & Backend Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Database Administrator](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543890&ec=DEFZZZ) | Media Defined (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Project Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543853&ec=DEFZZZ) | Aiken (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Executive - Data Analysis](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543840&ec=DEFZZZ) | Home Lands Skyline (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer - Full Stack (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543633&ec=0000000661) | DirectFN | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer JAVA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543631&ec=0000000661) | DirectFN | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543630&ec=0000000661) | DirectFN | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Web & Backend Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541020&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001541024&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Database Administrator](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543890&ec=DEFZZZ) | Media Defined (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Project Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543853&ec=DEFZZZ) | Aiken (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Executive - Data Analysis](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543840&ec=DEFZZZ) | Home Lands Skyline (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer - Full Stack (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543633&ec=0000000661) | DirectFN | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer JAVA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543631&ec=0000000661) | DirectFN | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543630&ec=0000000661) | DirectFN | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Executive -  Website Development & Management (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000201&jc=0001544049&ec=0000000635) | DTech (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate - AI Innovation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543979&ec=DEFZZZ) | BVS Group (Pvt) Ltd | Associate | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Junior Full Stack Developer](https://itpro.lk/job/14949/junior-full-stack-developer-at-adelphoi-limited/) | Adelphoi Limited | Junior/SE | Yesterday | ITPro.lk |
 | [Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000440&jc=0001543285&ec=0000000582) | Lanka Hospitals Corporation PLC | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Governance Officer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000221&jc=0001543137&ec=0000000264) | Browns Group Of Companies | Junior/SE | Yesterday | TopJobs.lk |
@@ -127,11 +129,11 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539647&ec=0000000350) | CMS (Pvt) Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead Java (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543635&ec=0000000661) | DirectFN | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer JAVA (4)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543629&ec=0000000661) | DirectFN | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Tech Lead](https://itpro.lk/job/14960/senior-software-tech-lead-at-emerald-clothing-private-limited/) | Emerald Clothing Private Limited | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior SQL Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539647&ec=0000000350) | CMS (Pvt) Ltd | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead Java (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543635&ec=0000000661) | DirectFN | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer JAVA (4)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001543629&ec=0000000661) | DirectFN | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Tech Lead](https://itpro.lk/job/14960/senior-software-tech-lead-at-emerald-clothing-private-limited/) | Emerald Clothing Private Limited | Senior | Yesterday | ITPro.lk |
 | [Senior Full Stack Developer](https://itpro.lk/job/14207/senior-full-stack-developer-at-adelphoi-limited/) | Adelphoi Limited | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer - (Full Stack - Java Spring Boot & React.js)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543197&ec=DEFZZZ) | One Sys Consulting | Senior | Yesterday | TopJobs.lk |
 | [Technical Lead - Software Engineering, NOIDA](https://rooster.jobs/jobs/519447) | AALUCKS Talent Pro | Senior | 2&nbsp;days&nbsp;ago | Rooster.jobs |

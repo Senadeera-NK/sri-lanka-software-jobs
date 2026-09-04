@@ -1,4 +1,22 @@
 [ {
+  "title" : "Associate Software Engineer",
+  "company" : "Sapirox",
+  "level" : "Associate",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14987/associate-software-engineer-at-sapirox/",
+  "datePosted" : [ 2026, 9, 4, 17, 24, 14 ],
+  "scrapedDate" : [ 2026, 9, 4 ],
+  "description" : "No description available"
+}, {
+  "title" : "Quality Engineering Lead",
+  "company" : "Hatchyard",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14985/quality-engineering-lead-at-hatchyard/",
+  "datePosted" : [ 2026, 9, 4, 15, 33, 43 ],
+  "scrapedDate" : [ 2026, 9, 4 ],
+  "description" : "We’re Hiring - Quality Engineering Lead Requirements A Bachelor's Degree or equivalent qualification. 6-7+ years of experience in Quality Engineering, with at least 2+ years in a QE Lead, Associate Lead, or similar leadership role. Proven experience defining and executing enterprise-scale test strategies for data platforms, integrations, APIs, and distributed systems. Strong experience with test automation frameworks and automation-first delivery models. Experience in Data Quality Testing, ETL Testing, Data Migration Testing, Database Testing, and Data Validation frameworks. Experience designing and implementing automation solutions using Java, Python, or similar programming languages. Strong understanding of CI/CD pipelines and tools such as Jenkins, GitHub Actions, Git, Maven, SonarQube, and related platforms. Experience in performance engineering and performance testing tools. Strong knowledge of software testing processes, practices and test design techniques. A solid practical understanding of Agile Software Testing and Software Engineering concepts. Professional certifications such as ISTQB, PMI-ACP or CSM (Certified Scrum Master) would be an added advantage."
+}, {
   "title" : "QA Intern",
   "company" : "Axcertro",
   "level" : "Intern",
@@ -6,7 +24,7 @@
   "link" : "https://itpro.lk/job/14984/qa-intern-at-axcertro/",
   "datePosted" : [ 2026, 9, 4, 15, 19, 45 ],
   "scrapedDate" : [ 2026, 9, 4 ],
-  "description" : "Axcertro is looking for a motivated and detail-oriented QA Intern to join our team at our Colombo office. This internship is ideal for someone who wants to begin a career in software quality assurance and gain practical experience testing real web and mobile applications. Key Responsibilities Test web and mobile applications based on requirements and user flows Create and execute test cases and testing checklists Identify, document and track software defects Retest resolved issues and perform regression testing Support User Acceptance Testing (UAT) Collaborate with developers, QA engineers and project managers Help ensure that software releases meet the expected quality standards Requirements Currently pursuing or recently completed a qualification in IT, Software Engineering, Computer Science or a related field Basic understanding of software testing, SDLC, and STLC Strong attention to detail and problem-solving skills Ability to clearly document and communicate issues Good communication and teamwork skills Willingness to learn and accept feedback Ability to work onsite at our Colombo office Previous professional experience is not required. Academic projects, personal testing experience or familiarity with bug-tracking tools will be an advantage."
+  "description" : "No description available"
 }, {
   "title" : "Intern - Software Engineering",
   "company" : "Hayleys Aventura",
@@ -15,7 +33,7 @@
   "link" : "https://itpro.lk/job/14982/intern-software-engineering-at-hayleys-aventura/",
   "datePosted" : [ 2026, 9, 4, 14, 53, 58 ],
   "scrapedDate" : [ 2026, 9, 4 ],
-  "description" : "Hayleys Group is amongst Sri Lanka's largest, and most respected diversified conglomerates with a turnover in excess of USD 1 Billion. To explore the World of Hayleys, visit us at: www.hayleys.com Hayleys Aventura (Private) Limited Hayleys Aventura (Private) Limited is a fully owned subsidiary of Hayleys PLC, providing a comprehensive range of best quality and reliable industrial solutions in local and foreign markets through its various business units. Industrial Machinery Business Unit of the Company is a market leader in selling, supplying, installing, commissioning and servicing of Elevators, Automated Space Saving Car Parking Systems, Material Handling Equipment, Weighing Solutions etc. You may visit www.hayleysaventura.com for more details Job Responsibilities Assist in the design, development, testing, and maintenance of software applications Support desktop, web, backend, database, and API development Test, debug, troubleshoot, and help resolve software issues Write clean, readable, and maintainable code Maintain technical documentation and user guides Use Git/GitHub for source code management Support software deployment, configuration, and testing when required Assist with software-to-hardware integration and R&D activities, including Arduino, sensors, and communication devices where applicable Candidate Profile Undergraduate or recently completed a degree/diploma in Software Engineering, Computer Science, Computer Engineering, IT, or a related field Basic programming knowledge, preferably in .NET/C# and Python Basic understanding of OOP, databases, SQL, APIs, and software development concepts Familiarity with Git/GitHub Good problem-solving, logical thinking, communication, and teamwork skills Willingness to learn new technologies and work on real-world projects Knowledge or interest in Arduino, microcontrollers, sensors, electronics, or hardware integration will be an added advantage The closing date for applications will be within 10 days of this advertisement. Remuneration and benefits of this above position will be competitive, and the rewards are performance driven. Only the shortlisted applicants will be called for an interview. Influencing will not have any bearing on the selection process, which is merit based. Hayleys is an equal opportunity employer."
+  "description" : "No description available"
 }, {
   "title" : "Senior Developer",
   "company" : "Digit Web Lanka (Pvt) Ltd",
@@ -24,7 +42,7 @@
   "link" : "https://itpro.lk/job/14977/senior-developer-at-digit-web-lanka-pvt-ltd/",
   "datePosted" : [ 2026, 9, 4, 9, 12, 25 ],
   "scrapedDate" : [ 2026, 9, 4 ],
-  "description" : "\uD83D\uDE80 WE ARE HIRING – SENIOR DEVELOPER Digit Web Lanka (Pvt) Ltd \uD83D\uDCCD Location: Thirunelvely, Jaffna \uD83D\uDCBC Job Type: Full-Time \uD83D\uDC65 Available Positions: 03 \uD83D\uDEA8 STRICTLY ON-SITE POSITION \uD83D\uDCCC This position is available for ON-SITE work only. Remote and hybrid work options are NOT available. \uD83D\uDCBB About the Role We are looking for an experienced and highly motivated Senior Developer to join our growing technology team at Digit Web Lanka (Pvt) Ltd. As a Senior Developer, you will be responsible for designing, developing, debugging, optimizing, and maintaining scalable software applications. You will collaborate with our development team to build reliable digital solutions, participate in technical discussions, conduct code reviews, and mentor junior developers. This is an excellent opportunity for someone who enjoys solving complex technical problems and wants to contribute to AI-driven, e-commerce, automation, and digital technology solutions. \uD83D\uDD27 Key Responsibilities Design, develop, test, debug, and maintain scalable software applications Develop clean, efficient, secure, and maintainable code Develop and integrate APIs and RESTful services Work with frontend and backend systems Participate in system architecture and technical design decisions Conduct code reviews and maintain development standards Identify and resolve performance and technical issues Lead and mentor junior developers Collaborate with teams to deliver projects on time Participate in technical discussions and solution planning Stay updated with emerging technologies and development best practices Contribute to innovative e-commerce, AI, automation, and digital solutions \uD83C\uDFAF Qualifications & Requirements 3+ years of professional software development experience Proficiency in Java, Python, JavaScript, or similar programming languages Experience with frameworks/libraries such as React, Angular, Node.js, or equivalent Strong knowledge of APIs, RESTful services, and backend systems Good understanding of system architecture and software design patterns Knowledge of cloud-based technologies and solutions Strong problem-solving, debugging, and analytical skills Ability to lead and mentor development team members Familiarity with Agile methodology Proficiency with Git and version control systems Excellent communication and collaboration skills Bachelor’s degree in Computer Science, Software Engineering, IT, or a related field Experience with e-commerce platforms and digital solutions is an added advantage \uD83C\uDF1F Why Join Digit Web Lanka? ✨ Work on real-world international e-commerce and digital projects \uD83E\uDD16 Gain exposure to AI, automation, and modern technologies \uD83D\uDE80 Be part of a growing technology team \uD83D\uDCA1 Contribute to innovative software solutions \uD83D\uDCC8 Opportunity for career growth and leadership \uD83E\uDD1D Collaborative and professional working environment \uD83D\uDCDD Apply Here: https://forms.gle/Qf4X318C6mQtzdqv8 \uD83D\uDCF1 Contact: +94 76 412 0908 ⚠️ IMPORTANT: This is a STRICTLY ON-SITE position based in Jaffna. Remote / Work From Home / Hybrid options are NOT available. Join Digit Web Lanka and build the future of AI-driven digital solutions! \uD83D\uDE80"
+  "description" : "No description available"
 }, {
   "title" : "ERP Software Engineer/ Senior Software Engineer",
   "company" : "SANKARAA Tech",
@@ -106,6 +124,15 @@
   "datePosted" : [ 2026, 9, 4, 0, 0 ],
   "scrapedDate" : [ 2026, 9, 4 ],
   "description" : "Intern - Mobile Development"
+}, {
+  "title" : "Associate Quality Assurance Engineer",
+  "company" : "eBEYONDS",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001544524&ec=DEFZZZ",
+  "datePosted" : [ 2026, 9, 4, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 4 ],
+  "description" : "Associate Quality Assurance Engineer"
 }, {
   "title" : "Quality Assurance Internship",
   "company" : "Qdesk AI Pvt Ltd",

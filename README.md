@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 8,3:30 PM (Just now)  | **Total Jobs Found:** 114
+> 🟢 **Last Updated:** September 8,8:45 PM (Just now)  | **Total Jobs Found:** 114
 
 ### 🎓 Internships & Trainees  (23)
 
@@ -52,8 +52,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate QA Engineer (Project Basis)](https://itpro.lk/job/15028/associate-qa-engineer-project-basis-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Associate | 28&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Software Engineer – Integrations](https://itpro.lk/job/15018/software-engineer-integrations-at-softvil-technologies/) | Softvil Technologies | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate QA Engineer (Project Basis)](https://itpro.lk/job/15028/associate-qa-engineer-project-basis-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Associate | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer – Integrations](https://itpro.lk/job/15018/software-engineer-integrations-at-softvil-technologies/) | Softvil Technologies | Junior/SE | Yesterday | ITPro.lk |
 | [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
 | [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
@@ -121,8 +121,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Engineer – Databricks](https://itpro.lk/job/15017/senior-engineer-databricks-at-softvil-technologies/) | Softvil Technologies | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior / Lead Software Developer (.NET)](https://itpro.lk/job/15015/senior-lead-software-developer-net-at-ck-orbits/) | CK Orbits | Senior | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Engineer – Databricks](https://itpro.lk/job/15017/senior-engineer-databricks-at-softvil-technologies/) | Softvil Technologies | Senior | Yesterday | ITPro.lk |
+| [Senior / Lead Software Developer (.NET)](https://itpro.lk/job/15015/senior-lead-software-developer-net-at-ck-orbits/) | CK Orbits | Senior | Yesterday | ITPro.lk |
 | [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001545225&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer (.NET & Angular)](https://itpro.lk/job/14994/senior-software-engineer-net-angular-at-deepsea-coders/) | DeepSea Coders | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |

@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineer Intern",
+  "company" : "Samuel Gnanam IT Centre",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15051/software-engineer-intern-at-samuel-gnanam-it-centre/",
+  "datePosted" : [ 2026, 9, 9, 20, 21, 3 ],
+  "scrapedDate" : [ 2026, 9, 9 ],
+  "description" : "Kickstart your tech career with hands-on experience and industry - ready skills. Entrollment Deadline: 15th of September 2026 Requirements Seeking a mandatory university internship placement 4 - 6 months Undergraduate pursuing a degree in Software Engineering, Computer Science, IT or a related field Strong willingness to learn, collaborate, and grow in a professional environment Internship Highlights Industry oriented Training & Mentorship Exposure to FullStack and QA Practices Real world Project experience Hands-on experience with Al integrated solutions Shortlisting & Selections Shortlisted candidate will be invited for and assessment and interview. Final selection will be based on overall performance & suitability for the intership program"
+}, {
   "title" : "Senior Software Engineer (Backend)",
   "company" : "Ucombinator",
   "level" : "Senior",
@@ -152,6 +161,33 @@
   "scrapedDate" : [ 2026, 9, 9 ],
   "description" : "Quality Assurance Engineers"
 }, {
+  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546272&ec=0000000492",
+  "datePosted" : [ 2026, 9, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 9 ],
+  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
+}, {
+  "title" : "Associate Software Engineer (1)",
+  "company" : "Jobfactory",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546245&ec=0000000492",
+  "datePosted" : [ 2026, 9, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 9 ],
+  "description" : "Associate Software Engineer (1)"
+}, {
+  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
+  "company" : "Jobfactory",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546244&ec=0000000492",
+  "datePosted" : [ 2026, 9, 9, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 9 ],
+  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
+}, {
   "title" : "Associate QA Engineer (Project Basis)",
   "company" : "Webtezza (Pvt) Ltd",
   "level" : "Associate",
@@ -250,33 +286,6 @@
   "datePosted" : [ 2026, 9, 7, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 9 ],
   "description" : "Junior Executive - System Automation & Execution (1)"
-}, {
-  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
-  "company" : "Jobfactory",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001545225&ec=0000000492",
-  "datePosted" : [ 2026, 9, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 9, 9 ],
-  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
-}, {
-  "title" : "Associate Software Engineer (1)",
-  "company" : "Jobfactory",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001545249&ec=0000000492",
-  "datePosted" : [ 2026, 9, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 9, 9 ],
-  "description" : "Associate Software Engineer (1)"
-}, {
-  "title" : "Solution Engineer / Infrastructure Automation and AI (1)",
-  "company" : "Jobfactory",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001545250&ec=0000000492",
-  "datePosted" : [ 2026, 9, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 9, 9 ],
-  "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
 }, {
   "title" : "Software Quality Assurance (QA) - Internship",
   "company" : "D HELP HUB Private Limited",

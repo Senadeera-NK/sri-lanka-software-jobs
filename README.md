@@ -16,17 +16,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 10,3:29 PM (Just now)  | **Total Jobs Found:** 124
+> 🟢 **Last Updated:** September 10,8:37 PM (Just now)  | **Total Jobs Found:** 128
 
-### 🎓 Internships & Trainees  (30)
+### 🎓 Internships & Trainees  (31)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern - Software Engineer](https://itpro.lk/job/15059/intern-software-engineer-at-earrow-pvt-ltd/) | eArrow (Pvt) LTD | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer Intern](https://itpro.lk/job/15051/software-engineer-intern-at-samuel-gnanam-it-centre/) | Samuel Gnanam IT Centre | Intern | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - Software Engineer](https://itpro.lk/job/15059/intern-software-engineer-at-earrow-pvt-ltd/) | eArrow (Pvt) LTD | Intern | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [React Js \| QA \| System Intern \| BO Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545762&ec=DEFZZZ) | Capsicum Labs | Intern | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Laravel Developer Intern - Paid Internship](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001546656&ec=DEFZZZ) | Oonewoo Tech (Pvt) Ltd | Intern | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer Intern](https://itpro.lk/job/15051/software-engineer-intern-at-samuel-gnanam-it-centre/) | Samuel Gnanam IT Centre | Intern | Yesterday | ITPro.lk |
 | [Intern - Software Engineer](https://itpro.lk/job/15037/intern-software-engineer-at-sriq-corporation/) | SRIQ Corporation | Intern | Yesterday | ITPro.lk |
 | [Intern - QA Engineer](https://itpro.lk/job/15034/intern-qa-engineer-at-sriq-corporation/) | SRIQ Corporation | Intern | Yesterday | ITPro.lk |
-| [React Js \| QA \| System Intern \| BO Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545762&ec=DEFZZZ) | Capsicum Labs | Intern | Yesterday | TopJobs.lk |
 | [Intern - Software Engineering (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000438&jc=0001545772&ec=0000000577) | Fortude | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern Software Engineer (Work From Home)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545472&ec=DEFZZZ) | Yumarone Labz | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern - Data Analytics](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545411&ec=DEFZZZ) | UTE CAT | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -55,24 +56,25 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (62)
+### 💻 Associate & Junior/SE Roles  (63)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Software Engineer](https://itpro.lk/job/15058/associate-software-engineer-at-earrow-pvt-ltd/) | eArrow (Pvt) LTD | Associate | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer (Backend)](https://itpro.lk/job/15053/associate-software-engineer-backend-at-newnop/) | NEWNOP | Associate | 18&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer (Backend)](https://itpro.lk/job/15040/software-engineer-backend-at-ucombinator/) | Ucombinator | Junior/SE | Yesterday | ITPro.lk |
-| [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
+| [Associate Software Engineer](https://itpro.lk/job/15058/associate-software-engineer-at-earrow-pvt-ltd/) | eArrow (Pvt) LTD | Associate | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI + Junior Mobile App Developer - React Native](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545702&ec=DEFZZZ) | Nascent Group | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545623&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546843&ec=0000000492) | Jobfactory | Associate | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546844&ec=0000000492) | Jobfactory | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer (2 Years FTC) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000160&jc=0001546664&ec=0000000192) | Michelin | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer (Backend)](https://itpro.lk/job/15053/associate-software-engineer-backend-at-newnop/) | NEWNOP | Associate | 23&nbsp;hours&nbsp;ago | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [AI / MACHINE LEARNING ENGINEER (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000023&jc=0001546026&ec=0000000023) | Maritime Placements (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
-| [AI + Junior Mobile App Developer - React Native](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545702&ec=DEFZZZ) | Nascent Group | Junior/SE | Yesterday | TopJobs.lk |
-| [Quality Assurance Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545623&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
-| [Associate Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546245&ec=0000000492) | Jobfactory | Associate | Yesterday | TopJobs.lk |
-| [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546244&ec=0000000492) | Jobfactory | Junior/SE | Yesterday | TopJobs.lk |
+| [Software Engineer (Backend)](https://itpro.lk/job/15040/software-engineer-backend-at-ucombinator/) | Ucombinator | Junior/SE | Yesterday | ITPro.lk |
 | [Associate QA Engineer (Project Basis)](https://itpro.lk/job/15028/associate-qa-engineer-project-basis-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Associate | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Remote Voicebot Developer & Tester](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001540550&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer – Integrations](https://itpro.lk/job/15018/software-engineer-integrations-at-softvil-technologies/) | Softvil Technologies | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -124,15 +126,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (32)
+### 🚀 Senior & Lead Roles  (34)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546820&ec=0000000492) | Jobfactory | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI Engineer \| Senior AI Engineer - India (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001546898&ec=DEFZZZ) | HRC Labs | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Engineer - India (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001546897&ec=DEFZZZ) | HRC Labs | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer (Backend)](https://itpro.lk/job/15041/senior-software-engineer-backend-at-ucombinator/) | Ucombinator | Senior | Yesterday | ITPro.lk |
 | [Senior Fullstack Engineer](https://itpro.lk/job/15039/senior-fullstack-engineer-at-ucombinator/) | Ucombinator | Senior | Yesterday | ITPro.lk |
 | [Senior Quality Engineer](https://itpro.lk/job/15038/senior-quality-engineer-at-ucombinator/) | Ucombinator | Senior | Yesterday | ITPro.lk |
-| [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
-| [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001546272&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior Software Engineer (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545352&ec=DEFZZZ) | Xact Accounting | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Engineer – Databricks](https://itpro.lk/job/15017/senior-engineer-databricks-at-softvil-technologies/) | Softvil Technologies | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior / Lead Software Developer (.NET)](https://itpro.lk/job/15015/senior-lead-software-developer-net-at-ck-orbits/) | CK Orbits | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |

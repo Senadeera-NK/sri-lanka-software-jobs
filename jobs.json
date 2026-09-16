@@ -1,4 +1,40 @@
 [ {
+  "title" : "Software Engineer – Full Stack",
+  "company" : "Hatchyard",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15114/software-engineer-full-stack-at-hatchyard/",
+  "datePosted" : [ 2026, 9, 16, 18, 59, 48 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "We’re Hiring: Software Engineer – Full Stack Requirements Bachelor's Degree in Computer Science or equivalent, with 1-2 years of experience developing production grade enterprise applications. Excellent communication and interpersonal skills. Experience designing and developing RESTful APIs and microservices. Experience with backend development using Node.js (Express.js) and/or Java (Spring Boot). Experience with frontend technologies including JavaScript, TypeScript, HTML, CSS, React.js, and Next.js, with a good understanding of frontend state management and asynchronous data handling. Experience working with relational and NoSQL databases, including database design, querying, and performance optimization. Extensive knowledge of AWS cloud services, including experience designing, building, deploying, and maintaining cloud-native applications using services such as ECS, Lambda, S3, RDS, and related DevOps services. Experience with DevOps practices and tools, including Docker, CI/CD pipelines, and Git-based version control systems. Familiarity with Test-Driven Development (TDD) and Quality Engineering best practices. Familiarity with Scrum Agile delivery methodologies."
+}, {
+  "title" : "Senior QA Engineer",
+  "company" : "NodeZS",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15113/senior-qa-engineer-at-nodezs/",
+  "datePosted" : [ 2026, 9, 16, 18, 25, 12 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "NodeZS is looking for a Senior QA Engineer who thinks beyond testing and drives quality across the entire development lifecycle. This is a full-time remote role based in Sri Lanka, working with a US-based client. Location: Remote (Sri Lanka) Type: Full-time Client: USA-based What we're looking for: 3+ years of QA experience, with proven strength in UI/UX testing and user-centred quality principles Hands-on experience with Selenium, Playwright, Java, JUnit, Jenkins, Git/GitHub, Postman/REST Assured and SQL A passion for building quality into every stage of development, not only the testing phase Strong strategic thinking, including planning, risk-based decision making, prioritisation and problem solving A track record of improving QA processes, strengthening test automation and reducing flaky tests Solid root cause analysis skills, with a focus on preventing recurring issues rather than treating symptoms Ownership of both functional and non-functional quality outcomes Familiarity with modern testing practices and agile environments A collaborative mindset: you work closely with developers, keep independent quality standards, and encourage quality ownership across the team Clear, confident communication Bonus: experience using AI responsibly to improve productivity You're self-motivated and comfortable working independently with minimal supervision."
+}, {
+  "title" : "Senior Quality Engineer",
+  "company" : "Hatchyard",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/14312/senior-quality-engineer-at-hatchyard/",
+  "datePosted" : [ 2026, 9, 16, 18, 15, 43 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "Join Hatchyard and be part of a talented team that builds reliable, high-quality software solutions. Key Responsibilities Contributing towards the defining of test strategies and test planning Validating data models, reports, and dashboards against source systems to ensure data accuracy and consistency with defined business rules Executing test cases for data pipelines, ETL processes, and data transformations across the analytics afecycle (data ingestion to reporting) Contributing towards the development of Python-based automation frameworks for regression and data validation testing Preparing and maintaining test cases, test data, and execution results for analytics datasets and dashboards Performing data validation checks, including data completeness, transformation accuracy, and aggregation logic Assisting in identifying and documenting data issues and supporting root cause analysis activities Following established QE standards and ensuring proper documentation and traceability of testing activities in Jira and Confluence Participating in sprint activities, including planning, stand-ups, and retrospectives Requirements A Bachelor's Degree in Computer Science, Information Technology. Data Science, or a related field 1-3 years of experience in Software or Data Quality Engineering (ETL/B testing exposure is a plus) Good knowledge of SQL, with the ability to write and validate queries Basic to intermediate knowledge of Python for test automation or data validation A good understanding of software testing principles and QA methodologies Experience working in Agile environments and familiarity with tools like Jirs and Confluence Exposure to cloud data platforms (eg. GCP) is an added advantage Strong analytical and problem-solving skills Good communication and collaboration skills to work effectively with cross-functional teams The willingness to learn and grow in data engineering and quality engineering practices Attention to detail and commitment to delivering quality work"
+}, {
+  "title" : "Senior Software Developer (Project Basis)",
+  "company" : "Webtezza (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15112/senior-software-developer-project-basis-at-webtezza-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 16, 17, 13, 55 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "Overview We are looking for a proactive, technically strong, and results-oriented Senior Software Developer to join our team on a contract basis. The ideal candidate will take ownership of developing, improving, and delivering high-quality software products rather than focusing solely on completing assigned tasks. You will work closely with Project Managers, UI/UX designers, other developers, and relevant stakeholders to understand requirements, solve complex technical problems, improve development processes, and deliver reliable software that creates real value for clients and end users. The role also requires an AI-enabled approach to software development, with a strong interest in using AI tools and technologies to improve development speed, problem-solving, code quality, testing, and overall engineering efficiency. Responsibilities Design, develop, test, debug, and maintain high-quality software applications and features. Translate project and business requirements into practical technical solutions and actionable development tasks. Take ownership of assigned features, technical problems, and development outcomes from understanding requirements through delivery. Develop maintainable, scalable, secure, and efficient software following appropriate engineering practices and standards. Analyze complex technical problems, identify root causes, and develop practical and sustainable solutions. Work closely with Project Managers to provide technical input on requirements, estimates, technical risks, dependencies, and delivery timelines. Collaborate with UI/UX designers to understand designs, identify technical constraints, and ensure effective implementation of user experiences. Participate in code reviews and provide constructive technical feedback to improve code quality and development practices. Develop and maintain appropriate automated tests and ensure software is thoroughly tested before delivery. Identify, investigate, and resolve bugs, performance issues, integration problems, and production issues. Contribute to technical documentation, development standards, architecture decisions, and knowledge sharing within the team. Identify opportunities to improve development workflows, reduce unnecessary effort, and increase engineering efficiency. Research and evaluate new technologies, tools, and approaches that can improve software development and product delivery. Effectively use AI-assisted development tools for activities such as coding, debugging, testing, refactoring, research, documentation, and technical problem-solving. Critically review and validate AI-generated code and recommendations rather than relying on AI output without technical judgment. Explore practical ways to integrate AI into development workflows to improve delivery speed, quality, and developer productivity. Proactively identify technical risks, blockers, dependencies, and potential delivery issues and communicate them early. Take responsibility for the quality, reliability, and maintainability of the software you deliver. Requirements Proven experience in software development, preferably in a professional software development or technology environment. Strong programming and software engineering fundamentals. Strong understanding of software development practices, including version control, testing, debugging, code review, and software design. Experience working with APIs, databases, integrations, and modern software development tools and frameworks. Good understanding of writing maintainable, scalable, secure, and efficient code. Strong problem-solving and critical-thinking skills, with the ability to investigate technical problems and develop practical solutions. Ability to independently break down complex requirements and problems into manageable technical tasks. Strong understanding of software architecture and technical design appropriate to the projects being developed. Ability to estimate technical work, identify dependencies, and communicate technical risks and constraints clearly. Strong communication and collaboration skills, with the ability to work effectively with Project Managers, UI/UX designers, developers, clients, and other stakeholders. Strong sense of ownership, accountability, and commitment to delivering high-quality software. Ability to work independently, make sound technical decisions, and take responsibility for technical outcomes. Ability to adapt to changing requirements and work effectively in a fast-paced software development environment. Experience reviewing code and providing constructive technical feedback to other developers. Ability and willingness to mentor junior and associate developers. Practical experience using AI-assisted software development tools such as AI coding assistants or similar technologies. Ability to evaluate, test, and validate AI-generated code and technical recommendations. A continuous-learning mindset and interest in emerging technologies, particularly AI and its practical application to software development. Preferred / Advantageous Experience integrating AI/LLM capabilities into software products or development workflows. Experience working in Agile software development environments. Experience working directly with clients or contributing to technical discussions with clients. What We Offer Competitive contract compensation. Opportunities to work on diverse software products and real-world technology projects. Opportunities to work with and explore AI-enabled software development practices. Exposure to clients, Project Managers, UI/UX designers, and cross-functional teams. Opportunities to contribute to technical decisions and improve engineering processes. A collaborative environment that values ownership, innovation, continuous learning, and quality. Flexible working arrangements, where applicable. We are particularly interested in seeing what you can build, how you solve problems, how you think about software quality, and how effectively you use modern development tools including AI. If you are an experienced software developer who enjoys solving challenging problems, building high-quality products, improving how software is developed, and using AI to make engineering more effective, we encourage you to apply and join our team."
+}, {
   "title" : "Junior Full Stack Developer",
   "company" : "Company Name Withheld",
   "level" : "Junior/SE",
@@ -151,6 +187,24 @@
   "datePosted" : [ 2026, 9, 16, 0, 0 ],
   "scrapedDate" : [ 2026, 9, 16 ],
   "description" : "Software Developer"
+}, {
+  "title" : "Intern - Database (1)",
+  "company" : "Fortude",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000438&jc=0001549010&ec=0000000577",
+  "datePosted" : [ 2026, 9, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "Intern - Database (1)"
+}, {
+  "title" : "Backend Developer",
+  "company" : "True Foam (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001548797&ec=DEFZZZ",
+  "datePosted" : [ 2026, 9, 16, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 16 ],
+  "description" : "Backend Developer"
 }, {
   "title" : "QA Intern",
   "company" : "Affno Asia Pacific (Pvt) Ltd",

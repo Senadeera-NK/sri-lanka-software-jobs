@@ -1,4 +1,22 @@
 [ {
+  "title" : "Quality Assurance (QA) Intern",
+  "company" : "Ranga Technologies",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15135/quality-assurance-qa-intern-at-ranga-technologies/",
+  "datePosted" : [ 2026, 9, 17, 20, 29, 33 ],
+  "scrapedDate" : [ 2026, 9, 17 ],
+  "description" : "Associate QA \uD83D\uDCCD Remote \uD83D\uDCBC Company: Ranga Technologies \uD83D\uDD52 Full-Time Are you a tech-savvy student or fresh graduate passionate about software quality, attention to detail, and building seamless digital experiences? We are looking for an energetic QA Intern to join our team and help us test and polish production-ready web applications, including PineGen AI! This is a hands-on learning opportunity where you’ll gain practical experience in both front-end and back-end testing across modern web tech stacks. What You’ll Do Assist in manual and functional testing of front-end web interfaces and backend services. Learn to verify web apps built with Next.js, Node.js, and Python. Help conduct end-to-end testing for feature releases on PineGen AI. Write clear test cases, log bugs, and collaborate with developers to verify fixes. Ensure UI/UX consistency, cross-browser performance, and API accuracy. What We’re Looking For Currently pursuing or recently graduated with a degree in Computer Science, Software Engineering, IT, or a related field. Basic understanding of web technologies, REST APIs, and software development life cycles. Familiarity with or curiosity about tech stacks like Next.js, Node.js, or Python. Keen eye for detail, strong problem-solving skills, and good communication. Passion for learning quality assurance best practices and testing tools (e.g., Postman, DevTools). Why Join Us? Real-World Experience: Work directly on live, production-grade applications. Mentorship: Learn best testing practices from experienced engineers. Growth: Opportunity for career advancement based on performance. How to ApplyReady to start your QA journey with us? \uD83D\uDCE9 How to ApplySend your CV and writing portfolio to info@rangatechnologies.com"
+}, {
+  "title" : "Web Developer",
+  "company" : "10x Creative (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15132/web-developer-at-10x-creative-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 17, 17, 7, 29 ],
+  "scrapedDate" : [ 2026, 9, 17 ],
+  "description" : "\uD83D\uDEA8 We’re Hiring: Full-Time Remote Web Developer On-site | Full-Time Are you a talented Web Developer who can build fast, responsive, and functional websites from the ground up? Do you thrive in a remote work environment and love turning creative ideas into clean, efficient code? 10X Creative is a fast-growing marketing agency helping service-based businesses scale through powerful digital experiences. We're looking for a full-time Web Developer to join our remote team and bring websites to life that not only look amazing — but work flawlessly. What we are looking for: Bachelor’s degree in Computer Science, IT, or a related field Strong proficiency in HTML, CSS, JavaScript, PHP, and MySQL Experience in both front-end and back-end web development Familiarity with frameworks, CMS platforms (e.g., WordPress, but not limited to), and RESTful APIs Solid understanding of SEO, website speed optimization, and responsive design Familiarity with Git or version control tools (a plus) Minimum 1 year of full-time experience building and maintaining websites in a professional setting Ability to work independently and manage multiple projects Why join 10X Creative On-site role in a dynamic work environment Exposure to diverse industries and real-world projects Collaborative, growth-focused culture Opportunity to own and lead development tasks from day one Think you're a great fit? Send your resume and portfolio to ajwad@tenxcreative.com with the subject line \"Web Developer\"."
+}, {
   "title" : "QA Engineer",
   "company" : "iTechnology Australia",
   "level" : "Junior/SE",
@@ -88,6 +106,15 @@
   "datePosted" : [ 2026, 9, 17, 0, 0 ],
   "scrapedDate" : [ 2026, 9, 17 ],
   "description" : "Software Engineer - Web | Senior Software Engineer - Web & Software Engineer - Desktop"
+}, {
+  "title" : "Data Engineer (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001549228&ec=0000000510",
+  "datePosted" : [ 2026, 9, 17, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 17 ],
+  "description" : "Data Engineer (1)"
 }, {
   "title" : "Full Stack Developer",
   "company" : "KD Marketing Group",

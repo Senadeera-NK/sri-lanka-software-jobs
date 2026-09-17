@@ -16,16 +16,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 17,3:49 PM (Just now)  | **Total Jobs Found:** 126
+> 🟢 **Last Updated:** September 17,9:07 PM (Just now)  | **Total Jobs Found:** 129
 
-### 🎓 Internships & Trainees  (32)
+### 🎓 Internships & Trainees  (33)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Intern](https://itpro.lk/job/15125/qa-intern-at-nodezs/) | NodeZS | Intern | 13&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern Software Engineer](https://itpro.lk/job/15124/intern-software-engineer-at-chiox-software-solution-llc/) | ChiOX Software Solution LLC | Intern | 13&nbsp;hours&nbsp;ago | ITPro.lk |
-| [React Js \| QA \| System Intern \| BO Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545762&ec=DEFZZZ) | Capsicum Labs | Intern | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Developer – Intern](https://itpro.lk/job/15121/software-developer-intern-at-theiavora/) | Theiavora | Intern | 17&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Assurance (QA) Intern](https://itpro.lk/job/15135/quality-assurance-qa-intern-at-ranga-technologies/) | Ranga Technologies | Intern | 38&nbsp;mins&nbsp;ago | ITPro.lk |
+| [QA Intern](https://itpro.lk/job/15125/qa-intern-at-nodezs/) | NodeZS | Intern | 18&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern Software Engineer](https://itpro.lk/job/15124/intern-software-engineer-at-chiox-software-solution-llc/) | ChiOX Software Solution LLC | Intern | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [React Js \| QA \| System Intern \| BO Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545762&ec=DEFZZZ) | Capsicum Labs | Intern | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Developer – Intern](https://itpro.lk/job/15121/software-developer-intern-at-theiavora/) | Theiavora | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Intern - Database (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000438&jc=0001549010&ec=0000000577) | Fortude | Intern | Yesterday | TopJobs.lk |
 | [QA Intern](https://itpro.lk/job/15108/qa-intern-at-affno-asia-pacific-pvt-ltd/) | Affno Asia Pacific (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern - Fullstack & Mobile Development](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001548185&ec=DEFZZZ) | Finz Labs | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -57,18 +58,20 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (68)
+### 💻 Associate & Junior/SE Roles  (70)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Engineer](https://itpro.lk/job/15130/qa-engineer-at-itechnology-australia/) | iTechnology Australia | Junior/SE | 2&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate QA](https://itpro.lk/job/15129/associate-qa-at-ranga-technologies/) | Ranga Technologies | Associate | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer - Next.js (Full Stack)](https://itpro.lk/job/15128/associate-software-engineer-nextjs-full-stack-at-kangaro-tech/) | Kangaro Tech | Associate | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Associate Software Engineer](https://itpro.lk/job/15123/associate-software-engineer-at-chiox-software-solution-llc/) | ChiOX Software Solution LLC | Associate | 13&nbsp;hours&nbsp;ago | ITPro.lk |
-| [AI + Junior Mobile App Developer - React Native](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545702&ec=DEFZZZ) | Nascent Group | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Quality Assurance Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545623&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer](https://itpro.lk/job/15122/full-stack-developer-at-kd-marketing-group/) | KD Marketing Group | Junior/SE | 16&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer – Full Stack](https://itpro.lk/job/15114/software-engineer-full-stack-at-hatchyard/) | Hatchyard | Junior/SE | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Web Developer](https://itpro.lk/job/15132/web-developer-at-10x-creative-pvt-ltd/) | 10x Creative (Pvt) Ltd | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer](https://itpro.lk/job/15130/qa-engineer-at-itechnology-australia/) | iTechnology Australia | Junior/SE | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate QA](https://itpro.lk/job/15129/associate-qa-at-ranga-technologies/) | Ranga Technologies | Associate | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer - Next.js (Full Stack)](https://itpro.lk/job/15128/associate-software-engineer-nextjs-full-stack-at-kangaro-tech/) | Kangaro Tech | Associate | 9&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Software Engineer](https://itpro.lk/job/15123/associate-software-engineer-at-chiox-software-solution-llc/) | ChiOX Software Solution LLC | Associate | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [AI + Junior Mobile App Developer - React Native](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545702&ec=DEFZZZ) | Nascent Group | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001545623&ec=DEFZZZ) | Prima Management Services (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001549228&ec=0000000510) | Expolanka Freight (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer](https://itpro.lk/job/15122/full-stack-developer-at-kd-marketing-group/) | KD Marketing Group | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer – Full Stack](https://itpro.lk/job/15114/software-engineer-full-stack-at-hatchyard/) | Hatchyard | Junior/SE | Yesterday | ITPro.lk |
 | [Junior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543734&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543718&ec=DEFZZZ) | Company Name Withheld | Junior/SE | Yesterday | TopJobs.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -136,10 +139,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer - Web \| Senior Software Engineer - Web & ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001547485&ec=DEFZZZ) | Afisol (Pvt) Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior QA Engineer](https://itpro.lk/job/15113/senior-qa-engineer-at-nodezs/) | NodeZS | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Quality Engineer](https://itpro.lk/job/14312/senior-quality-engineer-at-hatchyard/) | Hatchyard | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Software Developer (Project Basis)](https://itpro.lk/job/15112/senior-software-developer-project-basis-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Senior | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer - Web \| Senior Software Engineer - Web & ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001547485&ec=DEFZZZ) | Afisol (Pvt) Ltd | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior QA Engineer](https://itpro.lk/job/15113/senior-qa-engineer-at-nodezs/) | NodeZS | Senior | Yesterday | ITPro.lk |
+| [Senior Quality Engineer](https://itpro.lk/job/14312/senior-quality-engineer-at-hatchyard/) | Hatchyard | Senior | Yesterday | ITPro.lk |
+| [Senior Software Developer (Project Basis)](https://itpro.lk/job/15112/senior-software-developer-project-basis-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Senior | Yesterday | ITPro.lk |
 | [Senior Full Stack Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001543731&ec=DEFZZZ) | Company Name Withheld | Senior | Yesterday | TopJobs.lk |
 | [Senior Engineer - Business Intelligence (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001548693&ec=0000000510) | Expolanka Freight (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Linux Server Administrator (Enterprise Systems & Data...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001548637&ec=DEFZZZ) | Company Name With Held | Senior | Yesterday | TopJobs.lk |

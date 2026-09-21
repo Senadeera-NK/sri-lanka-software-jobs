@@ -1,4 +1,40 @@
 [ {
+  "title" : "Senior Software Engineer (Solutions)",
+  "company" : "Chakray Consulting",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15191/senior-software-engineer-solutions-at-chakray-consulting/",
+  "datePosted" : [ 2026, 9, 21, 18, 39, 40 ],
+  "scrapedDate" : [ 2026, 9, 21 ],
+  "description" : "We’re hiring! Join Chakray Consulting as a Senior Software Engineer (Solutions) in Colombo, Sri Lanka \uD83C\uDDF1\uD83C\uDDF0 We’re looking for an experienced software engineer with strong expertise in the WSO2 Open Source platform to join our team and work on client projects, designing, developing and delivering high-quality solutions. About the role: Work across WSO2 Identity Server, Integrator and API Manager Design and implement enterprise integration solutions Provide technical guidance and support to engineering teams Contribute to POCs, technical reviews and new technology initiatives Share knowledge with clients, colleagues and the wider WSO2 community"
+}, {
+  "title" : "Senior Software Engineer Java",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15190/senior-software-engineer-java-at-directfn/",
+  "datePosted" : [ 2026, 9, 21, 18, 34, 39 ],
+  "scrapedDate" : [ 2026, 9, 21 ],
+  "description" : "We're Hiring – Senior Software Engineer JAVA What we're looking for: A Bachelor’s Degree in Computer Science, Information Technology, Software Engineering, or a related field. 2 + years of hands-on experience in software engineering, with a focus on Java-based technologies, ideally in roles such as Software Engineer or Senior Software Engineer. Strong proficiency in Object-Oriented Programming, Java SE (versions 8/17/21), Java EE, Spring Boot, RESTful APIs, as well as Unit and Integration Testing. Excellent analytical and problem-solving abilities. Solid understanding of relational databases (Oracle), including experience with stored procedures. Proven experience in building back-end components and services. Familiarity with implementing secure, scalable, resilient and highly available systems, including the use of clustering/load balancing and messaging systems such as Kafka, JMS, or IBM MQ Series (preferred). Good knowledge of Agile development methodologies and experience with SDLC tools such as JIRA, Bamboo, SonarQube, Git and JUnit to enhance development and testing workflows. Strong communication skills, both verbal and written, with the ability to produce clear technical documentation. Prior experience or knowledge in the financial services domain is considered an added advantage. Apply now and be part of TeamDirectFN"
+}, {
+  "title" : "PHP Developer - Laravel",
+  "company" : "Prime One Global PVT LTD",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/10750/php-developer-laravel-at-prime-one-global-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 21, 16, 52, 52 ],
+  "scrapedDate" : [ 2026, 9, 21 ],
+  "description" : "Job Description Are you a passionate PHP developer with a love for building dynamic, robust, and scalable web applications? Prime One Global is looking for a PHP Developer (Laravel) to bring creativity, innovation, and technical expertise to our growing team. This full-time, on-site role is available at our offices in Colombo, Vavuniya, and Jaffna. The PHP Developer will be responsible for back-end web development, object-oriented programming (OOP), front-end development, software development, and programming tasks. Key Responsibilities: Develop, test, and maintain web applications using the Laravel framework and PHP. Write clean, maintainable, and efficient code following industry best practices. Collaborate with cross-functional teams, including designers and other developers, to develop and deploy new features. Debug, troubleshoot, and optimize existing applications for performance and scalability.Integrate front-end components and third-party services to enhance functionality. Participate in all phases of the software development lifecycle, from requirements gathering to deployment.Conduct code reviews and ensure all code meets established standards. Stay up-to-date with new trends and advancements in web development. Requirements: Minimum of 2 years of professional experience in PHP development with a focus on the Laravel framework. Familiarity with MySQL or other relational databases and a strong understanding of database design and optimization. Experience with RESTful APIs and integrating third-party services. Knowledge of version control systems (e.g., Git) and collaborative workflows. Basic understanding of front-end technologies such as Vue.js or React (preferred). Strong problem-solving skills, attention to detail, and ability to work independently and as part of a team. Excellent communication skills for effective collaboration. Preferred Skills Experience in Agile development methodologies. Familiarity with AWS, Azure or other cloud-based services. Knowledge of CI/CD pipelines and automated deployment processes. What We Offer: Competitive salary and benefitsProfessional growth and development opportunities A collaborative work environment with a talented, innovative teamExciting projects with global clients How to Apply: Are you ready to bring your Laravel expertise to life and create amazing web solutions?! We’d love to hear from you! Send us your updated resume and a cover letter outlining your relevant experience and why you’re a great fit for this position to career@primeone.lk."
+}, {
+  "title" : "Junior Web Developer",
+  "company" : "Prime One Global PVT LTD",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/13507/junior-web-developer-at-prime-one-global-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 21, 16, 51, 7 ],
+  "scrapedDate" : [ 2026, 9, 21 ],
+  "description" : "Looking to grow your skills and gain real-world experience? At Prime One Global, we offer an environment where creativity, learning, and impact go hand in hand. What we expect Assist in developing and maintaining websites and web applications. Troubleshoot issues and ensure compatibility across browsers and devices. Willingness to learn and work with new tools, technologies, and frameworks. Portfolio, GitHub repository, or project experience is a strong plus. What You’ll Gain Hands-on experience on real projects Exposure to a dynamic and growth-driven environment Opportunities to learn, improve, and take initiative A supportive team that values creativity and ideas Start your journey with Prime One Global and build something meaningful."
+}, {
   "title" : "Associate Quality Assurance Engineer",
   "company" : "Kangaro Tech",
   "level" : "Associate",

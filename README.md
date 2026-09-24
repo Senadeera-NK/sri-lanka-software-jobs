@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 24,3:55 PM (Just now)  | **Total Jobs Found:** 140
+> 🟢 **Last Updated:** September 24,9:23 PM (Just now)  | **Total Jobs Found:** 141
 
 ### 🎓 Internships & Trainees  (34)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Automation Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552052&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Intern | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Quality Assurance And Software Tester Intern](https://itpro.lk/job/12206/quality-assurance-and-software-tester-intern-at-neo-solution/) | Neo Solution | Intern | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Automation Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552052&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Intern | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance And Software Tester Intern](https://itpro.lk/job/12206/quality-assurance-and-software-tester-intern-at-neo-solution/) | Neo Solution | Intern | Yesterday | ITPro.lk |
 | [Intern - QA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000015&jc=0001551655&ec=0000000015) | Delmege Group | Intern | Yesterday | TopJobs.lk |
 | [Intern - Software Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001551595&ec=0000000661) | DirectFN | Intern | Yesterday | TopJobs.lk |
 | [Quality Assurance Internship](https://itpro.lk/job/15217/quality-assurance-internship-at-durowave-pvt-ltd/) | Durowave (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -59,20 +59,21 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (77)
+### 💻 Associate & Junior/SE Roles  (78)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [IT Helpdesk Engineer - Avissawella (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001552163&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Head of Data & AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552064&ec=DEFZZZ) | SLT Mobitel | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Management Executive](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552005&ec=DEFZZZ) | Star Garments Group (Pvt) Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551943&ec=DEFZZZ) | The Permalinks Limited | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Engineer](https://itpro.lk/job/15235/qa-engineer-at-pulseid/) | PulseID | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Assurance Engineer](https://itpro.lk/job/15228/quality-assurance-engineer-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering - Integrations](https://itpro.lk/job/15252/software-engineering-integrations-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Junior/SE | 56&nbsp;mins&nbsp;ago | ITPro.lk |
+| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [IT Helpdesk Engineer - Avissawella (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001552163&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Head of Data & AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552064&ec=DEFZZZ) | SLT Mobitel | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Management Executive](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552005&ec=DEFZZZ) | Star Garments Group (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551943&ec=DEFZZZ) | The Permalinks Limited | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://itpro.lk/job/15235/qa-engineer-at-pulseid/) | PulseID | Junior/SE | Yesterday | ITPro.lk |
+| [Quality Assurance Engineer](https://itpro.lk/job/15228/quality-assurance-engineer-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Junior/SE | Yesterday | ITPro.lk |
 | [Junior Software Developer](https://itpro.lk/job/15225/junior-software-developer-at-ait-services-australia/) | AIT Services Australia | Junior/SE | Yesterday | ITPro.lk |
 | [Associate QA Engineer](https://itpro.lk/job/14833/associate-qa-engineer-at-haulmatic-technologies/) | Haulmatic Technologies | Associate | Yesterday | ITPro.lk |
 | [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001551571&ec=0000000492) | Jobfactory | Junior/SE | Yesterday | TopJobs.lk |
@@ -147,13 +148,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Technical Lead – Full-Stack Engineering](https://itpro.lk/job/15240/technical-lead-fullstack-engineering-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | 14&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer - Web \| Senior Software Engineer - Web & ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001547485&ec=DEFZZZ) | Afisol (Pvt) Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [QA Automation Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552040&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Quality Engineering Lead](https://itpro.lk/job/15230/quality-engineering-lead-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | 23&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Quality Assurance Engineer](https://itpro.lk/job/15229/senior-quality-assurance-engineer-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Technical Lead – Full-Stack Engineering](https://itpro.lk/job/15240/technical-lead-fullstack-engineering-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | 19&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer - Web \| Senior Software Engineer - Web & ...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001547485&ec=DEFZZZ) | Afisol (Pvt) Ltd | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Automation Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552040&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Engineering Lead](https://itpro.lk/job/15230/quality-engineering-lead-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | Yesterday | ITPro.lk |
+| [Senior Quality Assurance Engineer](https://itpro.lk/job/15229/senior-quality-assurance-engineer-at-vs-one-world-pvt-ltd/) | VS ONE WORLD (Pvt) Ltd | Senior | Yesterday | ITPro.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001551560&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior Boomi Integration Developer - REF8902 (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000176&jc=0001551898&ec=0000000211) | Creative Software | Senior | Yesterday | TopJobs.lk |
 | [Senior Quality Assurance Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001551662&ec=0000000661) | DirectFN | Senior | Yesterday | TopJobs.lk |

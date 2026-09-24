@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineering - Integrations",
+  "company" : "VS ONE WORLD (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15252/software-engineering-integrations-at-vs-one-world-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 24, 20, 27, 32 ],
+  "scrapedDate" : [ 2026, 9, 24 ],
+  "description" : "VS ONE WORLD is seeking talented and experienced Software Engineering Resources to design, build, and deploy robust integration and API management solutions using WSO2Stack, WSO2APIManager and WSO2MicroIntegrator. You will play a key role in our digital transformation initiatives, connecting diverse enterprise systems and exposing them as secure, managed APIs using the WSO2 platform. Key Responsibilities Design and build integration solutions using WSO2 Micro Integrator and WSO2 Integration Studio. Design and configure WSO2 API Manager (APIM) for full lifecycle API management. Apply EIPs, service mediation, transformation, routing, and orchestration. Enforce API security: OAuth2, JWT, API keys, throttling, and rate limits. Required Skills Hands-on experience minimum 2 years with WSO2 APIM or WSO2 MI. Strong development skills in Java + Maven/Gradle; REST, SOA, Microservices. Deep understanding of integration patterns, data formats, messaging protocols and WSO2 connectors. Familiarity with cloud platforms, Docker/Kubernetes and high-availability setups. Strong analytical and troubleshooting skills. Nice to Have WSO2 Certified API Manager Developer. WSO2 Certified Micro Integrator Developer."
+}, {
   "title" : "Technical Lead – Full-Stack Engineering",
   "company" : "VS ONE WORLD (Pvt) Ltd",
   "level" : "Senior",

@@ -1,4 +1,13 @@
 [ {
+  "title" : "Full Stack Developer",
+  "company" : "Kenora (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15259/full-stack-developer-at-kenora-pvt-ltd/",
+  "datePosted" : [ 2026, 9, 25, 18, 51, 38 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Kenora (Pvt) Ltd is looking for a Full Stack Developer to build reliable, user-friendly web applications. If you enjoy working across both frontend and backend development, solving technical problems, and building real-world applications, we'd love to hear from you. What You’ll Do: Build responsive interfaces and reusable frontend components Develop backend services and REST APIs Design and work with databases Integrate third-party services Test, debug, and improve application performance and reliability Collaborate with designers and developers Technical Skills: Frontend: HTML, CSS, JavaScript, with experience in React or Next.js Backend: Experience building APIs with Laravel, Node.js, Python, or Java Databases: MySQL or PostgreSQL; MongoDB experience is also welcome Tools & Practices: Git, GitHub, API integration, testing, and basic cloud deployment concepts We value problem-solving, maintainable code, clear communication, teamwork, and a willingness to learn. You don't need experience with every technology listed. Send your CV with following information: Current Location Years of Experience Technical Skills & Tools GitHub or Portfolio Link Expected Salary Notice Period / Availability Contact Number"
+}, {
   "title" : "Next.js Developer",
   "company" : "Kangaro Tech",
   "level" : "Junior/SE",
@@ -52,6 +61,51 @@
   "datePosted" : [ 2026, 9, 25, 0, 0 ],
   "scrapedDate" : [ 2026, 9, 25 ],
   "description" : "Senior DevOps Engineer (1)"
+}, {
+  "title" : "Software Engineer - Full Stack (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552994&ec=0000000661",
+  "datePosted" : [ 2026, 9, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Software Engineer - Full Stack (1)"
+}, {
+  "title" : "Software Engineer JAVA (1)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552991&ec=0000000661",
+  "datePosted" : [ 2026, 9, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Software Engineer JAVA (1)"
+}, {
+  "title" : "Senior Software Engineer Java Script (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552998&ec=0000000661",
+  "datePosted" : [ 2026, 9, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Senior Software Engineer Java Script (1)"
+}, {
+  "title" : "Senior Software Engineer .NET (1)",
+  "company" : "DirectFN",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552997&ec=0000000661",
+  "datePosted" : [ 2026, 9, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Senior Software Engineer .NET (1)"
+}, {
+  "title" : "Junior Devops Engineer",
+  "company" : "MedcubeUSA (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552787&ec=DEFZZZ",
+  "datePosted" : [ 2026, 9, 25, 0, 0 ],
+  "scrapedDate" : [ 2026, 9, 25 ],
+  "description" : "Junior Devops Engineer"
 }, {
   "title" : "QA Engineer Intern",
   "company" : "Futurix Technologies",
@@ -1096,24 +1150,6 @@
   "datePosted" : [ 2026, 9, 14, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 21 ],
   "description" : "Tech Lead Java (1)"
-}, {
-  "title" : "Software Engineer - Full Stack (1)",
-  "company" : "DirectFN",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001547959&ec=0000000661",
-  "datePosted" : [ 2026, 9, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 9, 21 ],
-  "description" : "Software Engineer - Full Stack (1)"
-}, {
-  "title" : "Software Engineer JAVA (1)",
-  "company" : "DirectFN",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001547960&ec=0000000661",
-  "datePosted" : [ 2026, 9, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 9, 21 ],
-  "description" : "Software Engineer JAVA (1)"
 }, {
   "title" : "Web Developer Intern",
   "company" : "Snow Soft (Pvt) Ltd",

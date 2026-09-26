@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 26,3:38 PM (Just now)  | **Total Jobs Found:** 139
+> 🟢 **Last Updated:** September 26,8:35 PM (Just now)  | **Total Jobs Found:** 139
 
 ### 🎓 Internships & Trainees  (36)
 
@@ -65,7 +65,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer](https://itpro.lk/job/15259/full-stack-developer-at-kenora-pvt-ltd/) | Kenora (Pvt) Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer](https://itpro.lk/job/15259/full-stack-developer-at-kenora-pvt-ltd/) | Kenora (Pvt) Ltd | Junior/SE | Yesterday | ITPro.lk |
 | [Next.js Developer](https://itpro.lk/job/15257/nextjs-developer-at-kangaro-tech/) | Kangaro Tech | Junior/SE | Yesterday | ITPro.lk |
 | [Software Engineer - Full Stack (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552994&ec=0000000661) | DirectFN | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer JAVA (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552991&ec=0000000661) | DirectFN | Junior/SE | Yesterday | TopJobs.lk |

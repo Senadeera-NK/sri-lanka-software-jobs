@@ -16,13 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 27,4:11 PM (Just now)  | **Total Jobs Found:** 139
+> 🟢 **Last Updated:** September 27,9:16 PM (Just now)  | **Total Jobs Found:** 140
 
-### 🎓 Internships & Trainees  (36)
+### 🎓 Internships & Trainees  (37)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern QA Engineer (Paid)](https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/) | Nippon IT and Educational Solution (NITES) | Intern | 16&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering - Internship, Python](https://itpro.lk/job/14131/software-engineering-internship-python-at-vijins-lanka/) | Vijins Lanka | Intern | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern QA Engineer (Paid)](https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/) | Nippon IT and Educational Solution (NITES) | Intern | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Intern – QA Engineer](https://itpro.lk/job/15256/intern-qa-engineer-at-bistec-global-services/) | BISTEC Global Services | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Engineer Intern](https://itpro.lk/job/13214/qa-engineer-intern-at-perpova-developers/) | Perpova Developers | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Engineer Intern](https://itpro.lk/job/15254/qa-engineer-intern-at-futurix-technologies/) | Futurix Technologies | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -146,7 +147,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior/Lead Software Engineer](https://itpro.lk/job/15260/seniorlead-software-engineer-at-xitricon/) | Xitricon | Senior | 16&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior/Lead Software Engineer](https://itpro.lk/job/15260/seniorlead-software-engineer-at-xitricon/) | Xitricon | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer Java Script (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552998&ec=0000000661) | DirectFN | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

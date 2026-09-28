@@ -1,4 +1,13 @@
 [ {
+  "title" : "Senior Developer – Node.js, AWS Cloud & Serverless",
+  "company" : "Hatchyard",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15276/senior-developer-nodejs-aws-cloud-serverless-at-hatchyard/",
+  "datePosted" : [ 2026, 9, 28, 18, 49, 26 ],
+  "scrapedDate" : [ 2026, 9, 28 ],
+  "description" : "We’re looking for an experienced Senior Developer with strong expertise in Node.js, TypeScript, AWS Cloud, and Serverless technologies to join our growing team at Hatchyard. Requirements 5+ years of software development experience Strong proficiency in Node.js / TypeScript Good People Build Great Solutions Hands-on experience with AWS (Lambda, S3, Containers) Experience in building and modernizing cloud-native applications Experience with GraphQL, APIs and Microservices Knowledge of SQL & NoSQL databases Strong architecture, design patterns and problem-solving skills Leadership and mentoring abilities Good communication and teamwork skills Experience in Agile environments AWS certifications are an added advantage"
+}, {
   "title" : "Junior QA Engineer",
   "company" : "Avya Technologies",
   "level" : "Junior/SE",
@@ -17,21 +26,12 @@
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Join our team at BeesPoint and work on real-world projects including business websites, e-commerce platforms and our own SaaS products. Use modern Al tools to build, optimize and deliver high-quality web solutions faster. Key Requirements 3+ years of professional web development experience Strong knowledge of modern frontend and backend technologies Experience with responsive design and web performance optimization Good problem solving and communication skills Ability to work independently and deliver on time What You Will Do Design, develop and maintain web applications and websites Work on real-world client projects and in-house products (Hetxa, Onexla etc.) Build modern, responsive and high-performance websites Integrate APIs and third-party services Collaborate with our development team and project managers Why Join Us? Attractive salary (based on experience) Work on diverse and challenging projects Use modern technologies and Al tools Friendly and supportive team environment Opportunity for career growth Work directly with the management team Tech Stack (We work with) React Next.js Vue.js Node.js Express Laravel MongoDB MySQL Tailwind CSS and more... Mention your expected salary in the application."
 }, {
-  "title" : "Software Engineer Intern",
-  "company" : "Apptron Solutions",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15267/software-engineer-intern-at-apptron-solutions/",
-  "datePosted" : [ 2026, 9, 28, 11, 15, 52 ],
-  "scrapedDate" : [ 2026, 9, 28 ],
-  "description" : "Ready to turn your coding skills into real-world software development experience? Join Apptron Solutions as a Remote Software Engineer Intern and gain hands-on experience by working on real-world projects while learning and growing with industry guidance. What You’ll Get: Hands-on experience with real software projects 100% Remote Work Real-world industry exposure Professional mentorship & guidance Career growth opportunities Performance-based rewards Internship Certificate & Experience Letter Position: Software Engineer Intern Work Mode: Remote LEARN. BUILD. GROW. IMPACT. Ready to start your software engineering journey?"
-}, {
   "title" : "Senior Mobile App Developer (1)",
   "company" : "Genesiis Software Pvt Ltd",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Senior Mobile App Developer (1)"
 }, {
@@ -40,7 +40,7 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Senior DevOps Engineer (1)"
 }, {
@@ -49,7 +49,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "SQL Database Administrator (1)"
 }, {
@@ -58,7 +58,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Data Platform Engineer (1)"
 }, {
@@ -67,7 +67,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Information Security Analyst (1)"
 }, {
@@ -76,7 +76,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Information Security Engineer (1)"
 }, {
@@ -85,7 +85,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001553232&ec=0000000492",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
 }, {
@@ -94,7 +94,7 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001553254&ec=0000000492",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "AI-First SaaS Operations & Delivery Lead (1)"
 }, {
@@ -103,7 +103,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001553381&ec=0000000661",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Mobile Developer - iOS (1)"
 }, {
@@ -112,7 +112,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553351&ec=DEFZZZ",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Full Stack Developer (Fiji)"
 }, {
@@ -121,7 +121,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553338&ec=DEFZZZ",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "AI Solutions Engineer - Technical Account Management (Remote)"
 }, {
@@ -130,9 +130,18 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000146&jc=0001553209&ec=0000000178",
-  "datePosted" : [ 2026, 9, 28, 0, 0 ],
+  "datePosted" : [ 2026, 9, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 9, 28 ],
   "description" : "Data Analyst - Immediate vacancy (1)"
+}, {
+  "title" : "Software Engineer Intern",
+  "company" : "Apptron Solutions",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15267/software-engineer-intern-at-apptron-solutions/",
+  "datePosted" : [ 2026, 9, 28, 11, 15, 52 ],
+  "scrapedDate" : [ 2026, 9, 28 ],
+  "description" : "Ready to turn your coding skills into real-world software development experience? Join Apptron Solutions as a Remote Software Engineer Intern and gain hands-on experience by working on real-world projects while learning and growing with industry guidance. What You’ll Get: Hands-on experience with real software projects 100% Remote Work Real-world industry exposure Professional mentorship & guidance Career growth opportunities Performance-based rewards Internship Certificate & Experience Letter Position: Software Engineer Intern Work Mode: Remote LEARN. BUILD. GROW. IMPACT. Ready to start your software engineering journey?"
 }, {
   "title" : "Software Engineering - Internship, Python",
   "company" : "Vijins Lanka",

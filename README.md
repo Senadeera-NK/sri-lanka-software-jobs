@@ -16,12 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** September 29,5:01 PM (Just now)  | **Total Jobs Found:** 139
+> 🟢 **Last Updated:** September 29,10:29 PM (Just now)  | **Total Jobs Found:** 147
 
-### 🎓 Internships & Trainees  (34)
+### 🎓 Internships & Trainees  (36)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Software Engineer — Intern / Associate](https://itpro.lk/job/15294/software-engineer-intern-associate-at-zetta-b-pvt-ltd/) | Zetta B (Pvt) Ltd | Intern | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer — Intern / Associate](https://itpro.lk/job/15293/qa-engineer-intern-associate-at-zetta-b-pvt-ltd/) | Zetta B (Pvt) Ltd | Intern | 3&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/15267/software-engineer-intern-at-apptron-solutions/) | Apptron Solutions | Intern | Yesterday | ITPro.lk |
 | [Software Engineering - Internship, Python](https://itpro.lk/job/14131/software-engineering-internship-python-at-vijins-lanka/) | Vijins Lanka | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Intern QA Engineer (Paid)](https://itpro.lk/job/13422/intern-qa-engineer-paid-at-nippon-it-and-educational-solution-nites/) | Nippon IT and Educational Solution (NITES) | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -59,13 +61,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (71)
+### 💻 Associate & Junior/SE Roles  (76)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality Engineer (Automation)](https://itpro.lk/job/14441/quality-engineer-automation-at-verdentra/) | Verdentra | Junior/SE | 3&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Junior Software Engineer ](https://rooster.jobs/jobs/519702) | ESOFT UNI | Junior/SE | 7&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Junior QA Engineer](https://rooster.jobs/jobs/519696) | Lyceum Global Holdings | Junior/SE | 12&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Quality Engineer (Automation)](https://itpro.lk/job/14441/quality-engineer-automation-at-verdentra/) | Verdentra | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Junior Software Engineer ](https://rooster.jobs/jobs/519702) | ESOFT UNI | Junior/SE | 12&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Junior QA Engineer](https://rooster.jobs/jobs/519696) | Lyceum Global Holdings | Junior/SE | 18&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Associate Business Analyst & Quality Assurance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553982&ec=DEFZZZ) | Legacy Health (Pvt) Ltd | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553941&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Frontend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001553931&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Analyst/Associate Analyst - Cyber : Digital Trust & Privacy (5)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001553704&ec=0000000410) | Deloitte | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Test Automation Architect](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001552040&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Junior QA Engineer](https://itpro.lk/job/15271/junior-qa-engineer-at-avya-technologies/) | Avya Technologies | Junior/SE | Yesterday | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -137,18 +144,19 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (34)
+### 🚀 Senior & Lead Roles  (35)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality Engineering Lead](https://itpro.lk/job/15291/quality-engineering-lead-at-softvil-technologies/) | Softvil Technologies | Senior | 8&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Senior Technical Lead – Full Stack & AI](https://itpro.lk/job/15289/senior-technical-lead-full-stack-ai-at-dxdy/) | dxdy | Senior | 57&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Senior Automation Engineer](https://itpro.lk/job/15281/senior-automation-engineer-at-syntrad-labs-private-limited/) | Syntrad Labs (Private) Limited | Senior | 14&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Full Stack AI Engineer (India / Remote)](https://rooster.jobs/jobs/519693) | Nextjob | Senior | 17&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Senior Developer – Node.js, AWS Cloud & Serverless](https://itpro.lk/job/15276/senior-developer-nodejs-aws-cloud-serverless-at-hatchyard/) | Hatchyard | Senior | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Engineering Lead](https://itpro.lk/job/15291/quality-engineering-lead-at-softvil-technologies/) | Softvil Technologies | Senior | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Technical Lead – Full Stack & AI](https://itpro.lk/job/15289/senior-technical-lead-full-stack-ai-at-dxdy/) | dxdy | Senior | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Automation Engineer](https://itpro.lk/job/15281/senior-automation-engineer-at-syntrad-labs-private-limited/) | Syntrad Labs (Private) Limited | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Developer-Colombo (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000385&jc=0001554045&ec=0000000505) | Konnect Net Pvt Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Full Stack AI Engineer (India / Remote)](https://rooster.jobs/jobs/519693) | Nextjob | Senior | 22&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Senior Developer – Node.js, AWS Cloud & Serverless](https://itpro.lk/job/15276/senior-developer-nodejs-aws-cloud-serverless-at-hatchyard/) | Hatchyard | Senior | Yesterday | ITPro.lk |
 | [Senior Web Developer](https://itpro.lk/job/15270/senior-web-developer-at-beespoint-pvt-ltd/) | BeesPoint (Pvt) Ltd | Senior | Yesterday | ITPro.lk |
-| [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | Yesterday | TopJobs.lk |
-| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | Yesterday | TopJobs.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001553254&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior/Lead Software Engineer](https://itpro.lk/job/15260/seniorlead-software-engineer-at-xitricon/) | Xitricon | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer Java Script (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001552998&ec=0000000661) | DirectFN | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |

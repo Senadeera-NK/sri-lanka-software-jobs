@@ -16,16 +16,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 2,4:46 PM (Just now)  | **Total Jobs Found:** 141
+> 🟢 **Last Updated:** October 2,10:17 PM (Just now)  | **Total Jobs Found:** 153
 
-### 🎓 Internships & Trainees  (38)
+### 🎓 Internships & Trainees  (40)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern QA Engineer](https://itpro.lk/job/15336/intern-qa-engineer-at-theiavora/) | Theiavora | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Assurance Internship](https://itpro.lk/job/15327/quality-assurance-internship-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Intern | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineering Internship](https://itpro.lk/job/15326/software-engineering-internship-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Intern | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software / AI Engineering Intern – WhatsApp AI Automation (Contract)](https://itpro.lk/job/15324/software-ai-engineering-intern-whatsapp-ai-automation-contract-at-creativex-technology-pvt-ltd/) | CreativeX Technology Pvt Ltd | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern QA Engineer](https://itpro.lk/job/15336/intern-qa-engineer-at-theiavora/) | Theiavora | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Assurance Internship](https://itpro.lk/job/15327/quality-assurance-internship-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Intern | 10&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering Internship](https://itpro.lk/job/15326/software-engineering-internship-at-webtezza-pvt-ltd/) | Webtezza (Pvt) Ltd | Intern | 10&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern - QA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001555240&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Fullstack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001554289&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software / AI Engineering Intern – WhatsApp AI Automation (Contract)](https://itpro.lk/job/15324/software-ai-engineering-intern-whatsapp-ai-automation-contract-at-creativex-technology-pvt-ltd/) | CreativeX Technology Pvt Ltd | Intern | Yesterday | ITPro.lk |
 | [QA Intern](https://itpro.lk/job/15315/qa-intern-at-dartcodes-pvt-ltd/) | DartCodes (PVT) LTD | Intern | Yesterday | ITPro.lk |
 | [Intern Software Engineer](https://itpro.lk/job/15314/intern-software-engineer-at-dartcodes-pvt-ltd/) | DartCodes (PVT) LTD | Intern | Yesterday | ITPro.lk |
 | [Intern - Cyber - Digital Trust & Privacy (5)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001554663&ec=0000000410) | Deloitte | Intern | Yesterday | TopJobs.lk |
@@ -63,19 +65,27 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (68)
+### 💻 Associate & Junior/SE Roles  (76)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Middleware / Platform Engineer](https://itpro.lk/job/15325/middleware-platform-engineer-at-jit-resourcing-consultancy-services/) | JIT Resourcing & Consultancy Services | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Quality Assurance Engineer](https://itpro.lk/job/13979/quality-assurance-engineer-at-orysys-limited/) | Orysys Limited | Junior/SE | 22&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Junior Software Engineer](https://itpro.lk/job/15313/junior-software-engineer-at-tryu-global/) | TryU Global | Junior/SE | Yesterday | ITPro.lk |
+| [Middleware / Platform Engineer](https://itpro.lk/job/15325/middleware-platform-engineer-at-jit-resourcing-consultancy-services/) | JIT Resourcing & Consultancy Services | Junior/SE | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Assurance Officer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AIX/ Linux Engineer (20)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001555394&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer - Level II (Automation Engineer) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001555205&ec=0000000445) | H Connect International (Pvt) Ltd | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer - Level II (Platform & Integrati...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001555158&ec=0000000445) | H Connect International (Pvt) Ltd | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Software Engineer C++](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555114&ec=DEFZZZ) | Hitachi Digital Payment Solutions Ltd | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI Offensive Security Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555011&ec=DEFZZZ) | CryptoGen (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Engineer \| Associate](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554993&ec=DEFZZZ) | ClinicTech | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Engineer](https://itpro.lk/job/13979/quality-assurance-engineer-at-orysys-limited/) | Orysys Limited | Junior/SE | Yesterday | ITPro.lk |
 | [Solution Engineer / Infrastructure Automation and AI (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001554907&ec=0000000492) | Jobfactory | Junior/SE | Yesterday | TopJobs.lk |
-| [Quality Assurance Officer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554721&ec=DEFZZZ) | MindOx Techno Pte Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer (Devops)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554596&ec=DEFZZZ) | Sri Lanka Insurance Corporation General Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000038&jc=0001554595&ec=0000000038) | Hemas Holdings PLC | Junior/SE | Yesterday | TopJobs.lk |
 | [IT Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554528&ec=DEFZZZ) | Elisha Clothing (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Associate Software Engineer - Level II (Data & Analytics Engineer) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001555219&ec=0000000445) | H Connect International (Pvt) Ltd | Associate | Yesterday | TopJobs.lk |
+| [System Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001554944&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Junior Software Engineer](https://itpro.lk/job/15313/junior-software-engineer-at-tryu-global/) | TryU Global | Junior/SE | Yesterday | ITPro.lk |
 | [Associate Software Engineer - Full Stack](https://itpro.lk/job/15306/associate-software-engineer-full-stack-at-veyrion/) | Veyrion | Associate | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -138,12 +148,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (35)
+### 🚀 Senior & Lead Roles  (37)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | Yesterday | TopJobs.lk |
-| [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | Yesterday | TopJobs.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001554924&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554834&ec=DEFZZZ) | DHT Cement (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Senior Developer - Business Applications](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554733&ec=DEFZZZ) | PBA Systems Pte. Ltd | Senior | Yesterday | TopJobs.lk |

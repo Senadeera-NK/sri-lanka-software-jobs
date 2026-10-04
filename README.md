@@ -16,13 +16,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 4,4:45 PM (Just now)  | **Total Jobs Found:** 145
+> 🟢 **Last Updated:** October 4,9:26 PM (Just now)  | **Total Jobs Found:** 145
 
 ### 🎓 Internships & Trainees  (35)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Developer Intern](https://itpro.lk/job/15344/software-developer-intern-at-scriptforge-solutions/) | ScriptForge Solutions | Intern | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Developer Intern](https://itpro.lk/job/15344/software-developer-intern-at-scriptforge-solutions/) | ScriptForge Solutions | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Quality Assurance Internship](https://itpro.lk/job/15340/quality-assurance-internship-at-kangaro-tech/) | Kangaro Tech | Intern | Yesterday | ITPro.lk |
 | [Intern QA Engineer](https://itpro.lk/job/15336/intern-qa-engineer-at-theiavora/) | Theiavora | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Intern - QA](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000484&jc=0001555240&ec=0000000651) | Epic Lanka (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -64,7 +64,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality Assurance Officer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance Officer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ) | AccSoft Solutions (Pvt) Ltd | Junior/SE | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Data Engineer (2 Years FTC) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000160&jc=0001555670&ec=0000000192) | Michelin | Junior/SE | Yesterday | TopJobs.lk |
 | [AS 400 Engineer (20)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001555658&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [AIX/ Linux Engineer (20)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001555394&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -145,7 +145,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 21&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | Yesterday | TopJobs.lk |
 | [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Mobile App Developer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001550210&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |

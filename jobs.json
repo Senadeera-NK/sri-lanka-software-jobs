@@ -1,4 +1,40 @@
 [ {
+  "title" : "QA Engineering Internship",
+  "company" : "TX Solutions Pvt Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15372/qa-engineering-internship-at-tx-solutions-pvt-ltd/",
+  "datePosted" : [ 2026, 10, 6, 0, 24, 49 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "About TX Solutions TX Solutions is a software solutions company focused on AI, automation, ERP, web and mobile applications, serving clients across Sri Lanka and international markets. We are looking for a motivated QA Intern to join our engineering team and gain hands-on experience testing real-world software products. Role Overview As a QA Intern, you will work closely with our developers and project teams to ensure our applications are reliable, user-friendly, and meet expected quality standards. You will be involved in manual testing, test case creation, bug reporting, regression testing, and basic test automation while gaining exposure to modern software development practices. Responsibilities Create and execute test cases based on requirements and user stories. Perform functional, regression, UI/UX, integration, and exploratory testing. Identify, document, and track bugs with clear reproduction steps. Verify bug fixes and perform regression testing. Test web and mobile applications across different devices and browsers. Work closely with developers to investigate and reproduce issues. Participate in sprint planning, daily stand-ups, and QA discussions. Maintain test documentation and testing checklists. Learn and contribute to automated testing where applicable. Help improve the team's overall QA processes and testing practices. Requirements Currently pursuing or recently completed a degree/diploma in Computer Science, Software Engineering, IT, or a related field. Basic understanding of software development and the Software Development Life Cycle (SDLC). Good understanding of software testing fundamentals. Ability to write clear and structured test cases. Good problem-solving and analytical skills. Strong attention to detail. Good communication and teamwork skills. Willingness to learn new technologies and testing tools. Good to Have Basic knowledge of API testing and tools such as Postman. Familiarity with Jira, Git, or similar development tools. Basic knowledge of SQL and databases. Experience with browser developer tools. Basic understanding of automation testing tools such as Playwright, Cypress, or Selenium. Previous academic or personal projects involving software testing. What You'll Gain Hands-on experience testing real-world international software projects. Exposure to web, mobile, AI, automation, and enterprise applications. Practical experience with modern QA tools and workflows. Experience working with developers and international clients. Mentorship from experienced software engineers. Opportunity to learn and contribute to test automation. Potential opportunity to continue with TX Solutions based on performance and business requirements. How to Apply If you are passionate about software quality, enjoy finding problems, and want to build a career in Quality Assurance and Software Engineering, we'd love to hear from you. Apply with your CV and a brief introduction about yourself. (hr@txsln.com)"
+}, {
+  "title" : "Senior Software Engineer – Java / Spring Boot + React or Angular",
+  "company" : "Talvin",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15371/senior-software-engineer-java-spring-boot-react-or-angular-at-talvin/",
+  "datePosted" : [ 2026, 10, 5, 22, 59, 10 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Build enterprise products used worldwide. Colombo. A senior Java full-stack engineer who ships microservices and modern front-ends? Read on. Talvin (www.talvin.ai) is a recruitment partner helping leading tech and offshore companies in Sri Lanka hire top talent. We're hiring on behalf of our client. About the company Our client is a product engineering company in Colombo that builds enterprise software used by international brands. Its domains include travel, e-commerce and financial services, and its engineering teams work closely with global customers. About the role A senior individual-contributor role with a path to tech lead. What you'll do Design and build backend services and REST APIs in Java and Spring Boot on a microservices architecture Build responsive, secure front-ends in React or Angular Own features end to end, from design through production deployment Uphold quality with unit and integration tests, code reviews, secure coding and performance tuning Act as subject-matter expert across product modules; mentor junior engineers Work in Agile/Scrum teams with global clients and use AI coding assistants to move faster What you need 5+ years of professional software engineering, with strong Java and Spring/Spring Boot Production experience with React or Angular REST API design, microservices and distributed-systems fundamentals Relational and/or NoSQL databases (MySQL, PostgreSQL, MongoDB) Git, CI/CD and Agile practices; clean, testable code and design patterns Strong English for working with global teams; degree in CS/SE or equivalent Nice to have Docker and Kubernetes; AWS, Azure or GCP Kafka or RabbitMQ OpenAPI/Swagger, OWASP and secure-coding experience Banking/fintech (BIAN) or travel-tech domain knowledge Tech-lead or team-lead experience What's on offer Competitive salary Enterprise products used by global brands Mostly on-site roles, with schedule flexibility at some employers How to apply Apply through this listing with your CV. Shortlisted applicants get an invite to Talvin's short AI interview. Quick, flexible and done from your phone whenever suits you. If you are a strong fit, we introduce you to our client (with your consent)."
+}, {
+  "title" : "QA Automation Lead – Selenium / Playwright",
+  "company" : "Talvin",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15368/qa-automation-lead-selenium-playwright-at-talvin/",
+  "datePosted" : [ 2026, 10, 5, 22, 56, 58 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Build the test frameworks that ship global software. Colombo. Do you write automation code, not just test plans, with Selenium, Playwright and REST Assured as your daily tools? Read on. Talvin (www.talvin.ai) is a recruitment partner helping leading tech and offshore companies in Sri Lanka hire top talent. We're hiring on behalf of our client. About the company Our client is an established software engineering and IT services company in Colombo. It delivers web, API and platform projects for US and global clients. About the role Hands-on: you own the automation framework and keep coding. What you'll do Design, build and maintain scalable automation frameworks for web, API and backend testing Write and run automated functional, regression, integration and end-to-end suites Automate API tests (Postman, REST Assured) and validate backend data with SQL Plug test suites into CI/CD pipelines (Jenkins, Azure DevOps, GitHub Actions) for continuous testing Analyse failures, raise defects and work with developers to close them Mentor QA engineers and set automation standards and quality metrics What you need 5+ years in software QA or test automation (8+ for Test Lead roles) Strong hands-on Selenium WebDriver with Java and Playwright Solid OOP and coding in Java, TypeScript, Python or C# API testing with Postman and/or REST Assured; good grasp of REST and microservices Strong SQL for data and integrity checks Git/GitHub, and experience in Agile/Scrum teams Nice to have TestNG, Cypress or Appium; AI-assisted testing (Copilot, Claude) Docker-based test execution; Kubernetes, AWS ISTQB or similar certification E-commerce or subscription systems What's on offer Competitive salary Global clients and modern QA tooling Day-shift roles and some US-aligned shift roles (e.g. 1–10 PM or 5 PM–2 AM). Tell us your preference. How to apply Apply through this listing with your CV. Shortlisted applicants get an invite to Talvin's short AI interview. Quick, flexible and done from your phone whenever suits you. If you are a strong fit, we introduce you to our client (with your consent)."
+}, {
+  "title" : "Senior Product Engineer",
+  "company" : "BCONIC",
+  "level" : "Senior",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/519787",
+  "datePosted" : [ 2026, 10, 5, 18, 1, 10 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "We're Bconic, a SaaS platform for advertising, marketing, and data intelligence. We process over $200M in ad spend for our established customer base of recognizable global customer brands, and growing, while remaining a nimble team where one engineer's decisions visibly shape the product. Our engineers work with coding agents every day. We've learned what most teams are still discovering: agents make the easy parts nearly free and make the hard parts matter more. Data models, system boundaries, and what _not_ to build are now where the real engineering happens. We're looking for someone who already thinks this way. **The problems** - **Data at scale.** We ingest marketing and advertising data from many third-party platforms, each with its own quirks, rate limits, and occasional nonsense. Making that data trustworthy, fast to query, and cheap to store is an ongoing architectural challenge, not a solved one. - **Integrations that persist.** Third-party APIs change without warning. We need designs that absorb that churn gracefully. - **Data with integrity.** Our customers trust us to help make real budget decisions. The product has to earn their trust with accuracy, and intelligibility. - **A codebase that agents and humans can both work in well.** Conventions, types, tests, and context that let us move fast without losing the plot. **How we work** - You'll use agentic tools, like Claude Code, Cursor, and/or Codex, as a core part of your workflow, and help decide how the whole team uses them. - You own what you ship, end to end, regardless of who or what wrote the lines. - Written thinking comes first. Specs and design notes are real work here, not paperwork. We're async-friendly across IST and EST. - You'll work directly with our technical CTO. Architecture decisions are discussed on their merits, not decided by title. - Our stack is TypeScript, PostgreSQL, Node/Express, GO, Rust, React, Redis, Kafka, DuckDB, and AWS/DigitalOcean. **Six months in, you'll have** - Shipped features customers use, from the first conversation through to production. - Made at least one architectural decision that made a whole class of future work easier. - Left the codebase more legible and easier for both humans and agents to work in than you found it. - Changed at least one of our practices for the better. **You'll likely thrive here if** - You've owned production systems and can explain the tradeoffs behind your decisions, including the ones you'd make differently now. - You use coding agents heavily and have strong opinions about where they fail. - You read code critically, and plausible-looking code makes you more suspicious, not less. - You care about data modeling and know that a bad schema outlives every other mistake. - You'd rather delete a feature than maintain a bad one. - Experience with marketing tech, ad platforms, or analytics is a real advantage, because domain judgment is exceptionally valuable. **You probably won't enjoy it here if** - You prefer detailed specs handed to you over shaping the problem yourself. - You measure your contribution in lines of code. - You want to avoid AI tools, or you'd accept their output without checking it. **The details** Full-time (40 hours/week), remote or hybrid, working hours aligned to either IST (Sri Lanka) or EST (Canada/US). **Our application process** Hiring is run entirely by our founders, because we care deeply about who joins our team. We read every application, starting with your answer to our one question, and if it looks like a good fit, we'll email you to set up an initial call about the role and what you're looking for. Candidates selected from there move on to a technical conversation with our CTO. There are no take-home projects, and we'll keep you posted between steps. We do our best to reply to everyone, but with the volume of applications we receive, we can't always manage it. If you haven't heard from us within four weeks, we won't be moving forward this time. Link to apply here: https://www.bconic.com/careers/product-engineer **_Please apply through our website - Applications on Rooster will not be screened._**"
+}, {
   "title" : "Engineering Intern",
   "company" : "Verdentra",
   "level" : "Intern",
@@ -67,7 +103,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001551628&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Quality Assurance Officer"
 }, {
@@ -76,7 +112,7 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Tech Lead - AI"
 }, {
@@ -85,7 +121,7 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Tech Lead - AI Solutions"
 }, {
@@ -94,7 +130,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556072&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Junior Web Developer"
 }, {
@@ -103,7 +139,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000039&jc=0001555930&ec=0000000373",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Head of Software Delivery (1)"
 }, {
@@ -112,9 +148,45 @@
   "level" : "Intern",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555753&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 5, 0, 0 ],
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Software Engineer Internship (Remote)"
+}, {
+  "title" : "Engineer - MLOps",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Engineer - MLOps"
+}, {
+  "title" : "Senior Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Senior Data Engineer"
+}, {
+  "title" : "Senior Data Scientist",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Senior Data Scientist"
+}, {
+  "title" : "Senior Quality Assurance Engineer (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001556082&ec=0000000510",
+  "datePosted" : [ 2026, 10, 5, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 5 ],
+  "description" : "Senior Quality Assurance Engineer (1)"
 }, {
   "title" : "WordPress Development Intern",
   "company" : "NeonLabz (Pvt) Ltd",
@@ -1321,33 +1393,6 @@
   "datePosted" : [ 2026, 9, 21, 16, 51, 7 ],
   "scrapedDate" : [ 2026, 10, 5 ],
   "description" : "Looking to grow your skills and gain real-world experience? At Prime One Global, we offer an environment where creativity, learning, and impact go hand in hand. What we expect Assist in developing and maintaining websites and web applications. Troubleshoot issues and ensure compatibility across browsers and devices. Willingness to learn and work with new tools, technologies, and frameworks. Portfolio, GitHub repository, or project experience is a strong plus. What You’ll Gain Hands-on experience on real projects Exposure to a dynamic and growth-driven environment Opportunities to learn, improve, and take initiative A supportive team that values creativity and ideas Start your journey with Prime One Global and build something meaningful."
-}, {
-  "title" : "Engineer - MLOps",
-  "company" : "ORYSYS Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001550512&ec=DEFZZZ",
-  "datePosted" : [ 2026, 9, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 5 ],
-  "description" : "Engineer - MLOps"
-}, {
-  "title" : "Senior Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001550510&ec=DEFZZZ",
-  "datePosted" : [ 2026, 9, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 5 ],
-  "description" : "Senior Data Engineer"
-}, {
-  "title" : "Senior Data Scientist",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001550507&ec=DEFZZZ",
-  "datePosted" : [ 2026, 9, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 5 ],
-  "description" : "Senior Data Scientist"
 }, {
   "title" : "Data Analyst",
   "company" : "Anationz",

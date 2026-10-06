@@ -1,5 +1,14 @@
 [ {
   "title" : "Full Stack Developer",
+  "company" : "KD Marketing Group",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15122/full-stack-developer-at-kd-marketing-group/",
+  "datePosted" : [ 2026, 10, 6, 19, 42, 23 ],
+  "scrapedDate" : [ 2026, 10, 6 ],
+  "description" : "Full Stack Developer (React.js & Supabase) Location: Remote Work Hours: 5:30 PM – 3:30 AM (SLK Time) | Mon–Sat Salary: 60,000 – 100,000 Rs/month (Negotiable based on experience) We are looking for a Full Stack Developer with 5+ years of experience in React.js and Supabase to handle frontend development, backend integration, and production deployment. The ideal candidate should have strong debugging skills and hands-on experience deploying real-world applications. Tech Stack React.js Vite JavaScript / TypeScript Tailwind CSS HTML5 & modern CSS State management (Context API / React Hooks) API integration & asynchronous data handling Backend: Supabase PostgreSQL Authentication & Authorization REST APIs Storage Row Level Security (RLS) Basic backend logic & data modeling Deployment: Production deployment of React (Vite) applications Experience with shared hosting environments Environment variable management for production Debugging JavaScript module & MIME-type issues Domain, SSL, and cache management Key Responsibilities Develop and maintain React.js applications using Vite Integrate frontend with Supabase backend services Manage authentication, database, and storage using Supabase Deploy applications to production and resolve hosting issues Configure server settings and ensure smooth SPA routing Debug and fix production issues efficiently How to Apply Send your CV & portfolio to: hr@kdmarketing.org Contact: +94 762941911 | +1 (716) 400-4369"
+}, {
+  "title" : "Full Stack Developer",
   "company" : "Businessfocus360 Pvt Ltd",
   "level" : "Junior/SE",
   "source" : "ITPro.lk",

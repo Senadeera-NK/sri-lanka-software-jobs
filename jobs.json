@@ -1,4 +1,13 @@
 [ {
+  "title" : "Quality Assurance -- Intern",
+  "company" : "Qdesk AI Pvt Ltd",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15398/quality-assurance-intern-at-qdesk-ai-pvt-ltd/",
+  "datePosted" : [ 2026, 10, 7, 21, 9, 19 ],
+  "scrapedDate" : [ 2026, 10, 7 ],
+  "description" : "Join our dynamic team at Qdesk AI Pvt Ltd as a Quality Assurance Intern! We are seeking a passionate individual with an eagerness for software quality, testing, and technology. This internship presents a unique opportunity for IT or Software Engineering students or recent graduates to acquire hands-on experience in real-world software testing and quality assurance. Collaborate closely with developers and team members to ensure our applications meet the highest quality standards. Key Responsibilities Perform manual testing of web and software applications Identify, document, and report bugs and issues Create and execute test cases Perform functional, regression, and usability testing Work closely with developers to identify and resolve issues Verify fixes and ensure software quality Maintain proper testing documentation Requirements Currently pursuing or recently completed or undergraduate a degree/diploma in IT, Software Engineering, Computer Science, or a related field Basic understanding of software testing concepts Good analytical and problem-solving skills Strong attention to detail Willingness to learn and work with new technologies Good communication and teamwork skills Location: Kiribathkumbura, Kandy Work Type: Hybrid Duration: 6 Months Working Days: Weekdays \uD83D\uDCE9 Interested candidates can apply by sending their CV to us."
+}, {
   "title" : "Intern - Quality Assurance",
   "company" : "Avenir IT (Pvt) Ltd",
   "level" : "Intern",
@@ -188,6 +197,33 @@
   "scrapedDate" : [ 2026, 10, 7 ],
   "description" : "Software Engineer / Senior Software Engineer (1)"
 }, {
+  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001557100&ec=0000000492",
+  "datePosted" : [ 2026, 10, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 7 ],
+  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
+}, {
+  "title" : "Junior Software Engineer (.Net)",
+  "company" : "Med Cube USA",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557055&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 7 ],
+  "description" : "Junior Software Engineer (.Net)"
+}, {
+  "title" : ". Intern Full Stack Engineer (.NET & Angular)",
+  "company" : "Med Cube USA",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557051&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 7, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 7 ],
+  "description" : ". Intern Full Stack Engineer (.NET & Angular)"
+}, {
   "title" : "Full Stack Developer",
   "company" : "KD Marketing Group",
   "level" : "Junior/SE",
@@ -295,15 +331,6 @@
   "datePosted" : [ 2026, 10, 6, 0, 0 ],
   "scrapedDate" : [ 2026, 10, 6 ],
   "description" : "Solution Engineer / Infrastructure Automation and AI (1)"
-}, {
-  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
-  "company" : "Jobfactory",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001556568&ec=0000000492",
-  "datePosted" : [ 2026, 10, 6, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 6 ],
-  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
 }, {
   "title" : "Senior Software Engineer – Java / Spring Boot + React or Angular",
   "company" : "Talvin",

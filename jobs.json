@@ -1,4 +1,13 @@
 [ {
+  "title" : ".NET Developer",
+  "company" : "Waterlily Labs",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15413/net-developer-at-waterlily-labs/",
+  "datePosted" : [ 2026, 10, 8, 21, 30, 20 ],
+  "scrapedDate" : [ 2026, 10, 8 ],
+  "description" : "Join our team of innovators! We're looking for a skilled NET Developer to make an impact in a rewarding full-time remote role. Responsibilities Application Design & Development Cross-Team Collaboration Code Quality Standards Automated Testing & Performance Optimization Technologies You'll Work With NET Framework (including versions 4.7 and .NET Core) ASP.NET (MVC, Web API, ASP.NET 8) JavaScript (jQuery, with a transition to React.js in the future) MS SQL Server & MySQL Unit Testing: NUnit, NUnit, and other automated testing frameworks Agile Development practices Qualifications Bachelor's degree in Computer Science or relevant field. 2+ years of experience working with .NET technologies (including .NET Core, .NET Framework, and ASP.NET). Hands-on experience developing web-based applications with C#, HTML, JavaScript, ASP.NET, and .NET. Experience with MS SQL Server and MySQL databases. Strong knowledge of the full software design lifecycle (SDLC), from initial design to deployment and maintenance. Proficient in unit testing with frameworks such as MSUnit and NUnit, and understanding of automated testing principles. Experience working in agile development environments."
+}, {
   "title" : "Intern Software Engineer",
   "company" : "Residue Solutions",
   "level" : "Intern",

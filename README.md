@@ -16,16 +16,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 8,5:42 PM (Just now)  | **Total Jobs Found:** 147
+> 🟢 **Last Updated:** October 8,11:28 PM (Just now)  | **Total Jobs Found:** 148
 
 ### 🎓 Internships & Trainees  (38)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern Software Engineer](https://itpro.lk/job/15407/intern-software-engineer-at-residue-solutions/) | Residue Solutions | Intern | 37&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Software Engineering Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557540&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developer Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557216&ec=DEFZZZ) | Snow Soft (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Quality Assurance -- Intern](https://itpro.lk/job/15398/quality-assurance-intern-at-qdesk-ai-pvt-ltd/) | Qdesk AI Pvt Ltd | Intern | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern Software Engineer](https://itpro.lk/job/15407/intern-software-engineer-at-residue-solutions/) | Residue Solutions | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557540&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Intern | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developer Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557216&ec=DEFZZZ) | Snow Soft (Pvt) Ltd | Intern | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Quality Assurance -- Intern](https://itpro.lk/job/15398/quality-assurance-intern-at-qdesk-ai-pvt-ltd/) | Qdesk AI Pvt Ltd | Intern | Yesterday | ITPro.lk |
 | [Intern - Quality Assurance](https://itpro.lk/job/15396/intern-quality-assurance-at-avenir-it-pvt-ltd/) | Avenir IT (Pvt) Ltd | Intern | Yesterday | ITPro.lk |
 | [Intern - Workflow and Process Automation (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000015&jc=0001556845&ec=0000000015) | Delmege Group | Intern | Yesterday | TopJobs.lk |
 | [Intern - Software Development and Integration (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000015&jc=0001556836&ec=0000000015) | Delmege Group | Intern | Yesterday | TopJobs.lk |
@@ -63,15 +63,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (71)
+### 💻 Associate & Junior/SE Roles  (72)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Technical Lead - IBM CP4BA Development & Integration](https://itpro.lk/job/15403/associate-technical-lead-ibm-cp4ba-development-integration-at-orysys-limited/) | Orysys Limited | Associate | 56&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Engineer - MLOps](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556899&ec=DEFZZZ) | Vanguard Games Lanka (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557538&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557250&ec=DEFZZZ) | ?Autogroup International (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [.NET Developer](https://itpro.lk/job/15413/net-developer-at-waterlily-labs/) | Waterlily Labs | Junior/SE | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Technical Lead - IBM CP4BA Development & Integration](https://itpro.lk/job/15403/associate-technical-lead-ibm-cp4ba-development-integration-at-orysys-limited/) | Orysys Limited | Associate | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Engineer - MLOps](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556899&ec=DEFZZZ) | Vanguard Games Lanka (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557538&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557250&ec=DEFZZZ) | ?Autogroup International (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -145,12 +146,12 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer](https://itpro.lk/job/15404/senior-software-engineer-at-residue-solutions/) | Residue Solutions | Senior | 50&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Scientist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer](https://itpro.lk/job/15404/senior-software-engineer-at-residue-solutions/) | Residue Solutions | Senior | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Scientist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | Yesterday | TopJobs.lk |
 | [Software Engineer / Senior Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000141&jc=0001556666&ec=0000000159) | Informatics Group of Companies | Senior | Yesterday | TopJobs.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001557100&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |

@@ -16,13 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 9,5:33 PM (Just now)  | **Total Jobs Found:** 147
+> 🟢 **Last Updated:** October 9,11:01 PM (Just now)  | **Total Jobs Found:** 153
 
-### 🎓 Internships & Trainees  (37)
+### 🎓 Internships & Trainees  (38)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer Intern](https://itpro.lk/job/13388/full-stack-developer-intern-at-nuwali-digital-solutions/) | Nuwali Digital Solutions | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer Intern](https://itpro.lk/job/15421/full-stack-developer-intern-at-primewave-lab-pvt-ltd/) | PrimeWave Lab (Pvt) Ltd | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer Intern](https://itpro.lk/job/13388/full-stack-developer-intern-at-nuwali-digital-solutions/) | Nuwali Digital Solutions | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Intern Software Engineer](https://itpro.lk/job/15407/intern-software-engineer-at-residue-solutions/) | Residue Solutions | Intern | Yesterday | ITPro.lk |
 | [Software Engineering Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557540&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
 | [Web Developer Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557216&ec=DEFZZZ) | Snow Soft (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
@@ -62,19 +63,20 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (71)
+### 💻 Associate & Junior/SE Roles  (72)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Associate Full Stack Developer](https://itpro.lk/job/15419/associate-full-stack-developer-at-imperial-edutech-imet/) | Imperial Edutech - iMET | Associate | 54&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Engineer - MLOps](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Management Executive](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557777&ec=DEFZZZ) | Star Garments Group (Pvt) Ltd | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [.NET Developer](https://itpro.lk/job/15413/net-developer-at-waterlily-labs/) | Waterlily Labs | Junior/SE | 20&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Full-Stack Engineer (Python, React & AI Automation)](https://rooster.jobs/jobs/519831) | Nextjob | Junior/SE | 22&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Senior Engineers / Associate Tech Leads](https://itpro.lk/job/15422/senior-engineers-associate-tech-leads-at-oklo-private-limited/) | OKLO Private Limited | Associate | 2&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Associate Full Stack Developer](https://itpro.lk/job/15419/associate-full-stack-developer-at-imperial-edutech-imet/) | Imperial Edutech - iMET | Associate | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Engineer - MLOps](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Management Executive](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557777&ec=DEFZZZ) | Star Garments Group (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [.NET Developer](https://itpro.lk/job/15413/net-developer-at-waterlily-labs/) | Waterlily Labs | Junior/SE | Yesterday | ITPro.lk |
+| [Full-Stack Engineer (Python, React & AI Automation)](https://rooster.jobs/jobs/519831) | Nextjob | Junior/SE | Yesterday | Rooster.jobs |
 | [Associate Technical Lead - IBM CP4BA Development & Integration](https://itpro.lk/job/15403/associate-technical-lead-ibm-cp4ba-development-integration-at-orysys-limited/) | Orysys Limited | Associate | Yesterday | ITPro.lk |
 | [Data Analyst](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556899&ec=DEFZZZ) | Vanguard Games Lanka (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001557538&ec=DEFZZZ) | Ravigno (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -140,19 +142,23 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (39)
+### 🚀 Senior & Lead Roles  (43)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Software Engineer](https://rooster.jobs/jobs/519846) | IdeaBits | Senior | 6&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Senior Azure DevOps Engineer - REF8500](https://rooster.jobs/jobs/519845) | Creative Software | Senior | 6&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Scientist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ) | ORYSYS Limited | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001558193&ec=0000000492) | Jobfactory | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Technical Lead - .NET](https://itpro.lk/job/15429/technical-lead-net-at-insighture/) | Insighture | Senior | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer - .NET](https://itpro.lk/job/15428/senior-software-engineer-net-at-insighture/) | Insighture | Senior | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Engineering Lead](https://itpro.lk/job/15427/quality-engineering-lead-at-insighture/) | Insighture | Senior | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Quality Engineer - Automation](https://itpro.lk/job/15426/senior-quality-engineer-automation-at-insighture/) | Insighture | Senior | 1&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer](https://rooster.jobs/jobs/519846) | IdeaBits | Senior | 11&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Senior Azure DevOps Engineer - REF8500](https://rooster.jobs/jobs/519845) | Creative Software | Senior | 11&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Scientist](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ) | ORYSYS Limited | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001558193&ec=0000000492) | Jobfactory | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineer](https://itpro.lk/job/15404/senior-software-engineer-at-residue-solutions/) | Residue Solutions | Senior | Yesterday | ITPro.lk |
 | [Senior DevOps Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000001&jc=0001552257&ec=0000000001) | Genesiis Software Pvt Ltd | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer / Senior Software Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000141&jc=0001556666&ec=0000000159) | Informatics Group of Companies | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

@@ -1,4 +1,13 @@
 [ {
+  "title" : "Quality Engineer (SDET)",
+  "company" : "DirectFN",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15439/quality-engineer-sdet-at-directfn/",
+  "datePosted" : [ 2026, 10, 12, 19, 33, 17 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "We're Hiring – Quality Engineer (SDET) What we're looking for: Degree in Computer Science/Software Engineering or equivalent 1–2+ years of test-automation experience. Strong coding skills in JavaScript/TypeScript (or Java/Python), with solid understanding of OOP, async patterns and debugging. Hands-on Playwright (or Selenium/Cypress) and API automation experience; familiarity with test doubles/mocks. Working knowledge of CI/CD (GitHub Actions/Jenkins/Azure DevOps), Docker basics and Git workflows. Understanding of the capital-markets domain (order management, market data, portfolios) or ability to acquire it quickly. ISTQB Foundation; ISTQB Test Automation Engineer desirable. Apply now and be part of #TeamDirectFN"
+}, {
   "title" : "Python Developer Intern",
   "company" : "LoopLab (Pvt) Ltd",
   "level" : "Intern",
@@ -17,6 +26,159 @@
   "scrapedDate" : [ 2026, 10, 12 ],
   "description" : "We are seeking a motivated MERN Stack Developer Intern to assist in developing modern, high-performance web applications. You will work across both frontend and backend technologies using MongoDB, Express.js, React, and Node.js. This role provides an excellent opportunity to gain practical experience in full stack development by contributing to real-world projects. You will collaborate with designers, backend developers, and project teams to implement user-friendly interfaces, develop APIs, and ensure seamless integration between client and server. The internship will also expose you to best practices in coding, debugging, testing, and deploying applications in a production environment. Technical Skills: Basic understanding of MongoDB, Express.js, React, and Node.js Knowledge of JavaScript (ES6+) Familiarity with REST APIs Basic understanding of frontend technologies (HTML, CSS) Experience with Git is a plus Soft Skills: Strong willingness to learn Team collaboration skills Attention to detail Time management skills"
 }, {
+  "title" : "Tech Lead - AI",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Tech Lead - AI"
+}, {
+  "title" : "Tech Lead - AI Solutions",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Tech Lead - AI Solutions"
+}, {
+  "title" : "Engineer - MLOps",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Engineer - MLOps"
+}, {
+  "title" : "Senior Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Senior Data Engineer"
+}, {
+  "title" : "Senior Data Scientist",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Senior Data Scientist"
+}, {
+  "title" : "Senior DevOps Engineer",
+  "company" : "Intrepid Travel",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Senior DevOps Engineer"
+}, {
+  "title" : "React.Js Tech Lead / QA Lead / Senior QA Engineer",
+  "company" : "Capsicumlabs",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "React.Js Tech Lead / QA Lead / Senior QA Engineer"
+}, {
+  "title" : "Junior Web Developer",
+  "company" : "eBEYONDS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556072&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Junior Web Developer"
+}, {
+  "title" : "SQL Database Administrator (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "SQL Database Administrator (1)"
+}, {
+  "title" : "Data Platform Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Data Platform Engineer (1)"
+}, {
+  "title" : "Information Security Analyst (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Information Security Analyst (1)"
+}, {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001558880&ec=0000000492",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
+}, {
+  "title" : "Senior Forward Deployed Engineer",
+  "company" : "Effectz.AI",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556161&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Senior Forward Deployed Engineer"
+}, {
+  "title" : "RPA Automation Specialist",
+  "company" : "Zymeda Provider Solutions (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558795&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "RPA Automation Specialist"
+}, {
+  "title" : "Senior Software Engineer (SSE) | Technical Lead (TL)",
+  "company" : "Cilk Software Solutions (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558736&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Senior Software Engineer (SSE) | Technical Lead (TL)"
+}, {
+  "title" : "Database Administrator (DBA)",
+  "company" : "Onsys International (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558655&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 12, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 12 ],
+  "description" : "Database Administrator (DBA)"
+}, {
   "title" : "Software Engineering Intern",
   "company" : "JRC Software",
   "level" : "Intern",
@@ -34,159 +196,6 @@
   "datePosted" : [ 2026, 10, 12, 10, 21, 7 ],
   "scrapedDate" : [ 2026, 10, 12 ],
   "description" : "\uD83D\uDE80 Full Stack Developer Intern (AI Product Development) \uD83D\uDCCD Remote | Internship \uD83D\uDCBC Company: Ranga Technologies \uD83D\uDD52 Full-Time Are you obsessed with coding, building real-world AI applications, and pushing modern tech to its limits? At Ranga Technologies, we are expanding the core engineering team behind PineGen AI—our rapidly growing AI coding platform trusted by 20,000+ active users worldwide. We are looking for a high-skill, driven Full Stack Developer Intern ready to build fast, solve complex engineering problems, and shape the next generation of AI development tools. \uD83D\uDCCC Role Overview \uD83D\uDCCD Work Mode: Remote | Full-Time Internship \uD83D\uDCBC Company: Ranga Technologies \uD83E\uDD16 Product: Direct impact on PineGen AI \uD83D\uDCBB Tech Stack & Premium Tools Core Stack: Next.js, Node.js, and Python AI Tooling & Accounts: We provide paid developer tooling, including Claude and high-tier AI development environments, so you can leverage the best tech to build scalable features faster. \uD83C\uDFAF Who We Are Looking For Deep Coding Passion: You genuinely love building software and experimenting with new tech. (Please do not apply if you are just ticking a box—this seat is strictly for someone driven by the craft of engineering). Fast Learner: You pick up frameworks, APIs, and AI architectures with speed and curiosity. Creative Problem Solver: You think beyond basic tutorials and write clean, dependable code. Strong Collaborator: Proactive communicator with a dedicated, team-first attitude. \uD83C\uDF1F Why Ranga Technologies? Real Scale: Build features deployed directly to tens of thousands of real users, not toy demo projects. Friendly, Stress-Free Culture: Supportive leadership, zero micromanagement, and a flexible, transparent working environment. Cutting-Edge Exposure: Gain hands-on engineering experience in one of the fastest-growing niches in tech today. \uD83D\uDCE9 How to Apply If you have the skills, hunger, and drive, don’t wait: Send your CV & GitHub profile: \uD83D\uDC49 info@rangatechnologies.com (Subject: Full Stack Developer Intern – PineGen AI) Talk to us directly:\uD83D\uDC49 https://lnkd.in/gBVFk58W #Hiring #Internship #FullStackDeveloper #RemoteJobs #NextJS #NodeJS #Python #AI #PineGenAI #RangaTechnologies #TechCareers"
-}, {
-  "title" : "Tech Lead - AI",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555245&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Tech Lead - AI"
-}, {
-  "title" : "Tech Lead - AI Solutions",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555248&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Tech Lead - AI Solutions"
-}, {
-  "title" : "Engineer - MLOps",
-  "company" : "ORYSYS Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555243&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Engineer - MLOps"
-}, {
-  "title" : "Senior Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555239&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Senior Data Engineer"
-}, {
-  "title" : "Senior Data Scientist",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001555235&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Senior Data Scientist"
-}, {
-  "title" : "Senior DevOps Engineer",
-  "company" : "Intrepid Travel",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Senior DevOps Engineer"
-}, {
-  "title" : "React.Js Tech Lead / QA Lead / Senior QA Engineer",
-  "company" : "Capsicumlabs",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "React.Js Tech Lead / QA Lead / Senior QA Engineer"
-}, {
-  "title" : "Junior Web Developer",
-  "company" : "eBEYONDS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556072&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Junior Web Developer"
-}, {
-  "title" : "SQL Database Administrator (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "SQL Database Administrator (1)"
-}, {
-  "title" : "Data Platform Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Data Platform Engineer (1)"
-}, {
-  "title" : "Information Security Analyst (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Information Security Analyst (1)"
-}, {
-  "title" : "Information Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Information Security Engineer (1)"
-}, {
-  "title" : "AI-First SaaS Operations & Delivery Lead (1)",
-  "company" : "Jobfactory",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001558880&ec=0000000492",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "AI-First SaaS Operations & Delivery Lead (1)"
-}, {
-  "title" : "Senior Forward Deployed Engineer",
-  "company" : "Effectz.AI",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556161&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Senior Forward Deployed Engineer"
-}, {
-  "title" : "RPA Automation Specialist",
-  "company" : "Zymeda Provider Solutions (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558795&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "RPA Automation Specialist"
-}, {
-  "title" : "Senior Software Engineer (SSE) | Technical Lead (TL)",
-  "company" : "Cilk Software Solutions (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558736&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Senior Software Engineer (SSE) | Technical Lead (TL)"
-}, {
-  "title" : "Database Administrator (DBA)",
-  "company" : "Onsys International (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558655&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 12, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 12 ],
-  "description" : "Database Administrator (DBA)"
 }, {
   "title" : "Freelance - AI Project Specialist (50)",
   "company" : "INNODATA LANKA (PVT) LTD",

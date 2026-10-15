@@ -1,4 +1,13 @@
 [ {
+  "title" : "Engineering Intern",
+  "company" : "Verdentra",
+  "level" : "Intern",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15364/engineering-intern-at-verdentra/",
+  "datePosted" : [ 2026, 10, 15, 16, 58, 41 ],
+  "scrapedDate" : [ 2026, 10, 15 ],
+  "description" : "About Verdentra We are a team of expert technologists with a shared passion for building technology solutions responsibly, whilst focusing on business outcomes. Our mission is to weave excellence, innovation, and sustainability into the very fabric of the digital landscape, and we specialize in Cloud, Data, AI, and emerging technologies. We maintain solid collaborations with top-tier Independent Software Vendors (ISVs) in the US, providing us with a strong foundation to address complex challenges and deliver business outcomes. What you’ll gain: Hands-on, cross-functional experience working with product, tech, design, and business teams. Full exposure to the software development lifecycle (SDLC), from ideation to delivery and testing. Mentorship and coaching from seasoned technologists invested in your growth. Access to cutting-edge technologies and industry best practices. Opportunities to unleash your creativity and sharpen your problem-solving skills on meaningful projects. A supportive, collaborative environment where your ideas truly matter. Who We Are Looking For: Someone who likes coding and problem solving. Bonus points if you are an open-source contributor. Good foundational knowledge of computer science. Excellent communication and collaboration skills. A fresh graduate or an undergraduate in Computer Science, Engineering, or a related field."
+}, {
   "title" : "Full-Stack Software Engineering Intern",
   "company" : "Coffee Ninja (Pvt) Ltd",
   "level" : "Intern",
@@ -151,6 +160,24 @@
   "datePosted" : [ 2026, 10, 15, 0, 0 ],
   "scrapedDate" : [ 2026, 10, 15 ],
   "description" : "Associate Business Analyst & Quality Assurance"
+}, {
+  "title" : "Database Administrator",
+  "company" : "itechro (Pvt) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560269&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 15 ],
+  "description" : "Database Administrator"
+}, {
+  "title" : "Senior Engineer - Business Intelligence (1)",
+  "company" : "Expolanka Freight (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001560264&ec=0000000510",
+  "datePosted" : [ 2026, 10, 15, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 15 ],
+  "description" : "Senior Engineer - Business Intelligence (1)"
 }, {
   "title" : "Software Engineering Intern – Full-Stack Development",
   "company" : "Urban Innovation Services",
@@ -737,15 +764,6 @@
   "scrapedDate" : [ 2026, 10, 8 ],
   "description" : "Senior DevOps Engineer (1)"
 }, {
-  "title" : "Database Administrator",
-  "company" : "itechro (Pvt) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001554362&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 7, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 14 ],
-  "description" : "Database Administrator"
-}, {
   "title" : "Software Developer",
   "company" : "Sathuta Builders (Pvt) Ltd",
   "level" : "Junior/SE",
@@ -943,15 +961,6 @@
   "datePosted" : [ 2026, 10, 5, 18, 1, 10 ],
   "scrapedDate" : [ 2026, 10, 14 ],
   "description" : "We're Bconic, a SaaS platform for advertising, marketing, and data intelligence. We process over $200M in ad spend for our established customer base of recognizable global customer brands, and growing, while remaining a nimble team where one engineer's decisions visibly shape the product. Our engineers work with coding agents every day. We've learned what most teams are still discovering: agents make the easy parts nearly free and make the hard parts matter more. Data models, system boundaries, and what _not_ to build are now where the real engineering happens. We're looking for someone who already thinks this way. **The problems** - **Data at scale.** We ingest marketing and advertising data from many third-party platforms, each with its own quirks, rate limits, and occasional nonsense. Making that data trustworthy, fast to query, and cheap to store is an ongoing architectural challenge, not a solved one. - **Integrations that persist.** Third-party APIs change without warning. We need designs that absorb that churn gracefully. - **Data with integrity.** Our customers trust us to help make real budget decisions. The product has to earn their trust with accuracy, and intelligibility. - **A codebase that agents and humans can both work in well.** Conventions, types, tests, and context that let us move fast without losing the plot. **How we work** - You'll use agentic tools, like Claude Code, Cursor, and/or Codex, as a core part of your workflow, and help decide how the whole team uses them. - You own what you ship, end to end, regardless of who or what wrote the lines. - Written thinking comes first. Specs and design notes are real work here, not paperwork. We're async-friendly across IST and EST. - You'll work directly with our technical CTO. Architecture decisions are discussed on their merits, not decided by title. - Our stack is TypeScript, PostgreSQL, Node/Express, GO, Rust, React, Redis, Kafka, DuckDB, and AWS/DigitalOcean. **Six months in, you'll have** - Shipped features customers use, from the first conversation through to production. - Made at least one architectural decision that made a whole class of future work easier. - Left the codebase more legible and easier for both humans and agents to work in than you found it. - Changed at least one of our practices for the better. **You'll likely thrive here if** - You've owned production systems and can explain the tradeoffs behind your decisions, including the ones you'd make differently now. - You use coding agents heavily and have strong opinions about where they fail. - You read code critically, and plausible-looking code makes you more suspicious, not less. - You care about data modeling and know that a bad schema outlives every other mistake. - You'd rather delete a feature than maintain a bad one. - Experience with marketing tech, ad platforms, or analytics is a real advantage, because domain judgment is exceptionally valuable. **You probably won't enjoy it here if** - You prefer detailed specs handed to you over shaping the problem yourself. - You measure your contribution in lines of code. - You want to avoid AI tools, or you'd accept their output without checking it. **The details** Full-time (40 hours/week), remote or hybrid, working hours aligned to either IST (Sri Lanka) or EST (Canada/US). **Our application process** Hiring is run entirely by our founders, because we care deeply about who joins our team. We read every application, starting with your answer to our one question, and if it looks like a good fit, we'll email you to set up an initial call about the role and what you're looking for. Candidates selected from there move on to a technical conversation with our CTO. There are no take-home projects, and we'll keep you posted between steps. We do our best to reply to everyone, but with the volume of applications we receive, we can't always manage it. If you haven't heard from us within four weeks, we won't be moving forward this time. Link to apply here: https://www.bconic.com/careers/product-engineer **_Please apply through our website - Applications on Rooster will not be screened._**"
-}, {
-  "title" : "Engineering Intern",
-  "company" : "Verdentra",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15364/engineering-intern-at-verdentra/",
-  "datePosted" : [ 2026, 10, 5, 16, 42, 31 ],
-  "scrapedDate" : [ 2026, 10, 15 ],
-  "description" : "About Verdentra We are a team of expert technologists with a shared passion for building technology solutions responsibly, whilst focusing on business outcomes. Our mission is to weave excellence, innovation, and sustainability into the very fabric of the digital landscape, and we specialize in Cloud, Data, AI, and emerging technologies. We maintain solid collaborations with top-tier Independent Software Vendors (ISVs) in the US, providing us with a strong foundation to address complex challenges and deliver business outcomes. What you’ll gain: Hands-on, cross-functional experience working with product, tech, design, and business teams. Full exposure to the software development lifecycle (SDLC), from ideation to delivery and testing. Mentorship and coaching from seasoned technologists invested in your growth. Access to cutting-edge technologies and industry best practices. Opportunities to unleash your creativity and sharpen your problem-solving skills on meaningful projects. A supportive, collaborative environment where your ideas truly matter. Who We Are Looking For: Someone who likes coding and problem solving. Bonus points if you are an open-source contributor. Good foundational knowledge of computer science. Excellent communication and collaboration skills. A fresh graduate or an undergraduate in Computer Science, Engineering, or a related field."
 }, {
   "title" : "Software Engineering Intern",
   "company" : "GenO3",

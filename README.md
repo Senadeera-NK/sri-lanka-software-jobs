@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 17,3:07 PM (Just now)  | **Total Jobs Found:** 138
+> 🟢 **Last Updated:** October 17,7:50 PM (Just now)  | **Total Jobs Found:** 138
 
 ### 🎓 Internships & Trainees  (41)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern Software Engineer](https://itpro.lk/job/15140/intern-software-engineer-at-codimite/) | Codimite | Intern | 17&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineer Internship (Mobile Application)](https://itpro.lk/job/15484/software-engineer-internship-mobile-application-at-explore-vacations-travels-pvt-ltd/) | Explore Vacations & Travels (Pvt) Ltd | Intern | 23&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern Software Engineer](https://itpro.lk/job/15140/intern-software-engineer-at-codimite/) | Codimite | Intern | 22&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer Internship (Mobile Application)](https://itpro.lk/job/15484/software-engineer-internship-mobile-application-at-explore-vacations-travels-pvt-ltd/) | Explore Vacations & Travels (Pvt) Ltd | Intern | Yesterday | ITPro.lk |
 | [Internship Back-End Developer - PHP / JAVA](https://itpro.lk/job/14313/internship-backend-developer-php-java-at-neo-solution/) | Neo Solution | Intern | Yesterday | ITPro.lk |
 | [Intern & Associate - Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560708&ec=DEFZZZ) | Muve Mobility (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
 | [QA Intern (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001560652&ec=0000000492) | Jobfactory | Intern | Yesterday | TopJobs.lk |
@@ -70,7 +70,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -136,10 +136,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior QA Engineer](https://itpro.lk/job/15487/senior-qa-engineer-at-univiser/) | UNIVISER | Senior | 17&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior QA Engineer](https://itpro.lk/job/15487/senior-qa-engineer-at-univiser/) | UNIVISER | Senior | 22&nbsp;hours&nbsp;ago | ITPro.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001560637&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560715&ec=DEFZZZ) | Trident Media Works (Pvt) Limited | Senior | Yesterday | TopJobs.lk |
 | [Senior Full Stack Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560703&ec=DEFZZZ) | Trident Media Works (Pvt) Limited | Senior | Yesterday | TopJobs.lk |

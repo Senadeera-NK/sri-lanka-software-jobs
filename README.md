@@ -16,16 +16,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 18,3:19 PM (Just now)  | **Total Jobs Found:** 140
+> 🟢 **Last Updated:** October 18,8:15 PM (Just now)  | **Total Jobs Found:** 140
 
 ### 🎓 Internships & Trainees  (43)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Backend Engineer Intern](https://itpro.lk/job/15452/backend-engineer-intern-at-delivergate/) | Delivergate | Intern | 8&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Developer Intern](https://itpro.lk/job/15498/developer-intern-at-focaldive/) | FocalDive | Intern | 15&nbsp;hours&nbsp;ago | ITPro.lk |
-| [QA Intern](https://itpro.lk/job/15497/qa-intern-at-focaldive/) | FocalDive | Intern | 15&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern Software Engineer (PHP Laravel)](https://itpro.lk/job/15492/intern-software-engineer-php-laravel-at-quantix/) | Quantix | Intern | 16&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Backend Engineer Intern](https://itpro.lk/job/15452/backend-engineer-intern-at-delivergate/) | Delivergate | Intern | 13&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Developer Intern](https://itpro.lk/job/15498/developer-intern-at-focaldive/) | FocalDive | Intern | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Intern](https://itpro.lk/job/15497/qa-intern-at-focaldive/) | FocalDive | Intern | 20&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern Software Engineer (PHP Laravel)](https://itpro.lk/job/15492/intern-software-engineer-php-laravel-at-quantix/) | Quantix | Intern | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Intern Software Engineer](https://itpro.lk/job/15140/intern-software-engineer-at-codimite/) | Codimite | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Software Engineer Internship (Mobile Application)](https://itpro.lk/job/15484/software-engineer-internship-mobile-application-at-explore-vacations-travels-pvt-ltd/) | Explore Vacations & Travels (Pvt) Ltd | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [Internship Back-End Developer - PHP / JAVA](https://itpro.lk/job/14313/internship-backend-developer-php-java-at-neo-solution/) | Neo Solution | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
@@ -72,8 +72,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Junior Front-End Developer](https://itpro.lk/job/15494/junior-frontend-developer-at-quantix/) | Quantix | Junior/SE | 16&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Junior Front-End Developer](https://itpro.lk/job/15494/junior-frontend-developer-at-quantix/) | Quantix | Junior/SE | 21&nbsp;hours&nbsp;ago | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -137,10 +137,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 15&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Web Developer](https://itpro.lk/job/15495/senior-web-developer-at-avlanche/) | Avlanche | Senior | 15&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 20&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Web Developer](https://itpro.lk/job/15495/senior-web-developer-at-avlanche/) | Avlanche | Senior | 20&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior QA Engineer](https://itpro.lk/job/15487/senior-qa-engineer-at-univiser/) | UNIVISER | Senior | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001560637&ec=0000000492) | Jobfactory | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560715&ec=DEFZZZ) | Trident Media Works (Pvt) Limited | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |

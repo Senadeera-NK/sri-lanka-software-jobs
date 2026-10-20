@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineer/Senior Software Engineer - Full Stack (Frontend Focused)",
+  "company" : "Orysys Limited",
+  "level" : "Senior",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15522/software-engineersenior-software-engineer-full-stack-frontend-focused-at-orysys-limited/",
+  "datePosted" : [ 2026, 10, 20, 19, 20, 14 ],
+  "scrapedDate" : [ 2026, 10, 20 ],
+  "description" : "Software Engineer/Senior Software Engineer - Full Stack (Frontend Focused) Qualifications: Degree from a recognized university, preferably in Computer Science, Engineering, or Information Technology. Minimum of 3+ years of industry experience in web application development, with a strong focus on front-end engineering. Strong hands-on experience with Angular (3+ years), including TypeScript, RxJS, NgRx, and Angular CLI. Strong hands-on experience with React (2+ years) and Next.js, including Hooks, functional components, App Router, server-side rendering (SSR) / static site generation (SSG), and state management (Redux / Redux Toolkit or Context API). Expert knowledge of HTML5, CSS3/SCSS, modern JavaScript (ES6+), and responsive, mobile-first web design principles. Experience with UI component libraries and styling frameworks such as Material UI, Bootstrap, or Tailwind CSS. Good understanding of web accessibility (WCAG), cross-browser compatibility, and front-end performance optimization. Working knowledge of C# and .NET 10 (ASP.NET Core Web API) and ORM tools for building and maintaining back-end services. Experience designing and integrating RESTful APIs and handling asynchronous data flows. Experience developing and integrating with microservices-based architectures, including service-to-service communication, API gateways, and containerization (Docker/Kubernetes). Working knowledge of relational database management systems (MS SQL/MYSQL). Sound knowledge of web application security, including authentication and authorization (OAuth 2.0/OpenID Connect, JWT) and common vulnerabilities such as XSS and CSRF. Good understanding of component-based architecture, SOLID principles, and design patterns. Familiarity with source control systems such as Git and SVN, and a basic understanding of CI/CD pipelines, Agile practices, and the SDLC. Exposure to micro-frontend architecture, .NET Framework (ASP.NET MVC), or cloud platforms (Azure / AWS) will be considered an added advantage. Strong troubleshooting, analytical, communication, and interpersonal skills. Responsibilities: Participate in requirements analysis and collaborate with UI/UX designers, product owners, and engineers to design technical solutions. Develop, test, and maintain scalable, high-performance web applications primarily using Angular and React (Next.js), in line with SDLC best practices. Translate UI/UX designs and wireframes into pixel-perfect, responsive, and accessible user interfaces. Build reusable components, shared libraries, and front-end modules to ensure consistency across applications. Optimize applications for speed, scalability, and cross-browser/cross-device compatibility. Develop and maintain RESTful APIs and back-end features using .NET 10 to support front-end requirements. Integrate front-end applications with back-end services and manage application state effectively. Ensure application security through proper implementation of authentication, authorization, and secure coding practices. Write and maintain unit and end-to-end tests, and participate in code reviews to uphold code quality. Provide ongoing maintenance, support, and enhancements to existing systems and platforms. Follow coding standards, design patterns, and quality guidelines, and take ownership of assigned tasks to deliver reliable solutions. Adhere to project timelines and ensure high-quality deliverables within agreed deadlines. ORYSYS Limited is an equal opportunity employer, and all recruitment decisions are based solely on suitability, regardless of race, gender, marital status, disability, age, religious belief, or sexual orientation. By submitting your application, you consent to collection and processing of Pll for recruitment purposes, for further information refer our Website Privacy Policy."
+}, {
   "title" : "Software Engineer Intern",
   "company" : "Alphintra",
   "level" : "Intern",
@@ -106,6 +115,15 @@
   "datePosted" : [ 2026, 10, 20, 0, 0 ],
   "scrapedDate" : [ 2026, 10, 20 ],
   "description" : "Experienced React Native Mobile App Developer"
+}, {
+  "title" : "SEO Specialist - Experienced in AI (UAE Based)",
+  "company" : "Farhat Office & Co. LLC",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 20, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 20 ],
+  "description" : "SEO Specialist - Experienced in AI (UAE Based)"
 }, {
   "title" : "Intern Software Engineer",
   "company" : "BitSlize Concepts",

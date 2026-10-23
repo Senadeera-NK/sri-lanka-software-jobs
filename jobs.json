@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineer (Python)",
+  "company" : "Innodata Lanka",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15560/software-engineer-python-at-innodata-lanka/",
+  "datePosted" : [ 2026, 10, 23, 16, 58, 13 ],
+  "scrapedDate" : [ 2026, 10, 23 ],
+  "description" : "We're Hiring: Software Engineer (Python) | Colombo | Hybrid Love building things that actually work? What You'll Bring A Bachelor's degree in Computer Science, Software Engineering, or a related field 2-4 years of hands-on software development experience, mainly in Python Experience building backend applications, web scraping solutions, and GenAI-powered workflows Strong communication skills and a collaborative mindset, with comfort working in an Agile environment Your Tech Toolkit Core: Python (OOP, data structures) and FastAPI, Flask, or Django Scraping: BeautifulSoup, Scrapy, Selenium, or Playwright Data and integration: REST APIs, JSON/XML, SQL databases GenAI: LLM APIs and prompt engineering Engineering practices: Git, debugging, unit testing Nice to Have (An Advantage) OpenAI, Azure OpenAI, or AWS Bedrock LangChain, LangGraph, RAG, or agentic workflows Docker, AWS, CI/CD PDF processing and OCR Basic React or JavaScript"
+}, {
   "title" : "QA Intern",
   "company" : "Adeona Technologies",
   "level" : "Intern",

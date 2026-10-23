@@ -16,18 +16,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 23,3:55 PM (Just now)  | **Total Jobs Found:** 142
+> 🟢 **Last Updated:** October 23,9:21 PM (Just now)  | **Total Jobs Found:** 143
 
 ### 🎓 Internships & Trainees  (42)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Intern](https://itpro.lk/job/15558/qa-intern-at-adeona-technologies/) | Adeona Technologies | Intern | 37&nbsp;mins&nbsp;ago | ITPro.lk |
-| [QA Engineer Intern (iOS & Web)](https://itpro.lk/job/15557/qa-engineer-intern-ios-web-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [QA Engineer Intern (Windows & Android)](https://itpro.lk/job/15556/qa-engineer-intern-windows-android-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 1&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Software Engineering Intern](https://itpro.lk/job/15552/software-engineering-intern-at-nextgen-codex-pvt-ltd/) | NextGen CodeX (Pvt) Ltd | Intern | 4&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Intern Software Engineer](https://itpro.lk/job/15546/intern-software-engineer-at-join-solutionex-technologies-pvt-ltd/) | Join Solutionex Technologies (PVT) LTD | Intern | 8&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Full Stack Developer (Trainee Internship)](https://itpro.lk/job/15541/full-stack-developer-trainee-internship-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | 12&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Intern](https://itpro.lk/job/15558/qa-intern-at-adeona-technologies/) | Adeona Technologies | Intern | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer Intern (iOS & Web)](https://itpro.lk/job/15557/qa-engineer-intern-ios-web-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [QA Engineer Intern (Windows & Android)](https://itpro.lk/job/15556/qa-engineer-intern-windows-android-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 7&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering Intern](https://itpro.lk/job/15552/software-engineering-intern-at-nextgen-codex-pvt-ltd/) | NextGen CodeX (Pvt) Ltd | Intern | 10&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Intern Software Engineer](https://itpro.lk/job/15546/intern-software-engineer-at-join-solutionex-technologies-pvt-ltd/) | Join Solutionex Technologies (PVT) LTD | Intern | 13&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Developer (Trainee Internship)](https://itpro.lk/job/15541/full-stack-developer-trainee-internship-at-itx-digital-services-pvt-ltd/) | ITX Digital Services (Pvt) Ltd | Intern | 17&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Software Engineer Intern](https://itpro.lk/job/15538/software-engineer-intern-at-sans-technologies/) | Sans Technologies | Intern | Yesterday | ITPro.lk |
 | [Intern - Odoo Developer](https://itpro.lk/job/15528/intern-odoo-developer-at-everestx-technologies/) | EverestX Technologies | Intern | 2&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Intern (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001562026&ec=0000000492) | Jobfactory | Intern | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -67,12 +67,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (57)
+### 💻 Associate & Junior/SE Roles  (58)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineer](https://itpro.lk/job/15548/software-engineer-at-mira/) | Mira | Junior/SE | 6&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Business Operations Executive (IT & Software Company)](https://rooster.jobs/jobs/519965) | Nextjob | Junior/SE | 12&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Software Engineer (Python)](https://itpro.lk/job/15560/software-engineer-python-at-innodata-lanka/) | Innodata Lanka | Junior/SE | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineer](https://itpro.lk/job/15548/software-engineer-at-mira/) | Mira | Junior/SE | 12&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Business Operations Executive (IT & Software Company)](https://rooster.jobs/jobs/519965) | Nextjob | Junior/SE | 17&nbsp;hours&nbsp;ago | Rooster.jobs |
 | [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
@@ -135,8 +136,8 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality Engineering Lead](https://itpro.lk/job/14985/quality-engineering-lead-at-hatchyard/) | Hatchyard | Senior | 9&nbsp;hours&nbsp;ago | ITPro.lk |
-| [Senior Application Security Engineer](https://itpro.lk/job/15542/senior-application-security-engineer-at-cms-pvt-ltd/) | CMS (Pvt) Ltd | Senior | 11&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Quality Engineering Lead](https://itpro.lk/job/14985/quality-engineering-lead-at-hatchyard/) | Hatchyard | Senior | 15&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Application Security Engineer](https://itpro.lk/job/15542/senior-application-security-engineer-at-cms-pvt-ltd/) | CMS (Pvt) Ltd | Senior | 17&nbsp;hours&nbsp;ago | ITPro.lk |
 | [Senior Software Engineer - Java](https://itpro.lk/job/15536/senior-software-engineer-java-at-hatchyard/) | Hatchyard | Senior | Yesterday | ITPro.lk |
 | [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | Yesterday | TopJobs.lk |
 | [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | Yesterday | TopJobs.lk |

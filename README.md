@@ -16,13 +16,13 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 26,4:56 PM (Just now)  | **Total Jobs Found:** 141
+> 🟢 **Last Updated:** October 26,11:03 PM (Just now)  | **Total Jobs Found:** 143
 
 ### 🎓 Internships & Trainees  (41)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Software Engineering Intern](https://itpro.lk/job/15582/software-engineering-intern-at-infora-tech/) | Infora Tech | Intern | 3&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Software Engineering Intern](https://itpro.lk/job/15582/software-engineering-intern-at-infora-tech/) | Infora Tech | Intern | 9&nbsp;hours&nbsp;ago | ITPro.lk |
 | [QA Intern](https://itpro.lk/job/15558/qa-intern-at-adeona-technologies/) | Adeona Technologies | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Engineer Intern (iOS & Web)](https://itpro.lk/job/15557/qa-engineer-intern-ios-web-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [QA Engineer Intern (Windows & Android)](https://itpro.lk/job/15556/qa-engineer-intern-windows-android-at-messagefuture-inc/) | MessageFuture Inc. | Intern | 3&nbsp;days&nbsp;ago | ITPro.lk |
@@ -66,15 +66,15 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (60)
+### 💻 Associate & Junior/SE Roles  (61)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | 44&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Data Analyst - Data Compliance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ) | Affixcon Pty Ltd | Associate | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Shopify Developer (with Word Press Experience) (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Data Analyst - Data Compliance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ) | Affixcon Pty Ltd | Associate | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Shopify Developer (with Word Press Experience) (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full - Stack Engineer - Java & React](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666) | Acentura Pvt Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Software Engineer (Python)](https://itpro.lk/job/15560/software-engineer-python-at-innodata-lanka/) | Innodata Lanka | Junior/SE | 3&nbsp;days&nbsp;ago | ITPro.lk |
 | [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 3&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -97,6 +97,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Associate Software Engineer (React / React Native) - LAY0100](https://rooster.jobs/jobs/519938) | Creative Software | Associate | 5&nbsp;days&nbsp;ago | Rooster.jobs |
 | [SEO Specialist - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ) | Farhat Office & Co. LLC | Junior/SE | 6&nbsp;days&nbsp;ago | TopJobs.lk |
 | [AI Content Creator](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561786&ec=DEFZZZ) | Kiddies and Toys International (Pvt) Ltd | Junior/SE | 6&nbsp;days&nbsp;ago | TopJobs.lk |
+| [ Business Operations Associate (IT/Software Industry)](https://rooster.jobs/jobs/519929) | Nextjob | Associate | 7&nbsp;days&nbsp;ago | Rooster.jobs |
 | [Associate Software Engineer](https://itpro.lk/job/15512/associate-software-engineer-at-zenzebz-technologies/) | Zenzebz Technologies | Associate | 7&nbsp;days&nbsp;ago | ITPro.lk |
 | [Database Administrator (DBA)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558655&ec=DEFZZZ) | Onsys International (Private) Limited | Junior/SE | 7&nbsp;days&nbsp;ago | TopJobs.lk |
 | [GRC Analyst - Governance \| Risk and Compliance Analyst (Inf...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561295&ec=DEFZZZ) | Cargills Bank PLC | Junior/SE | 7&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -133,14 +134,15 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 🚀 Senior & Lead Roles  (40)
+### 🚀 Senior & Lead Roles  (41)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | 37&nbsp;mins&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer (Laravel  & Integrations )](https://rooster.jobs/jobs/519977) | ESOFT UNI | Senior | 9&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Lead Automation Engineer – Business Process Automation](https://itpro.lk/job/15586/lead-automation-engineer-business-process-automation-at-nable/) | N-able | Senior | 4&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | 6&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior Software Engineer (Laravel  & Integrations )](https://rooster.jobs/jobs/519977) | ESOFT UNI | Senior | 15&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 23&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001563487&ec=0000000492) | Jobfactory | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Quality Engineering Lead](https://itpro.lk/job/14985/quality-engineering-lead-at-hatchyard/) | Hatchyard | Senior | 3&nbsp;days&nbsp;ago | ITPro.lk |

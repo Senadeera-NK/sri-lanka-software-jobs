@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** October 27,4:20 PM (Just now)  | **Total Jobs Found:** 134
+> 🟢 **Last Updated:** October 27,10:19 PM (Just now)  | **Total Jobs Found:** 136
 
 ### 🎓 Internships & Trainees  (37)
 
@@ -62,18 +62,20 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (58)
+### 💻 Associate & Junior/SE Roles  (60)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Associate Data Analyst - Data Compliance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ) | Affixcon Pty Ltd | Associate | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [SEO Specialist - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ) | Farhat Office & Co. LLC | Junior/SE | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer](https://itpro.lk/job/15602/software-engineer-at-asia-securities/) | Asia Securities | Junior/SE | 5&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Associate Data Analyst - Data Compliance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ) | Affixcon Pty Ltd | Associate | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [SQL Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Platform Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [SEO Specialist - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ) | Farhat Office & Co. LLC | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [AI \| ML Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ) | SLIIT Non-Academic | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | Yesterday | ITPro.lk |
 | [Shopify Developer (with Word Press Experience) (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Full - Stack Engineer - Java & React](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666) | Acentura Pvt Ltd | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -131,11 +133,11 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior WordPress Developer - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ) | Farhat Office & Co. LLC | Senior | 16&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Lead Automation Engineer – Business Process Automation](https://itpro.lk/job/15586/lead-automation-engineer-business-process-automation-at-nable/) | N-able | Senior | 21&nbsp;hours&nbsp;ago | ITPro.lk |
+| [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior WordPress Developer - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ) | Farhat Office & Co. LLC | Senior | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Lead Automation Engineer – Business Process Automation](https://itpro.lk/job/15586/lead-automation-engineer-business-process-automation-at-nable/) | N-able | Senior | Yesterday | ITPro.lk |
 | [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | Yesterday | ITPro.lk |
 | [Senior Software Engineer (Laravel  & Integrations )](https://rooster.jobs/jobs/519977) | ESOFT UNI | Senior | Yesterday | Rooster.jobs |
 | [AI-First SaaS Operations & Delivery Lead (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001563487&ec=0000000492) | Jobfactory | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |

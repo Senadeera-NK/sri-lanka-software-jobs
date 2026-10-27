@@ -1,4 +1,13 @@
 [ {
+  "title" : "Software Engineer",
+  "company" : "Asia Securities",
+  "level" : "Junior/SE",
+  "source" : "ITPro.lk",
+  "link" : "https://itpro.lk/job/15602/software-engineer-at-asia-securities/",
+  "datePosted" : [ 2026, 10, 27, 16, 40, 30 ],
+  "scrapedDate" : [ 2026, 10, 27 ],
+  "description" : "With an award-winning legacy of 35+ years, Asia Securities is the destination of choice for individuals seeking career acceleration. We are looking for IT professionals skilled in .NET Core | Next.js / React | TypeScript | PostgreSQL | Redis | Git/GitHub | Azure/AWS to build connected internal platforms. Software Engineer Develop applications and integrations Solve technical challenges Contribute to shared engineering standards Requirements: 2+ years of practical software development experience, problem-solving skills, and a commitment to quality. This is your opportunity to work with a modern tech stack and accelerate your career in fintech engineering."
+}, {
   "title" : "Senior System Engineer (MSP)",
   "company" : "Paragon IT",
   "level" : "Senior",
@@ -106,6 +115,15 @@
   "datePosted" : [ 2026, 10, 27, 0, 0 ],
   "scrapedDate" : [ 2026, 10, 27 ],
   "description" : "SEO Specialist - Experienced in AI (UAE Based)"
+}, {
+  "title" : "AI | ML Engineer",
+  "company" : "SLIIT Non-Academic",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 27, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 27 ],
+  "description" : "AI | ML Engineer"
 }, {
   "title" : "Lead Automation Engineer – Business Process Automation",
   "company" : "N-able",

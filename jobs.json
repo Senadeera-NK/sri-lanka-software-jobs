@@ -1,20 +1,11 @@
 [ {
-  "title" : "Full Stack AI Engineer (React/Node/TypeScript/LLMs)",
-  "company" : "Nextjob",
-  "level" : "Junior/SE",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/520009",
-  "datePosted" : [ 2026, 10, 28, 12, 58, 3 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday (Weekdays) - Working Hours: Semi-aligned with AEST - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi-aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 2+ years experience building full stack applications using React, Next.js, Node.js and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Experience with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG). - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
-}, {
   "title" : "Full Stack Web Developer",
   "company" : "XERO Lanka Pvt Ltd",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Full Stack Web Developer"
 }, {
   "title" : "Experienced React Native Mobile App Developer",
@@ -22,8 +13,8 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Experienced React Native Mobile App Developer"
 }, {
   "title" : "Associate Data Analyst - Data Compliance",
@@ -31,8 +22,8 @@
   "level" : "Associate",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Associate Data Analyst - Data Compliance"
 }, {
   "title" : "Senior UI | UX Engineer (Full Time | On Site)",
@@ -40,17 +31,80 @@
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior UI | UX Engineer (Full Time | On Site)"
+}, {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "Senior Application Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Senior Application Security Engineer (1)"
+}, {
+  "title" : "Android Tech Lead",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565293&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Android Tech Lead"
+}, {
+  "title" : "Sharepoint Developer",
+  "company" : "Global Sports Lanka (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565581&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Sharepoint Developer"
+}, {
+  "title" : "Backend Software Engineer",
+  "company" : "Hexacorp SL (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Backend Software Engineer"
+}, {
+  "title" : "DevOps Engineer",
+  "company" : "InSync Technologies",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565503&ec=DEFZZZ",
+  "datePosted" : [ 2026, 10, 29, 0, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "DevOps Engineer"
+}, {
+  "title" : "Full Stack AI Engineer (React/Node/TypeScript/LLMs)",
+  "company" : "Nextjob",
+  "level" : "Junior/SE",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/520009",
+  "datePosted" : [ 2026, 10, 28, 12, 58, 3 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday (Weekdays) - Working Hours: Semi-aligned with AEST - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi-aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 2+ years experience building full stack applications using React, Next.js, Node.js and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Experience with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG). - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
 }, {
   "title" : "Junior Executive - Database Administrator (1)",
   "company" : "Softlogic Finance PLC",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000062&jc=0001565071&ec=0000000714",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 28, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Junior Executive - Database Administrator (1)"
 }, {
   "title" : "Cloud Engineer - UAE",
@@ -58,8 +112,8 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564967&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 28, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Cloud Engineer - UAE"
 }, {
   "title" : "Security Architect (1)",
@@ -67,8 +121,8 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001564863&ec=0000000552",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 28, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Security Architect (1)"
 }, {
   "title" : "Associate Cyber Security Engineer",
@@ -76,9 +130,18 @@
   "level" : "Associate",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564720&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 28, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "datePosted" : [ 2026, 10, 28, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Associate Cyber Security Engineer"
+}, {
+  "title" : "Intern - Internal Development (2)",
+  "company" : "Deloitte",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001565148&ec=0000000410",
+  "datePosted" : [ 2026, 10, 28, 12, 0 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
+  "description" : "Intern - Internal Development (2)"
 }, {
   "title" : "Software Engineer",
   "company" : "Asia Securities",
@@ -116,31 +179,13 @@
   "scrapedDate" : [ 2026, 10, 28 ],
   "description" : "Information Security Analyst (1)"
 }, {
-  "title" : "Information Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Information Security Engineer (1)"
-}, {
-  "title" : "Senior Application Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Senior Application Security Engineer (1)"
-}, {
   "title" : "Senior WordPress Developer - Experienced in AI (UAE Based)",
   "company" : "Farhat Office & Co. LLC",
   "level" : "Senior",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior WordPress Developer - Experienced in AI (UAE Based)"
 }, {
   "title" : "SEO Specialist - Experienced in AI (UAE Based)",
@@ -149,7 +194,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "SEO Specialist - Experienced in AI (UAE Based)"
 }, {
   "title" : "AI | ML Engineer",
@@ -158,7 +203,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "AI | ML Engineer"
 }, {
   "title" : "Senior System Engineer (MSP)",
@@ -212,7 +257,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Shopify Developer (with Word Press Experience) (Remote)"
 }, {
   "title" : "Senior Software Engineer (Laravel  & Integrations )",
@@ -221,7 +266,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/519977",
   "datePosted" : [ 2026, 10, 26, 7, 32, 43 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "### THE JOB - Design, develop, and maintain Laravel microservices and scalable APIs. - Build and manage e-commerce integrations with Shopify, WooCommerce, Magento, and other platforms. - Develop reliable synchronization processes for products, inventory, orders, and customer data. - Optimize database performance using MySQL/PostgreSQL and Redis caching. - Manage Docker deployments, CI/CD pipelines, and AWS/GCP cloud environments. - Ensure system reliability through monitoring, troubleshooting, code reviews, and technical mentoring. ### THE PERSON - Bachelor's Degree in Computer Science, Software Engineering, or equivalent practical experience. - Minimum 5 years of software engineering experience, including 3 years in PHP and Laravel. - Strong experience in microservices architecture, REST/GraphQL APIs, OAuth 2.0, and webhooks. - Proven experience integrating Shopify, WooCommerce, and other e-commerce platforms. - Proficiency in MySQL/PostgreSQL, Docker, CI/CD, and AWS/GCP. - Experience in automated testing, problem-solving, and mentoring development teams. - Excellent communication skills and ability to work collaboratively."
 }, {
   "title" : "Full - Stack Engineer - Java & React",
@@ -230,7 +275,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666",
   "datePosted" : [ 2026, 10, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Full - Stack Engineer - Java & React"
 }, {
   "title" : "Software Engineer (Python)",
@@ -275,7 +320,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563019&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Trainee Developers - Odoo"
 }, {
   "title" : "AI-First SaaS Operations & Delivery Lead (1)",
@@ -293,7 +338,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001563582&ec=0000000445",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)",
@@ -302,7 +347,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001563599&ec=0000000445",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Automation Engineer (AUS Calendar - AUS Shift) (1)",
@@ -311,7 +356,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001563580&ec=0000000445",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Automation Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "ERP and Data - Intern",
@@ -320,7 +365,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563413&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "ERP and Data - Intern"
 }, {
   "title" : "Data Engineer - Python",
@@ -329,7 +374,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563250&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Data Engineer - Python"
 }, {
   "title" : "Application Developer (Night Shift)",
@@ -338,7 +383,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563182&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Application Developer (Night Shift)"
 }, {
   "title" : "GEO - Technical Engineer / Technologist",
@@ -347,7 +392,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563102&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "GEO - Technical Engineer / Technologist"
 }, {
   "title" : "Software Engineering Intern",
@@ -410,17 +455,8 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/519965",
   "datePosted" : [ 2026, 10, 23, 3, 30, 36 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "#### **The Company** We are an award-winning software product engineering company that has delivered bespoke web, enterprise, mobile, and cloud solutions to clients around the world for over 25 years. The company has recently expanded into AI-driven innovation, offering AI development, consulting and implementation, data engineering and master data management, and cloud architecture alongside its core software development services. We are a Microsoft Silver Partner and AWS partner, ISO certified, and a SLASSCOM member, and in 2025 won gold at every major national technology award ceremony in Sri Lanka. With long-standing partnerships spanning 5 to 15+ years with global clients across healthcare, logistics, and enterprise software, we combine deep technical expertise with a client-first approach — helping start-ups and enterprises alike scale through digital transformation. The company prides itself on dedication, continuous improvement, and adaptability, building teams and solutions that grow and evolve alongside its clients' changing needs. #### **Employment Details** - Employment Type: Full-Time 2 Year Contract - Work Arrangement: Onsite / Workf from Office - Working Days: Monday to Friday - Working Hours: 9:00 a.m. to 6:00 p.m. - Reports to: Chief Operations Officer - Salary: Up to LKR 180,000 - Communication: Strong English communication skills, both written and verbal #### **Role Summary** Responsible for supporting day-to-day operations, coordinating team activities, assisting with resource planning, lead generation, documentation, and reporting, while providing operational support for pre-sales, post-sales, and cross-functional business activities. #### **Key Responsibilities** - Create and maintain project budget tracking spreadsheets using company templates. - Foreign sales partner invoices and confirm timely disbursement. - Financial & Subscription Audit of corporate credit card statements - Coordinate with Accounts regarding bank related tasks. - Handle day-to-day building administrative tasks and oversee office premises Wi-Fi upkeep and connectivity. - Asset & Inventory Management: Maintain inventory records for office hardware/supplies and coordinate external device repairs. - Corporate Accounts: Manage corporate taxi accounts, including user provisioning and usage auditing. - Handle supplier registrations and coordinate the procurement of external vendors. - Tenders & Pre-Sales: Assist cross-functional teams in assembling documentation during the tender process and support pre-sales activities as required. - IT & User Access Administration: SaaS & User Management #### **Nice-to-Have Skills** - LLB or an equivalent legal qualification. - Review and maintain customer, lead, agreement and contract documentation. - Ensure documents are complete, accurate and compliant. - Identify and escalate legal/compliance risks. #### **Requirements** - Bachelor's degree mandatory. - 1-2 years of operational support in an IT related company - Excellent English and Sinhala communication skills. - Strong coordination, decision-making and problem-solving skills. - Ability to work in a fast-paced, deadline-driven environment. - Postgraduate qualification/professional certification in Management or Operations is an advantage."
-}, {
-  "title" : "Android Tech Lead",
-  "company" : "Fortunaglobal (Pvt) Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001562805&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Android Tech Lead"
 }, {
   "title" : "Backend Developer",
   "company" : "True Foam (Pvt) Ltd",
@@ -428,7 +464,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001562628&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Backend Developer"
 }, {
   "title" : "Software Engineer Intern",
@@ -482,7 +518,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000343&jc=0001562319&ec=0000000458",
   "datePosted" : [ 2026, 10, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Power Platform Developer (1)"
 }, {
   "title" : "Freelance - AI Specialist (50)",
@@ -491,7 +527,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000148&jc=0001550679&ec=0000000180",
   "datePosted" : [ 2026, 10, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Freelance - AI Specialist (50)"
 }, {
   "title" : "Progress OpenEdge Developer - Contract",
@@ -536,7 +572,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561786&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "AI Content Creator"
 }, {
   "title" : "Software Engineer Intern",
@@ -563,7 +599,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/519929",
   "datePosted" : [ 2026, 10, 19, 22, 14, 46 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "#### **The Role** We’re looking for a Business Operations Associate to work closely with the leadership team and take on a growing share of the business’s day-to-day operations — keeping clients informed, keeping internal teams accountable, and turning loose ends into finished outcomes. No technical background is required. What matters is that you’re curious, precise and quick to learn — within a few months, you’ll be comfortable talking about software projects, AI tools and delivery timelines with both clients and engineers. #### **What You’ll Do** **Client Coordination** - Act as a day-to-day point of contact for selected client accounts - Join client calls, take clear notes, and send follow-ups and action items the same day - Prepare client status updates and track open requests until they’re closed **Internal Reporting & Follow-Through** - Collect weekly and monthly updates from project managers and tech leads - Prepare monthly project review decks and management summaries - Maintain time reporting, resource and project trackers, flagging gaps early - Chase deadlines and commitments across teams so nothing slips **Research, Proposals & Presentations** - Research prospective clients, markets and competitors - Draft proposals, presentations and estimates with input from engineering - Keep company profiles, case studies and sales material up to date **Operations & Special Projects** - Support hiring, onboarding, compliance (e.g. ISO, SOC 2) and policy initiatives - Coordinate internal events, travel and company initiatives - Take ownership of new initiatives from leadership and run them end to end **Working with AI & Tools** - Use AI assistants, Microsoft 365 and project tools daily to work faster and better - Suggest and set up simple automations for repetitive work #### **Who We’re Looking For** - Curious — you ask why, dig into how things work, and learn new tools without being told to - Detail-oriented — you catch the wrong date, the missing attachment, the number that doesn’t add up - A strong communicator — clear, professional written and spoken English, comfortable with international clients - An owner, not a passenger — you follow through without reminders and close the loop - Organised — you juggle several priorities and keep track of who owes what - Quick to adapt to tech — no technical background needed, but you’re keen to learn how software is built and delivered - Calm and discreet — you handle confidential information and pressure well - 2+ years of experience, with a degree in any field (business, management, arts, science or similar) #### **Nice to Have** - Internship or work experience in client service, consulting, operations or a startup - Confident with Excel/Sheets, PowerPoint and AI tools such as Claude or ChatGPT - Experience organising events, societies or projects at university - Tamil or Sinhala in addition to English"
 }, {
   "title" : "Intern Software Engineer",
@@ -635,7 +671,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561401&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Intern - Technical Data Processing"
 }, {
   "title" : "GRC Analyst - Governance | Risk and Compliance Analyst (Information Security Department)",
@@ -644,7 +680,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561295&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "GRC Analyst - Governance | Risk and Compliance Analyst (Information Security Department)"
 }, {
   "title" : "Senior Software Engineer HTML5 (1)",
@@ -653,7 +689,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001561153&ec=0000000661",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior Software Engineer HTML5 (1)"
 }, {
   "title" : "Software Engineer HTML5 (1)",
@@ -662,7 +698,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001561151&ec=0000000661",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Software Engineer HTML5 (1)"
 }, {
   "title" : "Senior Software Engineer.Net (1)",
@@ -671,7 +707,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001561137&ec=0000000492",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior Software Engineer.Net (1)"
 }, {
   "title" : "Java Spring Boot Software Developer",
@@ -680,7 +716,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561054&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Java Spring Boot Software Developer"
 }, {
   "title" : "Senior Engineer .NET",
@@ -698,7 +734,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/519928",
   "datePosted" : [ 2026, 10, 19, 11, 7, 22 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "###### Key Responsibilities 1. Develop and maintain responsive web applications, including front-end and back-end functionalities. 2. Design, develop, and maintain APIs, databases, and server-side applications. 3. Build user-friendly interfaces using modern front-end technologies. 4. Develop and integrate back-end services, business logic, and third-party APIs. 5. Design, manage, and optimize databases to ensure data accuracy and performance. 6. Write clean, reusable, and maintainable code following software development best practices. 7. Identify, troubleshoot, and resolve technical issues and application bugs. 8. Conduct software testing to ensure application functionality, performance, and security. 9. Collaborate with UI/UX designers, developers, and other stakeholders to deliver software solutions. 10. Participate in code reviews and contribute to continuous improvements in development processes. 11. Deploy applications and support ongoing maintenance, updates, and enhancements. 12. Maintain technical documentation and ensure compliance with coding and security standards. ###### Qualifications and Requirements - Bachelor's degree or diploma in Computer Science, Software Engineering, IT, or a related field. - Proven experience in full stack web application development. - Proficiency in front-end technologies such as HTML, CSS, JavaScript, and modern frameworks such as React, Angular, or Vue.js. - Experience with back-end technologies such as Node.js, Python, Java, PHP, or .NET. - Strong knowledge of relational or NoSQL databases such as MySQL, PostgreSQL, or MongoDB. - Experience in RESTful API development and integration. - Familiarity with Git and version control systems. - Knowledge of application security, performance optimization, and software testing. - Understanding of deployment processes and cloud platforms will be an added advantage. - Strong analytical, problem-solving, communication, and teamwork skills."
 }, {
   "title" : "Software Developer (Next.js + Laravel + AI)",
@@ -815,7 +851,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560920&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Associate - DevOps Engineer"
 }, {
   "title" : "Full-Stack Engineer",
@@ -824,7 +860,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560867&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Full-Stack Engineer"
 }, {
   "title" : "Senior QA Engineer",
@@ -833,7 +869,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560715&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior QA Engineer"
 }, {
   "title" : "Intern & Associate - Software Engineer",
@@ -842,7 +878,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560708&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Intern & Associate - Software Engineer"
 }, {
   "title" : "Senior Full Stack Developer",
@@ -851,7 +887,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560703&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior Full Stack Developer"
 }, {
   "title" : "Software Engineer - Python",
@@ -860,7 +896,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560653&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Software Engineer - Python"
 }, {
   "title" : "Full Stack Developer Intern",
@@ -869,7 +905,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560546&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Full Stack Developer Intern"
 }, {
   "title" : "Senior Quality Assurance Engineer (1)",
@@ -887,7 +923,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561012&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 16, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Trainee Mobile Developer - React Native & AI (EdTech)"
 }, {
   "title" : "Full Stack Software Engineer Intern – React & TypeScript",
@@ -986,7 +1022,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560192&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 15, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Technical Data Processing Intern (Front End Operations)"
 }, {
   "title" : "Technical Lead - Software Development & System Integration",
@@ -995,7 +1031,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559981&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 15, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Technical Lead - Software Development & System Integration"
 }, {
   "title" : "Senior Azure DevOps Engineer - REF8500 (1)",
@@ -1004,7 +1040,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000176&jc=0001559978&ec=0000000211",
   "datePosted" : [ 2026, 10, 15, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Senior Azure DevOps Engineer - REF8500 (1)"
 }, {
   "title" : "Lead Software Engineer",
@@ -1013,7 +1049,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559947&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 15, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Lead Software Engineer"
 }, {
   "title" : "Associate Business Analyst & Quality Assurance",
@@ -1022,7 +1058,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559916&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 15, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
+  "scrapedDate" : [ 2026, 10, 29 ],
   "description" : "Associate Business Analyst & Quality Assurance"
 }, {
   "title" : "Database Administrator",
@@ -1060,148 +1096,4 @@
   "datePosted" : [ 2026, 10, 15, 0, 2, 36 ],
   "scrapedDate" : [ 2026, 10, 27 ],
   "description" : "We’re Hiring: Automation Engineer (Sri Lankan Applicants Only) Key Requirements Strong, production-level Python skills, with experience developing automation logic and deployable services. Proficiency in SQL, using MySQL and/or Microsoft SQL Server. Experience building and deploying containerized applications and services. Ability to translate complex business and engineering processes into clear, automated workflows. Ability to learn and work with Microsoft Fabric, Azure Container Apps, Azure ML Studio, and Azure Al Foundry. Training will be provided where required. Strong collaboration skills to understand requirements from network/RF, transmission, power, and civil engineering teams. Exposure to telecom engineering processes, including radio network planning and network capacity upgrades, would be an advantage. Experience with machine learning, anomaly detection, or statistical inference would be an advantage. Knowledge of Power BI-including DAX, Power Query, and semantic models-or Tableau is preferred. Familiarity with PySpark, ETL/ELT pipelines, Delta Lake, or Medallion Architecture would be beneficial. AWS knowledge or certification and experience developing configurable, multi-tenant software products would be added advantages."
-}, {
-  "title" : "Software Engineering Intern – Full-Stack Development",
-  "company" : "Urban Innovation Services",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/14857/software-engineering-intern-fullstack-development-at-urban-innovation-services/",
-  "datePosted" : [ 2026, 10, 14, 22, 55, 6 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "Software Engineering Intern – Full-Stack Development We are an early-stage technology startup currently at the product development stage. We are looking for a motivated Software Engineering Intern to join us for a 3-month internship, with the possibility of a full-time position based on performance. What You Will Work On Custom POS Application Develop a custom cloud-based POS application from the ground up. Build features such as sales, products, inventory, customers, users and reports. Design the system to support different types of businesses. Work on frontend, backend, database and APIs. Business Websites Develop modern, responsive websites for businesses. Build frontend and backend functionality where required. Integrate websites with APIs and the POS platform. Requirements Good knowledge of HTML, CSS and JavaScript/TypeScript Experience with React / Next.js or similar Basic backend development knowledge (Node.js, Python, .NET, Java, etc.) Understanding of SQL and databases Familiarity with REST APIs and Git/GitHub Good problem-solving skills Willingness to learn and take ownership Who Can Apply? Undergraduate / final-year students Recent graduates Self-taught developers with strong projects Your projects matter more than your qualifications. Internship Duration: 3/6 months Location: Sri Lanka Type: Remote Future Opportunity: Full-time position based on performance During the internship, we will evaluate your technical skills, problem-solving ability, learning speed, code quality, ownership and overall performance. If you are excited about building a real software product from the ground up, we would love to hear from you. To Apply: Please send your CV to careers@urbaninnovation.qa and include: A brief description of one software project you have built relevant Your role and what you personally developed Links to your previous work/projects, if available Your expected monthly internship allowance (Must)"
-}, {
-  "title" : "QA Intern (Software Quality Assurance)",
-  "company" : "CyphLab (PVT) LTD",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15462/qa-intern-software-quality-assurance-at-cyphlab-pvt-ltd/",
-  "datePosted" : [ 2026, 10, 14, 21, 44, 54 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "No description available"
-}, {
-  "title" : "QA Engineer (Automation) - 5 Months Contract",
-  "company" : "Xeynergy",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15460/qa-engineer-automation-5-months-contract-at-xeynergy/",
-  "datePosted" : [ 2026, 10, 14, 18, 41, 32 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "Who we are Xeynergy is a Software Development and IT Services company based in Colombo, Sri Lanka, providing software development services to reputed offshore and local companies. Formed by an experienced group of industry professionals, Xeynergy is building a network of highly skilled experts who can perform shoulder to shoulder with top global talent. Key Responsibilities Design, develop, and maintain automated test scripts for web and mobile applications using the Gauge framework. Collaborate with cross-functional teams, including developers, business analysts, and product owners, to understand requirements and provide valuable input. Execute automated test suites, analyze results, and report defects using bug tracking tools. Perform regression testing to validate software releases and ensure no new issues are introduced. Create and maintain comprehensive test documentation, including test plans, test cases, and test reports. Requirements Bachelor’s degree in computer science, Software Engineering, or a related field. At least 1 year of experience as a QA Engineer, with a strong focus on test automation. Proficiency in test automation scripting using programming languages such as Java, Python, or JavaScript. Experience with the Gauge framework is a plus. Solid understanding of software testing principles, methodologies, and best practices. Hands-on experience with bug tracking and test management tools (e.g., Jira, TestRail, Bugzilla). Knowledge of SDLC, Agile/Scrum methodologies, and software development processes. Strong problem-solving and analytical skills, with keen attention to detail. Excellent written and verbal communication skills. ISTQB or similar certification in software testing is an advantage. What We Offer: Above market compensation package Opportunities to work on cutting-edge projects. A collaborative environment focused on innovation and growth. Professional development and training opportunities."
-}, {
-  "title" : "Intern - Quality Assurance",
-  "company" : "Xeynergy",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15459/intern-quality-assurance-at-xeynergy/",
-  "datePosted" : [ 2026, 10, 14, 18, 39, 20 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "About Xeynergy Xeynergy is a Software Development and IT Services company based in Sri Lanka, working with reputed clients across international markets. We focus on building high-quality software solutions while providing our team with opportunities to work on modern technologies and challenging projects. Position Overview We are seeking a QA Internship – Playwright Automation who is looking to build practical experience in software quality assurance and test automation. The ideal candidate will have a strong interest in QA, attention to detail, and some exposure to Playwright. This role will provide hands-on experience working with a professional QA and engineering team, with opportunities to learn and contribute to real-world software projects. Key Responsibilities Assist with functional, regression, and exploratory testing. Support the development and maintenance of automated test scripts using Playwright. Identify, document, and track software defects. Collaborate with developers and QA team members to understand and resolve issues. Assist in maintaining test cases and QA documentation. Requirements Degree or diploma in IT, Computer Science, Software Engineering, or a related field. Basic understanding of software testing concepts and QA practices. Some hands-on exposure to Playwright is preferred. Basic knowledge of JavaScript/TypeScript or another programming language. Good analytical and problem-solving skills. Strong attention to detail and willingness to learn. Good communication and teamwork skills. What We Offer Hands-on experience with real-world software projects. Exposure to modern QA and test automation practices. Mentorship and guidance from experienced professionals. A collaborative and supportive work environment. Opportunities for professional growth and learning."
-}, {
-  "title" : "Fullstack Internship",
-  "company" : "UNIVISER",
-  "level" : "Intern",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/14116/fullstack-internship-at-univiser/",
-  "datePosted" : [ 2026, 10, 14, 12, 27, 9 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "This is a paid internship with opportunity to convert to a full time position. Duration of Internship - 1 year Univiser is a SaaS-based EdTech company that partners with universities and colleges globally to digitize and streamline their Student Ambassador Programs. Role Description This is a full-time remote role for a Fullstack Internship. The Fullstack Intern will be responsible for day-to-day tasks associated with computer science, back-end web development, software development, programming, and object-oriented programming (OOP). Job Descriptions Undergraduate following a degree in Computer Science, Engineering or a related subject Assist in developing responsive and scalable web applications using JavaScript (ES6+), React.js, and Tailwind CSS Support backend development tasks using Java, Spring and manage basic database operations with Postgresql Programming skills Strong Object-Oriented Programming (OOP) principles Experience with Agile methodologies is a plus Excellent analytical and problem-solving skills Ability to work independently and remotely Ability to learn new technologies rapidly and share knowledge with other team members Good communication skills Ability to work within deadlines individually and as a team Produce"
-}, {
-  "title" : "Backend Software Engineer",
-  "company" : "Hexacorp SL (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559723&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Backend Software Engineer"
-}, {
-  "title" : "QA Engineer",
-  "company" : "Ceylon Institute of Softwarw Enginnering and Law",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559644&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "QA Engineer"
-}, {
-  "title" : "Senior Data Engineer",
-  "company" : "Tech One Global Lanka (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559643&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Senior Data Engineer"
-}, {
-  "title" : "QA Engineer",
-  "company" : "Levein",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559624&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "QA Engineer"
-}, {
-  "title" : "Data Analytics (Male) - Boralesgamuwa",
-  "company" : "Company Name Withheld",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559425&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Data Analytics (Male) - Boralesgamuwa"
-}, {
-  "title" : "Senior EDI Engineer (1)",
-  "company" : "Expolanka Freight (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001559645&ec=0000000510",
-  "datePosted" : [ 2026, 10, 14, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Senior EDI Engineer (1)"
-}, {
-  "title" : "Full Stack Software Engineer (AI-powered Applications)",
-  "company" : "Nextjob",
-  "level" : "Junior/SE",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/519895",
-  "datePosted" : [ 2026, 10, 14, 11, 5, 12 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday (Weekdays) - Working Hours: Semi-aligned with AEST - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi-aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 2+ years experience building full stack applications using React, Next.js, Node.js and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Familiarity with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG) is an advantage. - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
-}, {
-  "title" : "Senior Full Stack Software Engineer (AI-powered Applications)",
-  "company" : "Nextjob",
-  "level" : "Senior",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/519895",
-  "datePosted" : [ 2026, 10, 14, 11, 5, 12 ],
-  "scrapedDate" : [ 2026, 10, 26 ],
-  "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday - Working Hours: Depending on project requirements - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi- aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 5+ years of hands-on industry experience with atleast 2+ years experience building full stack applications using React, Next.js, Node.js, and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Familiarity with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG) is an advantage. - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
-}, {
-  "title" : "Senior Software Engineer (React Native)",
-  "company" : "Nextjob",
-  "level" : "Senior",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/519894",
-  "datePosted" : [ 2026, 10, 14, 10, 31, 47 ],
-  "scrapedDate" : [ 2026, 10, 16 ],
-  "description" : "#### **The Company** We are one of the fastest-growing companies, a leader in digital transformation and AI technologies with global clients from the education, healthcare, and manufacturing industries. With aggressive plans to expand into many international markets, we are looking to grow our team! Here is what we are looking for! #### **Requirements** - Bachelor's degree in Computer Science, Software Engineering, or equivalent professional experience. - 5+ years of software development experience, including 3+ years of building production React Native applications. - Strong proficiency in React Native, React, TypeScript, JavaScript, functional components, and React hooks. - Hands-on experience with Redux Toolkit for state management, including asynchronous workflows and selectors. - Experience with React Navigation, including stack navigation, nested navigators, typed routes, and deep linking. - Experience building feature based mobile architectures with reusable components, services, APIs, hooks, and state management. - Strong REST API integration experience using Axios, interceptors, authentication, retry handling, and network connectivity management. - Experience with mobile databases such as Realm, including schema design, migrations, caching, and offline data handling. - Understanding of native modules for React Native, TurboModules, Codegen, and native-platform integration. - Working knowledge of Swift/Objective-C for iOS or Kotlin/Java for Android; experience across both platforms is preferred. - Experience with Jest, React Native Testing Library, unit testing, integration testing, and test coverage. - Familiarity with the React Native development and release toolchain, including Xcode, CocoaPods, Android Studio, Gradle, Metro, and Yarn. - Experience with Firebase, Sentry, push notifications, analytics, remote configuration, and production monitoring. - Knowledge of mobile security, including secure storage, authentication, TLS, certificate pinning, and protection of sensitive data. - Experience managing development, staging, and production builds and releasing applications on the App Store and Google Play. - Experience with Apple HealthKit, Health Connect, Highcharts, WebViews and white label mobile applications is an advantage. - Knowledge of Flutter and Dart, or experience developing cross-platform applications with Flutter, is an added advantage. - Strong problem solving, code review, mentoring, documentation, and cross functional communication skills. #### **Responsibilities** - Design, develop, test, and maintain React Native features for iOS and Android. - Take ownership of features from technical design and estimation through implementation, release, and production support. - Build reusable components and maintain a scalable, feature based application architecture. - Manage application state and asynchronous workflows using Redux Toolkit, including async thunks and selectors. - Integrate REST APIs, native capabilities, local databases, analytics, notifications, and third-party services. - Develop and maintain native bridges and TurboModules when functionality cannot be implemented entirely in React Native. - Ensure application performance, accessibility, security, reliability, and consistent cross-platform behavior. - Write and maintain unit and integration tests using Jest and React Native Testing Library. - Diagnose issues across React Native, iOS, Android, APIs, networking, and local storage. - Review code, mentor engineers, and promote engineering standards and best practices. - Collaborate with product, design, backend, QA, data, security, and infrastructure teams. - Support build preparation, QA testing, App Store and Google Play releases, and post release monitoring. - Produce technical designs, estimates, task breakdowns, risk assessments, and implementation documentation. - Address technical debt, security vulnerabilities, and performance issues, and identify opportunities to improve the development process. #### **Benefits** - Great Remuneration \uD83D\uDCB0 - Flexible Work Arrangement \uD83C\uDFE0 - Performance Bonus \uD83C\uDFE6 - Private Health Insurance \uD83C\uDFE5 - Accelerated Career Growth \uD83D\uDCDA"
-}, {
-  "title" : "Senior Software Engineer / Associate Tech Lead  ",
-  "company" : "Nextjob",
-  "level" : "Associate",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/519894",
-  "datePosted" : [ 2026, 10, 14, 10, 31, 47 ],
-  "scrapedDate" : [ 2026, 10, 19 ],
-  "description" : "#### **The Company** We are one of the fastest-growing companies, a leader in digital transformation and AI technologies with global clients from the education, healthcare, and manufacturing industries. With aggressive plans to expand into many international markets, we are looking to grow our team! Here is what we are looking for! #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday - Working Hours: Depending on project requirements - Communication: Good English communication skills, both written and verbal #### **Requirements** - Bachelor's degree in Computer Science, Software Engineering, or equivalent professional experience. - 5+ years of software development experience, including 3+ years of building production React Native applications. - Strong proficiency in React Native, React, TypeScript, JavaScript, functional components, and React hooks. - Hands-on experience with Redux Toolkit for state management, including asynchronous workflows and selectors. - Experience with React Navigation, including stack navigation, nested navigators, typed routes, and deep linking. - Experience building feature based mobile architectures with reusable components, services, APIs, hooks, and state management. - Strong REST API integration experience using Axios, interceptors, authentication, retry handling, and network connectivity management. - Experience with mobile databases such as Realm, including schema design, migrations, caching, and offline data handling. - Understanding of native modules for React Native, TurboModules, Codegen, and native-platform integration. - Working knowledge of Swift/Objective-C for iOS or Kotlin/Java for Android; experience across both platforms is preferred. - Experience with Jest, React Native Testing Library, unit testing, integration testing, and test coverage. - Familiarity with the React Native development and release toolchain, including Xcode, CocoaPods, Android Studio, Gradle, Metro, and Yarn. - Experience with Firebase, Sentry, push notifications, analytics, remote configuration, and production monitoring. - Knowledge of mobile security, including secure storage, authentication, TLS, certificate pinning, and protection of sensitive data. - Experience managing development, staging, and production builds and releasing applications on the App Store and Google Play. - Experience with Apple HealthKit, Health Connect, Highcharts, WebViews and white label mobile applications is an advantage. - Knowledge of Flutter and Dart, or experience developing cross-platform applications with Flutter, is an added advantage. - Strong problem solving, code review, mentoring, documentation, and cross functional communication skills. #### **Responsibilities** - Design, develop, test, and maintain React Native features for iOS and Android. - Take ownership of features from technical design and estimation through implementation, release, and production support. - Build reusable components and maintain a scalable, feature based application architecture. - Manage application state and asynchronous workflows using Redux Toolkit, including async thunks and selectors. - Integrate REST APIs, native capabilities, local databases, analytics, notifications, and third-party services. - Develop and maintain native bridges and TurboModules when functionality cannot be implemented entirely in React Native. - Ensure application performance, accessibility, security, reliability, and consistent cross-platform behavior. - Write and maintain unit and integration tests using Jest and React Native Testing Library. - Diagnose issues across React Native, iOS, Android, APIs, networking, and local storage. - Review code, mentor engineers, and promote engineering standards and best practices. - Collaborate with product, design, backend, QA, data, security, and infrastructure teams. - Support build preparation, QA testing, App Store and Google Play releases, and post release monitoring. - Produce technical designs, estimates, task breakdowns, risk assessments, and implementation documentation. - Address technical debt, security vulnerabilities, and performance issues, and identify opportunities to improve the development process. #### **Benefits** - Great Remuneration \uD83D\uDCB0 - Flexible Work Arrangement \uD83C\uDFE0 - Performance Bonus \uD83C\uDFE6 - Private Health Insurance \uD83C\uDFE5 - Accelerated Career Growth \uD83D\uDCDA"
-}, {
-  "title" : "Senior Software Engineer / Associate Tech Lead (React Native)",
-  "company" : "Nextjob",
-  "level" : "Associate",
-  "source" : "Rooster.jobs",
-  "link" : "https://rooster.jobs/jobs/519894",
-  "datePosted" : [ 2026, 10, 14, 10, 31, 47 ],
-  "scrapedDate" : [ 2026, 10, 26 ],
-  "description" : "#### **The Company** We are one of the fastest-growing companies, a leader in digital transformation and AI technologies with global clients from the education, healthcare, and manufacturing industries. With aggressive plans to expand into many international markets, we are looking to grow our team! Here is what we are looking for! #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday - Working Hours: Depending on project requirements - Communication: Good English communication skills, both written and verbal #### **Requirements** - Bachelor's degree in Computer Science, Software Engineering, or equivalent professional experience. - 5+ years of software development experience, including 3+ years of building production React Native applications. - Strong proficiency in React Native, React, TypeScript, JavaScript, functional components, and React hooks. - Hands-on experience with Redux Toolkit for state management, including asynchronous workflows and selectors. - Experience with React Navigation, including stack navigation, nested navigators, typed routes, and deep linking. - Experience building feature based mobile architectures with reusable components, services, APIs, hooks, and state management. - Strong REST API integration experience using Axios, interceptors, authentication, retry handling, and network connectivity management. - Experience with mobile databases such as Realm, including schema design, migrations, caching, and offline data handling. - Understanding of native modules for React Native, TurboModules, Codegen, and native-platform integration. - Working knowledge of Swift/Objective-C for iOS or Kotlin/Java for Android; experience across both platforms is preferred. - Experience with Jest, React Native Testing Library, unit testing, integration testing, and test coverage. - Familiarity with the React Native development and release toolchain, including Xcode, CocoaPods, Android Studio, Gradle, Metro, and Yarn. - Experience with Firebase, Sentry, push notifications, analytics, remote configuration, and production monitoring. - Knowledge of mobile security, including secure storage, authentication, TLS, certificate pinning, and protection of sensitive data. - Experience managing development, staging, and production builds and releasing applications on the App Store and Google Play. - Experience with Apple HealthKit, Health Connect, Highcharts, WebViews and white label mobile applications is an advantage. - Knowledge of Flutter and Dart, or experience developing cross-platform applications with Flutter, is an added advantage. - Strong problem solving, code review, mentoring, documentation, and cross functional communication skills. #### **Responsibilities** - Design, develop, test, and maintain React Native features for iOS and Android. - Take ownership of features from technical design and estimation through implementation, release, and production support. - Build reusable components and maintain a scalable, feature based application architecture. - Manage application state and asynchronous workflows using Redux Toolkit, including async thunks and selectors. - Integrate REST APIs, native capabilities, local databases, analytics, notifications, and third-party services. - Develop and maintain native bridges and TurboModules when functionality cannot be implemented entirely in React Native. - Ensure application performance, accessibility, security, reliability, and consistent cross-platform behavior. - Write and maintain unit and integration tests using Jest and React Native Testing Library. - Diagnose issues across React Native, iOS, Android, APIs, networking, and local storage. - Review code, mentor engineers, and promote engineering standards and best practices. - Collaborate with product, design, backend, QA, data, security, and infrastructure teams. - Support build preparation, QA testing, App Store and Google Play releases, and post release monitoring. - Produce technical designs, estimates, task breakdowns, risk assessments, and implementation documentation. - Address technical debt, security vulnerabilities, and performance issues, and identify opportunities to improve the development process. #### **Benefits** - Great Remuneration \uD83D\uDCB0 - Flexible Work Arrangement \uD83C\uDFE0 - Performance Bonus \uD83C\uDFE6 - Private Health Insurance \uD83C\uDFE5 - Accelerated Career Growth \uD83D\uDCDA"
 } ]

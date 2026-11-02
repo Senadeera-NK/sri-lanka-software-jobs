@@ -13,9 +13,126 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Experienced React Native Mobile App Developer"
+}, {
+  "title" : "Senior UI | UX Engineer (Full Time | On Site)",
+  "company" : "Treinetic (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Senior UI | UX Engineer (Full Time | On Site)"
+}, {
+  "title" : "Backend Software Engineer",
+  "company" : "Hexacorp SL (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Backend Software Engineer"
+}, {
+  "title" : "Teach Lead - Machine Learning (ML)",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Teach Lead - Machine Learning (ML)"
+}, {
+  "title" : "Tech Lead - AI",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566135&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Tech Lead - AI"
+}, {
+  "title" : "Tech Lead - AI Solutions",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566076&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Tech Lead - AI Solutions"
+}, {
+  "title" : "Senior Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566165&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Senior Data Engineer"
+}, {
+  "title" : "Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566171&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Data Engineer"
+}, {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "Senior Application Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Senior Application Security Engineer (1)"
+}, {
+  "title" : "Senior Software Engineer - . NET (1)",
+  "company" : "Jobfactory",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001566730&ec=0000000492",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Senior Software Engineer - . NET (1)"
+}, {
+  "title" : "Cloud Engineer - UAE (1)",
+  "company" : "John Keells IT",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001566708&ec=0000000313",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Cloud Engineer - UAE (1)"
+}, {
+  "title" : "Full Stack Mobile App Developer (Flutter + Node.js)",
+  "company" : "Ceylon Institute of Software Enginnering and Law",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566670&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "Full Stack Mobile App Developer (Flutter + Node.js)"
+}, {
+  "title" : "QA Interns",
+  "company" : "Fetchseed (Pvt) Ltd",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566545&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 2, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
+  "description" : "QA Interns"
 }, {
   "title" : "Associate Data Analyst - Data Compliance",
   "company" : "Affixcon Pty Ltd",
@@ -26,94 +143,13 @@
   "scrapedDate" : [ 2026, 11, 1 ],
   "description" : "Associate Data Analyst - Data Compliance"
 }, {
-  "title" : "Senior UI | UX Engineer (Full Time | On Site)",
-  "company" : "Treinetic (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Senior UI | UX Engineer (Full Time | On Site)"
-}, {
-  "title" : "Backend Software Engineer",
-  "company" : "Hexacorp SL (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Backend Software Engineer"
-}, {
-  "title" : "Teach Lead - Machine Learning (ML)",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Teach Lead - Machine Learning (ML)"
-}, {
-  "title" : "Tech Lead - AI",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566135&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Tech Lead - AI"
-}, {
-  "title" : "Tech Lead - AI Solutions",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566076&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Tech Lead - AI Solutions"
-}, {
-  "title" : "Senior Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566165&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 1, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Senior Data Engineer"
-}, {
-  "title" : "Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566171&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 31, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 31 ],
-  "description" : "Data Engineer"
-}, {
-  "title" : "Information Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Information Security Engineer (1)"
-}, {
-  "title" : "Senior Application Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
-  "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Senior Application Security Engineer (1)"
-}, {
   "title" : "AI Developer",
   "company" : "CSG Technologies",
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566183&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "AI Developer"
 }, {
   "title" : "Intern - Content Developer",
@@ -122,7 +158,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566107&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Intern - Content Developer"
 }, {
   "title" : "Technical Data Processing Intern",
@@ -131,7 +167,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566022&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Technical Data Processing Intern"
 }, {
   "title" : "Senior EDI Engineer (1)",
@@ -140,7 +176,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001565734&ec=0000000510",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Senior EDI Engineer (1)"
 }, {
   "title" : "Executive - Business Data Analyst (Male) - Boralesgamuwa",
@@ -149,7 +185,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565702&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Executive - Business Data Analyst (Male) - Boralesgamuwa"
 }, {
   "title" : "Senior Software Engineers | Software Engineers",
@@ -158,7 +194,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566265&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Senior Software Engineers | Software Engineers"
 }, {
   "title" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)",
@@ -167,7 +203,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001565823&ec=0000000445",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)",
@@ -176,7 +212,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001565844&ec=0000000445",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Automation Engineer (AUS Calendar - AUS Shift) (1)",
@@ -185,7 +221,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001565828&ec=0000000445",
   "datePosted" : [ 2026, 10, 30, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Automation Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Android Tech Lead",
@@ -194,7 +230,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565293&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 29, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Android Tech Lead"
 }, {
   "title" : "Sharepoint Developer",
@@ -203,7 +239,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565581&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 29, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Sharepoint Developer"
 }, {
   "title" : "DevOps Engineer",
@@ -212,7 +248,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565503&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 29, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "DevOps Engineer"
 }, {
   "title" : "Full Stack Web Developer",
@@ -239,7 +275,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000062&jc=0001565071&ec=0000000714",
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Junior Executive - Database Administrator (1)"
 }, {
   "title" : "Cloud Engineer - UAE",
@@ -248,7 +284,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564967&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Cloud Engineer - UAE"
 }, {
   "title" : "Security Architect (1)",
@@ -257,7 +293,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001564863&ec=0000000552",
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Security Architect (1)"
 }, {
   "title" : "Associate Cyber Security Engineer",
@@ -266,7 +302,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564720&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Associate Cyber Security Engineer"
 }, {
   "title" : "Intern - Internal Development (2)",
@@ -275,7 +311,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001565148&ec=0000000410",
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Intern - Internal Development (2)"
 }, {
   "title" : "Software Engineer",
@@ -320,7 +356,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Senior WordPress Developer - Experienced in AI (UAE Based)"
 }, {
   "title" : "SEO Specialist - Experienced in AI (UAE Based)",
@@ -329,7 +365,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "SEO Specialist - Experienced in AI (UAE Based)"
 }, {
   "title" : "AI | ML Engineer",
@@ -338,7 +374,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "AI | ML Engineer"
 }, {
   "title" : "Senior System Engineer (MSP)",
@@ -392,7 +428,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 26, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Shopify Developer (with Word Press Experience) (Remote)"
 }, {
   "title" : "Senior Software Engineer (Laravel  & Integrations )",
@@ -410,7 +446,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666",
   "datePosted" : [ 2026, 10, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Full - Stack Engineer - Java & React"
 }, {
   "title" : "Software Engineer (Python)",
@@ -455,7 +491,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563019&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Trainee Developers - Odoo"
 }, {
   "title" : "AI-First SaaS Operations & Delivery Lead (1)",
@@ -473,7 +509,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563413&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "ERP and Data - Intern"
 }, {
   "title" : "Data Engineer - Python",
@@ -482,7 +518,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563250&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Data Engineer - Python"
 }, {
   "title" : "Application Developer (Night Shift)",
@@ -491,7 +527,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563182&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Application Developer (Night Shift)"
 }, {
   "title" : "GEO - Technical Engineer / Technologist",
@@ -500,7 +536,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563102&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 23, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "GEO - Technical Engineer / Technologist"
 }, {
   "title" : "Software Engineering Intern",
@@ -572,7 +608,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001562628&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 22, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Backend Developer"
 }, {
   "title" : "Software Engineer Intern",
@@ -626,7 +662,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000343&jc=0001562319&ec=0000000458",
   "datePosted" : [ 2026, 10, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Power Platform Developer (1)"
 }, {
   "title" : "Freelance - AI Specialist (50)",
@@ -635,7 +671,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000148&jc=0001550679&ec=0000000180",
   "datePosted" : [ 2026, 10, 21, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "Freelance - AI Specialist (50)"
 }, {
   "title" : "Progress OpenEdge Developer - Contract",
@@ -680,7 +716,7 @@
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561786&ec=DEFZZZ",
   "datePosted" : [ 2026, 10, 20, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
+  "scrapedDate" : [ 2026, 11, 2 ],
   "description" : "AI Content Creator"
 }, {
   "title" : "Software Engineer Intern",
@@ -808,15 +844,6 @@
   "datePosted" : [ 2026, 10, 19, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 1 ],
   "description" : "Software Engineer HTML5 (1)"
-}, {
-  "title" : "Senior Software Engineer.Net (1)",
-  "company" : "Jobfactory",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001561137&ec=0000000492",
-  "datePosted" : [ 2026, 10, 19, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 1 ],
-  "description" : "Senior Software Engineer.Net (1)"
 }, {
   "title" : "Java Spring Boot Software Developer",
   "company" : "Kangaro Tech",

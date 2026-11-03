@@ -16,14 +16,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 3,2:21 AM (Just now)  | **Total Jobs Found:** 99
+> 🟢 **Last Updated:** November 3,6:27 PM (Just now)  | **Total Jobs Found:** 89
 
-### 🎓 Internships & Trainees  (22)
+### 🎓 Internships & Trainees  (18)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Intern - Software Engineering](https://rooster.jobs/jobs/520044) | Zegates International Private Limited | Intern | 12&nbsp;hours&nbsp;ago | Rooster.jobs |
-| [QA Interns](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566545&ec=DEFZZZ) | Fetchseed (Pvt) Ltd | Intern | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Intern - Software Engineering](https://rooster.jobs/jobs/520044) | Zegates International Private Limited | Intern | Yesterday | Rooster.jobs |
+| [QA Interns](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566545&ec=DEFZZZ) | Fetchseed (Pvt) Ltd | Intern | Yesterday | TopJobs.lk |
 | [Intern - Content Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566107&ec=DEFZZZ) | Zuse Technologies (Pvt) Ltd | Intern | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Technical Data Processing Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566022&ec=DEFZZZ) | North Sails Sri Lanka | Intern | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern - Internal Development (2)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001565148&ec=0000000410) | Deloitte | Intern | 6&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -40,23 +40,22 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [QA Intern (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001562026&ec=0000000492) | Jobfactory | Intern | 13&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer Intern](https://itpro.lk/job/14475/software-engineer-intern-at-alphintra/) | Alphintra | Intern | 14&nbsp;days&nbsp;ago | ITPro.lk |
 | [Full Stack Developement Intern](https://itpro.lk/job/15518/full-stack-developement-intern-at-futura-solutions/) | Futura Solutions | Intern | 14&nbsp;days&nbsp;ago | ITPro.lk |
-| [Intern Software Engineer](https://itpro.lk/job/15515/intern-software-engineer-at-bitslize-concepts/) | BitSlize Concepts | Intern | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Software Engineer Internship](https://itpro.lk/job/15513/software-engineer-internship-at-zenzebz-technologies/) | Zenzebz Technologies | Intern | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Intern Software Engineer (PHP Laravel)](https://itpro.lk/job/15509/intern-software-engineer-php-laravel-at-inbizsys-private-limited/) | InBizSys (Private) Limited | Intern | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Intern - Technical Data Processing](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561401&ec=DEFZZZ) | North Sails | Intern | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (51)
+### 💻 Associate & Junior/SE Roles  (45)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566171&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Cloud Engineer - UAE (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001566708&ec=0000000313) | John Keells IT | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Full Stack Mobile App Developer (Flutter + Node.js)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566670&ec=DEFZZZ) | Ceylon Institute of Software Enginnering and Law | Junior/SE | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Experienced React Native Mobile App Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561563&ec=DEFZZZ) | Nascent Grow (Pvt) Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566171&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Engineer - Frontend](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001567242&ec=DEFZZZ) | InSync Information Technologies Pvt Ltd | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000376&jc=0001567222&ec=0000000493) | Assetline Finance PLC | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Full Stack Developer (Java & React)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001567162&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Junior/SE | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Cloud Engineer - UAE (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000049&jc=0001566708&ec=0000000313) | John Keells IT | Junior/SE | Yesterday | TopJobs.lk |
+| [Full Stack Mobile App Developer (Flutter + Node.js)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566670&ec=DEFZZZ) | Ceylon Institute of Software Enginnering and Law | Junior/SE | Yesterday | TopJobs.lk |
 | [Associate Data Analyst - Data Compliance](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561356&ec=DEFZZZ) | Affixcon Pty Ltd | Associate | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [AI Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566183&ec=DEFZZZ) | CSG Technologies | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Executive - Business Data Analyst (Male) - Boralesgamuwa](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565702&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -93,15 +92,6 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Progress OpenEdge Developer - Contract](https://itpro.lk/job/15526/progress-openedge-developer-contract-at-zdata-innovations/) | ZData Innovations | Junior/SE | 13&nbsp;days&nbsp;ago | ITPro.lk |
 | [Associate Software Engineer (React / React Native) - LAY0100](https://rooster.jobs/jobs/519938) | Creative Software | Associate | 13&nbsp;days&nbsp;ago | Rooster.jobs |
 | [AI Content Creator](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561786&ec=DEFZZZ) | Kiddies and Toys International (Pvt) Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
-| [ Business Operations Associate (IT/Software Industry)](https://rooster.jobs/jobs/519929) | Nextjob | Associate | 15&nbsp;days&nbsp;ago | Rooster.jobs |
-| [Associate Software Engineer](https://itpro.lk/job/15512/associate-software-engineer-at-zenzebz-technologies/) | Zenzebz Technologies | Associate | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Database Administrator (DBA)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558655&ec=DEFZZZ) | Onsys International (Private) Limited | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [GRC Analyst - Governance \| Risk and Compliance Analyst (Inf...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561295&ec=DEFZZZ) | Cargills Bank PLC | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Software Engineer HTML5 (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001561151&ec=0000000661) | DirectFN | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Java Spring Boot Software Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561054&ec=DEFZZZ) | Kangaro Tech | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Full Stack Software Developer ](https://rooster.jobs/jobs/519928) | Ceylon Business Appliances (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | Rooster.jobs |
-| [Software Developer (Next.js + Laravel + AI)](https://itpro.lk/job/12028/software-developer-nextjs-laravel-ai-at-git-lanka/) | GIT Lanka | Junior/SE | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Junior Software Developer](https://itpro.lk/job/15501/junior-software-developer-at-vision-designing/) | Vision Designing | Junior/SE | 15&nbsp;days&nbsp;ago | ITPro.lk |
 
 ---
 
@@ -109,13 +99,17 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Teach Lead - Machine Learning (ML)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ) | ORYSYS Limited | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566135&ec=DEFZZZ) | ORYSYS Limited | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566076&ec=DEFZZZ) | ORYSYS Limited | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566165&ec=DEFZZZ) | ORYSYS Limited | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Software Engineer - . NET (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001566730&ec=0000000492) | Jobfactory | Senior | 14&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Teach Lead - Machine Learning (ML)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ) | ORYSYS Limited | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566135&ec=DEFZZZ) | ORYSYS Limited | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566076&ec=DEFZZZ) | ORYSYS Limited | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566165&ec=DEFZZZ) | ORYSYS Limited | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer - Fullstack (Java)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001567189&ec=DEFZZZ) | HRC Labs | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Quality Assurance Engineer - Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001567182&ec=DEFZZZ) | HRC Labs | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer JAVA (4)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001566910&ec=0000000661) | DirectFN | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Software Engineer HTML5 (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001566909&ec=0000000661) | DirectFN | Senior | 18&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
+| [Senior Software Engineer - . NET (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000375&jc=0001566730&ec=0000000492) | Jobfactory | Senior | Yesterday | TopJobs.lk |
 | [Senior EDI Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000280&jc=0001565734&ec=0000000510) | Expolanka Freight (Pvt) Ltd | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior Software Engineers \| Software Engineers](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566265&ec=DEFZZZ) | Elegant Media (Pvt) Ltd | Senior | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Android Tech Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565293&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Senior | 5&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -131,10 +125,6 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [React.Js Tech Lead / QA Lead / Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001558105&ec=DEFZZZ) | Capsicumlabs | Senior | 12&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001556849&ec=DEFZZZ) | Intrepid Travel | Senior | 13&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Software Engineer/Senior Software Engineer - Full Stack (Fro...](https://itpro.lk/job/15522/software-engineersenior-software-engineer-full-stack-frontend-focused-at-orysys-limited/) | Orysys Limited | Senior | 14&nbsp;days&nbsp;ago | ITPro.lk |
-| [Senior Java Developer - SSE/ATL/TL/STL](https://itpro.lk/job/15508/senior-java-developer-sseatltlstl-at-smashtaps-pvt-ltd/) | SmashTaps Pvt Ltd | Senior | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Senior Quality Engineering Lead](https://itpro.lk/job/15507/senior-quality-engineering-lead-at-efutures/) | EFutures | Senior | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer HTML5 (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000492&jc=0001561153&ec=0000000661) | DirectFN | Senior | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Senior Engineer .NET](https://itpro.lk/job/15506/senior-engineer-net-at-verdentra/) | Verdentra | Senior | 15&nbsp;days&nbsp;ago | ITPro.lk |
 
 ---
 

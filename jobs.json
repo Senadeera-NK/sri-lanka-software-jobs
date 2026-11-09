@@ -1,4 +1,13 @@
 [ {
+  "title" : "Security and Compliance Specialist",
+  "company" : "Nextjob",
+  "level" : "Junior/SE",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/520086",
+  "datePosted" : [ 2026, 11, 9, 10, 11, 50 ],
+  "scrapedDate" : [ 2026, 11, 9 ],
+  "description" : "#### **The Company** We are an award-winning software product engineering company that has delivered bespoke web, enterprise, mobile, and cloud solutions to clients around the world for over 25 years. The company has recently expanded into AI-driven innovation, offering AI development, consulting and implementation, data engineering and master data management, and cloud architecture alongside its core software development services. We are a Microsoft Silver Partner and AWS partner, ISO certified, and a SLASSCOM member, and in 2025 won gold at every major national technology award ceremony in Sri Lanka. With long-standing partnerships spanning 5 to 15+ years with global clients across healthcare, logistics, and enterprise software, we combine deep technical expertise with a client-first approach — helping start-ups and enterprises alike scale through digital transformation. The company prides itself on dedication, continuous improvement, and adaptability, building teams and solutions that grow and evolve alongside its clients' changing needs. #### **Role Overview** Ensure the data/MDM solution is designed and delivered with appropriate security, privacy, audit and cross-border/residency controls. #### **Employment Details** - Employment Type: Part Time External Consultancy - Work Arrangement: Hybrid - Working Hours: 4 Hours - Experience: Minimum 7+ years - Salary: LKR 400,000 per month - Communication: Strong English communication skills, both written and verbal (minimum 8/10 proficiency) #### **Key Responsibilities** - Assess security/privacy requirements for source, Lakehouse, MDM and integrations. - Define IAM/RBAC/PIM and privileged-access requirements. - Review network isolation, encryption, secrets and audit logging. - Lead data-residency and cross-border processing assessment with business/DPO/legal stakeholders. - Support PII/sensitivity classification and data-minimization decisions. - Contribute to DPIA/security architecture reviews and risk treatment. - Validate logging/monitoring and incident-response integration. - Review third-party/product security considerations #### **Must-Have Experience & Skills** - Strong Azure security architecture and IAM experience. - Enterprise data security / privacy experience. - Understanding of GDPR and multi-region data-transfer/residency considerations. - Security risk assessment and architecture review experience. - DPIA methodology and execution exposure. - Ability to work with DPO/legal/security stakeholders. #### **Preferred / Nice-to-Have** - Purview information protection/catalog exposure. - Databricks security/governance. - Relevant security/cloud certifications"
+}, {
   "title" : "Senior UI | UX Engineer (Full Time | On Site)",
   "company" : "Treinetic (Pvt) Ltd",
   "level" : "Senior",
@@ -275,7 +284,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/520044",
   "datePosted" : [ 2026, 11, 2, 13, 27, 20 ],
-  "scrapedDate" : [ 2026, 11, 8 ],
+  "scrapedDate" : [ 2026, 11, 9 ],
   "description" : "### **B.Sc. Engineering or Computer Science Undergraduate/Enthusiast** ### **Who We're Looking For:** We are seeking passionate and motivated individuals with the following skills and qualities: - Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.**Tech Stack Expertise** - Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.**Problem-Solving Prowess** - Hands-on experience in web-based application development and architecture.**Web Development Knowledge** - Clear and effective communication skills to collaborate within and beyond the team.**Exceptional Communication** - Experience contributing to and collaborating on open-source projects is a bonus!**Open Source Enthusiast** #### **Why Join Us?** - Fast-track your career with opportunities to step into leadership roles.**Accelerated Career Growth** - Competitive compensation and inspiring work environments.**Attractive Perks** - Be part of a unique, team-focused organization that values your growth and well-being.**Employee-Centric Culture** - Work on cutting-edge technologies and continuously expand your skills through innovation and creativity.**Innovation at Its Core** Join us to shape the future of technology and grow alongside a team that values your contributions! \uD83C\uDF1F"
 }, {
   "title" : "Cloud Engineer - UAE (1)",
@@ -437,7 +446,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/520009",
   "datePosted" : [ 2026, 10, 28, 12, 58, 3 ],
-  "scrapedDate" : [ 2026, 11, 8 ],
+  "scrapedDate" : [ 2026, 11, 9 ],
   "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday (Weekdays) - Working Hours: Semi-aligned with AEST - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi-aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 2+ years experience building full stack applications using React, Next.js, Node.js and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Experience with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG). - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
 }, {
   "title" : "Junior Executive - Database Administrator (1)",
@@ -608,15 +617,6 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/519977",
   "datePosted" : [ 2026, 10, 26, 7, 32, 43 ],
-  "scrapedDate" : [ 2026, 11, 8 ],
+  "scrapedDate" : [ 2026, 11, 9 ],
   "description" : "### THE JOB - Design, develop, and maintain Laravel microservices and scalable APIs. - Build and manage e-commerce integrations with Shopify, WooCommerce, Magento, and other platforms. - Develop reliable synchronization processes for products, inventory, orders, and customer data. - Optimize database performance using MySQL/PostgreSQL and Redis caching. - Manage Docker deployments, CI/CD pipelines, and AWS/GCP cloud environments. - Ensure system reliability through monitoring, troubleshooting, code reviews, and technical mentoring. ### THE PERSON - Bachelor's Degree in Computer Science, Software Engineering, or equivalent practical experience. - Minimum 5 years of software engineering experience, including 3 years in PHP and Laravel. - Strong experience in microservices architecture, REST/GraphQL APIs, OAuth 2.0, and webhooks. - Proven experience integrating Shopify, WooCommerce, and other e-commerce platforms. - Proficiency in MySQL/PostgreSQL, Docker, CI/CD, and AWS/GCP. - Experience in automated testing, problem-solving, and mentoring development teams. - Excellent communication skills and ability to work collaboratively."
-}, {
-  "title" : "Full - Stack Engineer - Java & React",
-  "company" : "Acentura Pvt Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000494&jc=0001563744&ec=0000000666",
-  "datePosted" : [ 2026, 10, 25, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 6 ],
-  "description" : "Full - Stack Engineer - Java & React"
 } ]

@@ -16,9 +16,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 10,3:04 AM (Just now)  | **Total Jobs Found:** 69
+> 🟢 **Last Updated:** November 10,7:12 PM (Just now)  | **Total Jobs Found:** 63
 
-### 🎓 Internships & Trainees  (6)
+### 🎓 Internships & Trainees  (5)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,15 +27,14 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Intern - Content Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566107&ec=DEFZZZ) | Zuse Technologies (Pvt) Ltd | Intern | 11&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Technical Data Processing Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566022&ec=DEFZZZ) | North Sails Sri Lanka | Intern | 11&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern - Internal Development (2)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001565148&ec=0000000410) | Deloitte | Intern | 13&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Software Engineering Intern](https://itpro.lk/job/15582/software-engineering-intern-at-infora-tech/) | Infora Tech | Intern | 15&nbsp;days&nbsp;ago | ITPro.lk |
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (40)
+### 💻 Associate & Junior/SE Roles  (38)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Security and Compliance Specialist](https://rooster.jobs/jobs/520086) | Nextjob | Junior/SE | 16&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Security and Compliance Specialist](https://rooster.jobs/jobs/520086) | Nextjob | Junior/SE | Yesterday | Rooster.jobs |
 | [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565563&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566171&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 4&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -73,12 +72,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Information Security Analyst (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [SEO Specialist - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ) | Farhat Office & Co. LLC | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [AI \| ML Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ) | SLIIT Non-Academic | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Full Stack Developer - Trainee](https://itpro.lk/job/14928/full-stack-developer-trainee-at-enhanzer/) | Enhanzer | Associate | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Shopify Developer (with Word Press Experience) (Remote)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563895&ec=DEFZZZ) | Asiawise Lanka (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
-### 🚀 Senior & Lead Roles  (23)
+### 🚀 Senior & Lead Roles  (20)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,9 +99,6 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Android Tech Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565293&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Senior | 12&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior WordPress Developer - Experienced in AI (UAE Based)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ) | Farhat Office & Co. LLC | Senior | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior System Engineer (MSP)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ) | Paragon IT | Senior | 14&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Lead Automation Engineer – Business Process Automation](https://itpro.lk/job/15586/lead-automation-engineer-business-process-automation-at-nable/) | N-able | Senior | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Senior Quality Engineer (Automation)](https://itpro.lk/job/14642/senior-quality-engineer-automation-at-verdentra/) | Verdentra | Senior | 15&nbsp;days&nbsp;ago | ITPro.lk |
-| [Senior Software Engineer (Laravel  & Integrations )](https://rooster.jobs/jobs/519977) | ESOFT UNI | Senior | 15&nbsp;days&nbsp;ago | Rooster.jobs |
 
 ---
 

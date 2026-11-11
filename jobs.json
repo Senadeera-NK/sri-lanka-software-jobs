@@ -1,11 +1,20 @@
 [ {
+  "title" : "Backend Technical Lead (Node/TypeScript) - REF8600",
+  "company" : "Creative Software",
+  "level" : "Senior",
+  "source" : "Rooster.jobs",
+  "link" : "https://rooster.jobs/jobs/520096",
+  "datePosted" : [ 2026, 11, 11, 4, 52, 9 ],
+  "scrapedDate" : [ 2026, 11, 11 ],
+  "description" : "**About Creative Software:** Founded in 1999, Creative Software is a global technology enabler and pioneer in Sri Lanka’s tech industry. We manage teams of high-performing, dedicated software engineers for our global clientele, providing them with end-to-end software development and maintenance services through team augmentation. **Experience:** 10+ years of experience in backend development for enterprise-level products and applications. **About the Role:** Our client is a UK-based event technology company that designs, develops, and hosts websites for exhibitions, trade shows, conferences, and other events. Their platforms power high-profile events and are built to perform reliably at scale. We are seeking a skilled and experienced Lead Backend Developer to join our development team. You will design, develop, and maintain scalable backend systems and RESTful APIs, with a strong grasp of server-side logic, database integration, and modern backend frameworks. As a key member of the backend team, you will work closely with Frontend Developers, DevOps Engineers, and Product Managers to deliver robust, high-performance applications. Strong expertise in Node.js, TypeScript, database integration, and cloud services is essential, along with the ability to mentor developers and contribute to long-term technical strategy. **What You Will Be Doing:** - Partner with our technical lead to analyze and understand the existing backend architecture of the product, taking ownership of its architectural evolution, and helping to drive modernization into a scalable, secure, high-performance microservices-based architecture. - Own technical implementation, making high-level architectural decisions, and define strategies for long-term system scalability. - Conduct code reviews, promote clean and maintainable code, and mentor junior and mid-level developers. - Collaborate with Product Managers, Quality Assurance engineers, Developers, and consultants to translate business requirements into effective technical solutions and implementation plans. - Deliver assigned tasks on time and to agreed standards, while supporting other team members. - Troubleshoot and resolve complex technical issues and escalated incidents, identifying root causes and implementing effective fixes. - Research emerging technologies, evaluate new tools and approaches, and recommend innovations that improve software quality, performance, and scalability. - Continuously develop your technical knowledge and contribute ideas that support the adoption of suitable technologies across the organization. - Communicate technical concepts clearly to both technical and non-technical stakeholders. **What We're Looking For:** - B.Sc. degree in Computer Science, IT, Engineering, or a related discipline - Overall, 10+ years of experience as a Backend Developer, with a minimum of 5 years in the capacity of a Lead Backend Developer. - Strong proficiency in Node.js, TypeScript, or JavaScript (ES6+) - Solid understanding of Node.js internals: the event loop, non-blocking I/O, streams, clustering, and worker threads. - Hands-on experience with Node.js frameworks such as NestJS, Express.js, Fastify, Hono or Koa.js, and package managers such as npm, pnpm and Yarn. - Strong knowledge of data structures, algorithms, software design principles, and design patterns. - Experience designing, developing and consuming RESTful APIs, GraphQL services and real-time applications using WebSockets. - Experience with microservices, distributed systems, event-driven architectures, and messaging platforms such as Kafka and RabbitMQ. - Experience with relational and NoSQL databases, data modelling, indexing, and query optimization. - Experience with caching mechanisms such as Redis. - Familiarity with cloud platforms (AWS, Azure, GCP), Docker, Kubernetes, and CI/CD pipelines. - Experience with logging frameworks, monitoring, distributed tracing, and observability tools, including Prometheus, Grafana, and Loki. - Experience writing unit tests with Jest or Mocha and integration and/or contract tests, as well as using code quality tools such as SonarQube or Codescene, and managing code with Git. - Understanding application security, including OAuth 2.0, JWT, RBAC, data encryption and the OWASP Top 10. - Proven ability to mentor and influence technical direction within a team. - Strong problem-solving skills and a proactive approach to staying current with Node.js technologies, frameworks and practices. - Excellent communication skills across technical and non-technical audiences. **What We Offer:** Our careers offer a flexible working environment, attractive remuneration, and opportunities to travel overseas and work alongside brilliant minds. You will be amongst peers at the top of their game, allowing you to sharpen your skills in an inclusive culture. We offer a variety of spaces that support their work-life balance and integrate wellness into our workplace experience, which includes a recreation zone and gym."
+}, {
   "title" : "Security and Compliance Specialist",
   "company" : "Nextjob",
   "level" : "Junior/SE",
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/520086",
   "datePosted" : [ 2026, 11, 9, 10, 11, 50 ],
-  "scrapedDate" : [ 2026, 11, 10 ],
+  "scrapedDate" : [ 2026, 11, 11 ],
   "description" : "#### **The Company** We are an award-winning software product engineering company that has delivered bespoke web, enterprise, mobile, and cloud solutions to clients around the world for over 25 years. The company has recently expanded into AI-driven innovation, offering AI development, consulting and implementation, data engineering and master data management, and cloud architecture alongside its core software development services. We are a Microsoft Silver Partner and AWS partner, ISO certified, and a SLASSCOM member, and in 2025 won gold at every major national technology award ceremony in Sri Lanka. With long-standing partnerships spanning 5 to 15+ years with global clients across healthcare, logistics, and enterprise software, we combine deep technical expertise with a client-first approach — helping start-ups and enterprises alike scale through digital transformation. The company prides itself on dedication, continuous improvement, and adaptability, building teams and solutions that grow and evolve alongside its clients' changing needs. #### **Role Overview** Ensure the data/MDM solution is designed and delivered with appropriate security, privacy, audit and cross-border/residency controls. #### **Employment Details** - Employment Type: Part Time External Consultancy - Work Arrangement: Hybrid - Working Hours: 4 Hours - Experience: Minimum 7+ years - Salary: LKR 400,000 per month - Communication: Strong English communication skills, both written and verbal (minimum 8/10 proficiency) #### **Key Responsibilities** - Assess security/privacy requirements for source, Lakehouse, MDM and integrations. - Define IAM/RBAC/PIM and privileged-access requirements. - Review network isolation, encryption, secrets and audit logging. - Lead data-residency and cross-border processing assessment with business/DPO/legal stakeholders. - Support PII/sensitivity classification and data-minimization decisions. - Contribute to DPIA/security architecture reviews and risk treatment. - Validate logging/monitoring and incident-response integration. - Review third-party/product security considerations #### **Must-Have Experience & Skills** - Strong Azure security architecture and IAM experience. - Enterprise data security / privacy experience. - Understanding of GDPR and multi-region data-transfer/residency considerations. - Security risk assessment and architecture review experience. - DPIA methodology and execution exposure. - Ability to work with DPO/legal/security stakeholders. #### **Preferred / Nice-to-Have** - Purview information protection/catalog exposure. - Databricks security/governance. - Relevant security/cloud certifications"
 }, {
   "title" : "Senior UI | UX Engineer (Full Time | On Site)",
@@ -284,7 +293,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/520044",
   "datePosted" : [ 2026, 11, 2, 13, 27, 20 ],
-  "scrapedDate" : [ 2026, 11, 10 ],
+  "scrapedDate" : [ 2026, 11, 11 ],
   "description" : "### **B.Sc. Engineering or Computer Science Undergraduate/Enthusiast** ### **Who We're Looking For:** We are seeking passionate and motivated individuals with the following skills and qualities: - Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.**Tech Stack Expertise** - Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.**Problem-Solving Prowess** - Hands-on experience in web-based application development and architecture.**Web Development Knowledge** - Clear and effective communication skills to collaborate within and beyond the team.**Exceptional Communication** - Experience contributing to and collaborating on open-source projects is a bonus!**Open Source Enthusiast** #### **Why Join Us?** - Fast-track your career with opportunities to step into leadership roles.**Accelerated Career Growth** - Competitive compensation and inspiring work environments.**Attractive Perks** - Be part of a unique, team-focused organization that values your growth and well-being.**Employee-Centric Culture** - Work on cutting-edge technologies and continuously expand your skills through innovation and creativity.**Innovation at Its Core** Join us to shape the future of technology and grow alongside a team that values your contributions! \uD83C\uDF1F"
 }, {
   "title" : "Cloud Engineer - UAE (1)",
@@ -446,7 +455,7 @@
   "source" : "Rooster.jobs",
   "link" : "https://rooster.jobs/jobs/520009",
   "datePosted" : [ 2026, 10, 28, 12, 58, 3 ],
-  "scrapedDate" : [ 2026, 11, 10 ],
+  "scrapedDate" : [ 2026, 11, 11 ],
   "description" : "#### **The Company** We help Australian and US businesses hire high calibre remote talent from Sri Lanka. We are a boutique talent partner that works with a limited number of clients and a highly selective pool of talent. Rather than focusing on volume, we focus on quality and long term partnerships. We build dedicated teams across Finance, Technology and Operations, allowing businesses to scale with exceptional talent at a fraction of local hiring costs. Our consultants work as an extension of your team while we handle recruitment, HR, payroll and compliance. #### **Employment Details** - Employment Type: Long-term Contract - Work Arrangement: Fully Remote / Work from Home - Working Days: Monday to Friday (Weekdays) - Working Hours: Semi-aligned with AEST - Communication: Good English communication skills, both written and verbal #### **The Role** We are looking for a Full Stack Software Engineer to join an Australian client. This is a full-time role, 40 hours per week, and semi-aligned to the Australian time zone. #### **Requirements** - Bachelor’s degree in Computer Science, Software Engineering, or a related field. - 2+ years experience building full stack applications using React, Next.js, Node.js and TypeScript. - Experience working with Large Language Models (LLMs) such as OpenAI, Anthropic, Gemini, or similar AI platforms. - Experience building AI powered applications, chatbots, AI agents, automations, or workflow solutions. - Experience working with PostgreSQL, MySQL, MongoDB, or similar databases. - Understanding of REST APIs, webhooks, third party integrations, and modern software architecture. - Experience with cloud platforms such as AWS, GCP, Vercel, Railway, or similar. - Experience with prompt engineering, AI model integrations, and Retrieval Augmented Generation (RAG). - Strong English communication skills. #### **Responsibilities** - Design, develop, and maintain AI-powered web applications. - Build scalable frontend applications using React and Next.js. - Develop backend services, APIs, and integrations using Node.js and TypeScript. - Integrate AI models and services into production applications. - Build AI agents, automation workflows, chat interfaces, and intelligent business tools. - Design and optimize databases, application performance, and system architecture. - Collaborate with international teams, stakeholders, and product managers. - Follow best practices in software development, testing, security, and documentation. - Deliver high quality work within timelines with minimal supervision."
 }, {
   "title" : "Junior Executive - Database Administrator (1)",
@@ -493,76 +502,4 @@
   "datePosted" : [ 2026, 10, 28, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 6 ],
   "description" : "Intern - Internal Development (2)"
-}, {
-  "title" : "Software Engineer",
-  "company" : "Asia Securities",
-  "level" : "Junior/SE",
-  "source" : "ITPro.lk",
-  "link" : "https://itpro.lk/job/15602/software-engineer-at-asia-securities/",
-  "datePosted" : [ 2026, 10, 27, 16, 40, 30 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "With an award-winning legacy of 35+ years, Asia Securities is the destination of choice for individuals seeking career acceleration. We are looking for IT professionals skilled in .NET Core | Next.js / React | TypeScript | PostgreSQL | Redis | Git/GitHub | Azure/AWS to build connected internal platforms. Software Engineer Develop applications and integrations Solve technical challenges Contribute to shared engineering standards Requirements: 2+ years of practical software development experience, problem-solving skills, and a commitment to quality. This is your opportunity to work with a modern tech stack and accelerate your career in fintech engineering."
-}, {
-  "title" : "SQL Database Administrator (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533299&ec=0000000350",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "SQL Database Administrator (1)"
-}, {
-  "title" : "Data Platform Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001533297&ec=0000000350",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Data Platform Engineer (1)"
-}, {
-  "title" : "Information Security Analyst (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001532706&ec=0000000350",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 10, 28 ],
-  "description" : "Information Security Analyst (1)"
-}, {
-  "title" : "Senior WordPress Developer - Experienced in AI (UAE Based)",
-  "company" : "Farhat Office & Co. LLC",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561678&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 3 ],
-  "description" : "Senior WordPress Developer - Experienced in AI (UAE Based)"
-}, {
-  "title" : "SEO Specialist - Experienced in AI (UAE Based)",
-  "company" : "Farhat Office & Co. LLC",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001561683&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 3 ],
-  "description" : "SEO Specialist - Experienced in AI (UAE Based)"
-}, {
-  "title" : "AI | ML Engineer",
-  "company" : "SLIIT Non-Academic",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564649&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 27, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 6 ],
-  "description" : "AI | ML Engineer"
-}, {
-  "title" : "Senior System Engineer (MSP)",
-  "company" : "Paragon IT",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001559064&ec=DEFZZZ",
-  "datePosted" : [ 2026, 10, 27, 0, 0 ],
-  "scrapedDate" : [ 2026, 10, 27 ],
-  "description" : "Senior System Engineer (MSP)"
 } ]

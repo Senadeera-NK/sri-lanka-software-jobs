@@ -16,9 +16,9 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 12,12:20 AM (Just now)  | **Total Jobs Found:** 56
+> 🟢 **Last Updated:** November 12,7:26 PM (Just now)  | **Total Jobs Found:** 50
 
-### 🎓 Internships & Trainees  (5)
+### 🎓 Internships & Trainees  (4)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,11 +26,10 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [QA Interns](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566545&ec=DEFZZZ) | Fetchseed (Pvt) Ltd | Intern | 10&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Intern - Content Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566107&ec=DEFZZZ) | Zuse Technologies (Pvt) Ltd | Intern | 13&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Technical Data Processing Intern](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566022&ec=DEFZZZ) | North Sails Sri Lanka | Intern | 13&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Intern - Internal Development (2)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000311&jc=0001565148&ec=0000000410) | Deloitte | Intern | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (32)
+### 💻 Associate & Junior/SE Roles  (27)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
@@ -61,11 +60,6 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Sharepoint Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565581&ec=DEFZZZ) | Global Sports Lanka (Pvt) Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [DevOps Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001565503&ec=DEFZZZ) | InSync Technologies | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Full Stack Web Developer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001560042&ec=DEFZZZ) | XERO Lanka Pvt Ltd | Junior/SE | 14&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Full Stack AI Engineer (React/Node/TypeScript/LLMs)](https://rooster.jobs/jobs/520009) | Nextjob | Junior/SE | 15&nbsp;days&nbsp;ago | Rooster.jobs |
-| [Junior Executive - Database Administrator (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000062&jc=0001565071&ec=0000000714) | Softlogic Finance PLC | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Cloud Engineer - UAE](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564967&ec=DEFZZZ) | SevenX Lanka (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Security Architect (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000419&jc=0001564863&ec=0000000552) | Micronet Global Services (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Associate Cyber Security Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001564720&ec=DEFZZZ) | MintHRM | Associate | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
@@ -73,7 +67,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Backend Technical Lead (Node/TypeScript) - REF8600](https://rooster.jobs/jobs/520096) | Creative Software | Senior | 19&nbsp;hours&nbsp;ago | Rooster.jobs |
+| [Backend Technical Lead (Node/TypeScript) - REF8600](https://rooster.jobs/jobs/520096) | Creative Software | Senior | Yesterday | Rooster.jobs |
 | [Senior UI \| UX Engineer (Full Time \| On Site)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001563256&ec=DEFZZZ) | Treinetic (Pvt) Ltd | Senior | 6&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Teach Lead - Machine Learning (ML)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ) | ORYSYS Limited | Senior | 6&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566135&ec=DEFZZZ) | ORYSYS Limited | Senior | 6&nbsp;days&nbsp;ago | TopJobs.lk |

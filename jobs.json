@@ -1,4 +1,85 @@
 [ {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "Senior Application Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Senior Application Security Engineer (1)"
+}, {
+  "title" : "E-Commerce Executive | System Implementation Engineer",
+  "company" : "Dipro IT",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570753&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "E-Commerce Executive | System Implementation Engineer"
+}, {
+  "title" : "Backend Software Engineer",
+  "company" : "Hexacorp SL (Private) Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571048&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Backend Software Engineer"
+}, {
+  "title" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)",
+  "company" : "H Connect International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571280&ec=0000000445",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)"
+}, {
+  "title" : "Senior Full Stack Software Engineer",
+  "company" : "XPAND",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571133&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Senior Full Stack Software Engineer"
+}, {
+  "title" : "Document and Quality Controller (Contract Basis)",
+  "company" : "BOC IT Solutions (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570976&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Document and Quality Controller (Contract Basis)"
+}, {
+  "title" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)",
+  "company" : "H Connect International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571296&ec=0000000445",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)"
+}, {
+  "title" : "Automation Engineer (AUS Calendar - AUS Shift) (1)",
+  "company" : "H Connect International (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571285&ec=0000000445",
+  "datePosted" : [ 2026, 11, 13, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 13 ],
+  "description" : "Automation Engineer (AUS Calendar - AUS Shift) (1)"
+}, {
   "title" : "Teach Lead - Machine Learning (ML)",
   "company" : "ORYSYS Limited",
   "level" : "Senior",
@@ -43,69 +124,6 @@
   "datePosted" : [ 2026, 11, 13, 0, 0 ],
   "scrapedDate" : [ 2026, 11, 13 ],
   "description" : "Data Engineer"
-}, {
-  "title" : "Information Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Information Security Engineer (1)"
-}, {
-  "title" : "Senior Application Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Senior Application Security Engineer (1)"
-}, {
-  "title" : "E-Commerce Executive | System Implementation Engineer",
-  "company" : "Dipro IT",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570753&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "E-Commerce Executive | System Implementation Engineer"
-}, {
-  "title" : "Backend Software Engineer",
-  "company" : "Hexacorp SL (Private) Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571048&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Backend Software Engineer"
-}, {
-  "title" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)",
-  "company" : "H Connect International (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571280&ec=0000000445",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)"
-}, {
-  "title" : "Senior Full Stack Software Engineer",
-  "company" : "XPAND",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571133&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Senior Full Stack Software Engineer"
-}, {
-  "title" : "Document and Quality Controller (Contract Basis)",
-  "company" : "BOC IT Solutions (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570976&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 13, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Document and Quality Controller (Contract Basis)"
 }, {
   "title" : "DevOps & Infrastructure Specialist - Colombo 3",
   "company" : "XPAND",
@@ -331,24 +349,6 @@
   "datePosted" : [ 2026, 11, 6, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 13 ],
   "description" : "Trainee Software Engineer"
-}, {
-  "title" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)",
-  "company" : "H Connect International (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001568537&ec=0000000445",
-  "datePosted" : [ 2026, 11, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)"
-}, {
-  "title" : "Automation Engineer (AUS Calendar - AUS Shift) (1)",
-  "company" : "H Connect International (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001568533&ec=0000000445",
-  "datePosted" : [ 2026, 11, 6, 12, 0 ],
-  "scrapedDate" : [ 2026, 11, 13 ],
-  "description" : "Automation Engineer (AUS Calendar - AUS Shift) (1)"
 }, {
   "title" : "Software Engineer / Senior Software Engineer (1)",
   "company" : "Informatics Group of Companies",

@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 14,5:55 PM (Just now)  | **Total Jobs Found:** 63
+> 🟢 **Last Updated:** November 14,10:45 PM (Just now)  | **Total Jobs Found:** 63
 
 ### 🎓 Internships & Trainees  (7)
 
@@ -36,7 +36,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [E-Commerce Executive \| System Implementation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570753&ec=DEFZZZ) | Dipro IT | Junior/SE | 17&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [E-Commerce Executive \| System Implementation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570753&ec=DEFZZZ) | Dipro IT | Junior/SE | 22&nbsp;hours&nbsp;ago | TopJobs.lk |
 | [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
 | [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571048&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | Yesterday | TopJobs.lk |
 | [Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571280&ec=0000000445) | H Connect International (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |

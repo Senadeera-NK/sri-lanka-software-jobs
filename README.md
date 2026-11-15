@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 15,6:24 PM (Just now)  | **Total Jobs Found:** 63
+> 🟢 **Last Updated:** November 15,11:25 PM (Just now)  | **Total Jobs Found:** 63
 
 ### 🎓 Internships & Trainees  (7)
 

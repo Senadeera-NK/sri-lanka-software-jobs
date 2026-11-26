@@ -4,7 +4,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571805&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 26 ],
   "description" : "QA Engineer"
 }, {
@@ -13,7 +13,7 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572349&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 26 ],
   "description" : "Software Developer - AI & Business Automation"
 }, {
@@ -22,9 +22,108 @@
   "level" : "Junior/SE",
   "source" : "TopJobs.lk",
   "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572536&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
   "scrapedDate" : [ 2026, 11, 26 ],
   "description" : "Data Engineer"
+}, {
+  "title" : "Tech Lead - AI",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572539&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Tech Lead - AI"
+}, {
+  "title" : "Senior Data Engineer",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572537&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Senior Data Engineer"
+}, {
+  "title" : "Java Engineer (VA Fixing)",
+  "company" : "ORYSYS Limited",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Java Engineer (VA Fixing)"
+}, {
+  "title" : "Senior Java Engineer (VA Fixing)",
+  "company" : "ORYSYS Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573194&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Senior Java Engineer (VA Fixing)"
+}, {
+  "title" : "Information Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Information Security Engineer (1)"
+}, {
+  "title" : "Senior Application Security Engineer (1)",
+  "company" : "CMS (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Senior Application Security Engineer (1)"
+}, {
+  "title" : "Android Tech Lead",
+  "company" : "Fortunaglobal (Pvt) Limited",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573395&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Android Tech Lead"
+}, {
+  "title" : "Intern - Data Science & Analytics (1)",
+  "company" : "MAS Holdings",
+  "level" : "Intern",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000094&jc=0001575941&ec=0000000111",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Intern - Data Science & Analytics (1)"
+}, {
+  "title" : "Mobile App Publishing & Release Specialist (iOS & Android) | Full Stack Developer | Mobile App Developer",
+  "company" : "360 Dominance",
+  "level" : "Junior/SE",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575900&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Mobile App Publishing & Release Specialist (iOS & Android) | Full Stack Developer | Mobile App Developer"
+}, {
+  "title" : "Trainee - Data Analytics",
+  "company" : "Credit Information Bureau of Sri Lanka",
+  "level" : "Associate",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575715&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Trainee - Data Analytics"
+}, {
+  "title" : "Senior QA Engineer",
+  "company" : "Ateam Software (Pvt) Ltd",
+  "level" : "Senior",
+  "source" : "TopJobs.lk",
+  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001574198&ec=DEFZZZ",
+  "datePosted" : [ 2026, 11, 26, 12, 0 ],
+  "scrapedDate" : [ 2026, 11, 26 ],
+  "description" : "Senior QA Engineer"
 }, {
   "title" : "E-Commerce Executive | System Implementation Engineer",
   "company" : "Dipro IT",
@@ -35,42 +134,6 @@
   "scrapedDate" : [ 2026, 11, 26 ],
   "description" : "E-Commerce Executive | System Implementation Engineer"
 }, {
-  "title" : "Tech Lead - AI",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572539&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Tech Lead - AI"
-}, {
-  "title" : "Senior Data Engineer",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572537&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Senior Data Engineer"
-}, {
-  "title" : "Java Engineer (VA Fixing)",
-  "company" : "ORYSYS Limited",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Java Engineer (VA Fixing)"
-}, {
-  "title" : "Senior Java Engineer (VA Fixing)",
-  "company" : "ORYSYS Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573194&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Senior Java Engineer (VA Fixing)"
-}, {
   "title" : "Senior QA Engineer",
   "company" : "Company Name Withheld",
   "level" : "Senior",
@@ -79,60 +142,6 @@
   "datePosted" : [ 2026, 11, 26, 0, 0 ],
   "scrapedDate" : [ 2026, 11, 26 ],
   "description" : "Senior QA Engineer"
-}, {
-  "title" : "Information Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Information Security Engineer (1)"
-}, {
-  "title" : "Senior Application Security Engineer (1)",
-  "company" : "CMS (Pvt) Ltd",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Senior Application Security Engineer (1)"
-}, {
-  "title" : "Android Tech Lead",
-  "company" : "Fortunaglobal (Pvt) Limited",
-  "level" : "Senior",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573395&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Android Tech Lead"
-}, {
-  "title" : "Intern - Data Science & Analytics (1)",
-  "company" : "MAS Holdings",
-  "level" : "Intern",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000094&jc=0001575941&ec=0000000111",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Intern - Data Science & Analytics (1)"
-}, {
-  "title" : "Mobile App Publishing & Release Specialist (iOS & Android) | Full Stack Developer | Mobile App Developer",
-  "company" : "360 Dominance",
-  "level" : "Junior/SE",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575900&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Mobile App Publishing & Release Specialist (iOS & Android) | Full Stack Developer | Mobile App Developer"
-}, {
-  "title" : "Trainee - Data Analytics",
-  "company" : "Credit Information Bureau of Sri Lanka",
-  "level" : "Associate",
-  "source" : "TopJobs.lk",
-  "link" : "https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575715&ec=DEFZZZ",
-  "datePosted" : [ 2026, 11, 26, 0, 0 ],
-  "scrapedDate" : [ 2026, 11, 26 ],
-  "description" : "Trainee - Data Analytics"
 }, {
   "title" : "AI Content Creator",
   "company" : "Kiddies and Toys International (Pvt) Ltd",

@@ -16,7 +16,7 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 *Click the link above to see real-time trends, seniority distribution, and top hiring companies.*
 
 ## 📊 Current Job Openings
-> 🟢 **Last Updated:** November 28,1:40 AM (Just now)  | **Total Jobs Found:** 106
+> 🟢 **Last Updated:** November 28,7:57 PM (Just now)  | **Total Jobs Found:** 98
 
 ### 🎓 Internships & Trainees  (5)
 
@@ -30,16 +30,16 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 
 ---
 
-### 💻 Associate & Junior/SE Roles  (61)
+### 💻 Associate & Junior/SE Roles  (56)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571805&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Developer - AI & Business Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572349&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572536&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Java Engineer (VA Fixing)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Software Engineer / Associate Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001576421&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571805&ec=DEFZZZ) | InEight Sri Lanka | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Software Developer - AI & Business Automation](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572349&ec=DEFZZZ) | Company Name Withheld | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572536&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Java Engineer (VA Fixing)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573209&ec=DEFZZZ) | ORYSYS Limited | Junior/SE | Yesterday | TopJobs.lk |
+| [Information Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001539697&ec=0000000350) | CMS (Pvt) Ltd | Junior/SE | Yesterday | TopJobs.lk |
+| [Software Engineer / Associate Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001576421&ec=DEFZZZ) | Afisol (Pvt) Ltd | Associate | Yesterday | TopJobs.lk |
 | [Mobile App Publishing & Release Specialist (iOS & Android) \...](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575900&ec=DEFZZZ) | 360 Dominance | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Trainee - Data Analytics](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575715&ec=DEFZZZ) | Credit Information Bureau of Sri Lanka | Associate | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [E-Commerce Executive \| System Implementation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570753&ec=DEFZZZ) | Dipro IT | Junior/SE | 2&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -90,23 +90,18 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Document and Quality Controller (Contract Basis)](https://xpress.jobs/jobs/view/352628) | BOC Management and Support Services (Pvt) Ltd., | Junior/SE | 11&nbsp;days&nbsp;ago | XpressJobs |
 | [AI & Automation Associate](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571868&ec=DEFZZZ) | Beyond EQT Real Estate Development Ltd | Associate | 12&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Quality Assurance Trainee](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571766&ec=DEFZZZ) | Inqbaytor Pte Ltd | Associate | 12&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Backend Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571048&ec=DEFZZZ) | Hexacorp SL (Private) Limited | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Platform & Integration Engineer (AUS Calendar - AUS Shift) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571280&ec=0000000445) | H Connect International (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Document and Quality Controller (Contract Basis)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001570976&ec=DEFZZZ) | BOC IT Solutions (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Data & Analytics Engineer (AUS Calendar - AUS Shift) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571296&ec=0000000445) | H Connect International (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Automation Engineer (AUS Calendar - AUS Shift) (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000064&jc=0001571285&ec=0000000445) | H Connect International (Pvt) Ltd | Junior/SE | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
-### 🚀 Senior & Lead Roles  (40)
+### 🚀 Senior & Lead Roles  (37)
 
 | Title | Company | Level  | Posted | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572539&ec=DEFZZZ) | ORYSYS Limited | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572537&ec=DEFZZZ) | ORYSYS Limited | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Java Engineer (VA Fixing)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573194&ec=DEFZZZ) | ORYSYS Limited | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
-| [Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001574198&ec=DEFZZZ) | Ateam Software (Pvt) Ltd | Senior | 13&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Tech Lead - AI](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572539&ec=DEFZZZ) | ORYSYS Limited | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Data Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001572537&ec=DEFZZZ) | ORYSYS Limited | Senior | 19&nbsp;hours&nbsp;ago | TopJobs.lk |
+| [Senior Java Engineer (VA Fixing)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573194&ec=DEFZZZ) | ORYSYS Limited | Senior | Yesterday | TopJobs.lk |
+| [Senior Application Security Engineer (1)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=0000000271&jc=0001562903&ec=0000000350) | CMS (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
+| [Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001574198&ec=DEFZZZ) | Ateam Software (Pvt) Ltd | Senior | Yesterday | TopJobs.lk |
 | [Android Tech Lead](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001573395&ec=DEFZZZ) | Fortunaglobal (Pvt) Limited | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior QA Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001574198&ec=DEFZZZ) | Company Name Withheld | Senior | 2&nbsp;days&nbsp;ago | TopJobs.lk |
 | [Senior QA Automation Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001575275&ec=DEFZZZ) | MintHRM | Senior | 3&nbsp;days&nbsp;ago | TopJobs.lk |
@@ -139,9 +134,6 @@ Automated Software Engineering Job Tracker for Sri Lanka. Scrapes and categorize
 | [Senior Administrator - Azure DevOps & Terraform \| Hybrid](https://xpress.jobs/jobs/view/352862) | HCL Technologies Lanka (Private) Limited | Senior | 11&nbsp;days&nbsp;ago | XpressJobs |
 | [Senior Analyst – IAM Access Management Engineer](https://xpress.jobs/jobs/view/352864) | HCL Technologies Lanka (Private) Limited | Senior | 11&nbsp;days&nbsp;ago | XpressJobs |
 | [Senior Administrator – Azure, Cloud Security & Palo Alto Firewall](https://xpress.jobs/jobs/view/352867) | HCL Technologies Lanka (Private) Limited | Senior | 11&nbsp;days&nbsp;ago | XpressJobs |
-| [Senior Full Stack Software Engineer](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001571133&ec=DEFZZZ) | XPAND | Senior | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Teach Lead - Machine Learning (ML)](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566151&ec=DEFZZZ) | ORYSYS Limited | Senior | 15&nbsp;days&nbsp;ago | TopJobs.lk |
-| [Tech Lead - AI Solutions](https://www.topjobs.lk/employer/JobAdvertismentServlet?ac=DEFZZZ&jc=0001566076&ec=DEFZZZ) | ORYSYS Limited | Senior | 15&nbsp;days&nbsp;ago | TopJobs.lk |
 
 ---
 
